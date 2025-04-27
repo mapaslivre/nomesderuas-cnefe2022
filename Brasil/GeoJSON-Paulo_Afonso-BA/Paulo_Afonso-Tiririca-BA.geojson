@@ -1,0 +1,80 @@
+{
+  "type": "FeatureCollection",
+  "generator": "CSV-CNEFE2GeoJSON.lua 1.5.7 - fidelis.assis@gmail.com",
+  "source": "IBGE CNEFE + Faces de Logradouros - 2022",
+  "date": "2025-02-02T09:05:37-0300",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413452",
+      "addr:housenumber": "6",
+      "addr:postcode": "48619-899",
+      "addr:street": "Caminho Depois do Alto da Espora",
+      "addr:suburb": "Tiririca",
+      "addr:unit": "1 Casa 5",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0115P-0-56"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.250168,-9.532815]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413453",
+      "addr:housenumber": "3",
+      "addr:postcode": "48619-899",
+      "addr:street": "Caminho Depois do Alto da Espora",
+      "addr:suburb": "Tiririca",
+      "addr:unit": "Casa 6",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0115P-0-56"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.249679,-9.53295]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413448",
+      "addr:housenumber": "1",
+      "addr:postcode": "48619-899",
+      "addr:street": "Caminho Depois do Alto da Espora",
+      "addr:suburb": "Tiririca",
+      "addr:unit": "Casa 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0115P-0-56"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.249827,-9.532512]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413451",
+      "addr:housenumber": "3",
+      "addr:postcode": "48619-899",
+      "addr:street": "Caminho Depois do Alto da Espora",
+      "addr:suburb": "Tiririca",
+      "addr:unit": "1 Casa 4",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0115P-0-56"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.249928,-9.53248]
+      }
+    }
+  ]
+}

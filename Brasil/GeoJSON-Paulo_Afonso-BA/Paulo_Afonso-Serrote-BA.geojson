@@ -1,0 +1,1908 @@
+{
+  "type": "FeatureCollection",
+  "source": "IBGE CNEFE + Faces de Logradouros - 2022",
+  "generator": "CSV-CNEFE2GeoJSON.lua 1.5.7 - fidelis.assis@gmail.com",
+  "date": "2025-02-02T09:05:33-0300",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410800",
+      "addr:housenumber": "213",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Serrote",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3824365,-9.5560844]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410681",
+      "addr:housenumber": "27",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada da Várzea",
+      "addr:suburb": "Serrote",
+      "building": "yes",
+      "name": "Associação Produtores",
+      "office": "association"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3861214,-9.5549883]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410810",
+      "addr:housenumber": "5",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Serrote",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3806795,-9.5545554]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410815",
+      "addr:housenumber": "267",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada da Várzea",
+      "addr:suburb": "Serrote",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3806961,-9.5525386]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410773",
+      "addr:housenumber": "100",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Serrote",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 45m 0500-0101P-7-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.381858,-9.560176]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410707",
+      "addr:housenumber": "5",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada da Várzea",
+      "addr:suburb": "Serrote",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3855319,-9.5545449]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410712",
+      "addr:housenumber": "283",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Serrote",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3816407,-9.55107]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410691",
+      "addr:housenumber": "134",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada da Várzea",
+      "addr:suburb": "Serrote",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3849997,-9.5544206]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410734",
+      "addr:housenumber": "12",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Serrote",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3821726,-9.5526898]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410664",
+      "addr:housenumber": "82",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Serrote",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3855063,-9.5589964]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194566110",
+      "addr:housenumber": "140",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Serrote",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3834036,-9.5521952]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410673",
+      "addr:housenumber": "27",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada da Várzea",
+      "addr:suburb": "Serrote",
+      "building": "warehouse",
+      "description": "CNEFE 2022 Depósito"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3899215,-9.5543606]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194566189",
+      "addr:housenumber": "131",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Serrote",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0101P-4-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.379819,-9.55565]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410766",
+      "addr:housenumber": "88",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Serrote",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.381823,-9.5595414]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410688",
+      "addr:housenumber": "181",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Serrote",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3815678,-9.5515346]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194566353",
+      "addr:housenumber": "189",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Serrote",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3813719,-9.5530394]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410663",
+      "addr:housenumber": "56",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Serrote",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3852815,-9.5590416]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410811",
+      "addr:housenumber": "238",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Serrote",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3808883,-9.554349]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410645",
+      "addr:housenumber": "256",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Serrote",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.381115,-9.5543079]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410648",
+      "addr:housenumber": "19",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Serrote",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0101P-8-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3879092,-9.5571529]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410804",
+      "addr:housenumber": "55",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada da Várzea",
+      "addr:suburb": "Serrote",
+      "amenity": "clinic",
+      "building": "yes",
+      "healthcare": "yes",
+      "name": "Posto Saúde"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3818939,-9.5549249]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194566168",
+      "addr:housenumber": "285",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Serrote",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3821092,-9.5512995]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410782",
+      "addr:housenumber": "110",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Serrote",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3812955,-9.5599332]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410680",
+      "addr:housenumber": "8",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada da Várzea",
+      "addr:suburb": "Serrote",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.385797,-9.5546449]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410799",
+      "addr:housenumber": "210",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Serrote",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3823867,-9.556313]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410802",
+      "addr:housenumber": "30",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Serrote Batatinha",
+      "addr:suburb": "Serrote",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3818916,-9.5553032]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410682",
+      "addr:housenumber": "52",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada da Várzea",
+      "addr:suburb": "Serrote",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3862746,-9.5549921]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410725",
+      "addr:housenumber": "13",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada da Várzea",
+      "addr:suburb": "Serrote",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3807066,-9.5514315]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410692",
+      "addr:housenumber": "26",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada da Várzea",
+      "addr:suburb": "Serrote",
+      "building": "warehouse",
+      "description": "CNEFE 2022 Depósito"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3898748,-9.5543687]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194566228",
+      "addr:housenumber": "21",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Serrote",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3784102,-9.5513197]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410667",
+      "addr:housenumber": "23",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada da Várzea",
+      "addr:suburb": "Serrote",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3871336,-9.554655]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410794",
+      "addr:housenumber": "82",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Serrote",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3821776,-9.5578245]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410702",
+      "addr:housenumber": "10",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada da Várzea",
+      "addr:suburb": "Serrote",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3858923,-9.5546808]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410676",
+      "addr:housenumber": "12",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada da Várzea",
+      "addr:suburb": "Serrote",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3860724,-9.5547488]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410693",
+      "addr:housenumber": "154",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Serrote",
+      "addr:unit": "Fundos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3838536,-9.5540074]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410650",
+      "addr:housenumber": "127",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Serrote",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3841197,-9.5594912]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410770",
+      "addr:housenumber": "112",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Serrote",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3814374,-9.5599393]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410813",
+      "addr:housenumber": "16",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada da Várzea",
+      "addr:suburb": "Serrote",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3806958,-9.5526595]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410742",
+      "addr:housenumber": "190",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada da Várzea",
+      "addr:suburb": "Serrote",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3819616,-9.5546643]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194566283",
+      "addr:housenumber": "115",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Serrote Batatinha",
+      "addr:suburb": "Serrote",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3815105,-9.5557564]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194566271",
+      "addr:housenumber": "231",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Serrote",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 41m 0500-0101P-6-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.381811,-9.558458]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412999",
+      "addr:housenumber": "34",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada da Várzea",
+      "addr:suburb": "Serrote",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3901577,-9.5544944]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410675",
+      "addr:housenumber": "3",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada da Várzea",
+      "addr:suburb": "Serrote",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3860076,-9.5547243]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410762",
+      "addr:housenumber": "11285",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Serrote",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3821616,-9.5589225]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410724",
+      "addr:housenumber": "167",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Serrote",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0101P-12-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3814385,-9.5522337]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410721",
+      "addr:housenumber": "18",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Serrote",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3816081,-9.5513105]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410756",
+      "addr:housenumber": "123",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Serrote",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3826459,-9.5557503]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410807",
+      "addr:housenumber": "21",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada da Várzea",
+      "addr:suburb": "Serrote",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3814931,-9.5546353]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410746",
+      "addr:housenumber": "199",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada da Várzea",
+      "addr:suburb": "Serrote",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.382359,-9.5548042]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410705",
+      "addr:housenumber": "136",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada da Várzea",
+      "addr:suburb": "Serrote",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.385415,-9.5545009]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410700",
+      "addr:housenumber": "18",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada da Várzea",
+      "addr:suburb": "Serrote",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.386393,-9.5547825]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410661",
+      "addr:housenumber": "130",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Serrote",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3848673,-9.5594306]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410698",
+      "addr:housenumber": "10",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Serrote",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3828848,-9.5529596]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410788",
+      "addr:housenumber": "229",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Serrote",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3817057,-9.559383]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410706",
+      "addr:housenumber": "195",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada da Várzea",
+      "addr:suburb": "Serrote",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3822597,-9.5543624]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412998",
+      "addr:housenumber": "33",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada da Várzea",
+      "addr:suburb": "Serrote",
+      "addr:unit": "Casa Branca",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3902001,-9.5544705]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194566194",
+      "addr:housenumber": "259",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Serrote",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0101P-4-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.37985,-9.555555]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410741",
+      "addr:housenumber": "183",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada da Várzea",
+      "addr:suburb": "Serrote",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3811153,-9.5531999]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410730",
+      "addr:housenumber": "180",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada da Várzea",
+      "addr:suburb": "Serrote",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3808598,-9.5526001]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410644",
+      "addr:housenumber": "39",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada da Várzea",
+      "addr:suburb": "Serrote",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3874033,-9.5548095]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410726",
+      "addr:housenumber": "177",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada da Várzea",
+      "addr:suburb": "Serrote",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.380704,-9.5511467]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194566159",
+      "addr:housenumber": "196",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada da Várzea",
+      "addr:suburb": "Serrote",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3852545,-9.5544399]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413004",
+      "addr:housenumber": "13",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada da Várzea",
+      "addr:suburb": "Serrote",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0101P-9-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.389717,-9.554544]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410805",
+      "addr:housenumber": "3",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada da Várzea",
+      "addr:suburb": "Serrote",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3822706,-9.5543374]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410759",
+      "addr:housenumber": "77",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Serrote",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3824376,-9.5559939]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413002",
+      "addr:housenumber": "25",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada da Várzea",
+      "addr:suburb": "Serrote",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3898095,-9.5543801]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410672",
+      "addr:housenumber": "18",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada da Várzea",
+      "addr:suburb": "Serrote",
+      "building": "yes",
+      "name": "Borracharia Central",
+      "repair": "yes",
+      "shop": "tyres"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.386413,-9.5547825]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410743",
+      "addr:housenumber": "196",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada da Várzea",
+      "addr:suburb": "Serrote",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3822096,-9.5544768]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410713",
+      "addr:housenumber": "24",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada da Várzea",
+      "addr:suburb": "Serrote",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3895146,-9.5544313]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410778",
+      "addr:housenumber": "107",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Serrote",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 41m 0500-0101P-7-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.381362,-9.560248]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410739",
+      "addr:housenumber": "157",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Serrote",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3821111,-9.5527971]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412996",
+      "addr:housenumber": "1",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada da Várzea",
+      "addr:suburb": "Serrote",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3903041,-9.5543742]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410735",
+      "addr:housenumber": "155",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Serrote",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3822503,-9.5525543]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410771",
+      "addr:housenumber": "96",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Serrote",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 54m 0500-0101P-7-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.382026,-9.560044]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410651",
+      "addr:housenumber": "20",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Serrote",
+      "addr:suburb": "Serrote",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.385092,-9.5593989]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410795",
+      "addr:housenumber": "22",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Serrote",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.382221,-9.5572805]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410704",
+      "addr:housenumber": "142",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Serrote",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3833688,-9.5521016]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410733",
+      "addr:housenumber": "159",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Serrote",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3819348,-9.5529337]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410655",
+      "addr:housenumber": "73",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Serrote",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3856076,-9.5601255]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410703",
+      "addr:housenumber": "136",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Serrote",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3832581,-9.5522473]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410715",
+      "addr:housenumber": "181",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Serrote",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3811857,-9.5509657]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410736",
+      "addr:housenumber": "114",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Serrote",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0101P-12-4"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3820829,-9.552645]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410786",
+      "addr:housenumber": "84",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Serrote",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.381583,-9.5595786]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410760",
+      "addr:housenumber": "120",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Serrote",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.382627,-9.5560908]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194566230",
+      "addr:housenumber": "241",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Serrote Batatinha",
+      "addr:suburb": "Serrote",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.381397,-9.5555824]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410790",
+      "addr:housenumber": "232",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Serrote",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3821468,-9.5582109]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410791",
+      "addr:housenumber": "233",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Serrote",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3821507,-9.5581615]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410781",
+      "addr:housenumber": "108",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Serrote",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3812787,-9.5599308]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194566222",
+      "addr:housenumber": "20",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Serrote",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3791542,-9.5519672]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410711",
+      "addr:housenumber": "176",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Serrote",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3808591,-9.550956]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410783",
+      "addr:housenumber": "212",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Serrote",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3824194,-9.556183]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194566231",
+      "addr:housenumber": "234",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Serrote Batatinha",
+      "addr:suburb": "Serrote",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3818089,-9.555391]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410803",
+      "addr:housenumber": "58",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Serrote Batatinha",
+      "addr:suburb": "Serrote",
+      "addr:unit": "Fundos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.381864,-9.5552532]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410765",
+      "addr:housenumber": "87",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Serrote",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3818015,-9.5595776]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410710",
+      "addr:housenumber": "165",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Serrote",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0101P-12-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3816971,-9.5513694]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410776",
+      "addr:housenumber": "104",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Serrote",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3815171,-9.5599198]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410797",
+      "addr:housenumber": "398",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Serrote",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3823617,-9.556412]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410690",
+      "addr:housenumber": "113",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada da Várzea",
+      "addr:suburb": "Serrote",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3855463,-9.5547805]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410753;27410757",
+      "addr:housenumber": "124",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Serrote",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3826383,-9.5558868]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194566215",
+      "addr:housenumber": "268",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Serrote",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 144m 0500-0101P-4-4"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.379343,-9.553476]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410665",
+      "addr:housenumber": "60",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Serrote",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 53m 0500-0101P-10-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.385745,-9.558508]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413000",
+      "addr:housenumber": "28",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada da Várzea",
+      "addr:suburb": "Serrote",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3900183,-9.5543372]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410723",
+      "addr:housenumber": "87",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Serrote",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3810151,-9.5509606]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410747",
+      "addr:housenumber": "117",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada da Várzea",
+      "addr:suburb": "Serrote",
+      "description": "CNEFE 2022 Antigo Bar",
+      "disused:amenity": "pub",
+      "disused:building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3829204,-9.5548854]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410720",
+      "addr:housenumber": "166",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Serrote",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0101P-12-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3816325,-9.5516694]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410769",
+      "addr:housenumber": "99",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Serrote",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 41m 0500-0101P-7-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.38196,-9.559932]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410649",
+      "addr:housenumber": "20",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Serrote",
+      "addr:unit": "Casa A",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0101P-8-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3877992,-9.5572192]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410643",
+      "addr:housenumber": "80",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Serrote",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3847272,-9.5597756]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410764",
+      "addr:housenumber": "86",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Serrote",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.381832,-9.5595264]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410646",
+      "addr:housenumber": "42",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Serrote",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3870018,-9.5553412]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413001",
+      "addr:housenumber": "38",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada da Várzea",
+      "addr:suburb": "Serrote",
+      "building": "warehouse",
+      "description": "CNEFE 2022 Depósito"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3882026,-9.5547469]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410731",
+      "addr:housenumber": "1",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada da Várzea",
+      "addr:suburb": "Serrote",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0101P-11-5"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.380813,-9.552679]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410779",
+      "addr:housenumber": "103",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Serrote",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 92m 0500-0101P-7-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.381638,-9.560202]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410662",
+      "addr:housenumber": "76",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Serrote",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3852158,-9.5602615]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194566198",
+      "addr:housenumber": "253",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Serrote",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0101P-4-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.379958,-9.555399]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410761;27410777",
+      "addr:housenumber": "105",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Serrote",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3818179,-9.5595501]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194566209",
+      "addr:housenumber": "260",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada da Várzea",
+      "addr:suburb": "Serrote",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3808544,-9.5530287]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410708",
+      "addr:housenumber": "161",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Serrote",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3828425,-9.5527752]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410670",
+      "addr:housenumber": "41",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Serrote",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3870073,-9.5553488]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410775",
+      "addr:housenumber": "101",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Serrote",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3815528,-9.5598931]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410774",
+      "addr:housenumber": "102",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Serrote",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 95m 0500-0101P-7-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.381673,-9.560199]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410694",
+      "addr:housenumber": "43",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Serrote",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3836084,-9.5536478]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410744",
+      "addr:housenumber": "163",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Serrote",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3832392,-9.5521974]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410699",
+      "addr:housenumber": "138",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Serrote",
+      "addr:unit": "Fundos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3831579,-9.5527327]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410732",
+      "addr:housenumber": "148",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Serrote",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0101P-12-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3812696,-9.5526652]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410740",
+      "addr:housenumber": "187",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada da Várzea",
+      "addr:suburb": "Serrote",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3811066,-9.5531784]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410654",
+      "addr:housenumber": "72",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Serrote",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3855135,-9.5601107]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410763",
+      "addr:housenumber": "84",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Serrote",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.382019,-9.5592127]
+      }
+    }
+  ]
+}

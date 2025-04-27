@@ -1,0 +1,26 @@
+{
+  "type": "FeatureCollection",
+  "generator": "CSV-CNEFE2GeoJSON.lua 1.5.7 - fidelis.assis@gmail.com",
+  "source": "IBGE CNEFE + Faces de Logradouros - 2022",
+  "date": "2025-02-02T09:05:13-0300",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "109752356",
+      "addr:housenumber": "10",
+      "addr:postcode": "48619-899",
+      "addr:street": "Rodovia BR-110",
+      "addr:suburb": "Cacique",
+      "addr:unit": "B Coelb",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0115P-0-45"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.203554,-9.462392]
+      }
+    }
+  ]
+}

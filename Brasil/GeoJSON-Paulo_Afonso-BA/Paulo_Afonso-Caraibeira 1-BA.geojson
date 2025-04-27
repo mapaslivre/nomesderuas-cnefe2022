@@ -1,0 +1,588 @@
+{
+  "type": "FeatureCollection",
+  "generator": "CSV-CNEFE2GeoJSON.lua 1.5.7 - fidelis.assis@gmail.com",
+  "source": "IBGE CNEFE + Faces de Logradouros - 2022",
+  "date": "2025-02-02T09:05:14-0300",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192024485",
+      "addr:housenumber": "34",
+      "addr:postcode": "48610-488",
+      "addr:street": "Cruzamento Caraibeira",
+      "addr:suburb": "Caraibeira 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-197"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.156188,-9.674302]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411863",
+      "addr:housenumber": "65",
+      "addr:postcode": "48601-018",
+      "addr:street": "Estrada Para O Gato Vermelho",
+      "addr:suburb": "Caraibeira 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-194"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.156505,-9.672058]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192024465",
+      "addr:housenumber": "98",
+      "addr:postcode": "48609-048",
+      "addr:street": "Cruzamento Caraibeira",
+      "addr:suburb": "Caraibeira 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-196"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.161022,-9.672268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112581820",
+      "addr:housenumber": "85",
+      "addr:postcode": "48601-018",
+      "addr:street": "Estrada Para Caraibeira",
+      "addr:suburb": "Caraibeira 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-199"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.189683,-9.672183]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411848",
+      "addr:housenumber": "25",
+      "addr:postcode": "48601-018",
+      "addr:street": "Outros Divisa com Santa Brígida",
+      "addr:suburb": "Caraibeira 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-184"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.178147,-9.660486]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411860",
+      "addr:housenumber": "52",
+      "addr:postcode": "48601-018",
+      "addr:street": "Estrada Para O Gato Vermelho",
+      "addr:suburb": "Caraibeira 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-194"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.168181,-9.669612]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411864",
+      "addr:housenumber": "63",
+      "addr:postcode": "48601-018",
+      "addr:street": "Estrada Para O Gato Vermelho",
+      "addr:suburb": "Caraibeira 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-194"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.156672,-9.673494]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192024476",
+      "addr:housenumber": "85",
+      "addr:postcode": "48610-488",
+      "addr:street": "Cruzamento Caraibeira",
+      "addr:suburb": "Caraibeira 1",
+      "building": "construction",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-197"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.156148,-9.673233]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192024492",
+      "addr:housenumber": "54",
+      "addr:postcode": "48601-018",
+      "addr:street": "Estrada Para Caraibeira",
+      "addr:suburb": "Caraibeira 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-199"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.15719,-9.672778]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192024364",
+      "addr:housenumber": "58",
+      "addr:postcode": "48610-488",
+      "addr:street": "Outros Divisa com Santa Brígida",
+      "addr:suburb": "Caraibeira 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-183"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.180265,-9.658362]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192024376",
+      "addr:housenumber": "85",
+      "addr:postcode": "48610-488",
+      "addr:street": "Estrada Para O Gato Vermelho",
+      "addr:suburb": "Caraibeira 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-185"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.178186,-9.660526]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411861",
+      "addr:housenumber": "46",
+      "addr:postcode": "48601-018",
+      "addr:street": "Estrada Para O Gato Vermelho",
+      "addr:suburb": "Caraibeira 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-194"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.157684,-9.672511]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192024343",
+      "addr:housenumber": "58",
+      "addr:postcode": "48610-488",
+      "addr:street": "Divisa com Santa Brígida",
+      "addr:suburb": "Caraibeira 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-182"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.179933,-9.658959]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112583248",
+      "addr:housenumber": "25",
+      "addr:postcode": "48601-016",
+      "addr:street": "Estrada do Tara",
+      "addr:suburb": "Caraibeira 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-198"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.158431,-9.672106]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411845",
+      "addr:housenumber": "85",
+      "addr:postcode": "48601-016",
+      "addr:street": "Outros Divisa com Santa Brígida",
+      "addr:suburb": "Caraibeira 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-188"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.177715,-9.662377]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112583205",
+      "addr:housenumber": "95 Lado Direito",
+      "addr:postcode": "48601-018",
+      "addr:street": "Estrada Para Caraibeira",
+      "addr:suburb": "Caraibeira 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-199"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.187376,-9.671303]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411849",
+      "addr:housenumber": "12",
+      "addr:postcode": "48601-018",
+      "addr:street": "Outros Divisa com Santa Brígida",
+      "addr:suburb": "Caraibeira 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-184"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.178155,-9.66052]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112583274",
+      "addr:housenumber": "45",
+      "addr:postcode": "48601-018",
+      "addr:street": "Divisa com Santa Brígida",
+      "addr:suburb": "Caraibeira 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-187"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.177704,-9.662369]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192024356",
+      "addr:housenumber": "59",
+      "addr:postcode": "48610-488",
+      "addr:street": "Divisa com Santa Brígida",
+      "addr:suburb": "Caraibeira 1",
+      "building": "construction",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-182"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.177466,-9.663207]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411865",
+      "addr:housenumber": "620",
+      "addr:postcode": "48601-018",
+      "addr:street": "Estrada Para O Gato Vermelho",
+      "addr:suburb": "Caraibeira 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-194"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.156675,-9.673499]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112580345",
+      "addr:housenumber": "85",
+      "addr:postcode": "48601-018",
+      "addr:street": "Estrada do Tara",
+      "addr:suburb": "Caraibeira 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-186"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.178061,-9.66147]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192024498",
+      "addr:housenumber": "75",
+      "addr:postcode": "48604-516",
+      "addr:street": "Estrada Para O Gato Vermelho",
+      "addr:suburb": "Caraibeira 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-200"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.157168,-9.672703]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112583214",
+      "addr:housenumber": "55",
+      "addr:postcode": "48601-018",
+      "addr:street": "Estrada Para Caraibeira",
+      "addr:suburb": "Caraibeira 1",
+      "addr:unit": "Fundos",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-199"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.181916,-9.669489]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192024481",
+      "addr:housenumber": "35",
+      "addr:postcode": "48610-488",
+      "addr:street": "Cruzamento Caraibeira",
+      "addr:suburb": "Caraibeira 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-197"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.156168,-9.674285]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112583200",
+      "addr:housenumber": "50",
+      "addr:postcode": "48601-018",
+      "addr:street": "Estrada Para O Gato Vermelho",
+      "addr:suburb": "Caraibeira 1",
+      "addr:unit": "Fundos",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-194"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.168204,-9.669622]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411862",
+      "addr:housenumber": "58",
+      "addr:postcode": "48601-018",
+      "addr:street": "Estrada Para O Gato Vermelho",
+      "addr:suburb": "Caraibeira 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-194"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.161569,-9.672772]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411847",
+      "addr:housenumber": "54",
+      "addr:postcode": "48601-018",
+      "addr:street": "Outros Divisa com Santa Brígida",
+      "addr:suburb": "Caraibeira 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-184"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.178799,-9.660666]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112580354",
+      "addr:housenumber": "1",
+      "addr:postcode": "48601-018",
+      "addr:street": "Caminho Ribeiro 1 e 2",
+      "addr:suburb": "Caraibeira 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-204"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.18193,-9.669472]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192024471",
+      "addr:housenumber": "65",
+      "addr:postcode": "48610-488",
+      "addr:street": "Cruzamento Caraibeira",
+      "addr:suburb": "Caraibeira 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-197"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.161565,-9.67276]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192024391",
+      "addr:housenumber": "87",
+      "addr:postcode": "48610-488",
+      "addr:street": "Estrada Para Barriga 2",
+      "addr:suburb": "Caraibeira 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-189"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.177255,-9.663468]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192024339",
+      "addr:housenumber": "65",
+      "addr:postcode": "48610-488",
+      "addr:street": "Divisa com Santa Brígida",
+      "addr:suburb": "Caraibeira 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-182"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.182569,-9.655944]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192024514",
+      "addr:housenumber": "32",
+      "addr:postcode": "48604-514",
+      "addr:street": "Cruzamento Caraibeira",
+      "addr:suburb": "Caraibeira 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-203"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.156194,-9.67431]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192024347",
+      "addr:housenumber": "52",
+      "addr:postcode": "48610-488",
+      "addr:street": "Divisa com Santa Brígida",
+      "addr:suburb": "Caraibeira 1",
+      "building": "construction",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-182"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.179338,-9.660035]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192024508",
+      "addr:housenumber": "85",
+      "addr:postcode": "48604-025",
+      "addr:street": "Cruzamento Caraibeira",
+      "addr:suburb": "Caraibeira 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-202"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.154951,-9.671876]
+      }
+    }
+  ]
+}

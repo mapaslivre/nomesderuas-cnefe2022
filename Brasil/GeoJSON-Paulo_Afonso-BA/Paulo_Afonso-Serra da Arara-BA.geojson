@@ -1,0 +1,25 @@
+{
+  "type": "FeatureCollection",
+  "source": "IBGE CNEFE + Faces de Logradouros - 2022",
+  "generator": "CSV-CNEFE2GeoJSON.lua 1.5.7 - fidelis.assis@gmail.com",
+  "date": "2025-02-02T09:05:33-0300",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191884054",
+      "addr:housenumber": "2555",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada do Lado Serra da Arara",
+      "addr:suburb": "Serra da Arara",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0111P-0-109"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.438721,-9.512859]
+      }
+    }
+  ]
+}

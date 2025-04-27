@@ -1,0 +1,2436 @@
+{
+  "type": "FeatureCollection",
+  "generator": "CSV-CNEFE2GeoJSON.lua 1.5.7 - fidelis.assis@gmail.com",
+  "source": "IBGE CNEFE + Faces de Logradouros - 2022",
+  "date": "2025-02-02T09:05:26-0300",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411334",
+      "addr:housenumber": "44",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Lagoa da Pedra",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.1129267,-9.4626441]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192031965",
+      "addr:housenumber": "91",
+      "addr:postcode": "48610-488",
+      "addr:street": "Estrada Ramificada da Lagoa da Pedra para Rio",
+      "addr:suburb": "Lagoa da Pedra",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0212P-0-74"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.111104,-9.458092]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192025539",
+      "addr:housenumber": "115",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa da Pedra",
+      "addr:suburb": "Lagoa da Pedra",
+      "amenity": "animal_breeding",
+      "animal_breeding": "sheep",
+      "fixme": "Verificar coordenadas",
+      "landuse": "farmyard",
+      "name": "Criação de Ovelha",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0118P-0-87"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.112052,-9.468223]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411370",
+      "addr:housenumber": "11",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Lagoa da Pedra",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.1139779,-9.4621682]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411371",
+      "addr:housenumber": "61",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Lagoa da Pedra",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.114057,-9.4623108]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192032105",
+      "addr:housenumber": "13",
+      "addr:postcode": "48611-034",
+      "addr:street": "Povoado Lagoa da Peda",
+      "addr:suburb": "Lagoa da Pedra",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0212P-0-107"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.095566,-9.465073]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192031882",
+      "addr:housenumber": "10",
+      "addr:postcode": "48610-488",
+      "addr:street": "Estrada Ramificada da Lagoa da Pedra para Rio",
+      "addr:suburb": "Lagoa da Pedra",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0212P-0-74"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.112405,-9.467148]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191744504",
+      "addr:housenumber": "68",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Lagoa da Pedra",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.1126668,-9.4631258]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411313",
+      "addr:housenumber": "89",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Lagoa da Pedra",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.1125584,-9.4644955]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414297",
+      "addr:housenumber": "119",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa da Pedra",
+      "addr:suburb": "Lagoa da Pedra",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0118P-0-87"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.111118,-9.468003]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411369",
+      "addr:housenumber": "10",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Lagoa da Pedra",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.1139221,-9.4620684]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192031846",
+      "addr:housenumber": "3",
+      "addr:postcode": "48610-488",
+      "addr:street": "Estrada Ramificada da Lagoa da Pedra para Rio",
+      "addr:suburb": "Lagoa da Pedra",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0212P-0-74"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.115685,-9.464889]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411296",
+      "addr:housenumber": "129",
+      "addr:postcode": "48601-018",
+      "addr:street": "Povoado Lagoa da Peda",
+      "addr:suburb": "Lagoa da Pedra",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0212P-0-71"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.107316,-9.47039]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411300",
+      "addr:housenumber": "132",
+      "addr:postcode": "48601-018",
+      "addr:street": "Povoado Lagoa da Peda",
+      "addr:suburb": "Lagoa da Pedra",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0212P-0-71"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.107585,-9.469321]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191744555",
+      "addr:housenumber": "13",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Lagoa da Pedra",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.1145203,-9.4624891]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192025486;192025521",
+      "addr:housenumber": "125",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa da Pedra",
+      "addr:suburb": "Lagoa da Pedra",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0118P-0-87"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.108967,-9.469601]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112584715",
+      "addr:housenumber": "85",
+      "addr:postcode": "48601-018",
+      "addr:street": "Estrada Ramificada da Lagoa da Pedra para Rio",
+      "addr:suburb": "Lagoa da Pedra",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0212P-0-75"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.104507,-9.462694]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411327",
+      "addr:housenumber": "67",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Lagoa da Pedra",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.1127219,-9.4629762]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191744531",
+      "addr:housenumber": "12",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Lagoa da Pedra",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.1126736,-9.464871]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411307",
+      "addr:housenumber": "111",
+      "addr:postcode": "48601-018",
+      "addr:street": "Povoado Lagoa da Peda",
+      "addr:suburb": "Lagoa da Pedra",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0212P-0-71"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.111989,-9.467613]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411321",
+      "addr:housenumber": "115",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Lagoa da Pedra",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.1123489,-9.4637308]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112583977",
+      "addr:housenumber": "95",
+      "addr:postcode": "48601-018",
+      "addr:street": "Estrada Ramificada da Lagoa da Pedra para Rio",
+      "addr:suburb": "Lagoa da Pedra",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0212P-0-75"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.102938,-9.466735]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411312",
+      "addr:housenumber": "88",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Lagoa da Pedra",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.112605,-9.464667]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112583950",
+      "addr:housenumber": "129",
+      "addr:postcode": "48601-018",
+      "addr:street": "Estrada BA-210",
+      "addr:suburb": "Lagoa da Pedra",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0212P-0-79"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.102216,-9.474699]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191744563",
+      "addr:housenumber": "33",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Lagoa da Pedra",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0213P-3-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.1147444,-9.4626182]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192031945",
+      "addr:housenumber": "736",
+      "addr:postcode": "48610-488",
+      "addr:street": "Estrada Ramificada da Lagoa da Pedra para Rio",
+      "addr:suburb": "Lagoa da Pedra",
+      "building": "construction",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0212P-0-74"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.101737,-9.466642]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112583959",
+      "addr:housenumber": "93",
+      "addr:postcode": "48601-018",
+      "addr:street": "Estrada Ramificada da Lagoa da Pedra para Rio",
+      "addr:suburb": "Lagoa da Pedra",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0212P-0-75"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.091938,-9.468705]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191744448;191744460",
+      "addr:housenumber": "27",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Lagoa da Pedra",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0213P-1-5"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.1123295,-9.4602771]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411353",
+      "addr:housenumber": "35",
+      "addr:postcode": "48601-018",
+      "addr:street": "Povoado Lagoa da Peda",
+      "addr:suburb": "Lagoa da Pedra",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0212P-0-71"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.110755,-9.456705]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411297",
+      "addr:housenumber": "130",
+      "addr:postcode": "48601-018",
+      "addr:street": "Povoado Lagoa da Peda",
+      "addr:suburb": "Lagoa da Pedra",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0212P-0-71"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.10786,-9.469343]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411325",
+      "addr:housenumber": "51",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Lagoa da Pedra",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0213P-2-5"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.112609,-9.463003]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191744529",
+      "addr:housenumber": "20",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Lagoa da Pedra",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.1126208,-9.4647121]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411338",
+      "addr:housenumber": "40",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Lagoa da Pedra",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.1129638,-9.4626987]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411363",
+      "addr:housenumber": "22",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Lagoa da Pedra",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "pentecostal",
+      "name": "Igreja Pentecostal",
+      "religion": "christian"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.1133218,-9.4614482]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192031901",
+      "addr:housenumber": "131",
+      "addr:postcode": "48610-488",
+      "addr:street": "Estrada Ramificada da Lagoa da Pedra para Rio",
+      "addr:suburb": "Lagoa da Pedra",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0212P-0-74"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.107886,-9.46935]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414295",
+      "addr:housenumber": "122",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa da Pedra",
+      "addr:suburb": "Lagoa da Pedra",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0118P-0-87"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.110288,-9.468297]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411301",
+      "addr:housenumber": "7103",
+      "addr:postcode": "48601-018",
+      "addr:street": "Povoado Lagoa da Peda",
+      "addr:suburb": "Lagoa da Pedra",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0212P-0-71"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.110784,-9.467589]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112583986",
+      "addr:housenumber": "92",
+      "addr:postcode": "48601-018",
+      "addr:street": "Estrada Ramificada da Lagoa da Pedra para Rio",
+      "addr:suburb": "Lagoa da Pedra",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0212P-0-75"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.093278,-9.468245]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411368",
+      "addr:housenumber": "14",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Lagoa da Pedra",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.1135109,-9.461721]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192032026",
+      "addr:housenumber": "60",
+      "addr:postcode": "48601-018",
+      "addr:street": "Estrada Ramificada da Lagoa da Pedra para Rio",
+      "addr:suburb": "Lagoa da Pedra",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0212P-0-75"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.113911,-9.462568]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191744542",
+      "addr:housenumber": "41",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Lagoa da Pedra",
+      "addr:unit": "Casa 2",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0213P-2-8"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.1122098,-9.4627809]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411316",
+      "addr:housenumber": "59",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Lagoa da Pedra",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.1124527,-9.4641106]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192025545",
+      "addr:housenumber": "113",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa da Pedra",
+      "addr:suburb": "Lagoa da Pedra",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0118P-0-87"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.112836,-9.468294]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112583910;112583941",
+      "addr:housenumber": "95",
+      "addr:postcode": "48601-018",
+      "addr:street": "Estrada da Logoa da Pedra para O Rio",
+      "addr:suburb": "Lagoa da Pedra",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0212P-0-77"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.1020995,-9.456823]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191744469",
+      "addr:housenumber": "10",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Lagoa da Pedra",
+      "addr:unit": "Casa 2",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0213P-1-5"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.1117947,-9.4600141]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411317",
+      "addr:housenumber": "92",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Lagoa da Pedra",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.112449,-9.4641006]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411342",
+      "addr:housenumber": "35",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Lagoa da Pedra",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.1133485,-9.4625956]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411309",
+      "addr:housenumber": "112",
+      "addr:postcode": "48601-018",
+      "addr:street": "Povoado Lagoa da Peda",
+      "addr:suburb": "Lagoa da Pedra",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0212P-0-71"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.112058,-9.466928]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192031840",
+      "addr:housenumber": "2",
+      "addr:postcode": "48610-488",
+      "addr:street": "Estrada da Logoa da Pedra para O Rio",
+      "addr:suburb": "Lagoa da Pedra",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0212P-0-73"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.116363,-9.465158]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191744435",
+      "addr:housenumber": "31",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Lagoa da Pedra",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0213P-1-5"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.1123977,-9.4603457]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112583885",
+      "addr:housenumber": "42",
+      "addr:postcode": "48601-018",
+      "addr:street": "Estrada da Logoa da Pedra para O Rio",
+      "addr:suburb": "Lagoa da Pedra",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0212P-0-77"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.110634,-9.449699]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192025505",
+      "addr:housenumber": "1251",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa da Pedra",
+      "addr:suburb": "Lagoa da Pedra",
+      "amenity": "animal_breeding",
+      "animal_breeding": "pig",
+      "building": "sty",
+      "fixme": "Verificar coordenadas",
+      "name": "Criação de Suínos",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0118P-0-87"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.10928,-9.468814]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411303",
+      "addr:housenumber": "105",
+      "addr:postcode": "48601-018",
+      "addr:street": "Povoado Lagoa da Peda",
+      "addr:suburb": "Lagoa da Pedra",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0212P-0-71"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.111021,-9.467518]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112584705",
+      "addr:housenumber": "139",
+      "addr:postcode": "48601-018",
+      "addr:street": "Estrada Ramificada da Lagoa da Pedra para Rio",
+      "addr:suburb": "Lagoa da Pedra",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0212P-0-75"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.10169,-9.46668]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192025505",
+      "addr:housenumber": "1251",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa da Pedra",
+      "addr:suburb": "Lagoa da Pedra",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0118P-0-87"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.109279955824,-9.4688141616562]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411352",
+      "addr:housenumber": "63",
+      "addr:postcode": "48601-018",
+      "addr:street": "Povoado Lagoa da Peda",
+      "addr:suburb": "Lagoa da Pedra",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0212P-0-71"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.110567,-9.456814]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411322",
+      "addr:housenumber": "53",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Lagoa da Pedra",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0213P-2-5"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.112455,-9.463302]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192031870",
+      "addr:housenumber": "5",
+      "addr:postcode": "48610-488",
+      "addr:street": "Estrada Ramificada da Lagoa da Pedra para Rio",
+      "addr:suburb": "Lagoa da Pedra",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0212P-0-74"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.111877,-9.467611]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411355",
+      "addr:housenumber": "39",
+      "addr:postcode": "48601-018",
+      "addr:street": "Povoado Lagoa da Peda",
+      "addr:suburb": "Lagoa da Pedra",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0212P-0-71"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.110537,-9.456563]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411294",
+      "addr:housenumber": "127",
+      "addr:postcode": "48601-018",
+      "addr:street": "Povoado Lagoa da Peda",
+      "addr:suburb": "Lagoa da Pedra",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0212P-0-71"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.103842,-9.47289]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411318",
+      "addr:housenumber": "94",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Lagoa da Pedra",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.112356,-9.4638215]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112583894",
+      "addr:housenumber": "98",
+      "addr:postcode": "48601-018",
+      "addr:street": "Estrada da Logoa da Pedra para O Rio",
+      "addr:suburb": "Lagoa da Pedra",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0212P-0-77"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.108378,-9.446236]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411364",
+      "addr:housenumber": "15",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Lagoa da Pedra",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.1134705,-9.4613917]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191744420",
+      "addr:housenumber": "11",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Lagoa da Pedra",
+      "addr:unit": "Casa 2",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.1138271,-9.461907]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414298",
+      "addr:housenumber": "117",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa da Pedra",
+      "addr:suburb": "Lagoa da Pedra",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0118P-0-87"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.111671,-9.468093]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411337",
+      "addr:housenumber": "41",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Lagoa da Pedra",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.1130232,-9.4626618]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411344",
+      "addr:housenumber": "6",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Lagoa da Pedra",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.1139289,-9.4625665]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112584727",
+      "addr:housenumber": "93",
+      "addr:postcode": "48601-016",
+      "addr:street": "Estrada Ramificada da Lagoa da Pedra para Rio",
+      "addr:suburb": "Lagoa da Pedra",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0212P-0-78"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.107877,-9.469515]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411328",
+      "addr:housenumber": "82",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Lagoa da Pedra",
+      "amenity": "pub",
+      "building": "yes",
+      "description": "CNEFE 2022 Bar"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.1127576,-9.4628872]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192031816",
+      "addr:housenumber": "1",
+      "addr:postcode": "48610-488",
+      "addr:street": "Povoado Lagoa da Peda",
+      "addr:suburb": "Lagoa da Pedra",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0212P-0-72"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.116645,-9.465202]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411341",
+      "addr:housenumber": "65",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Lagoa da Pedra",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.1130179,-9.4626618]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411304",
+      "addr:housenumber": "106",
+      "addr:postcode": "48601-018",
+      "addr:street": "Povoado Lagoa da Peda",
+      "addr:suburb": "Lagoa da Pedra",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0212P-0-71"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.111185,-9.467474]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191744463",
+      "addr:housenumber": "19",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Lagoa da Pedra",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0213P-1-5"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.1122059,-9.4601909]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411314",
+      "addr:housenumber": "90",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Lagoa da Pedra",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.1125582,-9.4644888]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411311",
+      "addr:housenumber": "87",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Lagoa da Pedra",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.1126178,-9.4647027]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192031927",
+      "addr:housenumber": "135 B",
+      "addr:postcode": "48610-488",
+      "addr:street": "Estrada Ramificada da Lagoa da Pedra para Rio",
+      "addr:suburb": "Lagoa da Pedra",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0212P-0-74"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.107099,-9.469248]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411329",
+      "addr:housenumber": "98",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Lagoa da Pedra",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.1121416,-9.4633405]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191744508",
+      "addr:housenumber": "69",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Lagoa da Pedra",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.1125077,-9.4635203]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411298",
+      "addr:housenumber": "133",
+      "addr:postcode": "48601-018",
+      "addr:street": "Povoado Lagoa da Peda",
+      "addr:suburb": "Lagoa da Pedra",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0212P-0-71"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.107398,-9.469259]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191744544",
+      "addr:housenumber": "83",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Lagoa da Pedra",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0213P-2-8"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.1122856,-9.4627454]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411349",
+      "addr:housenumber": "1",
+      "addr:postcode": "48601-018",
+      "addr:street": "Povoado Lagoa da Peda",
+      "addr:suburb": "Lagoa da Pedra",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0212P-0-71"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.117066,-9.465389]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191744424",
+      "addr:housenumber": "7",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Lagoa da Pedra",
+      "addr:unit": "Casa 2",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.1137457,-9.4617932]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411332",
+      "addr:housenumber": "45",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Lagoa da Pedra",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0213P-2-8"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.1114897,-9.4630913]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192031979",
+      "addr:housenumber": "30",
+      "addr:postcode": "48610-488",
+      "addr:street": "Estrada Ramificada da Lagoa da Pedra para Rio",
+      "addr:suburb": "Lagoa da Pedra",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0212P-0-74"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.11097,-9.457654]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192031958",
+      "addr:housenumber": "58",
+      "addr:postcode": "48610-488",
+      "addr:street": "Estrada Ramificada da Lagoa da Pedra para Rio",
+      "addr:suburb": "Lagoa da Pedra",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0212P-0-74"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.111214,-9.458921]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191744546",
+      "addr:housenumber": "40",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Lagoa da Pedra",
+      "addr:unit": "Casa 2",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0213P-2-8"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.1120272,-9.4628784]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411323",
+      "addr:housenumber": "99",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Lagoa da Pedra",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0213P-2-5"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.112073,-9.46316]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411331",
+      "addr:housenumber": "47",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Lagoa da Pedra",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.1115978,-9.4631368]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191744565",
+      "addr:housenumber": "16",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Lagoa da Pedra",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0213P-4-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.1134014,-9.4595775]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192031933",
+      "addr:housenumber": "137",
+      "addr:postcode": "48610-488",
+      "addr:street": "Estrada Ramificada da Lagoa da Pedra para Rio",
+      "addr:suburb": "Lagoa da Pedra",
+      "building": "construction",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0212P-0-74"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.106819,-9.469263]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191744492",
+      "addr:housenumber": "62",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Lagoa da Pedra",
+      "addr:unit": "Casa 2",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.1137468,-9.4625223]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411319",
+      "addr:housenumber": "93",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Lagoa da Pedra",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.1124245,-9.4640331]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112584073",
+      "addr:housenumber": "128",
+      "addr:postcode": "48601-018",
+      "addr:street": "Estrada BA-210",
+      "addr:suburb": "Lagoa da Pedra",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0212P-0-79"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.103092,-9.472673]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192031824",
+      "addr:housenumber": "15",
+      "addr:postcode": "48610-488",
+      "addr:street": "Povoado Lagoa da Peda",
+      "addr:suburb": "Lagoa da Pedra",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0212P-0-72"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.086165,-9.462595]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112583968",
+      "addr:housenumber": "94",
+      "addr:postcode": "48601-018",
+      "addr:street": "Estrada Ramificada da Lagoa da Pedra para Rio",
+      "addr:suburb": "Lagoa da Pedra",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0212P-0-75"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.090386,-9.469181]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411315",
+      "addr:housenumber": "70",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Lagoa da Pedra",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.1125435,-9.463924]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411330",
+      "addr:housenumber": "98",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Lagoa da Pedra",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.112347,-9.4636408]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191744412",
+      "addr:housenumber": "12",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Lagoa da Pedra",
+      "addr:unit": "Casa 2",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.1141312,-9.4625026]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191744550",
+      "addr:housenumber": "10",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Lagoa da Pedra",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0213P-2-8"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.1118154,-9.4629466]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192031921",
+      "addr:housenumber": "134",
+      "addr:postcode": "48610-488",
+      "addr:street": "Estrada Ramificada da Lagoa da Pedra para Rio",
+      "addr:suburb": "Lagoa da Pedra",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0212P-0-74"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.101727,-9.466562]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192031939",
+      "addr:housenumber": "138",
+      "addr:postcode": "48610-488",
+      "addr:street": "Estrada Ramificada da Lagoa da Pedra para Rio",
+      "addr:suburb": "Lagoa da Pedra",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0212P-0-74"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.106708,-9.469308]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192032032",
+      "addr:housenumber": "145",
+      "addr:postcode": "48604-516",
+      "addr:street": "Estrada Ramificada da Lagoa da Pedra para Rio",
+      "addr:suburb": "Lagoa da Pedra",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0212P-0-76"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.107296,-9.469369]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192025539",
+      "addr:housenumber": "115",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa da Pedra",
+      "addr:suburb": "Lagoa da Pedra",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0118P-0-87"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.11204429807,-9.4682245613881]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192031908",
+      "addr:housenumber": "1311",
+      "addr:postcode": "48610-488",
+      "addr:street": "Estrada Ramificada da Lagoa da Pedra para Rio",
+      "addr:suburb": "Lagoa da Pedra",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0212P-0-74"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.107607,-9.4693]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192031876",
+      "addr:housenumber": "110",
+      "addr:postcode": "48610-488",
+      "addr:street": "Estrada Ramificada da Lagoa da Pedra para Rio",
+      "addr:suburb": "Lagoa da Pedra",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0212P-0-74"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.112106,-9.467515]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192031996",
+      "addr:housenumber": "37",
+      "addr:postcode": "48610-488",
+      "addr:street": "Estrada Ramificada da Lagoa da Pedra para Rio",
+      "addr:suburb": "Lagoa da Pedra",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0212P-0-74"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.110895,-9.457074]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192031854",
+      "addr:housenumber": "59",
+      "addr:postcode": "48610-488",
+      "addr:street": "Estrada Ramificada da Lagoa da Pedra para Rio",
+      "addr:suburb": "Lagoa da Pedra",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0212P-0-74"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.114098,-9.462601]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192031951",
+      "addr:housenumber": "142",
+      "addr:postcode": "48610-488",
+      "addr:street": "Estrada Ramificada da Lagoa da Pedra para Rio",
+      "addr:suburb": "Lagoa da Pedra",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0212P-0-74"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.10168,-9.466689]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192031863",
+      "addr:housenumber": "80",
+      "addr:postcode": "48610-488",
+      "addr:street": "Estrada Ramificada da Lagoa da Pedra para Rio",
+      "addr:suburb": "Lagoa da Pedra",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0212P-0-74"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.112904,-9.467674]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414296",
+      "addr:housenumber": "120",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa da Pedra",
+      "addr:suburb": "Lagoa da Pedra",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0118P-0-87"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.111049,-9.467992]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191744561",
+      "addr:housenumber": "11",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Lagoa da Pedra",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0213P-3-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.1145909,-9.462592]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411336",
+      "addr:housenumber": "43",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Lagoa da Pedra",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.1128559,-9.4625671]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411343",
+      "addr:housenumber": "7",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Lagoa da Pedra",
+      "amenity": "pub",
+      "building": "yes",
+      "name": "Bar da Raiane"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.1136047,-9.4625414]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192032098",
+      "addr:housenumber": "14",
+      "addr:postcode": "48611-106",
+      "addr:street": "Povoado Lagoa da Peda",
+      "addr:suburb": "Lagoa da Pedra",
+      "building": "warehouse",
+      "description": "CNEFE 2022 Depósito de Ração",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0212P-0-106"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.091813,-9.465149]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411366",
+      "addr:housenumber": "1",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Lagoa da Pedra",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.1135427,-9.461766]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411345",
+      "addr:housenumber": "37",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Lagoa da Pedra",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.1140764,-9.4625657]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411299",
+      "addr:housenumber": "1321",
+      "addr:postcode": "48601-018",
+      "addr:street": "Povoado Lagoa da Peda",
+      "addr:suburb": "Lagoa da Pedra",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0212P-0-71"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.107539,-9.469314]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411354",
+      "addr:housenumber": "38",
+      "addr:postcode": "48601-018",
+      "addr:street": "Povoado Lagoa da Peda",
+      "addr:suburb": "Lagoa da Pedra",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0212P-0-71"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.110598,-9.456616]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411367",
+      "addr:housenumber": "5",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Lagoa da Pedra",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.1135537,-9.4615035]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414300",
+      "addr:housenumber": "144",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa da Pedra",
+      "addr:suburb": "Lagoa da Pedra",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0118P-0-87"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.11221,-9.468203]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411335",
+      "addr:housenumber": "42",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Lagoa da Pedra",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.1128721,-9.4625537]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411365",
+      "addr:housenumber": "21",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Lagoa da Pedra",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.1134993,-9.4617056]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414299",
+      "addr:housenumber": "116",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa da Pedra",
+      "addr:suburb": "Lagoa da Pedra",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0118P-0-87"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.111884,-9.468135]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191744466",
+      "addr:housenumber": "35",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Lagoa da Pedra",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0213P-1-5"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.1119698,-9.4600724]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112583933",
+      "addr:housenumber": "89",
+      "addr:postcode": "48601-018",
+      "addr:street": "Estrada da Logoa da Pedra para O Rio",
+      "addr:suburb": "Lagoa da Pedra",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0212P-0-77"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.108549,-9.447985]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191744416",
+      "addr:housenumber": "9",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Lagoa da Pedra",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.1138037,-9.4618745]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191744472",
+      "addr:housenumber": "243",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Lagoa da Pedra",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0213P-1-5"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.111787,-9.4600121]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191744527",
+      "addr:housenumber": "86",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Lagoa da Pedra",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.1126351,-9.4647533]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191744454",
+      "addr:housenumber": "20",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Lagoa da Pedra",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0213P-1-5"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.1123278,-9.4602749]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192031894",
+      "addr:housenumber": "114",
+      "addr:postcode": "48610-488",
+      "addr:street": "Estrada Ramificada da Lagoa da Pedra para Rio",
+      "addr:suburb": "Lagoa da Pedra",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0212P-0-74"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.111718,-9.467511]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411339",
+      "addr:housenumber": "39",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Lagoa da Pedra",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.1133246,-9.4622115]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192031987",
+      "addr:housenumber": "31",
+      "addr:postcode": "48610-488",
+      "addr:street": "Estrada Ramificada da Lagoa da Pedra para Rio",
+      "addr:suburb": "Lagoa da Pedra",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0212P-0-74"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.110743,-9.457241]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192025515",
+      "addr:housenumber": "80",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa da Pedra",
+      "addr:suburb": "Lagoa da Pedra",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0118P-0-87"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.110228,-9.468282]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411326",
+      "addr:housenumber": "50",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Lagoa da Pedra",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0213P-2-5"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.112505,-9.463093]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112583924",
+      "addr:housenumber": "82",
+      "addr:postcode": "48601-018",
+      "addr:street": "Estrada da Logoa da Pedra para O Rio",
+      "addr:suburb": "Lagoa da Pedra",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0212P-0-77"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.108834,-9.448781]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191744540",
+      "addr:housenumber": "4",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Lagoa da Pedra",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0213P-2-8"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.1124811,-9.4627061]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411356",
+      "addr:housenumber": "33",
+      "addr:postcode": "48601-018",
+      "addr:street": "Povoado Lagoa da Peda",
+      "addr:suburb": "Lagoa da Pedra",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "name": "Vael Moto Peças",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0212P-0-71",
+      "parts": "yes",
+      "shop": "motorcycle"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.110596,-9.456825]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411340",
+      "addr:housenumber": "38",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Lagoa da Pedra",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.1132007,-9.4623016]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411348",
+      "addr:housenumber": "1",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Lagoa da Pedra",
+      "amenity": "school",
+      "building": "yes",
+      "description": "CNEFE 2022 Escola Municipal",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0213P-1-4"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.1138489,-9.462131]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414297",
+      "addr:housenumber": "119",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa da Pedra",
+      "addr:suburb": "Lagoa da Pedra",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "name": "Venda de Doce",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0118P-0-87",
+      "shop": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.111119746363,-9.4680079000032]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411324",
+      "addr:housenumber": "54",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Lagoa da Pedra",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.1126309,-9.4632074]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411302",
+      "addr:housenumber": "77",
+      "addr:postcode": "48601-018",
+      "addr:street": "Povoado Lagoa da Peda",
+      "addr:suburb": "Lagoa da Pedra",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0212P-0-71"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.110879,-9.467561]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411372",
+      "addr:housenumber": "2",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Lagoa da Pedra",
+      "addr:unit": "Casa 2",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.1142758,-9.46247]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411320",
+      "addr:housenumber": "55",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Lagoa da Pedra",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.1123608,-9.4638447]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192031888",
+      "addr:housenumber": "109",
+      "addr:postcode": "48610-488",
+      "addr:street": "Estrada Ramificada da Lagoa da Pedra para Rio",
+      "addr:suburb": "Lagoa da Pedra",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0212P-0-74"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.112116,-9.466819]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191744438",
+      "addr:housenumber": "24",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Lagoa da Pedra",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0213P-1-5"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.11251,-9.4604954]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411346",
+      "addr:housenumber": "3",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Lagoa da Pedra",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.1134222,-9.4621513]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192031971",
+      "addr:housenumber": "92",
+      "addr:postcode": "48610-488",
+      "addr:street": "Estrada Ramificada da Lagoa da Pedra para Rio",
+      "addr:suburb": "Lagoa da Pedra",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "description": "CNEFE 2022 Sem Nome",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0212P-0-74"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.111044,-9.457877]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191744552",
+      "addr:housenumber": "100",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Lagoa da Pedra",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.1117123,-9.4630786]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192031832",
+      "addr:housenumber": "16",
+      "addr:postcode": "48610-488",
+      "addr:street": "Povoado Lagoa da Peda",
+      "addr:suburb": "Lagoa da Pedra",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0212P-0-72"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.083775,-9.463261]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192031915",
+      "addr:housenumber": "135",
+      "addr:postcode": "48610-488",
+      "addr:street": "Estrada Ramificada da Lagoa da Pedra para Rio",
+      "addr:suburb": "Lagoa da Pedra",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0212P-0-74"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.107129,-9.46927]
+      }
+    }
+  ]
+}

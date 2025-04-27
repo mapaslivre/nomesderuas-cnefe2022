@@ -1,0 +1,6589 @@
+{
+  "type": "FeatureCollection",
+  "source": "IBGE CNEFE + Faces de Logradouros - 2022",
+  "generator": "CSV-CNEFE2GeoJSON.lua 1.5.7 - fidelis.assis@gmail.com",
+  "date": "2025-02-02T09:05:09-0300",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469242",
+      "addr:housenumber": "57",
+      "addr:postcode": "48610-264",
+      "addr:street": "Rua Barris",
+      "addr:suburb": "Benone Resende",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "description": "CNEFE 2022 Igreja"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2292535,-9.446482]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469195",
+      "addr:housenumber": "119",
+      "addr:postcode": "48610-266",
+      "addr:street": "Rua Itapagipe",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2298781,-9.4460141]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469518",
+      "addr:housenumber": "31",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Pituba",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2318217,-9.4468231]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469407",
+      "addr:housenumber": "40",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Patamares",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2322521,-9.4467444]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469561",
+      "addr:housenumber": "101",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Pituba",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2319998,-9.4467025]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469382",
+      "addr:housenumber": "707",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Santa Inês",
+      "addr:suburb": "Benone Resende",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0164P-2-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.229643,-9.44419]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469163",
+      "addr:housenumber": "89",
+      "addr:postcode": "48610-266",
+      "addr:street": "Rua Itapagipe",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2297408,-9.4463127]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469556",
+      "addr:housenumber": "102",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Patamares",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2322737,-9.4466144]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192028385",
+      "addr:housenumber": "1",
+      "addr:postcode": "48610-262",
+      "addr:street": "Rua Boca do Rio",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2292638,-9.44517]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192028495",
+      "addr:housenumber": "33",
+      "addr:postcode": "48610-260",
+      "addr:street": "Rua Pituaçu",
+      "addr:suburb": "Benone Resende",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2285029,-9.4462123]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469549",
+      "addr:housenumber": "30",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Patamares",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2321405,-9.4474312]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469233",
+      "addr:housenumber": "58",
+      "addr:postcode": "48610-266",
+      "addr:street": "Rua Itapagipe",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2295343,-9.4465022]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469545",
+      "addr:housenumber": "27",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Patamares",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2321031,-9.4476618]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192028509",
+      "addr:housenumber": "12",
+      "addr:postcode": "48610-260",
+      "addr:street": "Rua Pituaçu",
+      "addr:suburb": "Benone Resende",
+      "building": "yes",
+      "description": "CNEFE 2022 Borracharia",
+      "repair": "yes",
+      "shop": "tyres"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2283559,-9.446523]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469461",
+      "addr:housenumber": "104",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Tororó",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2307575,-9.4464874]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469189",
+      "addr:housenumber": "161",
+      "addr:postcode": "48610-266",
+      "addr:street": "Rua Itapagipe",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2299917,-9.4457005]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469516",
+      "addr:housenumber": "54",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Pituba",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2317875,-9.4470287]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469260",
+      "addr:housenumber": "72",
+      "addr:postcode": "48610-264",
+      "addr:street": "Rua Barris",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.229185,-9.4462174]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469544",
+      "addr:housenumber": "18",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Patamares",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2321331,-9.4474771]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469494",
+      "addr:housenumber": "105",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Brotas",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2311631,-9.4466286]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469555",
+      "addr:housenumber": "115",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Patamares",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2322539,-9.4467336]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192028456",
+      "addr:housenumber": "132",
+      "addr:postcode": "48610-262",
+      "addr:street": "Rua Boca do Rio",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.229008,-9.4454926]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469434",
+      "addr:housenumber": "77",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Nazaré",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2303121,-9.446617]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469199",
+      "addr:housenumber": "90",
+      "addr:postcode": "48610-266",
+      "addr:street": "Rua Itapagipe",
+      "addr:suburb": "Benone Resende",
+      "building": "yes",
+      "name": "Mini Mercearia Jaja",
+      "shop": "convenience"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2296997,-9.44616]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469303",
+      "addr:housenumber": "30",
+      "addr:postcode": "48610-262",
+      "addr:street": "Rua Boca do Rio",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2286701,-9.4464086]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191887110",
+      "addr:housenumber": "20",
+      "addr:postcode": "48610-200",
+      "addr:street": "Estrada Para Vila Matias",
+      "addr:suburb": "Benone Resende",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0164P-1-4"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.231251,-9.4458089]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469223",
+      "addr:housenumber": "105",
+      "addr:postcode": "48610-264",
+      "addr:street": "Rua Barris",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2294002,-9.446022]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469345",
+      "addr:housenumber": "120",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Ondina",
+      "addr:suburb": "Benone Resende",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0164P-2-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2301924,-9.4453828]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469464",
+      "addr:housenumber": "77",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Tororó",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2307168,-9.4467566]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469539",
+      "addr:housenumber": "14",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Pelourinho",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2314778,-9.4472898]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469212",
+      "addr:housenumber": "2",
+      "addr:postcode": "48610-264",
+      "addr:street": "Rua Barris",
+      "addr:suburb": "Benone Resende",
+      "addr:unit": "Fundos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2295792,-9.4457553]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469531",
+      "addr:housenumber": "6",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Pelourinho",
+      "addr:suburb": "Benone Resende",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2315784,-9.4466774]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192028460",
+      "addr:housenumber": "27",
+      "addr:postcode": "48610-260",
+      "addr:street": "Rua Pituaçu",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2287519,-9.4456739]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192028289",
+      "addr:housenumber": "85",
+      "addr:postcode": "48610-264",
+      "addr:street": "Rua Barris",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2293383,-9.4461756]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469308",
+      "addr:housenumber": "11",
+      "addr:postcode": "48610-262",
+      "addr:street": "Rua Boca do Rio",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2287996,-9.4460747]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469297",
+      "addr:housenumber": "105",
+      "addr:postcode": "48610-262",
+      "addr:street": "Rua Boca do Rio",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2290333,-9.4458678]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469570",
+      "addr:housenumber": "29",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Pituba",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2318912,-9.4473551]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192028061",
+      "addr:housenumber": "42",
+      "addr:postcode": "48610-268",
+      "addr:street": "Rua Federação",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2298786,-9.4467572]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469521",
+      "addr:housenumber": "90",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Pituba",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.231846,-9.4466768]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469449",
+      "addr:housenumber": "36",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Brotas",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2309114,-9.4472124]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469170",
+      "addr:housenumber": "43",
+      "addr:postcode": "48610-266",
+      "addr:street": "Rua Itapagipe",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2296154,-9.4467323]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469174",
+      "addr:housenumber": "7",
+      "addr:postcode": "48610-266",
+      "addr:street": "Rua Itapagipe",
+      "addr:suburb": "Benone Resende",
+      "addr:unit": "Casa 1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2295274,-9.4469634]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469319",
+      "addr:housenumber": "126",
+      "addr:postcode": "48610-262",
+      "addr:street": "Rua Boca do Rio",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2289951,-9.4455298]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469499",
+      "addr:housenumber": "71",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Brotas",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2311101,-9.4469586]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469432",
+      "addr:housenumber": "91",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Nazaré",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2303361,-9.4464655]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192028448",
+      "addr:housenumber": "8",
+      "addr:postcode": "48610-262",
+      "addr:street": "Rua Boca do Rio",
+      "addr:suburb": "Benone Resende",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "pentecostal",
+      "name": "Congregação Cristã no Brasil",
+      "religion": "christian"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2287205,-9.4462786]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469307",
+      "addr:housenumber": "54",
+      "addr:postcode": "48610-262",
+      "addr:street": "Rua Boca do Rio",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2287666,-9.4461597]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469450",
+      "addr:housenumber": "42",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Brotas",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2309216,-9.4471492]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469436",
+      "addr:housenumber": "57",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Nazaré",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.230277,-9.4468389]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469517",
+      "addr:housenumber": "60",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Pituba",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2318002,-9.4469523]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469585",
+      "addr:housenumber": "49",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Patamares",
+      "addr:suburb": "Benone Resende",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0164P-12-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2322146,-9.447611]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192028346",
+      "addr:housenumber": "49",
+      "addr:postcode": "48610-262",
+      "addr:street": "Rua Boca do Rio",
+      "addr:suburb": "Benone Resende",
+      "addr:unit": "Casa A",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2288645,-9.4463497]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191887479",
+      "addr:housenumber": "118",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Pituba",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2320174,-9.4465966]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191887419",
+      "addr:housenumber": "18",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Amaralina",
+      "addr:suburb": "Benone Resende",
+      "amenity": "pub",
+      "building": "yes",
+      "description": "CNEFE 2022 Bar"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2316334,-9.4478559]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469572",
+      "addr:housenumber": "53",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Pituba",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2318721,-9.4474699]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469508",
+      "addr:housenumber": "6",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Pituba",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2317073,-9.44751]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469443",
+      "addr:housenumber": "778 A",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Nazaré",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2302179,-9.4472129]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191887324",
+      "addr:housenumber": "11 A",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Tororó",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2306197,-9.4473982]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469500",
+      "addr:housenumber": "63",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Brotas",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2310961,-9.4470457]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469190",
+      "addr:housenumber": "155",
+      "addr:postcode": "48610-266",
+      "addr:street": "Rua Itapagipe",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2299866,-9.4457144]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469475",
+      "addr:housenumber": "23",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Pelourinho",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.231315,-9.4473196]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469209",
+      "addr:housenumber": "150",
+      "addr:postcode": "48610-266",
+      "addr:street": "Rua Itapagipe",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2298801,-9.4455514]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469279",
+      "addr:housenumber": "114",
+      "addr:postcode": "48610-264",
+      "addr:street": "Rua Barris",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2293798,-9.4456885]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191887107",
+      "addr:housenumber": "216",
+      "addr:postcode": "48610-200",
+      "addr:street": "Estrada Para Vila Matias",
+      "addr:suburb": "Benone Resende",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0164P-1-4"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.231241,-9.4458047]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469180",
+      "addr:housenumber": "120",
+      "addr:postcode": "48610-268",
+      "addr:street": "Rua Federação",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2301679,-9.4459687]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469205",
+      "addr:housenumber": "126",
+      "addr:postcode": "48610-266",
+      "addr:street": "Rua Itapagipe",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2297986,-9.4457763]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469564",
+      "addr:housenumber": "71",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Pituba",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2319512,-9.4469947]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469206",
+      "addr:housenumber": "132",
+      "addr:postcode": "48610-266",
+      "addr:street": "Rua Itapagipe",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2298102,-9.4457442]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192028188",
+      "addr:housenumber": "156",
+      "addr:postcode": "48610-266",
+      "addr:street": "Rua Itapagipe",
+      "addr:suburb": "Benone Resende",
+      "addr:unit": "Casa B",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2299295,-9.4454365]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469509",
+      "addr:housenumber": "12",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Pituba",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2317135,-9.4474729]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469504",
+      "addr:housenumber": "35",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Brotas",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2310565,-9.4472919]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192028467",
+      "addr:housenumber": "110",
+      "addr:postcode": "48610-260",
+      "addr:street": "Rua Pituaçu",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2286893,-9.4458182]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192028041",
+      "addr:housenumber": "10",
+      "addr:postcode": "48610-268",
+      "addr:street": "Rua Federação",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2298116,-9.446939]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469444",
+      "addr:housenumber": "13",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Brotas",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2308771,-9.4475252]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469548",
+      "addr:housenumber": "54",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Patamares",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2321847,-9.4471593]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469168",
+      "addr:housenumber": "57",
+      "addr:postcode": "48610-266",
+      "addr:street": "Rua Itapagipe",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2296669,-9.4465927]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469431",
+      "addr:housenumber": "97",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Nazaré",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2303399,-9.4464415]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469536",
+      "addr:housenumber": "49",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Pelourinho",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2315129,-9.4470762]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469458",
+      "addr:housenumber": "96",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Brotas",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2310153,-9.446566]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469492",
+      "addr:housenumber": "127",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Brotas",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2311823,-9.4464742]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469463",
+      "addr:housenumber": "85",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Tororó",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.230721,-9.4467286]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469191",
+      "addr:housenumber": "147",
+      "addr:postcode": "48610-266",
+      "addr:street": "Rua Itapagipe",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.229967,-9.4457687]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469453",
+      "addr:housenumber": "60",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Brotas",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2309536,-9.4469498]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469493",
+      "addr:housenumber": "4",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Brotas",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2311819,-9.4465116]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469591",
+      "addr:housenumber": "44",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Patamares",
+      "addr:suburb": "Benone Resende",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0164P-12-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2321572,-9.4479624]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469263",
+      "addr:housenumber": "77",
+      "addr:postcode": "48610-262",
+      "addr:street": "Rua Boca do Rio",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2289366,-9.4461571]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192028386",
+      "addr:housenumber": "175",
+      "addr:postcode": "48610-262",
+      "addr:street": "Rua Boca do Rio",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2292528,-9.4452624]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469323",
+      "addr:housenumber": "156",
+      "addr:postcode": "48610-262",
+      "addr:street": "Rua Boca do Rio",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.229119,-9.4451732]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191887413",
+      "addr:housenumber": "1",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Pelourinho",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2314212,-9.4476345]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469568",
+      "addr:housenumber": "43",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Pituba",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.231907,-9.4472597]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469495",
+      "addr:housenumber": "5",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Brotas",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.231164,-9.4466229]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469313",
+      "addr:housenumber": "84",
+      "addr:postcode": "48610-262",
+      "addr:street": "Rua Boca do Rio",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2288721,-9.4458838]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469462",
+      "addr:housenumber": "480",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Tororó",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2307334,-9.446647]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469162",
+      "addr:housenumber": "72",
+      "addr:postcode": "48610-268",
+      "addr:street": "Rua Federação",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2299796,-9.4464829]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192028463",
+      "addr:housenumber": "96",
+      "addr:postcode": "48610-260",
+      "addr:street": "Rua Pituaçu",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2287202,-9.4457531]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469430",
+      "addr:housenumber": "105",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Nazaré",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2303307,-9.4463661]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469497",
+      "addr:housenumber": "115",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Brotas",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2311293,-9.4468392]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469537",
+      "addr:housenumber": "43",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Pelourinho",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2314978,-9.4471684]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469552",
+      "addr:housenumber": "78",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Patamares",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2322289,-9.4468873]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469459",
+      "addr:housenumber": "1",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Tororó",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2307334,-9.4464008]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469457",
+      "addr:housenumber": "84",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Brotas",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2309947,-9.4466941]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469318",
+      "addr:housenumber": "120",
+      "addr:postcode": "48610-262",
+      "addr:street": "Rua Boca do Rio",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2289804,-9.445572]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469344",
+      "addr:housenumber": "21",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Ondina",
+      "addr:suburb": "Benone Resende",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "description": "CNEFE 2022 Igreja",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0164P-2-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2303395,-9.4454358]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192028217",
+      "addr:housenumber": "169",
+      "addr:postcode": "48610-264",
+      "addr:street": "Rua Barris",
+      "addr:suburb": "Benone Resende",
+      "addr:unit": "Fundos 169",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2296827,-9.445474]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469372",
+      "addr:housenumber": "108",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Ondina",
+      "addr:suburb": "Benone Resende",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0164P-2-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2300372,-9.4453267]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469278",
+      "addr:housenumber": "108",
+      "addr:postcode": "48610-264",
+      "addr:street": "Rua Barris",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2293436,-9.4457868]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469437",
+      "addr:housenumber": "49",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Nazaré",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2302756,-9.4468479]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469250",
+      "addr:housenumber": "6",
+      "addr:postcode": "48610-264",
+      "addr:street": "Rua Barris",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2289711,-9.4468275]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191887099",
+      "addr:housenumber": "210",
+      "addr:postcode": "48610-200",
+      "addr:street": "Estrada Para Vila Matias",
+      "addr:suburb": "Benone Resende",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0164P-1-4"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2311401,-9.4457622]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469252",
+      "addr:housenumber": "18",
+      "addr:postcode": "48610-264",
+      "addr:street": "Rua Barris",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2290089,-9.4466958]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469246",
+      "addr:housenumber": "29",
+      "addr:postcode": "48610-264",
+      "addr:street": "Rua Barris",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2291787,-9.4466851]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469515",
+      "addr:housenumber": "48",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Pituba",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.231779,-9.4470798]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469256",
+      "addr:housenumber": "42",
+      "addr:postcode": "48610-264",
+      "addr:street": "Rua Barris",
+      "addr:suburb": "Benone Resende",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2290851,-9.4464887]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469193",
+      "addr:housenumber": "127",
+      "addr:postcode": "48610-266",
+      "addr:street": "Rua Itapagipe",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2298996,-9.4459546]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469472",
+      "addr:housenumber": "21",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Tororó",
+      "addr:suburb": "Benone Resende",
+      "building": "yes",
+      "description": "CNEFE 2022 Mercadinho",
+      "shop": "convenience"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2306377,-9.447279]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469342",
+      "addr:housenumber": "192",
+      "addr:postcode": "48610-200",
+      "addr:street": "Estrada Para Vila Matias",
+      "addr:suburb": "Benone Resende",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "name": "Sinuca",
+      "note": "Sem dados para mover para dentro da quadra 0500-0164P-1-4"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2309859,-9.4456972]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469255",
+      "addr:housenumber": "36",
+      "addr:postcode": "48610-264",
+      "addr:street": "Rua Barris",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2290507,-9.4465822]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469202",
+      "addr:housenumber": "108",
+      "addr:postcode": "48610-266",
+      "addr:street": "Rua Itapagipe",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2297391,-9.4459405]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469238",
+      "addr:housenumber": "85",
+      "addr:postcode": "48610-264",
+      "addr:street": "Rua Barris",
+      "addr:suburb": "Benone Resende",
+      "addr:unit": "Casa A",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2293377,-9.4461707]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469291",
+      "addr:housenumber": "157",
+      "addr:postcode": "48610-262",
+      "addr:street": "Rua Boca do Rio",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2291695,-9.4455021]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192028363",
+      "addr:housenumber": "96",
+      "addr:postcode": "48610-264",
+      "addr:street": "Rua Barris",
+      "addr:suburb": "Benone Resende",
+      "addr:unit": "Casa B",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2293107,-9.445876]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469284",
+      "addr:housenumber": "144",
+      "addr:postcode": "48610-264",
+      "addr:street": "Rua Barris",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2294959,-9.445373]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469199",
+      "addr:housenumber": "90",
+      "addr:postcode": "48610-266",
+      "addr:street": "Rua Itapagipe",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.229699655827,-9.4461601616562]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469217",
+      "addr:housenumber": "147",
+      "addr:postcode": "48610-264",
+      "addr:street": "Rua Barris",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2295521,-9.4456709]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469316",
+      "addr:housenumber": "108",
+      "addr:postcode": "48610-262",
+      "addr:street": "Rua Boca do Rio",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2289382,-9.4456935]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192028367",
+      "addr:housenumber": "150",
+      "addr:postcode": "48610-264",
+      "addr:street": "Rua Barris",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2295059,-9.4453459]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469477",
+      "addr:housenumber": "48",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Pelourinho",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2313164,-9.4473112]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469244",
+      "addr:housenumber": "43",
+      "addr:postcode": "48610-264",
+      "addr:street": "Rua Barris",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2292397,-9.4465195]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469159",
+      "addr:housenumber": "60",
+      "addr:postcode": "48610-268",
+      "addr:street": "Rua Federação",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2299344,-9.4466055]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469378",
+      "addr:housenumber": "719",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Santa Inês",
+      "addr:suburb": "Benone Resende",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0164P-2-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.229987,-9.444485]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469543",
+      "addr:housenumber": "6",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Patamares",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2321123,-9.4476052]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469553",
+      "addr:housenumber": "42",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Patamares",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2321991,-9.4470705]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469512;27469520",
+      "addr:housenumber": "30",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Pituba",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2317788,-9.4470805]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469441",
+      "addr:housenumber": "21",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Nazaré",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2302275,-9.4471519]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469366",
+      "addr:housenumber": "42",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Ondina",
+      "addr:suburb": "Benone Resende",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0164P-2-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2294915,-9.4451297]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469468",
+      "addr:housenumber": "49",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Tororó",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2306766,-9.4470222]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469525",
+      "addr:housenumber": "127",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Pelourinho",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2315977,-9.4464739]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192028260",
+      "addr:housenumber": "20",
+      "addr:postcode": "48610-266",
+      "addr:street": "Rua Itapagipe",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2295016,-9.4465912]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469221",
+      "addr:housenumber": "119",
+      "addr:postcode": "48610-264",
+      "addr:street": "Rua Barris",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2294694,-9.4458954]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469239",
+      "addr:housenumber": "77",
+      "addr:postcode": "48610-264",
+      "addr:street": "Rua Barris",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2293319,-9.4462689]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469218",
+      "addr:housenumber": "141",
+      "addr:postcode": "48610-264",
+      "addr:street": "Rua Barris",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2295209,-9.4457557]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192028054",
+      "addr:housenumber": "39",
+      "addr:postcode": "48610-268",
+      "addr:street": "Rua Federação",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2298469,-9.4468431]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469360",
+      "addr:housenumber": "7",
+      "addr:postcode": "48610-200",
+      "addr:street": "Estrada Para Vila Matias",
+      "addr:suburb": "Benone Resende",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0164P-1-4"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2308543,-9.4456418]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469415",
+      "addr:housenumber": "20",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Tororó",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2304861,-9.4472397]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469589",
+      "addr:housenumber": "21",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Patamares",
+      "addr:suburb": "Benone Resende",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0164P-12-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2321802,-9.4478216]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192028294",
+      "addr:housenumber": "21",
+      "addr:postcode": "48610-264",
+      "addr:street": "Rua Barris",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2291569,-9.4467444]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469322",
+      "addr:housenumber": "150",
+      "addr:postcode": "48610-262",
+      "addr:street": "Rua Boca do Rio",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2290707,-9.4453123]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469514",
+      "addr:housenumber": "36",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Pituba",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2317608,-9.4471891]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469243",
+      "addr:housenumber": "49",
+      "addr:postcode": "48610-264",
+      "addr:street": "Rua Barris",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2292456,-9.4465035]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469408",
+      "addr:housenumber": "102 A",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Brotas",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2310362,-9.4465158]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469496",
+      "addr:housenumber": "91",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Brotas",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2311405,-9.4467691]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469219",
+      "addr:housenumber": "133",
+      "addr:postcode": "48610-264",
+      "addr:street": "Rua Barris",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2295246,-9.4457457]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469283",
+      "addr:housenumber": "138",
+      "addr:postcode": "48610-264",
+      "addr:street": "Rua Barris",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2294671,-9.4454514]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469559",
+      "addr:housenumber": "4",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Pituba",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2320102,-9.4466402]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469526",
+      "addr:housenumber": "119",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Pelourinho",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2315832,-9.4464297]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192028366",
+      "addr:housenumber": "102",
+      "addr:postcode": "48610-264",
+      "addr:street": "Rua Barris",
+      "addr:suburb": "Benone Resende",
+      "addr:unit": "Fundos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2292672,-9.4458362]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469237",
+      "addr:housenumber": "78",
+      "addr:postcode": "48610-266",
+      "addr:street": "Rua Itapagipe",
+      "addr:suburb": "Benone Resende",
+      "amenity": "pub",
+      "building": "yes",
+      "name": "Bar Monte Alegria"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2296558,-9.44627]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192028098",
+      "addr:housenumber": "21",
+      "addr:postcode": "48610-266",
+      "addr:street": "Rua Itapagipe",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2295395,-9.4469315]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469200",
+      "addr:housenumber": "96",
+      "addr:postcode": "48610-266",
+      "addr:street": "Rua Itapagipe",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2296895,-9.4460884]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469302",
+      "addr:housenumber": "24",
+      "addr:postcode": "48610-262",
+      "addr:street": "Rua Boca do Rio",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.228657,-9.4464424]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469563",
+      "addr:housenumber": "85",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Pituba",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2319786,-9.44683]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469280",
+      "addr:housenumber": "120",
+      "addr:postcode": "48610-264",
+      "addr:street": "Rua Barris",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2294052,-9.4456195]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469535",
+      "addr:housenumber": "10 Lado",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Pelourinho",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2315229,-9.4470157]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469214",
+      "addr:housenumber": "169",
+      "addr:postcode": "48610-264",
+      "addr:street": "Rua Barris",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2296156,-9.4454986]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192028210",
+      "addr:housenumber": "183",
+      "addr:postcode": "48610-264",
+      "addr:street": "Rua Barris",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2296577,-9.4453841]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469385",
+      "addr:housenumber": "956",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Santa Inês",
+      "addr:suburb": "Benone Resende",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0164P-2-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.229919,-9.444423]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469261",
+      "addr:housenumber": "78",
+      "addr:postcode": "48610-264",
+      "addr:street": "Rua Barris",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2292743,-9.4461116]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469277",
+      "addr:housenumber": "102",
+      "addr:postcode": "48610-264",
+      "addr:street": "Rua Barris",
+      "addr:suburb": "Benone Resende",
+      "building": "yes",
+      "description": "CNEFE 2022 Mini Mercearia",
+      "shop": "convenience"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2293185,-9.4458548]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192028503",
+      "addr:housenumber": "35",
+      "addr:postcode": "48610-260",
+      "addr:street": "Rua Pituaçu",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2284418,-9.4463414]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469169",
+      "addr:housenumber": "49",
+      "addr:postcode": "48610-266",
+      "addr:street": "Rua Itapagipe",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2296404,-9.446665]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469245",
+      "addr:housenumber": "35",
+      "addr:postcode": "48610-264",
+      "addr:street": "Rua Barris",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.229183,-9.4466735]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192028327",
+      "addr:housenumber": "54",
+      "addr:postcode": "48610-264",
+      "addr:street": "Rua Barris",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2291535,-9.4463031]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469579",
+      "addr:housenumber": "97",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Patamares",
+      "addr:suburb": "Benone Resende",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0164P-12-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2322877,-9.447163]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469534",
+      "addr:housenumber": "71",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Pelourinho",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.231539,-9.4469174]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192028299",
+      "addr:housenumber": "11",
+      "addr:postcode": "48610-264",
+      "addr:street": "Rua Barris",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2291288,-9.4468205]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469498",
+      "addr:housenumber": "77",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Brotas",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2311224,-9.4468818]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469275",
+      "addr:housenumber": "96",
+      "addr:postcode": "48610-264",
+      "addr:street": "Rua Barris",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2292931,-9.4459238]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469249",
+      "addr:housenumber": "7",
+      "addr:postcode": "48610-264",
+      "addr:street": "Rua Barris",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2290532,-9.4469151]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469222",
+      "addr:housenumber": "113",
+      "addr:postcode": "48610-264",
+      "addr:street": "Rua Barris",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2294402,-9.4459748]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469254",
+      "addr:housenumber": "30",
+      "addr:postcode": "48610-264",
+      "addr:street": "Rua Barris",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2290482,-9.4465891]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469257",
+      "addr:housenumber": "48",
+      "addr:postcode": "48610-264",
+      "addr:street": "Rua Barris",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2291052,-9.4464342]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469588",
+      "addr:housenumber": "29",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Patamares",
+      "addr:suburb": "Benone Resende",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0164P-12-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2321858,-9.4477872]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469215",
+      "addr:housenumber": "161",
+      "addr:postcode": "48610-264",
+      "addr:street": "Rua Barris",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2296011,-9.4455377]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469281",
+      "addr:housenumber": "20",
+      "addr:postcode": "48610-264",
+      "addr:street": "Rua Barris",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2294179,-9.4455851]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191887225",
+      "addr:housenumber": "258",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Amaralina",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2302838,-9.4473467]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192028105",
+      "addr:housenumber": "70",
+      "addr:postcode": "48610-286",
+      "addr:street": "Rua Rio Vermelho",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2298749,-9.4463618]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192028506",
+      "addr:housenumber": "14",
+      "addr:postcode": "48610-260",
+      "addr:street": "Rua Pituaçu",
+      "addr:suburb": "Benone Resende",
+      "building": "yes",
+      "name": "Celso Funilaria e Pintura",
+      "service:vehicle:bodywork": "yes",
+      "service:vehicle:painting": "yes",
+      "shop": "car_repair"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2283936,-9.4464432]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469574",
+      "addr:housenumber": "20",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Pituba",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2318366,-9.447683]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192028404",
+      "addr:housenumber": "90",
+      "addr:postcode": "48610-286",
+      "addr:street": "Rua Rio Vermelho",
+      "addr:suburb": "Benone Resende",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0163P-6-5"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.229185,-9.445989]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191887332",
+      "addr:housenumber": "13",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Amaralina",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2307132,-9.4475003]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469373",
+      "addr:housenumber": "54",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Ondina",
+      "addr:suburb": "Benone Resende",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0164P-2-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2295865,-9.445164]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469290",
+      "addr:housenumber": "155",
+      "addr:postcode": "48610-262",
+      "addr:street": "Rua Boca do Rio",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2291859,-9.4454548]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469376",
+      "addr:housenumber": "24",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Ondina",
+      "addr:suburb": "Benone Resende",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0164P-2-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2292736,-9.4450511]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469269",
+      "addr:housenumber": "29",
+      "addr:postcode": "48610-262",
+      "addr:street": "Rua Boca do Rio",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2287818,-9.4465702]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469565",
+      "addr:housenumber": "10",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Pituba",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2319482,-9.4470123]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469184",
+      "addr:housenumber": "150",
+      "addr:postcode": "48610-268",
+      "addr:street": "Rua Federação",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2302955,-9.4456198]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191887921",
+      "addr:housenumber": "1",
+      "addr:postcode": "48610-200",
+      "addr:suburb": "Benone Resende",
+      "addr:unit": "Única",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0164P-21-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.229405,-9.44223]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191887412",
+      "addr:housenumber": "3",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Pelourinho",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2314285,-9.4475905]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469197",
+      "addr:housenumber": "105",
+      "addr:postcode": "48610-266",
+      "addr:street": "Rua Itapagipe",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.229826,-9.446139]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469234",
+      "addr:housenumber": "60",
+      "addr:postcode": "48610-266",
+      "addr:street": "Rua Itapagipe",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.229547,-9.4464676]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469473",
+      "addr:housenumber": "30",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Pelourinho",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2312886,-9.4474802]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469528",
+      "addr:housenumber": "4",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Pelourinho",
+      "addr:suburb": "Benone Resende",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2315894,-9.4466106]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469380",
+      "addr:housenumber": "709",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Santa Inês",
+      "addr:suburb": "Benone Resende",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0164P-2-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.229702,-9.444252]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469481",
+      "addr:housenumber": "78",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Pelourinho",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2313755,-9.4469513]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469586",
+      "addr:housenumber": "43",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Patamares",
+      "addr:suburb": "Benone Resende",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0164P-12-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.232208,-9.4476511]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191887126",
+      "addr:housenumber": "251",
+      "addr:postcode": "48610-200",
+      "addr:street": "Estrada Para Vila Matias",
+      "addr:suburb": "Benone Resende",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0164P-1-4"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2315973,-9.4459547]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191887880",
+      "addr:housenumber": "77",
+      "addr:postcode": "48610-200",
+      "addr:suburb": "Benone Resende",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0164P-19-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.227848,-9.441501]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469532",
+      "addr:housenumber": "77",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Pelourinho",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2315521,-9.4468377]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469171",
+      "addr:housenumber": "35",
+      "addr:postcode": "48610-266",
+      "addr:street": "Rua Itapagipe",
+      "addr:suburb": "Benone Resende",
+      "addr:unit": "Casa 1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2295855,-9.4468108]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469540-27469541",
+      "addr:housenumber": "15",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Pelourinho",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.231465,-9.447368]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469266",
+      "addr:housenumber": "49",
+      "addr:postcode": "48610-262",
+      "addr:street": "Rua Boca do Rio",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2288661,-9.4463454]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469367",
+      "addr:housenumber": "60",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Ondina",
+      "addr:suburb": "Benone Resende",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0164P-2-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2296033,-9.4451701]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469377",
+      "addr:housenumber": "66",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Ondina",
+      "addr:suburb": "Benone Resende",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0164P-2-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2296863,-9.4452001]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469538",
+      "addr:housenumber": "35",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Pelourinho",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2314917,-9.4472053]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469479",
+      "addr:housenumber": "66",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Pelourinho",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2313529,-9.4470889]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192028512",
+      "addr:housenumber": "42",
+      "addr:postcode": "48610-260",
+      "addr:street": "Rua Pituaçu",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2282912,-9.4466007]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469527",
+      "addr:housenumber": "113",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Pelourinho",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2315981,-9.4465575]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469503",
+      "addr:housenumber": "41",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Brotas",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.231073,-9.4471892]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469542",
+      "addr:housenumber": "17",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Pelourinho",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2314487,-9.4474669]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469176",
+      "addr:housenumber": "96",
+      "addr:postcode": "48610-268",
+      "addr:street": "Rua Federação",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2300795,-9.4462346]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469476",
+      "addr:housenumber": "42",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Pelourinho",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2313158,-9.4473147]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191887800",
+      "addr:housenumber": "4",
+      "addr:postcode": "48610-200",
+      "addr:suburb": "Benone Resende",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0164P-17-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.22743,-9.441041]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469483",
+      "addr:housenumber": "90",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Pelourinho",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2313914,-9.4468544]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192028250",
+      "addr:housenumber": "14",
+      "addr:postcode": "48610-266",
+      "addr:street": "Rua Itapagipe",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2293692,-9.4469416]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469488",
+      "addr:housenumber": "126",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Pelourinho",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2314422,-9.4465448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469474",
+      "addr:housenumber": "36",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Pelourinho",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2312989,-9.4474177]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469529",
+      "addr:housenumber": "99",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Pelourinho",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2315751,-9.446698]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469422",
+      "addr:housenumber": "33",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Tororó",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2305981,-9.4464998]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191887449",
+      "addr:housenumber": "2",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Patamares",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2320911,-9.4477356]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469435",
+      "addr:housenumber": "138",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Nazaré",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2302966,-9.446715]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469426",
+      "addr:housenumber": "84",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Tororó",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2305905,-9.4465496]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469416",
+      "addr:housenumber": "24",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Tororó",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2305026,-9.4471304]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469460",
+      "addr:housenumber": "11",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Tororó",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2307524,-9.4464574]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469428",
+      "addr:housenumber": "102",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Tororó",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2306628,-9.4463727]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469557",
+      "addr:housenumber": "108",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Patamares",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.232325,-9.4465637]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191887223",
+      "addr:housenumber": "177",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Nazaré",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2301758,-9.4473136]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469179",
+      "addr:housenumber": "114",
+      "addr:postcode": "48610-268",
+      "addr:street": "Rua Federação",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2301544,-9.4460055]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469510",
+      "addr:housenumber": "18",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Pituba",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2317355,-9.4473406]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469484",
+      "addr:housenumber": "102",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Pelourinho",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2314104,-9.4467387]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469466",
+      "addr:housenumber": "6",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Tororó",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2306915,-9.4469239]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191887320",
+      "addr:housenumber": "15",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Tororó",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2306288,-9.4473383]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469470",
+      "addr:housenumber": "35",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Tororó",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2306579,-9.447146]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469429",
+      "addr:housenumber": "115",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Nazaré",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2303175,-9.4463265]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191887327",
+      "addr:housenumber": "11 B",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Tororó",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2306157,-9.4474249]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469423",
+      "addr:housenumber": "66",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Tororó",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2305549,-9.4467851]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469465",
+      "addr:housenumber": "5",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Tororó",
+      "addr:suburb": "Benone Resende",
+      "building": "yes",
+      "name": "Ponto"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2307073,-9.4468197]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469433",
+      "addr:housenumber": "85",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Nazaré",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2303159,-9.4465932]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469465",
+      "addr:housenumber": "5",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Tororó",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.230699598549,-9.4468212613881]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469471",
+      "addr:housenumber": "29",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Tororó",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2306473,-9.4472158]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469264",
+      "addr:housenumber": "71",
+      "addr:postcode": "48610-262",
+      "addr:street": "Rua Boca do Rio",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2289065,-9.4462374]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469580",
+      "addr:housenumber": "85",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Patamares",
+      "addr:suburb": "Benone Resende",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0164P-12-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2322687,-9.447279]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469573",
+      "addr:housenumber": "19",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Pituba",
+      "addr:suburb": "Benone Resende",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2318702,-9.4474811]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469410",
+      "addr:housenumber": "21",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Tororó",
+      "addr:suburb": "Benone Resende",
+      "building": "yes",
+      "name": "Natura"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2306424,-9.4472482]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469172",
+      "addr:housenumber": "29",
+      "addr:postcode": "48610-266",
+      "addr:street": "Rua Itapagipe",
+      "addr:suburb": "Benone Resende",
+      "addr:unit": "Casa 1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2295612,-9.4468746]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192028480",
+      "addr:housenumber": "57",
+      "addr:postcode": "48610-260",
+      "addr:street": "Rua Pituaçu",
+      "addr:suburb": "Benone Resende",
+      "addr:unit": "Casa A",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2285895,-9.4460293]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469420",
+      "addr:housenumber": "48",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Tororó",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2305335,-9.4469264]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469424",
+      "addr:housenumber": "78",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Tororó",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2305585,-9.4467613]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192028072",
+      "addr:housenumber": "23",
+      "addr:postcode": "48610-268",
+      "addr:street": "Rua Federação",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2299832,-9.446473]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469167",
+      "addr:housenumber": "63",
+      "addr:postcode": "48610-266",
+      "addr:street": "Rua Itapagipe",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2296957,-9.4465141]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469547",
+      "addr:housenumber": "48",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Patamares",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2321737,-9.4472271]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469505",
+      "addr:housenumber": "23",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Brotas",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2310547,-9.4473032]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469502",
+      "addr:housenumber": "47",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Brotas",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2310812,-9.4471381]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469421",
+      "addr:housenumber": "54",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Tororó",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2305411,-9.446876]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469571",
+      "addr:housenumber": "50",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Pituba",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2318841,-9.4473977]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469469",
+      "addr:housenumber": "43",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Tororó",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2306709,-9.4470602]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469414",
+      "addr:housenumber": "19",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Tororó",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2304707,-9.447341]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191887095",
+      "addr:housenumber": "204",
+      "addr:postcode": "48610-200",
+      "addr:street": "Estrada Para Vila Matias",
+      "addr:suburb": "Benone Resende",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0164P-1-4"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2310735,-9.4457341]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469188",
+      "addr:housenumber": "169",
+      "addr:postcode": "48610-266",
+      "addr:street": "Rua Itapagipe",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2300219,-9.4456169]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469440",
+      "addr:housenumber": "13",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Nazaré",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2302436,-9.4470501]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469285",
+      "addr:housenumber": "156",
+      "addr:postcode": "48610-264",
+      "addr:street": "Rua Barris",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2295819,-9.4452483]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469347",
+      "addr:housenumber": "114",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Ondina",
+      "addr:suburb": "Benone Resende",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0164P-2-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2301431,-9.445365]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469235",
+      "addr:housenumber": "66",
+      "addr:postcode": "48610-266",
+      "addr:street": "Rua Itapagipe",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2295806,-9.446376]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469577",
+      "addr:housenumber": "113",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Patamares",
+      "addr:suburb": "Benone Resende",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0164P-12-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2323095,-9.4470292]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191887130",
+      "addr:housenumber": "258",
+      "addr:postcode": "48610-200",
+      "addr:street": "Estrada Para Vila Matias",
+      "addr:suburb": "Benone Resende",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0164P-1-4"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2315924,-9.4459526]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469455",
+      "addr:housenumber": "72",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Brotas",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.23097,-9.4468482]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469341",
+      "addr:housenumber": "8",
+      "addr:postcode": "48610-200",
+      "addr:street": "Estrada Para Vila Matias",
+      "addr:suburb": "Benone Resende",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0164P-1-4"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2308818,-9.4456534]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469524",
+      "addr:housenumber": "8",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Rio Vermelho",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2317896,-9.4464809]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469192",
+      "addr:housenumber": "133",
+      "addr:postcode": "48610-266",
+      "addr:street": "Rua Itapagipe",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2299258,-9.4458822]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469506",
+      "addr:housenumber": "4",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Pituba",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2316831,-9.4476553]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469409",
+      "addr:housenumber": "102",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Brotas",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2310267,-9.4465315]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192028485",
+      "addr:housenumber": "58",
+      "addr:postcode": "48610-260",
+      "addr:street": "Rua Pituaçu",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2285492,-9.4461143]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469418",
+      "addr:housenumber": "36",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Tororó",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2305122,-9.4470668]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469220",
+      "addr:housenumber": "127",
+      "addr:postcode": "48610-264",
+      "addr:street": "Rua Barris",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2294865,-9.4458489]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469271",
+      "addr:housenumber": "15",
+      "addr:postcode": "48610-262",
+      "addr:street": "Rua Boca do Rio",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2287359,-9.4466925]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192028027",
+      "addr:housenumber": "6",
+      "addr:postcode": "48610-268",
+      "addr:street": "Rua Federação",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2297539,-9.4470957]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192028153",
+      "addr:housenumber": "62",
+      "addr:postcode": "48610-266",
+      "addr:street": "Rua Itapagipe",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2299289,-9.4458736]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469560",
+      "addr:housenumber": "105",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Pituba",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2320055,-9.4466683]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469178",
+      "addr:housenumber": "103",
+      "addr:postcode": "48610-268",
+      "addr:street": "Rua Federação",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2301295,-9.4460735]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192028388",
+      "addr:housenumber": "161",
+      "addr:postcode": "48610-262",
+      "addr:street": "Rua Boca do Rio",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2292071,-9.4453938]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469489",
+      "addr:housenumber": "132",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Pelourinho",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2314986,-9.4464172]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469558",
+      "addr:housenumber": "114",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Patamares",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2323101,-9.4465489]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469381",
+      "addr:housenumber": "711",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Santa Inês",
+      "addr:suburb": "Benone Resende",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0164P-2-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.229794,-9.444327]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469371",
+      "addr:housenumber": "96",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Ondina",
+      "addr:suburb": "Benone Resende",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0164P-2-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2299489,-9.4452949]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469185",
+      "addr:housenumber": "156",
+      "addr:postcode": "48610-268",
+      "addr:street": "Rua Federação",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2303037,-9.4455974]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469438",
+      "addr:housenumber": "43",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Nazaré",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2302584,-9.4469566]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469368",
+      "addr:housenumber": "35",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Ondina",
+      "addr:suburb": "Benone Resende",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0164P-2-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2296864,-9.4452001]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469386",
+      "addr:housenumber": "7",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Santa Inês",
+      "addr:suburb": "Benone Resende",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0164P-2-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.23012,-9.444549]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192028036",
+      "addr:housenumber": "18",
+      "addr:postcode": "48610-268",
+      "addr:street": "Rua Federação",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2297992,-9.4469728]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469210",
+      "addr:housenumber": "156",
+      "addr:postcode": "48610-266",
+      "addr:street": "Rua Itapagipe",
+      "addr:suburb": "Benone Resende",
+      "addr:unit": "Casa A",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2299098,-9.4454693]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469177",
+      "addr:housenumber": "102",
+      "addr:postcode": "48610-268",
+      "addr:street": "Rua Federação",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2300916,-9.4461771]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469454",
+      "addr:housenumber": "23",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Brotas",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.230965,-9.446879]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191887123",
+      "addr:housenumber": "252",
+      "addr:postcode": "48610-200",
+      "addr:street": "Estrada Para Vila Matias",
+      "addr:suburb": "Benone Resende",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0164P-1-4"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2315394,-9.4459303]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469201",
+      "addr:housenumber": "102",
+      "addr:postcode": "48610-266",
+      "addr:street": "Rua Itapagipe",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2297398,-9.4459386]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469554",
+      "addr:housenumber": "91",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Patamares",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2322365,-9.4468404]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469467",
+      "addr:housenumber": "57",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Tororó",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2306855,-9.4469636]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469196",
+      "addr:housenumber": "113",
+      "addr:postcode": "48610-266",
+      "addr:street": "Rua Itapagipe",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2298526,-9.4460842]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469417",
+      "addr:housenumber": "30",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Tororó",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2305031,-9.4471273]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469207",
+      "addr:housenumber": "138",
+      "addr:postcode": "48610-266",
+      "addr:street": "Rua Itapagipe",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2298583,-9.4456114]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469182",
+      "addr:housenumber": "138",
+      "addr:postcode": "48610-268",
+      "addr:street": "Rua Federação",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.230245,-9.4457578]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469152",
+      "addr:housenumber": "12",
+      "addr:postcode": "48610-268",
+      "addr:street": "Rua Federação",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2297529,-9.4471024]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191887134",
+      "addr:housenumber": "270",
+      "addr:postcode": "48610-200",
+      "addr:street": "Estrada Para Vila Matias",
+      "addr:suburb": "Benone Resende",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0164P-1-4"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2316636,-9.4459826]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469224",
+      "addr:housenumber": "6",
+      "addr:postcode": "48610-266",
+      "addr:street": "Rua Itapagipe",
+      "addr:suburb": "Benone Resende",
+      "addr:unit": "Loja A",
+      "building": "yes",
+      "name": "Mercadinho Ceará",
+      "shop": "convenience"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2293764,-9.4470736]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469183",
+      "addr:housenumber": "144",
+      "addr:postcode": "48610-268",
+      "addr:street": "Rua Federação",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2302511,-9.4457413]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469369",
+      "addr:housenumber": "84",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Ondina",
+      "addr:suburb": "Benone Resende",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0164P-2-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2298,-9.4452411]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469265",
+      "addr:housenumber": "63",
+      "addr:postcode": "48610-262",
+      "addr:street": "Rua Boca do Rio",
+      "addr:suburb": "Benone Resende",
+      "addr:unit": "1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2288818,-9.4463033]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469363",
+      "addr:housenumber": "18",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Ondina",
+      "addr:suburb": "Benone Resende",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0164P-2-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.229193,-9.445022]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192028499",
+      "addr:housenumber": "34",
+      "addr:postcode": "48610-260",
+      "addr:street": "Rua Pituaçu",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2284736,-9.4462742]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469299",
+      "addr:housenumber": "4",
+      "addr:postcode": "48610-262",
+      "addr:street": "Rua Boca do Rio",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2285844,-9.4466297]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191887492",
+      "addr:housenumber": "127",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Pituba",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2319963,-9.4464922]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469365",
+      "addr:housenumber": "36",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Ondina",
+      "addr:suburb": "Benone Resende",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0164P-2-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2293317,-9.445072]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469447",
+      "addr:housenumber": "24",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Brotas",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2308927,-9.447329]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469546",
+      "addr:housenumber": "20",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Patamares",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2321735,-9.447228]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469562",
+      "addr:housenumber": "95",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Pituba",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2319873,-9.4467778]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469228",
+      "addr:housenumber": "16",
+      "addr:postcode": "48610-266",
+      "addr:street": "Rua Itapagipe",
+      "addr:suburb": "Benone Resende",
+      "addr:unit": "Fundos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2293597,-9.446813]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191887361",
+      "addr:housenumber": "21",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Brotas",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2310469,-9.4473512]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469227;192028255",
+      "addr:housenumber": "18",
+      "addr:postcode": "48610-266",
+      "addr:street": "Rua Itapagipe",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2294299,-9.4467819]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469187",
+      "addr:housenumber": "175",
+      "addr:postcode": "48610-266",
+      "addr:street": "Rua Itapagipe",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2300555,-9.4455241]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469569",
+      "addr:housenumber": "35",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Pituba",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2319032,-9.4472829]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469253",
+      "addr:housenumber": "24",
+      "addr:postcode": "48610-264",
+      "addr:street": "Rua Barris",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2290167,-9.4466746]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469442",
+      "addr:housenumber": "15",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Nazaré",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2302176,-9.4472143]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469301",
+      "addr:housenumber": "18",
+      "addr:postcode": "48610-262",
+      "addr:street": "Rua Boca do Rio",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2285924,-9.4466091]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469384",
+      "addr:housenumber": "18",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Santa Inês",
+      "addr:suburb": "Benone Resende",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0164P-2-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.229898,-9.444395]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469519",
+      "addr:housenumber": "14",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Pituba",
+      "addr:suburb": "Benone Resende",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "description": "CNEFE 2022 Igreja"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2318307,-9.4467687]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469582",
+      "addr:housenumber": "71",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Patamares",
+      "addr:suburb": "Benone Resende",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0164P-12-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2322421,-9.4474425]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469590",
+      "addr:housenumber": "15",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Patamares",
+      "addr:suburb": "Benone Resende",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0164P-12-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2321675,-9.4478995]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469446",
+      "addr:housenumber": "18",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Brotas",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.230882,-9.4473953]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469262",
+      "addr:housenumber": "85",
+      "addr:postcode": "48610-262",
+      "addr:street": "Rua Boca do Rio",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2289596,-9.44609]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192028452",
+      "addr:housenumber": "15",
+      "addr:postcode": "48610-262",
+      "addr:street": "Rua Boca do Rio",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2288308,-9.4459931]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469321",
+      "addr:housenumber": "138",
+      "addr:postcode": "48610-262",
+      "addr:street": "Rua Boca do Rio",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2290734,-9.4453046]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192028490",
+      "addr:housenumber": "59",
+      "addr:postcode": "48610-260",
+      "addr:street": "Rua Pituaçu",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2285162,-9.4461842]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469164",
+      "addr:housenumber": "85",
+      "addr:postcode": "48610-266",
+      "addr:street": "Rua Itapagipe",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2297436,-9.4463834]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469317",
+      "addr:housenumber": "114",
+      "addr:postcode": "48610-262",
+      "addr:street": "Rua Boca do Rio",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2289666,-9.4456116]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469272",
+      "addr:housenumber": "7",
+      "addr:postcode": "48610-262",
+      "addr:street": "Rua Boca do Rio",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2287066,-9.4467369]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469412",
+      "addr:housenumber": "5",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Federação",
+      "addr:suburb": "Benone Resende",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "description": "CNEFE 2022 Igreja"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2303429,-9.4460098]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469181",
+      "addr:housenumber": "139",
+      "addr:postcode": "48610-268",
+      "addr:street": "Rua Federação",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2301945,-9.4458959]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469523",
+      "addr:housenumber": "102",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Pituba",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2318647,-9.446565]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469584",
+      "addr:housenumber": "57",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Patamares",
+      "addr:suburb": "Benone Resende",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0164P-12-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.232235,-9.4474854]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469204",
+      "addr:housenumber": "120",
+      "addr:postcode": "48610-266",
+      "addr:street": "Rua Itapagipe",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2297894,-9.4458018]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469364",
+      "addr:housenumber": "30",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Ondina",
+      "addr:suburb": "Benone Resende",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0164P-2-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2293256,-9.4450698]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469581",
+      "addr:housenumber": "77",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Patamares",
+      "addr:suburb": "Benone Resende",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0164P-12-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2322602,-9.4473313]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469501",
+      "addr:housenumber": "51",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Brotas",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2310879,-9.4470961]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469445",
+      "addr:housenumber": "12",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Brotas",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2308755,-9.4474357]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469357",
+      "addr:housenumber": "4",
+      "addr:postcode": "48610-200",
+      "addr:street": "Estrada Para Vila Matias",
+      "addr:suburb": "Benone Resende",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0164P-1-4"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2307321,-9.4455899]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469311",
+      "addr:housenumber": "78",
+      "addr:postcode": "48610-262",
+      "addr:street": "Rua Boca do Rio",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2288291,-9.4459987]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469160",
+      "addr:housenumber": "66",
+      "addr:postcode": "48610-268",
+      "addr:street": "Rua Federação",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2299711,-9.4465058]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469362",
+      "addr:housenumber": "12",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Ondina",
+      "addr:suburb": "Benone Resende",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0164P-2-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2291144,-9.4449936]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469231",
+      "addr:housenumber": "42",
+      "addr:postcode": "48610-266",
+      "addr:street": "Rua Itapagipe",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.229482,-9.4466447]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469175",
+      "addr:housenumber": "90",
+      "addr:postcode": "48610-268",
+      "addr:street": "Rua Federação",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2300841,-9.4462686]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469567",
+      "addr:housenumber": "12",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Pituba",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2319214,-9.4471733]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469578",
+      "addr:housenumber": "45",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Patamares",
+      "addr:suburb": "Benone Resende",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0164P-12-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2322931,-9.4471293]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469186",
+      "addr:housenumber": "183",
+      "addr:postcode": "48610-266",
+      "addr:street": "Rua Itapagipe",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2300636,-9.445502]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469348",
+      "addr:housenumber": "108 B",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Ondina",
+      "addr:suburb": "Benone Resende",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0164P-2-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2300645,-9.4453366]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469267",
+      "addr:housenumber": "43",
+      "addr:postcode": "48610-262",
+      "addr:street": "Rua Boca do Rio",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.228831,-9.4464388]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469229",
+      "addr:housenumber": "30",
+      "addr:postcode": "48610-266",
+      "addr:street": "Rua Itapagipe",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2294421,-9.44675]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469183",
+      "addr:housenumber": "144",
+      "addr:postcode": "48610-268",
+      "addr:street": "Rua Federação",
+      "addr:suburb": "Benone Resende",
+      "building": "yes",
+      "hairdresser": "barber",
+      "name": "Barbearia Real",
+      "shop": "hairdresser"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.23025284625,-9.4457462000032]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469304",
+      "addr:housenumber": "36",
+      "addr:postcode": "48610-262",
+      "addr:street": "Rua Boca do Rio",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2287156,-9.4462913]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469522",
+      "addr:housenumber": "96",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Pituba",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2318628,-9.4465759]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469288",
+      "addr:housenumber": "169",
+      "addr:postcode": "48610-262",
+      "addr:street": "Rua Boca do Rio",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2292184,-9.4453612]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469359",
+      "addr:housenumber": "184",
+      "addr:postcode": "48610-200",
+      "addr:street": "Estrada Para Vila Matias",
+      "addr:suburb": "Benone Resende",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0164P-1-4"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2307255,-9.4455875]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192028138",
+      "addr:housenumber": "125",
+      "addr:postcode": "48610-284",
+      "addr:street": "Rua Ondina",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2302243,-9.4455043]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191887282",
+      "addr:housenumber": "66",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Brotas",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2309629,-9.4468921]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191887104",
+      "addr:housenumber": "13",
+      "addr:postcode": "48610-200",
+      "addr:street": "Estrada Para Vila Matias",
+      "addr:suburb": "Benone Resende",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0164P-1-4"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2311892,-9.4457829]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469406",
+      "addr:housenumber": "17",
+      "addr:postcode": "48610-200",
+      "addr:street": "Estrada Para Vila Matias",
+      "addr:suburb": "Benone Resende",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0164P-1-4"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2314169,-9.4458787]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469575",
+      "addr:housenumber": "23",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Pituba",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2317738,-9.4478931]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469158",
+      "addr:housenumber": "54",
+      "addr:postcode": "48610-268",
+      "addr:street": "Rua Federação",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2299191,-9.4466469]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469550",
+      "addr:housenumber": "60",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Patamares",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2321975,-9.4470803]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191887161",
+      "addr:housenumber": "132",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Ondina",
+      "addr:suburb": "Benone Resende",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0164P-2-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2302503,-9.4454036]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192028393",
+      "addr:housenumber": "127",
+      "addr:postcode": "48610-262",
+      "addr:street": "Rua Boca do Rio",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2290861,-9.4457418]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469425",
+      "addr:housenumber": "34",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Tororó",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2306221,-9.4464279]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469551",
+      "addr:housenumber": "72",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Patamares",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2322117,-9.4469931]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469587",
+      "addr:housenumber": "35",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Patamares",
+      "addr:suburb": "Benone Resende",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0164P-12-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2321955,-9.4477276]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469274",
+      "addr:housenumber": "90",
+      "addr:postcode": "48610-264",
+      "addr:street": "Rua Barris",
+      "addr:suburb": "Benone Resende",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.229289,-9.4459591]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469485",
+      "addr:housenumber": "108",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Pelourinho",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2313776,-9.4469382]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469490",
+      "addr:housenumber": "141",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Brotas",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2311682,-9.4464321]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469273",
+      "addr:housenumber": "4",
+      "addr:postcode": "48610-262",
+      "addr:street": "Rua Boca do Rio",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.22869,-9.4467522]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469482",
+      "addr:housenumber": "84",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Pelourinho",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2313799,-9.4469243]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469296",
+      "addr:housenumber": "113",
+      "addr:postcode": "48610-262",
+      "addr:street": "Rua Boca do Rio",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2290545,-9.4458327]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191887486",
+      "addr:housenumber": "119",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Pituba",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2320053,-9.4465195]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469165",
+      "addr:housenumber": "77",
+      "addr:postcode": "48610-266",
+      "addr:street": "Rua Itapagipe",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2297269,-9.446429]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469583",
+      "addr:housenumber": "63",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Patamares",
+      "addr:suburb": "Benone Resende",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0164P-12-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2322404,-9.4474526]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191887079",
+      "addr:housenumber": "11",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Santa Inês",
+      "addr:suburb": "Benone Resende",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0164P-1-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2306306,-9.4450296]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469356",
+      "addr:housenumber": "166",
+      "addr:postcode": "48610-200",
+      "addr:street": "Estrada Para Vila Matias",
+      "addr:suburb": "Benone Resende",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "name": "Pequena Mercearia",
+      "note": "Sem dados para mover para dentro da quadra 0500-0164P-1-4",
+      "shop": "convenience"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2305591,-9.4454589]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192028396",
+      "addr:housenumber": "119",
+      "addr:postcode": "48610-262",
+      "addr:street": "Rua Boca do Rio",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2290871,-9.4457391]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469511",
+      "addr:housenumber": "24",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Pituba",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2317372,-9.4473308]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469358",
+      "addr:housenumber": "5",
+      "addr:postcode": "48610-200",
+      "addr:street": "Estrada Para Vila Matias",
+      "addr:suburb": "Benone Resende",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0164P-1-4"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2306254,-9.44552]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469286",
+      "addr:housenumber": "183",
+      "addr:postcode": "48610-262",
+      "addr:street": "Rua Boca do Rio",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2292687,-9.4452028]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469292",
+      "addr:housenumber": "141",
+      "addr:postcode": "48610-262",
+      "addr:street": "Rua Boca do Rio",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2291497,-9.4455589]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469383",
+      "addr:housenumber": "713",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Santa Inês",
+      "addr:suburb": "Benone Resende",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0164P-2-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.229859,-9.44433]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469300;27469309",
+      "addr:housenumber": "12",
+      "addr:postcode": "48610-262",
+      "addr:street": "Rua Boca do Rio",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2287111,-9.4463028]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469379",
+      "addr:housenumber": "24",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Santa Inês",
+      "addr:suburb": "Benone Resende",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0164P-2-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.229595,-9.444146]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469268",
+      "addr:housenumber": "35",
+      "addr:postcode": "48610-262",
+      "addr:street": "Rua Boca do Rio",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2288115,-9.4464908]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191887377",
+      "addr:housenumber": "108",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Pituba",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2318896,-9.4465163]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469343",
+      "addr:housenumber": "10",
+      "addr:postcode": "48610-200",
+      "addr:street": "Estrada Para Vila Matias",
+      "addr:suburb": "Benone Resende",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0164P-1-4"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2310012,-9.4457037]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469566",
+      "addr:housenumber": "11",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Pituba",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2319403,-9.4470601]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469251",
+      "addr:housenumber": "12",
+      "addr:postcode": "48610-264",
+      "addr:street": "Rua Barris",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2289712,-9.446798]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469361",
+      "addr:housenumber": "6",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Ondina",
+      "addr:suburb": "Benone Resende",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0164P-2-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2290752,-9.4449795]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469298",
+      "addr:housenumber": "1",
+      "addr:postcode": "48610-262",
+      "addr:street": "Rua Boca do Rio",
+      "addr:suburb": "Benone Resende",
+      "addr:unit": "Fundos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2285616,-9.4466846]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192028391",
+      "addr:housenumber": "133",
+      "addr:postcode": "48610-262",
+      "addr:street": "Rua Boca do Rio",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2291291,-9.4456183]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469287",
+      "addr:housenumber": "3",
+      "addr:postcode": "48610-262",
+      "addr:street": "Rua Boca do Rio",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2292476,-9.4452774]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469216",
+      "addr:housenumber": "155",
+      "addr:postcode": "48610-264",
+      "addr:street": "Rua Barris",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2295674,-9.4456294]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469270",
+      "addr:housenumber": "21",
+      "addr:postcode": "48610-262",
+      "addr:street": "Rua Boca do Rio",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2287759,-9.4465858]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191887115",
+      "addr:housenumber": "234",
+      "addr:postcode": "48610-200",
+      "addr:street": "Estrada Para Vila Matias",
+      "addr:suburb": "Benone Resende",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0164P-1-4"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2313464,-9.4458491]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469208",
+      "addr:housenumber": "144",
+      "addr:postcode": "48610-266",
+      "addr:street": "Rua Itapagipe",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2298669,-9.4455878]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191887119",
+      "addr:housenumber": "246",
+      "addr:postcode": "48610-200",
+      "addr:street": "Estrada Para Vila Matias",
+      "addr:suburb": "Benone Resende",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0164P-1-4"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2314924,-9.4459106]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469513",
+      "addr:housenumber": "42",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Pituba",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2317652,-9.4471627]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469456",
+      "addr:housenumber": "78",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Brotas",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2309867,-9.4467439]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469487",
+      "addr:housenumber": "120",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Pelourinho",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2314394,-9.4465624]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469491",
+      "addr:housenumber": "133 A",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Brotas",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2311717,-9.4464426]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469306",
+      "addr:housenumber": "48",
+      "addr:postcode": "48610-262",
+      "addr:street": "Rua Boca do Rio",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2287357,-9.4462394]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469248",
+      "addr:housenumber": "15",
+      "addr:postcode": "48610-264",
+      "addr:street": "Rua Barris",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2291214,-9.4468409]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469211",
+      "addr:housenumber": "189",
+      "addr:postcode": "48610-264",
+      "addr:street": "Rua Barris",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2296655,-9.4453362]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469198",
+      "addr:housenumber": "453",
+      "addr:postcode": "48610-266",
+      "addr:street": "Rua Itapagipe",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.229995,-9.4453763]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469397;27469448",
+      "addr:housenumber": "30",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Brotas",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2309682,-9.446859]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469311",
+      "addr:housenumber": "78",
+      "addr:postcode": "48610-262",
+      "addr:street": "Rua Boca do Rio",
+      "addr:suburb": "Benone Resende",
+      "building": "yes",
+      "name": "Mini Mercearia Santa Luzia",
+      "shop": "convenience"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.228832608086,-9.4459994951224]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469236",
+      "addr:housenumber": "72",
+      "addr:postcode": "48610-266",
+      "addr:street": "Rua Itapagipe",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2296402,-9.4462845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469452",
+      "addr:housenumber": "54",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Brotas",
+      "addr:suburb": "Benone Resende",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2309431,-9.4470153]
+      }
+    }
+  ]
+}

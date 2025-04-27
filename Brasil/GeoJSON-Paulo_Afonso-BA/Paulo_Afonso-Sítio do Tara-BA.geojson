@@ -1,0 +1,1842 @@
+{
+  "type": "FeatureCollection",
+  "generator": "CSV-CNEFE2GeoJSON.lua 1.5.7 - fidelis.assis@gmail.com",
+  "source": "IBGE CNEFE + Faces de Logradouros - 2022",
+  "date": "2025-02-02T09:05:34-0300",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191398499",
+      "addr:housenumber": "2",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Sítio do Tara",
+      "addr:unit": "2 1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0911985,-9.604747]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410342",
+      "addr:housenumber": "4",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Sítio do Tara",
+      "addr:unit": "Fundos Casa",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0915106,-9.6037387]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410345",
+      "addr:housenumber": "7",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Sítio do Tara",
+      "addr:unit": "Casa",
+      "disused:amenity": "pub",
+      "disused:building": "yes",
+      "old_name": "Bar Fechado"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0913077,-9.6043518]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191398484",
+      "addr:housenumber": "4",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Sítio do Tara",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0098P-1-7"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.088246,-9.604018]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191398396",
+      "addr:housenumber": "20",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Sítio do Tara",
+      "building": "yes",
+      "description": "CNEFE 2022 Sorveteria",
+      "shop": "ice_cream"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0899546,-9.6033038]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410334",
+      "addr:housenumber": "7",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Sítio do Tara",
+      "addr:unit": "Casa",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.090952,-9.6038745]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410297;27410303",
+      "addr:housenumber": "16",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Sítio do Tara",
+      "addr:unit": "Casa",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0893089,-9.6035631]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410289",
+      "addr:housenumber": "23",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Sítio do Tara",
+      "addr:unit": "Casa 9",
+      "building": "warehouse",
+      "description": "CNEFE 2022 Depósito"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0891859,-9.6043831]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191398497;191398502",
+      "addr:housenumber": "2",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Sítio do Tara",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 59m 0500-0098P-3-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0900615,-9.605283]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410307",
+      "addr:housenumber": "23",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Sítio do Tara",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0098P-1-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.090486,-9.6029623]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "91164109",
+      "addr:housenumber": "12",
+      "addr:postcode": "48608-200",
+      "addr:street": "Sítio do Tara 1",
+      "addr:suburb": "Sítio do Tara",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0229P-0-108"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.085409,-9.600723]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410292",
+      "addr:housenumber": "12",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Sítio do Tara",
+      "addr:unit": "Armazém 12",
+      "building": "yes",
+      "description": "CNEFE 2022 Mercearia",
+      "shop": "convenience"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0889446,-9.6035876]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410357",
+      "addr:housenumber": "21",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Sítio do Tara",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0909961,-9.6050683]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410328",
+      "addr:housenumber": "2",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Sítio do Tara",
+      "addr:unit": "Casa",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0903862,-9.6032672]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191398624",
+      "addr:housenumber": "11",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Sítio do Tara",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0918876,-9.6034695]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410358",
+      "addr:housenumber": "3",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Sítio do Tara",
+      "addr:unit": "Cômodo",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0907829,-9.6052839]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410344",
+      "addr:housenumber": "6",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Sítio do Tara",
+      "addr:unit": "Casa",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0912312,-9.6042455]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410312",
+      "addr:housenumber": "2",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Sítio do Tara",
+      "addr:unit": "Casa",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0907143,-9.6029992]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410317",
+      "addr:housenumber": "7",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Sítio do Tara",
+      "addr:unit": "Casa 17400",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0914118,-9.6031568]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410311",
+      "addr:housenumber": "12",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Sítio do Tara",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0098P-6-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0907713,-9.6026086]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "91164105",
+      "addr:housenumber": "2",
+      "addr:postcode": "48601-248",
+      "addr:street": "Sítio do Tara 1",
+      "addr:suburb": "Sítio do Tara",
+      "addr:unit": "Sns",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0229P-0-106"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.085191,-9.602505]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410339",
+      "addr:housenumber": "1",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Sítio do Tara",
+      "addr:unit": "Casa",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0927091,-9.603821]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410331",
+      "addr:housenumber": "5",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Sítio do Tara",
+      "addr:unit": "Casa",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0901095,-9.6037824]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "91164110",
+      "addr:housenumber": "2",
+      "addr:postcode": "48601-248",
+      "addr:street": "Sítio do Tara 1",
+      "addr:suburb": "Sítio do Tara",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0229P-0-106"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.085223,-9.600573]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410355",
+      "addr:housenumber": "1",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Sítio do Tara",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0904629,-9.603146]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191398372",
+      "addr:housenumber": "1",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Sítio do Tara",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0897203,-9.6033833]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410346",
+      "addr:housenumber": "8",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Sítio do Tara",
+      "addr:unit": "Casa",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0916382,-9.6044629]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410309",
+      "addr:housenumber": "25",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Sítio do Tara",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0098P-1-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0905592,-9.6028367]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191398528",
+      "addr:housenumber": "35",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Sítio do Tara",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.090677,-9.6041047]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191398387",
+      "addr:housenumber": "20",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Sítio do Tara",
+      "addr:unit": "Casa B",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.089964,-9.6033006]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410354",
+      "addr:housenumber": "1",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Sítio do Tara",
+      "addr:unit": "Casa",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0908414,-9.6042432]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191398700;191398704",
+      "addr:housenumber": "13",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Sítio do Tara",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0098P-7-6"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0943135,-9.6046815]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191398700",
+      "addr:housenumber": "13",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Sítio do Tara",
+      "building": "yes",
+      "name": "Planracao de Palma"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0943999,-9.6044479]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410318",
+      "addr:housenumber": "8",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Sítio do Tara",
+      "addr:unit": "Sma Cômodo",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0916593,-9.6032824]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410329",
+      "addr:housenumber": "3",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Sítio do Tara",
+      "addr:unit": "3 1 Casa",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0903312,-9.6034326]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410319",
+      "addr:housenumber": "9",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Sítio do Tara",
+      "addr:unit": "Cômodo",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0917277,-9.6033439]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410306",
+      "addr:housenumber": "22",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Sítio do Tara",
+      "addr:unit": "Loja",
+      "building": "yes",
+      "description": "CNEFE 2022 Loja de Roupas",
+      "shop": "clothes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0902066,-9.603195]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410295",
+      "addr:housenumber": "28",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Sítio do Tara",
+      "addr:unit": "Módulo 14",
+      "building": "yes",
+      "name": "Posto Telefinico"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0891393,-9.6036666]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410365",
+      "addr:housenumber": "11",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Sítio do Tara",
+      "addr:unit": "Casa",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0890875,-9.6046757]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410308",
+      "addr:housenumber": "24",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Sítio do Tara",
+      "addr:unit": "Cômodo",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "evangelical",
+      "fixme": "Verificar coordenadas",
+      "name": "Igreja Evangélica Piracicaba Ministério Madureira",
+      "note": "Sem dados para mover para dentro da quadra 0500-0098P-1-1",
+      "religion": "christian"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.090585,-9.6027905]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191398694",
+      "addr:housenumber": "3",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Sítio do Tara",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0098P-7-4"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.092787,-9.604046]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191398598",
+      "addr:housenumber": "11",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Sítio do Tara",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0098P-6-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0910518,-9.6022323]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "91164106",
+      "addr:housenumber": "16",
+      "addr:postcode": "48601-248",
+      "addr:street": "Sítio do Tara 1",
+      "addr:suburb": "Sítio do Tara",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0229P-0-106"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.085047,-9.602566]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410360",
+      "addr:housenumber": "4",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Sítio do Tara",
+      "addr:unit": "Anexo",
+      "amenity": "pub",
+      "building": "yes",
+      "name": "Bar do Zenilton"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0898356,-9.6040718]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410326",
+      "addr:housenumber": "1",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Sítio do Tara",
+      "addr:unit": "Casa",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0905866,-9.6030546]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191398404",
+      "addr:housenumber": "20",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Sítio do Tara",
+      "addr:unit": "Depósito 20 1",
+      "building": "warehouse",
+      "description": "CNEFE 2022 Depósito"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0899714,-9.6032981]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410288",
+      "addr:housenumber": "22",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Sítio do Tara",
+      "addr:unit": "Casa 8",
+      "building": "warehouse",
+      "description": "CNEFE 2022 Depósito"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0891373,-9.6044277]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410362",
+      "addr:housenumber": "7",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Sítio do Tara",
+      "addr:unit": "Casa",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0895601,-9.6042694]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410330",
+      "addr:housenumber": "4",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Sítio do Tara",
+      "addr:unit": "Casa",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0902045,-9.6036809]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410286",
+      "addr:housenumber": "7",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Sítio do Tara",
+      "addr:unit": "Casa 21",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.089138,-9.604427]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410352",
+      "addr:housenumber": "14",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Sítio do Tara",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0098P-7-6"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.094307,-9.604902]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410285",
+      "addr:housenumber": "10",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Sítio do Tara",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0892258,-9.6043487]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410369",
+      "addr:housenumber": "4",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Sítio do Tara",
+      "addr:unit": "Casa",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "description": "CNEFE 2022 Igreja",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0098P-2-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0901599,-9.6035663]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410299",
+      "addr:housenumber": "18",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Sítio do Tara",
+      "addr:unit": "Cais",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0894926,-9.603478]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410367",
+      "addr:housenumber": "1",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Sítio do Tara",
+      "addr:unit": "Casa",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0886458,-9.6047379]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410359",
+      "addr:housenumber": "3",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Sítio do Tara",
+      "addr:unit": "Lote",
+      "description": "CNEFE 2022 Antiga Associação",
+      "disused:building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0899662,-9.603994]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410333",
+      "addr:housenumber": "6",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Sítio do Tara",
+      "addr:unit": "Casa",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0907272,-9.6039437]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410296",
+      "addr:housenumber": "15",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Sítio do Tara",
+      "addr:unit": "Casa 15",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.089217,-9.6036054]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191398511",
+      "addr:housenumber": "5",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Sítio do Tara",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0898246,-9.6040797]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410324",
+      "addr:housenumber": "31",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Sítio do Tara",
+      "addr:unit": "Casa",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0925651,-9.6035041]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410337",
+      "addr:housenumber": "10",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Sítio do Tara",
+      "addr:unit": "Casa",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0913315,-9.6036035]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410351",
+      "addr:housenumber": "13",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Sítio do Tara",
+      "addr:unit": "Casa",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0930209,-9.6051393]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191398505",
+      "addr:housenumber": "15",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Sítio do Tara",
+      "addr:unit": "15 1",
+      "amenity": "pub",
+      "building": "yes",
+      "description": "CNEFE 2022 Bar",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 55m 0500-0098P-3-4"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.093285,-9.605823]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410321",
+      "addr:housenumber": "10",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Sítio do Tara",
+      "addr:unit": "Casa",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0918222,-9.6034237]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410348",
+      "addr:housenumber": "10",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Sítio do Tara",
+      "addr:unit": "Casa",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0917377,-9.6044828]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191398564",
+      "addr:housenumber": "3",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Sítio do Tara",
+      "addr:unit": "3 2",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0902691,-9.603563]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191398637",
+      "addr:housenumber": "12",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Sítio do Tara",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0924711,-9.6034676]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410291",
+      "addr:housenumber": "5",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Sítio do Tara",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0888155,-9.6046776]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191398561",
+      "addr:housenumber": "10",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Sítio do Tara",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0910466,-9.6031802]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410349",
+      "addr:housenumber": "11",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Sítio do Tara",
+      "addr:unit": "Casa",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0924405,-9.6046836]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410327",
+      "addr:housenumber": "3",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Sítio do Tara",
+      "addr:unit": "Casa",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0902934,-9.6034521]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410320",
+      "addr:housenumber": "8",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Sítio do Tara",
+      "addr:unit": "Casa",
+      "amenity": "animal_breeding",
+      "animal_breeding": "cow",
+      "landuse": "farmyard",
+      "name": "Criação Bovina"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0915558,-9.603157]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410353",
+      "addr:housenumber": "15",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Sítio do Tara",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 46m 0500-0098P-7-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.094217,-9.60555]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410356",
+      "addr:housenumber": "2",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Sítio do Tara",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 139m 0500-0098P-4-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.090175,-9.6041]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "91164107",
+      "addr:housenumber": "14",
+      "addr:postcode": "48601-248",
+      "addr:street": "Sítio do Tara 1",
+      "addr:suburb": "Sítio do Tara",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0229P-0-106"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.085348,-9.601292]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "91164110",
+      "addr:housenumber": "2",
+      "addr:postcode": "48601-248",
+      "addr:street": "Sítio do Tara 1",
+      "addr:suburb": "Sítio do Tara",
+      "amenity": "animal_breeding",
+      "animal_breeding": "cow",
+      "fixme": "Verificar coordenadas",
+      "landuse": "farmyard",
+      "name": "Criação de Bovinos",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0229P-0-106"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.085222955807,-9.6005731616562]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410290",
+      "addr:housenumber": "6",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Sítio do Tara",
+      "addr:unit": "Casa 4",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0889226,-9.6046077]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410368",
+      "addr:housenumber": "2",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Sítio do Tara",
+      "addr:unit": "Casa",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0885823,-9.60469]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191398421",
+      "addr:housenumber": "12",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Sítio do Tara",
+      "building": "warehouse",
+      "description": "CNEFE 2022 Depósito de Reafriador",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0098P-1-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.088696,-9.603264]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410300;27410304",
+      "addr:housenumber": "18",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Sítio do Tara",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0895014,-9.6034739]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410366",
+      "addr:housenumber": "1",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Sítio do Tara",
+      "addr:unit": "Pavilhão",
+      "amenity": "school",
+      "building": "yes",
+      "name": "Escola Municipal Odilon Café"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0888033,-9.6047467]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410340",
+      "addr:housenumber": "2",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Sítio do Tara",
+      "addr:unit": "Cômodo",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0927313,-9.6038781]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "91164111",
+      "addr:housenumber": "1",
+      "addr:postcode": "48601-248",
+      "addr:street": "Sítio do Tara 1",
+      "addr:suburb": "Sítio do Tara",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0229P-0-106"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0851,-9.600314]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191398380",
+      "addr:housenumber": "20",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Sítio do Tara",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0899499,-9.6033054]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191398539",
+      "addr:housenumber": "1",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Sítio do Tara",
+      "addr:unit": "1 3",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 174m 0500-0098P-4-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.090406,-9.604097]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410350",
+      "addr:housenumber": "12",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Sítio do Tara",
+      "addr:unit": "Casa",
+      "building": "warehouse",
+      "description": "CNEFE 2022 Depósito"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0892075,-9.6050456]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410320",
+      "addr:housenumber": "8",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Sítio do Tara",
+      "addr:unit": "Casa",
+      "building": "warehouse",
+      "description": "CNEFE 2022 Depósito"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.091548095023,-9.6031585613881]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410361",
+      "addr:housenumber": "6",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Sítio do Tara",
+      "addr:unit": "Casa",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0896445,-9.6042089]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410325",
+      "addr:housenumber": "1",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Sítio do Tara",
+      "addr:unit": "Cômodo",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0909461,-9.6031194]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410343",
+      "addr:housenumber": "5",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Sítio do Tara",
+      "addr:unit": "Casa",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0912052,-9.6040457]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191398572",
+      "addr:housenumber": "8",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Sítio do Tara",
+      "amenity": "pub",
+      "building": "yes",
+      "name": "Bar e Sinuca"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0910911,-9.6037746]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410335",
+      "addr:housenumber": "8",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Sítio do Tara",
+      "addr:unit": "Casa",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0910776,-9.6037872]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410304",
+      "addr:housenumber": "18",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Sítio do Tara",
+      "crop": "vegetable",
+      "landuse": "farmland;orchard",
+      "name": "Plantação de Frutas e Hortas"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0897375,-9.6033777]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410338",
+      "addr:housenumber": "13",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Sítio do Tara",
+      "addr:unit": "Casa 61",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0928275,-9.6034506]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410323",
+      "addr:housenumber": "9",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Sítio do Tara",
+      "addr:unit": "Casa",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.091806,-9.6034106]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410298",
+      "addr:housenumber": "17",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Sítio do Tara",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0893788,-9.6035309]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410322",
+      "addr:housenumber": "7",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Sítio do Tara",
+      "addr:unit": "7 1 Casa",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0910554,-9.6038037]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410347",
+      "addr:housenumber": "9",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Sítio do Tara",
+      "addr:unit": "Casa",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0917496,-9.6044852]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191398472",
+      "addr:housenumber": "3",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Sítio do Tara",
+      "building": "warehouse",
+      "description": "CNEFE 2022 Depósito"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.088939,-9.6035695]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410336",
+      "addr:housenumber": "9",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Sítio do Tara",
+      "addr:unit": "Casa",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0912207,-9.6036682]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410364",
+      "addr:housenumber": "10",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Sítio do Tara",
+      "addr:unit": "Casa",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0891384,-9.6046282]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191398586",
+      "addr:housenumber": "2",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Sítio do Tara",
+      "addr:unit": "10 2",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0916609,-9.6034504]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191398564",
+      "addr:housenumber": "3",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Sítio do Tara",
+      "addr:unit": "3 2",
+      "amenity": "animal_breeding",
+      "animal_breeding": "poultry",
+      "building": "yes",
+      "name": "Criação de Galinha"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.090270847057,-9.6035679000032]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "91164108",
+      "addr:housenumber": "13",
+      "addr:postcode": "48601-248",
+      "addr:street": "Sítio do Tara 1",
+      "addr:suburb": "Sítio do Tara",
+      "addr:unit": "Fms",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0229P-0-106"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0855,-9.600898]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410315",
+      "addr:housenumber": "5",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Sítio do Tara",
+      "addr:unit": "Casa",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0911185,-9.6031395]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410293",
+      "addr:housenumber": "12",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Sítio do Tara",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0098P-1-4"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.088719,-9.603447]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410294",
+      "addr:housenumber": "27",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Sítio do Tara",
+      "addr:unit": "Fundos",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0098P-1-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.088956,-9.603287]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410368",
+      "addr:housenumber": "2",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Sítio do Tara",
+      "addr:unit": "Casa",
+      "building": "warehouse",
+      "description": "CNEFE 2022 Depósito de Ração"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.088585809717,-9.6046907951224]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410305",
+      "addr:housenumber": "26",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Sítio do Tara",
+      "addr:unit": "Casa",
+      "building": "construction",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0098P-1-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0907871,-9.6025121]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410316",
+      "addr:housenumber": "6",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Sítio do Tara",
+      "addr:unit": "Casa",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0912237,-9.6031424]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410287",
+      "addr:housenumber": "11",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Sítio do Tara",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "description": "CNEFE 2022 Lavanderia",
+      "shop": "laundry"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.088977,-9.6036952]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191398524",
+      "addr:housenumber": "1",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Sítio do Tara",
+      "addr:unit": "1 1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0908036,-9.604221]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410332",
+      "addr:housenumber": "6",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Sítio do Tara",
+      "amenity": "clinic",
+      "building": "yes",
+      "healthcare": "yes",
+      "name": "Posto de Saúde"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0905709,-9.6039641]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191398593",
+      "addr:housenumber": "1",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Sítio do Tara",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0098P-6-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0912089,-9.6020557]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191398684",
+      "addr:housenumber": "32",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Sítio do Tara",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0098P-7-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0923976,-9.6035981]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191398620",
+      "addr:housenumber": "10",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Sítio do Tara",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0918224,-9.6034239]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410341",
+      "addr:housenumber": "3",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Sítio do Tara",
+      "addr:unit": "Casa",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0921023,-9.6034796]
+      }
+    }
+  ]
+}

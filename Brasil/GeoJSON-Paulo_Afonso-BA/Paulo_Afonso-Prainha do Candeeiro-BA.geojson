@@ -1,0 +1,808 @@
+{
+  "type": "FeatureCollection",
+  "source": "IBGE CNEFE + Faces de Logradouros - 2022",
+  "generator": "CSV-CNEFE2GeoJSON.lua 1.5.7 - fidelis.assis@gmail.com",
+  "date": "2025-02-02T09:05:32-0300",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "90500443",
+      "addr:housenumber": "24",
+      "addr:postcode": "48619-899",
+      "addr:street": "Orla Prainha",
+      "addr:suburb": "Prainha do Candeeiro",
+      "disused:amenity": "pub",
+      "disused:building": "yes",
+      "old_name": "Bar Fechado"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2236778,-9.4302989]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "90500440",
+      "addr:housenumber": "22",
+      "addr:postcode": "48619-899",
+      "addr:street": "Orla Prainha",
+      "addr:suburb": "Prainha do Candeeiro",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2237488,-9.4301279]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "90500428",
+      "addr:housenumber": "14",
+      "addr:postcode": "48619-899",
+      "addr:street": "Orla Prainha",
+      "addr:suburb": "Prainha do Candeeiro",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2238708,-9.4298341]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216476022",
+      "addr:housenumber": "5",
+      "addr:postcode": "48619-899",
+      "addr:street": "Orla Prainha",
+      "addr:suburb": "Prainha do Candeeiro",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0202P-10-4"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.224644,-9.42918]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216476004",
+      "addr:housenumber": "25",
+      "addr:postcode": "48619-899",
+      "addr:street": "Orla Prainha",
+      "addr:suburb": "Prainha do Candeeiro",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2247229,-9.4292621]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "97630817",
+      "addr:housenumber": "9999",
+      "addr:postcode": "48619-899",
+      "addr:street": "Orla Prainha",
+      "addr:suburb": "Prainha do Candeeiro",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2247678,-9.4304222]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "90500440",
+      "addr:housenumber": "22",
+      "addr:postcode": "48619-899",
+      "addr:street": "Orla Prainha",
+      "addr:suburb": "Prainha do Candeeiro",
+      "amenity": "pub",
+      "building": "yes",
+      "description": "CNEFE 2022 Bar"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.223748755829,-9.4301280616562]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216475962",
+      "addr:housenumber": "30",
+      "addr:postcode": "48619-899",
+      "addr:street": "Orla Prainha",
+      "addr:suburb": "Prainha do Candeeiro",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2240526,-9.4303502]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216476018",
+      "addr:housenumber": "3 Térreo 1",
+      "addr:postcode": "48619-899",
+      "addr:street": "Orla Prainha",
+      "addr:suburb": "Prainha do Candeeiro",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2246856,-9.4293091]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "90500435",
+      "addr:housenumber": "12",
+      "addr:postcode": "48619-899",
+      "addr:street": "Orla Prainha",
+      "addr:suburb": "Prainha do Candeeiro",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2238194,-9.4299578]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "90500427",
+      "addr:housenumber": "15",
+      "addr:postcode": "48619-899",
+      "addr:street": "Orla Prainha",
+      "addr:suburb": "Prainha do Candeeiro",
+      "amenity": "pub",
+      "building": "yes",
+      "name": "Bar do Vovó"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2238678,-9.4298414]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "90500426",
+      "addr:housenumber": "10",
+      "addr:postcode": "48619-899",
+      "addr:street": "Orla Prainha",
+      "addr:suburb": "Prainha do Candeeiro",
+      "amenity": "pub",
+      "building": "yes",
+      "description": "CNEFE 2022 Bar"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2239431,-9.429679]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216475996",
+      "addr:housenumber": "501",
+      "addr:postcode": "48619-899",
+      "addr:street": "Orla Prainha",
+      "addr:suburb": "Prainha do Candeeiro",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2234379,-9.4306539]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "97586550",
+      "addr:housenumber": "20",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada do Parque Aquático",
+      "addr:suburb": "Prainha do Candeeiro",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 149m 0500-0202P-7-10"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.226955,-9.430481]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "90500421",
+      "addr:housenumber": "4",
+      "addr:postcode": "48619-899",
+      "addr:street": "Orla Prainha",
+      "addr:suburb": "Prainha do Candeeiro",
+      "amenity": "pub",
+      "building": "yes",
+      "name": "Bar da Dilma"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.224133,-9.4293843]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216475992",
+      "addr:housenumber": "10",
+      "addr:postcode": "48619-899",
+      "addr:street": "Orla Prainha",
+      "addr:suburb": "Prainha do Candeeiro",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2234385,-9.4306982]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216475983",
+      "addr:housenumber": "6",
+      "addr:postcode": "48619-899",
+      "addr:street": "Orla Prainha",
+      "addr:suburb": "Prainha do Candeeiro",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2234368,-9.4306975]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "90500436",
+      "addr:housenumber": "20",
+      "addr:postcode": "48619-899",
+      "addr:street": "Orla Prainha",
+      "addr:suburb": "Prainha do Candeeiro",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2237868,-9.4300364]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "97586612",
+      "addr:housenumber": "12",
+      "addr:postcode": "48619-899",
+      "addr:street": "Orla Prainha",
+      "addr:suburb": "Prainha do Candeeiro",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2241212,-9.4301051]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216475983",
+      "addr:housenumber": "6",
+      "addr:postcode": "48619-899",
+      "addr:street": "Orla Prainha",
+      "addr:suburb": "Prainha do Candeeiro",
+      "landuse": "farmyard;orchard",
+      "name": "Chácara Pra Eventos"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.22342909891,-9.4306990613881]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "90500413",
+      "addr:housenumber": "25",
+      "addr:postcode": "48619-899",
+      "addr:street": "Orla Prainha",
+      "addr:suburb": "Prainha do Candeeiro",
+      "amenity": "pub",
+      "building": "yes",
+      "name": "Bar Beer Pub"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.223611,-9.4304598]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216475989",
+      "addr:housenumber": "9",
+      "addr:postcode": "48619-899",
+      "addr:street": "Orla Prainha",
+      "addr:suburb": "Prainha do Candeeiro",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2234347,-9.4306944]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "90500425",
+      "addr:housenumber": "17",
+      "addr:postcode": "48619-899",
+      "addr:street": "Orla Prainha",
+      "addr:suburb": "Prainha do Candeeiro",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2239805,-9.4296209]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "97586613",
+      "addr:housenumber": "31",
+      "addr:postcode": "48619-899",
+      "addr:street": "Orla Prainha",
+      "addr:suburb": "Prainha do Candeeiro",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2244635,-9.4292137]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "90500441;90500443",
+      "addr:housenumber": "24",
+      "addr:postcode": "48619-899",
+      "addr:street": "Orla Prainha",
+      "addr:suburb": "Prainha do Candeeiro",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2238346,-9.4299213]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216475979",
+      "addr:housenumber": "5",
+      "addr:postcode": "48619-899",
+      "addr:street": "Orla Prainha",
+      "addr:suburb": "Prainha do Candeeiro",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2237983,-9.4306562]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "90500420",
+      "addr:housenumber": "2",
+      "addr:postcode": "48619-899",
+      "addr:street": "Orla Prainha",
+      "addr:suburb": "Prainha do Candeeiro",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2241852,-9.4293248]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216475996",
+      "addr:housenumber": "501",
+      "addr:postcode": "48619-899",
+      "addr:street": "Orla Prainha",
+      "addr:suburb": "Prainha do Candeeiro",
+      "amenity": "restaurant",
+      "building": "yes",
+      "name": "Restaurante Bela Vista"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.223439646174,-9.4306588000032]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "90500429",
+      "addr:housenumber": "13",
+      "addr:postcode": "48619-899",
+      "addr:street": "Orla Prainha",
+      "addr:suburb": "Prainha do Candeeiro",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2238832,-9.4298043]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "90500427",
+      "addr:housenumber": "15",
+      "addr:postcode": "48619-899",
+      "addr:street": "Orla Prainha",
+      "addr:suburb": "Prainha do Candeeiro",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.223871307922,-9.4298421951224]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216475975",
+      "addr:housenumber": "3",
+      "addr:postcode": "48619-899",
+      "addr:street": "Orla Prainha",
+      "addr:suburb": "Prainha do Candeeiro",
+      "addr:unit": "Casa 1",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.223909,-9.4306903]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "90500437",
+      "addr:housenumber": "21",
+      "addr:postcode": "48619-899",
+      "addr:street": "Orla Prainha",
+      "addr:suburb": "Prainha do Candeeiro",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2237653,-9.4300881]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216475986",
+      "addr:housenumber": "8",
+      "addr:postcode": "48619-899",
+      "addr:street": "Orla Prainha",
+      "addr:suburb": "Prainha do Candeeiro",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2234386,-9.4306982]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216475915",
+      "addr:housenumber": "18",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada do Parque Aquático",
+      "addr:suburb": "Prainha do Candeeiro",
+      "amenity": "parking",
+      "building": "yes",
+      "description": "CNEFE 2022 Estacionamento",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0202P-7-11"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2248877,-9.4309448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "90500416",
+      "addr:housenumber": "1000",
+      "addr:postcode": "48619-899",
+      "addr:street": "Orla Prainha",
+      "addr:suburb": "Prainha do Candeeiro",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.224618,-9.4295489]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "97630817",
+      "addr:housenumber": "9999",
+      "addr:postcode": "48619-899",
+      "addr:street": "Orla Prainha",
+      "addr:suburb": "Prainha do Candeeiro",
+      "building": "yes",
+      "industrial": "shipyard",
+      "name": "Marina Estaleiro"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.224772587638,-9.430414822981]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "90500422",
+      "addr:housenumber": "30",
+      "addr:postcode": "48619-899",
+      "addr:street": "Orla Prainha",
+      "addr:suburb": "Prainha do Candeeiro",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2240876,-9.4294548]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216476014",
+      "addr:housenumber": "2",
+      "addr:postcode": "48619-899",
+      "addr:street": "Orla Prainha",
+      "addr:suburb": "Prainha do Candeeiro",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2246874,-9.429313]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "90500433",
+      "addr:housenumber": "16",
+      "addr:postcode": "48619-899",
+      "addr:street": "Orla Prainha",
+      "addr:suburb": "Prainha do Candeeiro",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2238358,-9.4299183]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "90500417",
+      "addr:housenumber": "26",
+      "addr:postcode": "48619-899",
+      "addr:street": "Orla Prainha",
+      "addr:suburb": "Prainha do Candeeiro",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2236102,-9.4304616]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "90500418",
+      "addr:housenumber": "1",
+      "addr:postcode": "48619-899",
+      "addr:street": "Orla Prainha",
+      "addr:suburb": "Prainha do Candeeiro",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2242824,-9.4292761]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "97586611",
+      "addr:housenumber": "29",
+      "addr:postcode": "48619-899",
+      "addr:street": "Orla Prainha",
+      "addr:suburb": "Prainha do Candeeiro",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2240193,-9.4304696]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216475957",
+      "addr:housenumber": "28",
+      "addr:postcode": "48619-899",
+      "addr:street": "Orla Prainha",
+      "addr:suburb": "Prainha do Candeeiro",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2240046,-9.4306969]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "90500431",
+      "addr:housenumber": "11",
+      "addr:postcode": "48619-899",
+      "addr:street": "Orla Prainha",
+      "addr:suburb": "Prainha do Candeeiro",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2239177,-9.4297211]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216475994",
+      "addr:housenumber": "11",
+      "addr:postcode": "48619-899",
+      "addr:street": "Orla Prainha",
+      "addr:suburb": "Prainha do Candeeiro",
+      "building": "warehouse",
+      "description": "CNEFE 2022 Depósito"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2234352,-9.4306952]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "90500441",
+      "addr:housenumber": "24",
+      "addr:postcode": "48619-899",
+      "addr:street": "Orla Prainha",
+      "addr:suburb": "Prainha do Candeeiro",
+      "amenity": "pub",
+      "building": "yes",
+      "description": "CNEFE 2022 Bar"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2240137,-9.4295694]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "90500435",
+      "addr:housenumber": "12",
+      "addr:postcode": "48619-899",
+      "addr:street": "Orla Prainha",
+      "addr:suburb": "Prainha do Candeeiro",
+      "amenity": "pub;restaurant",
+      "building": "yes",
+      "name": "Jc Bar e Restaurante"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.223811158784,-9.4299541955181]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "90500442",
+      "addr:housenumber": "23",
+      "addr:postcode": "48619-899",
+      "addr:street": "Orla Prainha",
+      "addr:suburb": "Prainha do Candeeiro",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2237035,-9.4302369]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "90500436",
+      "addr:housenumber": "20",
+      "addr:postcode": "48619-899",
+      "addr:street": "Orla Prainha",
+      "addr:suburb": "Prainha do Candeeiro",
+      "amenity": "pub",
+      "building": "yes",
+      "name": "Bar da Preta"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.223800544415,-9.4300342579953]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "90500423",
+      "addr:housenumber": "55",
+      "addr:postcode": "48619-899",
+      "addr:street": "Orla Prainha",
+      "addr:suburb": "Prainha do Candeeiro",
+      "amenity": "pub",
+      "building": "yes",
+      "name": "Oliveiras Bar"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2240426,-9.4295246]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216475971",
+      "addr:housenumber": "3",
+      "addr:postcode": "48619-899",
+      "addr:street": "Orla Prainha",
+      "addr:suburb": "Prainha do Candeeiro",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2239159,-9.4306924]
+      }
+    }
+  ]
+}

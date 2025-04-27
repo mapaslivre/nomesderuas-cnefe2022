@@ -1,0 +1,245 @@
+{
+  "type": "FeatureCollection",
+  "generator": "CSV-CNEFE2GeoJSON.lua 1.5.7 - fidelis.assis@gmail.com",
+  "source": "IBGE CNEFE + Faces de Logradouros - 2022",
+  "date": "2025-02-02T09:05:29-0300",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412312",
+      "addr:housenumber": "22",
+      "addr:postcode": "48608-200",
+      "addr:street": "Povoado Poços",
+      "addr:suburb": "Paulo Afonso Fazenda",
+      "addr:unit": "Casa 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0108P-0-157"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.402837,-9.620165]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412329",
+      "addr:housenumber": "7",
+      "addr:postcode": "48608-200",
+      "addr:street": "Povoado Grossos",
+      "addr:suburb": "Paulo Afonso Fazenda",
+      "addr:unit": "Casa 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0108P-0-123"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.391878,-9.637614]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112580935",
+      "addr:housenumber": "349",
+      "addr:postcode": "48608-200",
+      "addr:street": "Acesso da Estrada do São José para Santo Antônio",
+      "addr:suburb": "Paulo Afonso Fazenda",
+      "amenity": "animal_breeding",
+      "animal_breeding": "cow",
+      "fixme": "Verificar coordenadas",
+      "landuse": "animal_keeping;farmyard",
+      "name": "Criatório de Gado",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0108P-0-133"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.36159,-9.635731]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412312",
+      "addr:housenumber": "22",
+      "addr:postcode": "48608-200",
+      "addr:street": "Povoado Poços",
+      "addr:suburb": "Paulo Afonso Fazenda",
+      "addr:unit": "Casa 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "name": "Apcutura",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0108P-0-157"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.402836955804,-9.6201651616562]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191721930",
+      "addr:housenumber": "86",
+      "addr:postcode": "48609-234",
+      "addr:street": "Povoado Grossos",
+      "addr:suburb": "Paulo Afonso Fazenda",
+      "amenity": "animal_breeding",
+      "animal_breeding": "poultry",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "name": "Criatório de Galinha",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0108P-0-128"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.391509,-9.638023]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412330",
+      "addr:housenumber": "6",
+      "addr:postcode": "48608-200",
+      "addr:street": "Povoado Grossos",
+      "addr:suburb": "Paulo Afonso Fazenda",
+      "addr:unit": "Casa 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0108P-0-123"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.390644,-9.63805]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112580916",
+      "addr:housenumber": "354",
+      "addr:postcode": "48608-200",
+      "addr:street": "Estrada do São José para Paulo Afonso",
+      "addr:suburb": "Paulo Afonso Fazenda",
+      "amenity": "animal_breeding",
+      "animal_breeding": "cow",
+      "description": "CNEFE 2022 Criação de Gado",
+      "fixme": "Verificar coordenadas",
+      "landuse": "farmyard",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0108P-0-136"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.360346,-9.639204]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412328",
+      "addr:housenumber": "8",
+      "addr:postcode": "48608-200",
+      "addr:street": "Povoado Grossos",
+      "addr:suburb": "Paulo Afonso Fazenda",
+      "addr:unit": "Casa 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0108P-0-123"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.392303,-9.637273]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112581299",
+      "addr:housenumber": "9",
+      "addr:postcode": "48608-200",
+      "addr:street": "Estrada Grossos",
+      "addr:suburb": "Paulo Afonso Fazenda",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0108P-0-127"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.38968,-9.6384]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191721930",
+      "addr:housenumber": "86",
+      "addr:postcode": "48609-234",
+      "addr:street": "Povoado Grossos",
+      "addr:suburb": "Paulo Afonso Fazenda",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0108P-0-128"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.391501294228,-9.6380245613881]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412331",
+      "addr:housenumber": "5",
+      "addr:postcode": "48608-200",
+      "addr:street": "Povoado Grossos",
+      "addr:suburb": "Paulo Afonso Fazenda",
+      "addr:unit": "Casa 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0108P-0-123"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.389131,-9.637735]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112580916",
+      "addr:housenumber": "354",
+      "addr:postcode": "48608-200",
+      "addr:street": "Estrada do São José para Paulo Afonso",
+      "addr:suburb": "Paulo Afonso Fazenda",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0108P-0-136"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.360347747242,-9.6392089000032]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112580935",
+      "addr:housenumber": "349",
+      "addr:postcode": "48608-200",
+      "addr:street": "Acesso da Estrada do São José para Santo Antônio",
+      "addr:suburb": "Paulo Afonso Fazenda",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0108P-0-133"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.361593510039,-9.6357317951224]
+      }
+    }
+  ]
+}

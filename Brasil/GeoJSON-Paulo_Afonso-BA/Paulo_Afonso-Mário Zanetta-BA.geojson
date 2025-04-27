@@ -1,0 +1,665 @@
+{
+  "type": "FeatureCollection",
+  "generator": "CSV-CNEFE2GeoJSON.lua 1.5.7 - fidelis.assis@gmail.com",
+  "source": "IBGE CNEFE + Faces de Logradouros - 2022",
+  "date": "2025-02-02T09:05:27-0300",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "223252443",
+      "addr:housenumber": "79",
+      "addr:postcode": "48607-500",
+      "addr:street": "Rua Porto Rico",
+      "addr:suburb": "Mário Zanetta",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0148P-1-12"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.224488,-9.386951]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421364",
+      "addr:housenumber": "9",
+      "addr:postcode": "48607-500",
+      "addr:street": "Rua Porto Rico",
+      "addr:suburb": "Mário Zanetta",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2242357,-9.3867157]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "223252440",
+      "addr:housenumber": "18",
+      "addr:postcode": "48607-500",
+      "addr:street": "Rua Porto Rico",
+      "addr:suburb": "Mário Zanetta",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0148P-1-12"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.224395,-9.386894]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "223252439",
+      "addr:housenumber": "16",
+      "addr:postcode": "48607-500",
+      "addr:street": "Rua Porto Rico",
+      "addr:suburb": "Mário Zanetta",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0148P-1-12"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.224377,-9.38686]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421390",
+      "addr:housenumber": "110",
+      "addr:postcode": "48607-510",
+      "addr:street": "Rua P",
+      "addr:suburb": "Mário Zanetta",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2246896,-9.3873813]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421388",
+      "addr:housenumber": "90",
+      "addr:postcode": "48607-510",
+      "addr:street": "Rua P",
+      "addr:suburb": "Mário Zanetta",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.224558,-9.3872969]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421375",
+      "addr:housenumber": "12 A",
+      "addr:postcode": "48607-500",
+      "addr:street": "Rua Porto Rico",
+      "addr:suburb": "Mário Zanetta",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2243457,-9.3867423]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421371",
+      "addr:housenumber": "17",
+      "addr:postcode": "48607-500",
+      "addr:street": "Rua Porto Rico",
+      "addr:suburb": "Mário Zanetta",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0148P-1-12"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.224133,-9.386744]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421374",
+      "addr:housenumber": "19",
+      "addr:postcode": "48607-500",
+      "addr:street": "Rua Porto Rico",
+      "addr:suburb": "Mário Zanetta",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0148P-1-12"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.224164,-9.386735]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421370;223252441",
+      "addr:housenumber": "28",
+      "addr:postcode": "48607-500",
+      "addr:street": "Rua Porto Rico",
+      "addr:suburb": "Mário Zanetta",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0148P-1-12"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2242435,-9.3867635]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421391-27421392",
+      "addr:housenumber": "112",
+      "addr:postcode": "48607-510",
+      "addr:street": "Rua P",
+      "addr:suburb": "Mário Zanetta",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2247835,-9.3874415]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421399",
+      "addr:housenumber": "20",
+      "addr:postcode": "48607-510",
+      "addr:street": "Rua P",
+      "addr:suburb": "Mário Zanetta",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2240526,-9.386973]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421376",
+      "addr:housenumber": "35",
+      "addr:postcode": "48607-500",
+      "addr:street": "Rua Porto Rico",
+      "addr:suburb": "Mário Zanetta",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0148P-1-12"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.224281,-9.386798]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421362",
+      "addr:housenumber": "8",
+      "addr:postcode": "48607-500",
+      "addr:street": "Rua Porto Rico",
+      "addr:suburb": "Mário Zanetta",
+      "building": "yes",
+      "description": "CNEFE 2022 Sem Nome"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2243582,-9.3867453]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421384",
+      "addr:housenumber": "41",
+      "addr:postcode": "48607-510",
+      "addr:street": "Rua P",
+      "addr:suburb": "Mário Zanetta",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.224372,-9.3871777]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421381",
+      "addr:housenumber": "80",
+      "addr:postcode": "48607-510",
+      "addr:street": "Rua P",
+      "addr:suburb": "Mário Zanetta",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2242079,-9.3870725]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421365",
+      "addr:housenumber": "32",
+      "addr:postcode": "48607-500",
+      "addr:street": "Rua Porto Rico",
+      "addr:suburb": "Mário Zanetta",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2242382,-9.3867163]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "223252444",
+      "addr:housenumber": "10",
+      "addr:postcode": "48607-500",
+      "addr:street": "Rua Porto Rico",
+      "addr:suburb": "Mário Zanetta",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0148P-1-12"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.224493,-9.386973]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "223252435",
+      "addr:housenumber": "33",
+      "addr:postcode": "48607-500",
+      "addr:street": "Rua Porto Rico",
+      "addr:suburb": "Mário Zanetta",
+      "addr:unit": "Ao lado do 32 Anexo Bar do Paulo",
+      "amenity": "pub",
+      "building": "yes",
+      "name": "Bar do Paulo Pedreiro"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2242862,-9.3867279]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421401",
+      "addr:housenumber": "110 A",
+      "addr:postcode": "48607-510",
+      "addr:street": "Rua P",
+      "addr:suburb": "Mário Zanetta",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2246918,-9.3873827]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "223252446",
+      "addr:housenumber": "15",
+      "addr:postcode": "48607-500",
+      "addr:street": "Rua Porto Rico",
+      "addr:suburb": "Mário Zanetta",
+      "building": "construction",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0148P-1-12"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.224731,-9.387108]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421368",
+      "addr:housenumber": "79",
+      "addr:postcode": "48607-500",
+      "addr:street": "Rua Porto Rico",
+      "addr:suburb": "Mário Zanetta",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2245045,-9.3868255]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421369",
+      "addr:housenumber": "13",
+      "addr:postcode": "48607-500",
+      "addr:street": "Rua Porto Rico",
+      "addr:suburb": "Mário Zanetta",
+      "building": "yes",
+      "name": "Eapaco Milla Bronze"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2244654,-9.3867924]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421395",
+      "addr:housenumber": "146",
+      "addr:postcode": "48607-510",
+      "addr:street": "Rua P",
+      "addr:suburb": "Mário Zanetta",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.224983,-9.3876227]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421372",
+      "addr:housenumber": "7",
+      "addr:postcode": "48607-500",
+      "addr:street": "Rua Porto Rico",
+      "addr:suburb": "Mário Zanetta",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0148P-1-12"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.224183,-9.386767]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421396",
+      "addr:housenumber": "140",
+      "addr:postcode": "48607-510",
+      "addr:street": "Rua P",
+      "addr:suburb": "Mário Zanetta",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2249353,-9.3875388]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421361",
+      "addr:housenumber": "80",
+      "addr:postcode": "48607-410",
+      "addr:street": "Rua Sergipe",
+      "addr:suburb": "Mário Zanetta",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2240569,-9.3865914]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421382;27421394",
+      "addr:housenumber": "50",
+      "addr:postcode": "48607-510",
+      "addr:street": "Rua P",
+      "addr:suburb": "Mário Zanetta",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2245271,-9.3872771]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421373",
+      "addr:housenumber": "22",
+      "addr:postcode": "48607-500",
+      "addr:street": "Rua Porto Rico",
+      "addr:suburb": "Mário Zanetta",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0148P-1-12"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.224327,-9.386857]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421367",
+      "addr:housenumber": "40",
+      "addr:postcode": "48607-500",
+      "addr:street": "Rua Porto Rico",
+      "addr:suburb": "Mário Zanetta",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2244458,-9.3867753]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421385",
+      "addr:housenumber": "30",
+      "addr:postcode": "48607-510",
+      "addr:street": "Rua P",
+      "addr:suburb": "Mário Zanetta",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2244172,-9.3872067]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "223252438",
+      "addr:housenumber": "152",
+      "addr:postcode": "48607-510",
+      "addr:street": "Rua P",
+      "addr:suburb": "Mário Zanetta",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2250405,-9.3876713]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421387",
+      "addr:housenumber": "34",
+      "addr:postcode": "48607-510",
+      "addr:street": "Rua P",
+      "addr:suburb": "Mário Zanetta",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.224511,-9.3872668]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421397",
+      "addr:housenumber": "59",
+      "addr:postcode": "48607-510",
+      "addr:street": "Rua P",
+      "addr:suburb": "Mário Zanetta",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2248012,-9.3874528]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421379",
+      "addr:housenumber": "36",
+      "addr:postcode": "48607-510",
+      "addr:street": "Rua P",
+      "addr:suburb": "Mário Zanetta",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2241736,-9.3870505]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421398",
+      "addr:housenumber": "60",
+      "addr:postcode": "48607-510",
+      "addr:street": "Rua P",
+      "addr:suburb": "Mário Zanetta",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2248801,-9.3875034]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421380",
+      "addr:housenumber": "35",
+      "addr:postcode": "48607-510",
+      "addr:street": "Rua P",
+      "addr:suburb": "Mário Zanetta",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2240731,-9.3869862]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421363",
+      "addr:housenumber": "8",
+      "addr:postcode": "48607-500",
+      "addr:street": "Rua Porto Rico",
+      "addr:suburb": "Mário Zanetta",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2241498,-9.386695]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421383",
+      "addr:housenumber": "51",
+      "addr:postcode": "48607-510",
+      "addr:street": "Rua P",
+      "addr:suburb": "Mário Zanetta",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2242853,-9.3871222]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421400",
+      "addr:housenumber": "61",
+      "addr:postcode": "48607-510",
+      "addr:street": "Rua P",
+      "addr:suburb": "Mário Zanetta",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2247405,-9.387414]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421386",
+      "addr:housenumber": "78",
+      "addr:postcode": "48607-510",
+      "addr:street": "Rua P",
+      "addr:suburb": "Mário Zanetta",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.224465,-9.3872374]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421389",
+      "addr:housenumber": "100",
+      "addr:postcode": "48607-510",
+      "addr:street": "Rua P",
+      "addr:suburb": "Mário Zanetta",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2246448,-9.3873526]
+      }
+    }
+  ]
+}

@@ -1,0 +1,3890 @@
+{
+  "type": "FeatureCollection",
+  "generator": "CSV-CNEFE2GeoJSON.lua 1.5.7 - fidelis.assis@gmail.com",
+  "source": "IBGE CNEFE + Faces de Logradouros - 2022",
+  "date": "2025-02-02T09:05:40-0300",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412570",
+      "addr:housenumber": "376",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0110P-5-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.448628,-9.55269]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412705",
+      "addr:housenumber": "218",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4411797,-9.5504125]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191543327",
+      "addr:housenumber": "182",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0110P-20-13"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.43819,-9.5512779]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191764224",
+      "addr:housenumber": "55",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0182P-5-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.437638,-9.549459]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112587287",
+      "addr:housenumber": "60",
+      "addr:postcode": "48601-248",
+      "addr:street": "Estrada Estrada Serrote Paulo Afonso",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Fundos",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0111P-0-73"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.399273,-9.536029]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191543330",
+      "addr:housenumber": "139",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0110P-20-13"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4379901,-9.5511411]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412617",
+      "addr:housenumber": "196",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4414811,-9.5530553]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412560",
+      "addr:housenumber": "389",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4463717,-9.5521041]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191764226",
+      "addr:housenumber": "58",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0182P-5-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4380599,-9.5499161]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191543160",
+      "addr:housenumber": "15 A",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4375415,-9.5513294]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412620",
+      "addr:housenumber": "199",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4414617,-9.5530285]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191543258",
+      "addr:housenumber": "167",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4403486,-9.5523131]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412578;27412582",
+      "addr:housenumber": "412",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0110P-9-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4427935,-9.55281]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412627",
+      "addr:housenumber": "206",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4397957,-9.553384]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412666",
+      "addr:housenumber": "137",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4368919,-9.5513962]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412642",
+      "addr:housenumber": "449270",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Cisterna Casa 1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4464523,-9.5521071]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191884096",
+      "addr:housenumber": "82",
+      "addr:postcode": "48610-488",
+      "addr:street": "Mata Raso da Catarina",
+      "addr:suburb": "Várzea",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0111P-0-123"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.46401,-9.521704]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412701",
+      "addr:housenumber": "219",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4411351,-9.5504384]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412584",
+      "addr:housenumber": "422",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0110P-10-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4421813,-9.5526268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412616",
+      "addr:housenumber": "11 A",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.441631,-9.5533964]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412623",
+      "addr:housenumber": "202",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4410043,-9.5527174]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412534",
+      "addr:housenumber": "7",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Prédio",
+      "amenity": "school",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "name": "Escola Municipal Padre Lourenço Tori",
+      "note": "Sem dados para mover para dentro da quadra 0500-0182P-1-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4358431,-9.547622]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412641",
+      "addr:housenumber": "187",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4387879,-9.5531401]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412653",
+      "addr:housenumber": "128",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4376739,-9.5519999]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412667",
+      "addr:housenumber": "137 B",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4368359,-9.5513464]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191764176",
+      "addr:housenumber": "39",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0182P-3-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4378574,-9.5487793]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412583",
+      "addr:housenumber": "10700",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0110P-10-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4425825,-9.5526763]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412730",
+      "addr:housenumber": "11",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0182P-11-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4424423,-9.5491246]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191764243",
+      "addr:housenumber": "79",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0182P-5-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4385677,-9.5489468]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412656",
+      "addr:housenumber": "4",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0110P-23-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.446143,-9.552279]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412543",
+      "addr:housenumber": "51",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0182P-5-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.437409,-9.5490886]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191543318",
+      "addr:housenumber": "18",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0110P-20-9"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4394556,-9.551603]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112587264",
+      "addr:housenumber": "49",
+      "addr:postcode": "48601-248",
+      "addr:street": "Estrada Estrada Serrote Paulo Afonso",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Fundos",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0111P-0-73"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.396941,-9.533705]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412744",
+      "addr:housenumber": "12",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0182P-6-5"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4413951,-9.5483813]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191764161",
+      "addr:housenumber": "12",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Módulo 1",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "pentecostal",
+      "fixme": "Verificar coordenadas",
+      "name": "Assembleia de Deus",
+      "note": "Sem dados para mover para dentro da quadra 0500-0182P-2-2",
+      "religion": "christian"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4369275,-9.5481635]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412740",
+      "addr:housenumber": "27",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0182P-10-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.441562,-9.547625]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412588",
+      "addr:housenumber": "424",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0110P-10-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4420126,-9.5526814]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412609",
+      "addr:housenumber": "434",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0110P-11-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4423863,-9.5537361]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191764165",
+      "addr:housenumber": "34",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0182P-3-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4369802,-9.548553]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412670",
+      "addr:housenumber": "245",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0182P-12-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4471311,-9.5514106]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191764158",
+      "addr:housenumber": "11",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0182P-2-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.436839,-9.5481711]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191764273",
+      "addr:housenumber": "305",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Garagem 1",
+      "building": "garage",
+      "description": "CNEFE 2022 Garagem",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0182P-6-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.441737,-9.549229]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412668",
+      "addr:housenumber": "93",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4368344,-9.551351]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412762",
+      "addr:housenumber": "15",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4384839,-9.5474052]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412631",
+      "addr:housenumber": "17",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0182P-8-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4415652,-9.5504158]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412731",
+      "addr:housenumber": "8",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4418809,-9.5488061]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412760",
+      "addr:housenumber": "45",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Várzea",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0182P-3-8"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4386545,-9.5480868]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191543335",
+      "addr:housenumber": "140",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0110P-20-13"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4379892,-9.5511397]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412596",
+      "addr:housenumber": "420",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0110P-10-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.441659,-9.5532374]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112587159",
+      "addr:housenumber": "10",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Estrada Serrote Paulo Afonso",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Fundos",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0111P-0-87"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.409829,-9.562491]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412702",
+      "addr:housenumber": "100",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0110P-18-4"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4369719,-9.5502282]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191883634",
+      "addr:housenumber": "10",
+      "addr:postcode": "48601-248",
+      "addr:street": "Povoado Serrote",
+      "addr:suburb": "Várzea",
+      "description": "CNEFE 2022 Plantação",
+      "fixme": "Verificar coordenadas",
+      "landuse": "farmland",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0111P-0-71"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.405103,-9.541263]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412772",
+      "addr:housenumber": "165",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Fundos Casa 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0182P-6-5"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4414964,-9.5495072]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412676",
+      "addr:housenumber": "225",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0182P-8-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.443033,-9.550984]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412749",
+      "addr:housenumber": "15",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0182P-4-6"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4398988,-9.5482273]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112587165",
+      "addr:housenumber": "11",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Estrada Serrote Paulo Afonso",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Fundos",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0111P-0-87"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.411642,-9.569689]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412691",
+      "addr:housenumber": "150",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0110P-2-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4381768,-9.5512276]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412764",
+      "addr:housenumber": "17",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4384848,-9.5474057]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412755",
+      "addr:housenumber": "9",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0182P-4-4"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4392486,-9.5477615]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412640",
+      "addr:housenumber": "347",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4447343,-9.5520579]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412643",
+      "addr:housenumber": "115",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0110P-17-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4386149,-9.5532201]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191764269",
+      "addr:housenumber": "100",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Fundos Casa 1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.43961,-9.5490281]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112587150",
+      "addr:housenumber": "5",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Estrada Serrote Paulo Afonso",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Fundos",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0111P-0-87"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.408894,-9.573507]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191543338",
+      "addr:housenumber": "141",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0110P-20-13"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4378409,-9.5510218]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412670",
+      "addr:housenumber": "245",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes",
+      "description": "CNEFE 2022 Não Tem",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0182P-12-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.447131055813,-9.5514107616562]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412705",
+      "addr:housenumber": "218",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes",
+      "description": "CNEFE 2022 Borracharia",
+      "repair": "yes",
+      "shop": "tyres"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.441171996219,-9.5504140613881]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412739",
+      "addr:housenumber": "4800",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0182P-10-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.441566,-9.547632]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412766",
+      "addr:housenumber": "29",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 76m 0500-0182P-4-4"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.438568,-9.548012]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412630",
+      "addr:housenumber": "209",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4396025,-9.5536419]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191543249",
+      "addr:housenumber": "30 C",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0110P-20-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4402463,-9.5527375]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412551",
+      "addr:housenumber": "101",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "amenity": "clinic",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "healthcare": "yes",
+      "name": "Posto Médico",
+      "note": "Sem dados para mover para dentro da quadra 0500-0110P-2-5"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4375261,-9.5499151]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412603",
+      "addr:housenumber": "429",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0110P-10-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4420546,-9.553724]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412537",
+      "addr:housenumber": "10",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0182P-2-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.436734,-9.548102]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412612",
+      "addr:housenumber": "190",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0110P-13-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4420248,-9.5537451]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412663",
+      "addr:housenumber": "503",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4418678,-9.5506873]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412624",
+      "addr:housenumber": "203",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 70m 0500-0110P-15-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.440519,-9.553383]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412619",
+      "addr:housenumber": "348",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4408873,-9.5518459]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191543184",
+      "addr:housenumber": "109",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4373738,-9.5507801]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412722",
+      "addr:housenumber": "215",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0182P-11-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4428461,-9.5495406]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412635",
+      "addr:housenumber": "211",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4394438,-9.5537915]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112587633",
+      "addr:housenumber": "5454",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Estrada Serrote Paulo Afonso",
+      "addr:suburb": "Várzea",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0111P-0-87"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.366799,-9.472323]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412650",
+      "addr:housenumber": "125",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4382604,-9.552159]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412540",
+      "addr:housenumber": "112028",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4453306,-9.552049]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412720",
+      "addr:housenumber": "10",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0182P-11-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4427886,-9.5496821]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191883634",
+      "addr:housenumber": "10",
+      "addr:postcode": "48601-248",
+      "addr:street": "Povoado Serrote",
+      "addr:suburb": "Várzea",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0111P-0-71"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.405104746737,-9.5412679000032]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112587144",
+      "addr:housenumber": "3",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Estrada Serrote Paulo Afonso",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Fundos",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0111P-0-87"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.409438,-9.55563]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412632",
+      "addr:housenumber": "11",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0182P-8-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4416003,-9.5504549]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412724",
+      "addr:housenumber": "4",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0182P-11-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4426715,-9.5493833]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412721",
+      "addr:housenumber": "216",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0182P-11-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4428501,-9.5495438]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191764355",
+      "addr:housenumber": "320",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0182P-11-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4426652,-9.549792]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412671",
+      "addr:housenumber": "361",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0182P-12-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4470258,-9.5514254]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412586",
+      "addr:housenumber": "103",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0110P-2-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4371485,-9.5505152]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191764262",
+      "addr:housenumber": "260",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4398341,-9.5491917]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412647",
+      "addr:housenumber": "123",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4383935,-9.5522191]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412639",
+      "addr:housenumber": "186",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4387764,-9.5531542]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412604",
+      "addr:housenumber": "431",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0110P-11-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4427322,-9.5536448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191764171",
+      "addr:housenumber": "35",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0182P-3-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4372469,-9.5487101]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412714",
+      "addr:housenumber": "2",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0182P-8-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4413773,-9.5501408]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412566",
+      "addr:housenumber": "390",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4462776,-9.5521006]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191543315",
+      "addr:housenumber": "400",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0110P-20-7"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.439131,-9.552523]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412712",
+      "addr:housenumber": "12",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "amenity": "community_centre",
+      "building": "civic",
+      "community_centre": "cultural_centre",
+      "fixme": "Verificar coordenadas",
+      "name": "Centro Cultural Mário Zaneta",
+      "note": "Fora da área de projeção da face 0500-0182P-5-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.441178,-9.550237]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191543272",
+      "addr:housenumber": "170",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.440065,-9.5520647]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412611",
+      "addr:housenumber": "189",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0110P-12-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.442287,-9.554357]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412771",
+      "addr:housenumber": "15",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0182P-5-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4409869,-9.5496457]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412709",
+      "addr:housenumber": "44",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0182P-5-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4409528,-9.5503642]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412589",
+      "addr:housenumber": "70 B",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0110P-5-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4488578,-9.5521657]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412664",
+      "addr:housenumber": "216",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4413065,-9.5504538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412693",
+      "addr:housenumber": "95",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 43m 0500-0110P-18-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.436412,-9.551121]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412565",
+      "addr:housenumber": "403",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4435896,-9.5529823]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191764192",
+      "addr:housenumber": "19",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Várzea",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4388625,-9.5476543]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191543167",
+      "addr:housenumber": "105",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4377496,-9.5508892]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412579",
+      "addr:housenumber": "9",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4410688,-9.5525948]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412581",
+      "addr:housenumber": "418",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0110P-9-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.442766,-9.552828]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191543324",
+      "addr:housenumber": "180",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0110P-20-13"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4384906,-9.5515022]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412546",
+      "addr:housenumber": "86",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "warehouse",
+      "description": "CNEFE 2022 Depósito de Ração",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0110P-1-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4375681,-9.5494019]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412614",
+      "addr:housenumber": "192",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0110P-13-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4419015,-9.5537]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191884092",
+      "addr:housenumber": "81",
+      "addr:postcode": "48610-488",
+      "addr:street": "Mata Raso da Catarina",
+      "addr:suburb": "Várzea",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0111P-0-123"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.462433,-9.515141]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191543150",
+      "addr:housenumber": "112",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4375585,-9.5512975]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412562",
+      "addr:housenumber": "10 A",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0110P-8-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.447368,-9.5524864]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412594",
+      "addr:housenumber": "396",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4450843,-9.5520405]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412605",
+      "addr:housenumber": "65 A",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0110P-5-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4485415,-9.5521014]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191764239",
+      "addr:housenumber": "80",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0182P-5-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4385563,-9.5489365]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412728",
+      "addr:housenumber": "201",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Fundos Casa 1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4430869,-9.548672]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412577",
+      "addr:housenumber": "415",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4427936,-9.5525041]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191884089",
+      "addr:housenumber": "82",
+      "addr:postcode": "48610-488",
+      "addr:street": "Mata Raso da Catarina",
+      "addr:suburb": "Várzea",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0111P-0-122"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.464674,-9.525438]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412747",
+      "addr:housenumber": "184",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Fundos Casa 1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.440317,-9.5482922]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412572",
+      "addr:housenumber": "408",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4432613,-9.5524646]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412646",
+      "addr:housenumber": "119",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0110P-17-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.438731,-9.5530764]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412628",
+      "addr:housenumber": "40 B",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0110P-7-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4479438,-9.5525382]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412555",
+      "addr:housenumber": "346",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "amenity": "pub",
+      "building": "yes",
+      "description": "CNEFE 2022 Bar"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4417576,-9.5507245]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412655",
+      "addr:housenumber": "131",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4374292,-9.5514338]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412549",
+      "addr:housenumber": "5",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0182P-5-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4380453,-9.5499017]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412750",
+      "addr:housenumber": "13",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0182P-4-6"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4396606,-9.548105]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112587246",
+      "addr:housenumber": "46",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Estrada Serrote Paulo Afonso",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Fundos",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0111P-0-87"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.41032,-9.564286]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412661",
+      "addr:housenumber": "217",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.441231,-9.5504428]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412633",
+      "addr:housenumber": "33",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0182P-8-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4416118,-9.5504676]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191543239",
+      "addr:housenumber": "161",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0110P-20-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4393395,-9.5527975]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412607",
+      "addr:housenumber": "70 A",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0110P-11-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4426008,-9.5537243]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412615",
+      "addr:housenumber": "193",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0110P-13-4"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.441871,-9.554148]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412798",
+      "addr:housenumber": "2",
+      "addr:postcode": "48619-899",
+      "addr:street": "Fazenda Pocinho",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0111P-0-108"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.425158,-9.539277]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412707",
+      "addr:housenumber": "110",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4371644,-9.5514159]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412753",
+      "addr:housenumber": "12",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Fundos Casa 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0182P-4-6"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4395657,-9.5480507]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412708",
+      "addr:housenumber": "14850",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "amenity": "pub",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "name": "Mercadinho e Bar",
+      "note": "Fora da área de projeção da face 0500-0182P-5-1",
+      "shop": "convenience"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.441173,-9.550354]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412729",
+      "addr:housenumber": "13",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0182P-11-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4431167,-9.5487462]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412673",
+      "addr:housenumber": "373",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0110P-5-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4493057,-9.552254]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412638",
+      "addr:housenumber": "185",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4391029,-9.5528842]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412787",
+      "addr:housenumber": "21",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0182P-5-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4395597,-9.549156]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412695",
+      "addr:housenumber": "349",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4406406,-9.5523617]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191543231",
+      "addr:housenumber": "160",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0110P-20-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4392581,-9.5527984]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412561",
+      "addr:housenumber": "392",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4460838,-9.5520926]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412600",
+      "addr:housenumber": "394",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.445893,-9.552084]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191543280",
+      "addr:housenumber": "171",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0110P-20-5"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.439898,-9.551818]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191543321",
+      "addr:housenumber": "179",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0110P-20-13"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4387227,-9.551529]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412618",
+      "addr:housenumber": "30 A",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0110P-7-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4478157,-9.5525142]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412776",
+      "addr:housenumber": "205",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0182P-4-6"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.441196,-9.54927]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412665",
+      "addr:housenumber": "135",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4369661,-9.5514216]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191543343",
+      "addr:housenumber": "145",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0110P-21-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.440244,-9.5517877]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412585",
+      "addr:housenumber": "423",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0110P-10-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.442015,-9.5526807]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412645",
+      "addr:housenumber": "118",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 50m 0500-0110P-17-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.438196,-9.553017]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412625",
+      "addr:housenumber": "23",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0182P-5-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4403776,-9.5495367]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412557",
+      "addr:housenumber": "354",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4416352,-9.5526759]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412699",
+      "addr:housenumber": "154",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0110P-2-5"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4378404,-9.5498868]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112586761",
+      "addr:housenumber": "1",
+      "addr:postcode": "48601-248",
+      "addr:street": "Estrada Estrada Serrote Paulo Afonso",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Fundos",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0111P-0-73"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.396586,-9.533367]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412719",
+      "addr:housenumber": "219",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Fundos Casa 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0182P-11-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4424187,-9.5499359]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412595",
+      "addr:housenumber": "205",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4395895,-9.5507223]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412700",
+      "addr:housenumber": "278",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4405056,-9.5518302]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412613",
+      "addr:housenumber": "191",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes",
+      "description": "CNEFE 2022 Salão",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0110P-13-2",
+      "shop": "beauty"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4419597,-9.5537213]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412748",
+      "addr:housenumber": "183",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4401365,-9.5482151]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412550",
+      "addr:housenumber": "449245",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Cisterna Casa 1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4471461,-9.5520243]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412536",
+      "addr:housenumber": "8",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0182P-2-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.436773,-9.548135]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412592",
+      "addr:housenumber": "15 A",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes",
+      "description": "CNEFE 2022 Barbearia",
+      "hairdresser": "barber",
+      "shop": "hairdresser"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4421318,-9.5506552]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112587274",
+      "addr:housenumber": "51",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Estrada Serrote Paulo Afonso",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Fundos",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0111P-0-87"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.411768,-9.571535]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412568",
+      "addr:housenumber": "404",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4435957,-9.5529948]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412688",
+      "addr:housenumber": "215",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "amenity": "pub",
+      "building": "yes",
+      "description": "CNEFE 2022 Bar"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.441383,-9.5504649]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412797",
+      "addr:housenumber": "180 C",
+      "addr:postcode": "48619-899",
+      "addr:street": "Fazenda Pocinho",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0111P-0-108"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.434372,-9.530618]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412591",
+      "addr:housenumber": "80 A",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0110P-10-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.441805,-9.5527276]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412574",
+      "addr:housenumber": "870 A",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4465978,-9.5522321]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191543193",
+      "addr:housenumber": "215",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0110P-20-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.437799,-9.5516585]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191764250",
+      "addr:housenumber": "61",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Várzea",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0182P-5-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4394662,-9.5491123]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412781",
+      "addr:housenumber": "50",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0182P-5-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.440066,-9.5493876]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412552",
+      "addr:housenumber": "401",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4436745,-9.5531639]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412576",
+      "addr:housenumber": "413",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4428962,-9.5524803]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412590",
+      "addr:housenumber": "64 B",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0110P-5-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4486217,-9.5521198]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412698",
+      "addr:housenumber": "148",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0110P-2-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4380316,-9.5511344]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412602",
+      "addr:housenumber": "449290",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Cisterna Casa 1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4411845,-9.5526459]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412981",
+      "addr:housenumber": "43",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada do Lado Serra da Arara",
+      "addr:suburb": "Várzea",
+      "crop": "corn",
+      "fixme": "Verificar coordenadas",
+      "landuse": "farmland",
+      "name": "Milho",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0111P-0-120"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.430513,-9.54263]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412675",
+      "addr:housenumber": "20",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0182P-11-5"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4431289,-9.5509362]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412779",
+      "addr:housenumber": "178",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0182P-6-5"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4414139,-9.5484236]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412556",
+      "addr:housenumber": "400",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4436808,-9.5521302]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412597",
+      "addr:housenumber": "352",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4413996,-9.5526961]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191543243",
+      "addr:housenumber": "9",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0110P-20-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4398439,-9.552698]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412541",
+      "addr:housenumber": "89",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0110P-1-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4372161,-9.5488538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412651",
+      "addr:housenumber": "273 B",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4381105,-9.5520738]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412599",
+      "addr:housenumber": "30 A",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.448168,-9.5524976]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191543177",
+      "addr:housenumber": "108",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4373682,-9.5507381]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412542",
+      "addr:housenumber": "37",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0182P-3-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4376552,-9.5487941]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412732",
+      "addr:housenumber": "179",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Fundos Casa 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0182P-6-5"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4414094,-9.5484136]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412544",
+      "addr:housenumber": "5",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Fundos",
+      "building": "industrial",
+      "fixme": "Confirmar nome;Verificar coordenadas",
+      "man_made": "works",
+      "name": "Fábrica de Fubá de Milho",
+      "note": "Sem dados para mover para dentro da quadra 0500-0110P-1-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4373336,-9.5490291]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412593",
+      "addr:housenumber": "426",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0110P-10-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4415998,-9.5527653]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412654",
+      "addr:housenumber": "130",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.437354,-9.5514373]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412723",
+      "addr:housenumber": "213",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0182P-11-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4427663,-9.549478]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191543297",
+      "addr:housenumber": "449275",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Cisterna",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4394244,-9.5521572]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412799",
+      "addr:housenumber": "100 A",
+      "addr:postcode": "48619-899",
+      "addr:street": "Fazenda Pocinho",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "name": "Colheita",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0111P-0-108"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.421883,-9.539129]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112587280",
+      "addr:housenumber": "56",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Estrada Serrote Paulo Afonso",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Fundos",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0111P-0-87"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.409853,-9.562499]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412718",
+      "addr:housenumber": "221",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Fundos Casa 1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4420857,-9.5504859]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412777",
+      "addr:housenumber": "1",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes",
+      "description": "CNEFE 2022 Mercadinho",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0182P-6-5",
+      "shop": "convenience"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4416153,-9.5492802]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191764228",
+      "addr:housenumber": "88",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Várzea",
+      "building": "industrial",
+      "fixme": "Confirmar nome;Verificar coordenadas",
+      "man_made": "works",
+      "name": "Fábrica de Fubá de Milho",
+      "note": "Sem dados para mover para dentro da quadra 0500-0182P-5-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4373131,-9.5489446]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412659",
+      "addr:housenumber": "133",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4370971,-9.5514581]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412575",
+      "addr:housenumber": "412",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4430052,-9.5524702]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412636",
+      "addr:housenumber": "183",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4398269,-9.5531123]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412598",
+      "addr:housenumber": "487",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0110P-10-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.441667,-9.5532526]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412629",
+      "addr:housenumber": "208",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4397296,-9.5534722]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412564",
+      "addr:housenumber": "102",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0110P-2-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4371249,-9.5503173]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412658",
+      "addr:housenumber": "132",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4372745,-9.5514409]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412697",
+      "addr:housenumber": "93",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4371462,-9.55053]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412601",
+      "addr:housenumber": "335",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4418055,-9.5526408]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412644",
+      "addr:housenumber": "116",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0110P-17-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4385845,-9.5532575]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191543221",
+      "addr:housenumber": "158",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0110P-20-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4386074,-9.5523201]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412567",
+      "addr:housenumber": "407",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4434155,-9.5524176]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112587139",
+      "addr:housenumber": "6",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Estrada Serrote Paulo Afonso",
+      "addr:suburb": "Várzea",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0111P-0-87"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.410023,-9.572038]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412756",
+      "addr:housenumber": "10",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0182P-4-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4391955,-9.5477311]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191543134",
+      "addr:housenumber": "199",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4415124,-9.5531193]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412573",
+      "addr:housenumber": "410",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4431346,-9.5524652]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191543289",
+      "addr:housenumber": "173",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4397361,-9.5517543]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191543203",
+      "addr:housenumber": "155",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0110P-20-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4380526,-9.5519195]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412571",
+      "addr:housenumber": "405",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 65m 0500-0110P-9-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.443181,-9.552995]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412608",
+      "addr:housenumber": "184",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0110P-14-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.44158,-9.554188]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412767",
+      "addr:housenumber": "40",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0182P-3-5"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4384612,-9.5480993]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412538",
+      "addr:housenumber": "152",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea",
+      "addr:suburb": "Várzea",
+      "addr:unit": "Casa 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0110P-2-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4383777,-9.5513922]
+      }
+    }
+  ]
+}

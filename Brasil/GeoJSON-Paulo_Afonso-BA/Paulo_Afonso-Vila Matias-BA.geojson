@@ -1,0 +1,1536 @@
+{
+  "type": "FeatureCollection",
+  "generator": "CSV-CNEFE2GeoJSON.lua 1.5.7 - fidelis.assis@gmail.com",
+  "source": "IBGE CNEFE + Faces de Logradouros - 2022",
+  "date": "2025-02-02T09:05:37-0300",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191730206",
+      "addr:housenumber": "1",
+      "addr:postcode": "48619-899",
+      "addr:street": "Caminho Para Vila Matias",
+      "addr:suburb": "Vila Matias",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 89m 0500-0185P-0-27"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.249227,-9.47788]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191730304",
+      "addr:housenumber": "410",
+      "addr:postcode": "48619-899",
+      "addr:street": "Caminho Para Vila Matias",
+      "addr:suburb": "Vila Matias",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0185P-0-27"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.255829,-9.481321]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414309",
+      "addr:housenumber": "32 A",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Vila Matias",
+      "addr:suburb": "Vila Matias",
+      "addr:unit": "Casa",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2380898,-9.4477364]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413728",
+      "addr:housenumber": "2",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Vila Matias",
+      "addr:suburb": "Vila Matias",
+      "addr:unit": "Fundos Casa 8",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0115P-0-38"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.237383,-9.452101]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414307",
+      "addr:housenumber": "29 Lado",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Vila Matias",
+      "addr:suburb": "Vila Matias",
+      "addr:unit": "Casa",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2377965,-9.4467926]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "109752283",
+      "addr:housenumber": "10",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Vila Matias",
+      "addr:suburb": "Vila Matias",
+      "addr:unit": "A Coelb",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0115P-0-40"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.243219,-9.459004]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413717",
+      "addr:housenumber": "16",
+      "addr:postcode": "48619-899",
+      "addr:street": "Caminho Para Vila Matias",
+      "addr:suburb": "Vila Matias",
+      "addr:unit": "B Coelb Casa 4",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0115P-0-39"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.243095,-9.456655]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414333",
+      "addr:housenumber": "55",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Vila Matias",
+      "addr:suburb": "Vila Matias",
+      "addr:unit": "Fundos Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0187P-0-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.242355,-9.45186]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414336",
+      "addr:housenumber": "58",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Vila Matias",
+      "addr:suburb": "Vila Matias",
+      "addr:unit": "Fundos Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 54m 0500-0187P-0-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.241503,-9.451994]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191548487",
+      "addr:housenumber": "177",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Vila Matias",
+      "addr:suburb": "Vila Matias",
+      "addr:unit": "Fundos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.238276,-9.4482207]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191548482",
+      "addr:housenumber": "38",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Vila Matias",
+      "addr:suburb": "Vila Matias",
+      "addr:unit": "Fundos Casa 38",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2389529,-9.4495817]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414335",
+      "addr:housenumber": "57",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Vila Matias",
+      "addr:suburb": "Vila Matias",
+      "addr:unit": "Fundos Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0187P-0-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.241787,-9.451959]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191730301",
+      "addr:housenumber": "38",
+      "addr:postcode": "48619-899",
+      "addr:street": "Caminho Para Vila Matias",
+      "addr:suburb": "Vila Matias",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0185P-0-27"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.255315,-9.481876]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414343",
+      "addr:housenumber": "67",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Vila Matias",
+      "addr:suburb": "Vila Matias",
+      "addr:unit": "Fundos Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0187P-0-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.244096,-9.451615]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414332",
+      "addr:housenumber": "54",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Vila Matias",
+      "addr:suburb": "Vila Matias",
+      "addr:unit": "Fundos Depósito",
+      "building": "garage;warehouse",
+      "description": "CNEFE 2022 Depósito e Garagem",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 70m 0500-0187P-0-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.241664,-9.45198]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414344",
+      "addr:housenumber": "69",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Vila Matias",
+      "addr:suburb": "Vila Matias",
+      "addr:unit": "Fundos Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0187P-0-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.244411,-9.451431]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191730414",
+      "addr:housenumber": "14",
+      "addr:postcode": "48619-899",
+      "addr:street": "Caminho Para Vila Matias",
+      "addr:suburb": "Vila Matias",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0185P-0-27"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.258378,-9.485227]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191730413",
+      "addr:housenumber": "16",
+      "addr:postcode": "48619-899",
+      "addr:street": "Caminho Para Vila Matias",
+      "addr:suburb": "Vila Matias",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0185P-0-27"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.25844,-9.485419]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414317",
+      "addr:housenumber": "39 C",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Vila Matias",
+      "addr:suburb": "Vila Matias",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 49m 0500-0187P-0-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.239456,-9.449341]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191730317",
+      "addr:housenumber": "30",
+      "addr:postcode": "48619-899",
+      "addr:street": "Caminho Para Vila Matias",
+      "addr:suburb": "Vila Matias",
+      "building": "construction",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0185P-0-27"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.256299,-9.481694]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191730333",
+      "addr:housenumber": "314",
+      "addr:postcode": "48619-899",
+      "addr:street": "Caminho Para Vila Matias",
+      "addr:suburb": "Vila Matias",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0185P-0-27"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.255673,-9.484551]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414305",
+      "addr:housenumber": "28",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Vila Matias",
+      "addr:suburb": "Vila Matias",
+      "addr:unit": "Fundos Casa",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2375201,-9.4461521]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414334",
+      "addr:housenumber": "56",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Vila Matias",
+      "addr:suburb": "Vila Matias",
+      "addr:unit": "Fundos Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0187P-0-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.242017,-9.451962]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414337",
+      "addr:housenumber": "59",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Vila Matias",
+      "addr:suburb": "Vila Matias",
+      "addr:unit": "Fundos Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 57m 0500-0187P-0-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.241524,-9.451982]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191889018",
+      "addr:housenumber": "27",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Vila Matias",
+      "addr:suburb": "Vila Matias",
+      "building": "construction",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0168P-0-35"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.247707,-9.45487]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191730214",
+      "addr:housenumber": "8",
+      "addr:postcode": "48619-899",
+      "addr:street": "Caminho Para Vila Matias",
+      "addr:suburb": "Vila Matias",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 105m 0500-0185P-0-27"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.249496,-9.477875]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470184",
+      "addr:housenumber": "15",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Vila Matias",
+      "addr:suburb": "Vila Matias",
+      "addr:unit": "Fundos",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0168P-0-35"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.255498,-9.459257]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414338",
+      "addr:housenumber": "62",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Vila Matias",
+      "addr:suburb": "Vila Matias",
+      "addr:unit": "Fundos Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0187P-0-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.244057,-9.451574]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414312",
+      "addr:housenumber": "26",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Vila Matias",
+      "addr:suburb": "Vila Matias",
+      "amenity": "restaurant",
+      "building": "yes",
+      "name": "Restaurante Ponto Firme"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2384867,-9.4484796]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191730310",
+      "addr:housenumber": "460",
+      "addr:postcode": "48619-899",
+      "addr:street": "Caminho Para Vila Matias",
+      "addr:suburb": "Vila Matias",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0185P-0-27"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.256192,-9.480819]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414320",
+      "addr:housenumber": "39 F",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Vila Matias",
+      "addr:suburb": "Vila Matias",
+      "addr:unit": "Casa",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.240496,-9.4517061]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414325",
+      "addr:housenumber": "49",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Vila Matias",
+      "addr:suburb": "Vila Matias",
+      "addr:unit": "Fundos Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 62m 0500-0187P-0-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.240777,-9.451149]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191730306",
+      "addr:housenumber": "40",
+      "addr:postcode": "48619-899",
+      "addr:street": "Caminho Para Vila Matias",
+      "addr:suburb": "Vila Matias",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0185P-0-27"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.256151,-9.481025]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191730350",
+      "addr:housenumber": "283",
+      "addr:postcode": "48619-899",
+      "addr:street": "Caminho Para Vila Matias",
+      "addr:suburb": "Vila Matias",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0185P-0-27"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.25687,-9.483186]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413718",
+      "addr:housenumber": "1",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Vila Matias",
+      "addr:suburb": "Vila Matias",
+      "addr:unit": "Fundos Casa 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0115P-0-38"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.241665,-9.453569]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191730176;191730338",
+      "addr:housenumber": "2",
+      "addr:postcode": "48619-899",
+      "addr:street": "Caminho Para Vila Matias",
+      "addr:suburb": "Vila Matias",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 63m 0500-0185P-0-27"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2521315,-9.480899]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191730303",
+      "addr:housenumber": "430",
+      "addr:postcode": "48619-899",
+      "addr:street": "Caminho Para Vila Matias",
+      "addr:suburb": "Vila Matias",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0185P-0-27"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.255947,-9.481174]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191548455;191548460;191548475;191548478",
+      "addr:housenumber": "48619899",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Vila Matias",
+      "addr:suburb": "Vila Matias",
+      "addr:unit": "Fundos Casa 48619899",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2392679,-9.4502551]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414304",
+      "addr:housenumber": "27",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Vila Matias",
+      "addr:suburb": "Vila Matias",
+      "addr:unit": "Fundos Casa",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2375148,-9.4461334]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191548500",
+      "addr:housenumber": "176",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Vila Matias",
+      "addr:suburb": "Vila Matias",
+      "addr:unit": "Fundos Casa 176",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2381212,-9.4479423]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191730252",
+      "addr:housenumber": "11",
+      "addr:postcode": "48619-899",
+      "addr:street": "Caminho Para Vila Matias",
+      "addr:suburb": "Vila Matias",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0185P-0-27"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2511883,-9.4802387]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191730366",
+      "addr:housenumber": "350",
+      "addr:postcode": "48619-899",
+      "addr:street": "Caminho Para Vila Matias",
+      "addr:suburb": "Vila Matias",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0185P-0-27"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.257491,-9.483038]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191730267",
+      "addr:housenumber": "18",
+      "addr:postcode": "48619-899",
+      "addr:street": "Caminho Para Vila Matias",
+      "addr:suburb": "Vila Matias",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0185P-0-27"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2516766,-9.4812509]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191730305;191730313",
+      "addr:housenumber": "20",
+      "addr:postcode": "48619-899",
+      "addr:street": "Caminho Para Vila Matias",
+      "addr:suburb": "Vila Matias",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0185P-0-27"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.254384,-9.4810495]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191730442",
+      "addr:housenumber": "347",
+      "addr:postcode": "48619-899",
+      "addr:street": "Caminho Para Vila Matias",
+      "addr:suburb": "Vila Matias",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0185P-0-27"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2529563,-9.4825872]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191730226",
+      "addr:housenumber": "9",
+      "addr:postcode": "48619-899",
+      "addr:street": "Caminho Para Vila Matias",
+      "addr:suburb": "Vila Matias",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 170m 0500-0185P-0-27"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.250558,-9.477885]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191730379",
+      "addr:housenumber": "10",
+      "addr:postcode": "48619-899",
+      "addr:street": "Caminho Para Vila Matias",
+      "addr:suburb": "Vila Matias",
+      "addr:unit": "Casa A",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0185P-0-27"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.258412,-9.483947]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191730220",
+      "addr:housenumber": "1",
+      "addr:postcode": "48619-899",
+      "addr:street": "Caminho Para Vila Matias",
+      "addr:suburb": "Vila Matias",
+      "addr:unit": "Casa 2",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 42m 0500-0185P-0-27"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.24783,-9.478406]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414326",
+      "addr:housenumber": "49",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Vila Matias",
+      "addr:suburb": "Vila Matias",
+      "addr:unit": "Fundos Fundos",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 48m 0500-0187P-0-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.241421,-9.451968]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191548415",
+      "addr:housenumber": "35",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Vila Matias",
+      "addr:suburb": "Vila Matias",
+      "addr:unit": "Fundos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2382754,-9.4482196]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414319",
+      "addr:housenumber": "39 E",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Vila Matias",
+      "addr:suburb": "Vila Matias",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 61m 0500-0187P-0-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.239709,-9.44965]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414329",
+      "addr:housenumber": "52",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Vila Matias",
+      "addr:suburb": "Vila Matias",
+      "addr:unit": "Fundos",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 102m 0500-0187P-0-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.241507,-9.451262]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470334",
+      "addr:housenumber": "23",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Olhos d'Água",
+      "addr:suburb": "Vila Matias",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0168P-0-36"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.25138,-9.457093]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414321",
+      "addr:housenumber": "430 A",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Vila Matias",
+      "addr:suburb": "Vila Matias",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 62m 0500-0187P-0-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.240066,-9.450258]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414339",
+      "addr:housenumber": "63",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Vila Matias",
+      "addr:suburb": "Vila Matias",
+      "addr:unit": "Fundos Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0187P-0-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.244049,-9.451094]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414345",
+      "addr:housenumber": "70",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Vila Matias",
+      "addr:suburb": "Vila Matias",
+      "addr:unit": "Fundos",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0187P-0-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.244109,-9.451736]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414341",
+      "addr:housenumber": "65",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Vila Matias",
+      "addr:suburb": "Vila Matias",
+      "addr:unit": "Fundos Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0187P-0-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.244047,-9.451539]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413729",
+      "addr:housenumber": "6",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Vila Matias",
+      "addr:suburb": "Vila Matias",
+      "addr:unit": "Casa 9",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0115P-0-38"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.235983,-9.452096]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414346",
+      "addr:housenumber": "71",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Vila Matias",
+      "addr:suburb": "Vila Matias",
+      "addr:unit": "Fundos Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0187P-0-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.244209,-9.451118]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414308",
+      "addr:housenumber": "31",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Vila Matias",
+      "addr:suburb": "Vila Matias",
+      "addr:unit": "Fundos Casa",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2380358,-9.4477484]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414306",
+      "addr:housenumber": "29",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Vila Matias",
+      "addr:suburb": "Vila Matias",
+      "addr:unit": "Fundos Casa",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2387736,-9.4492047]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414322",
+      "addr:housenumber": "440 B",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Vila Matias",
+      "addr:suburb": "Vila Matias",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2396786,-9.4508056]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191730198;191730275",
+      "addr:housenumber": "6",
+      "addr:postcode": "48619-899",
+      "addr:street": "Caminho Para Vila Matias",
+      "addr:suburb": "Vila Matias",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0185P-0-27"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2513038,-9.4804053]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413719",
+      "addr:housenumber": "2",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Vila Matias",
+      "addr:suburb": "Vila Matias",
+      "addr:unit": "Fundos Casa 2",
+      "building": "warehouse",
+      "description": "CNEFE 2022 Depósito",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0115P-0-38"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.241698,-9.453754]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414324",
+      "addr:housenumber": "48",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Vila Matias",
+      "addr:suburb": "Vila Matias",
+      "addr:unit": "Fundos Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 53m 0500-0187P-0-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.240175,-9.450592]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191730210",
+      "addr:housenumber": "7",
+      "addr:postcode": "48619-899",
+      "addr:street": "Caminho Para Vila Matias",
+      "addr:suburb": "Vila Matias",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 93m 0500-0185P-0-27"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.249255,-9.477859]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414312",
+      "addr:housenumber": "26",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Vila Matias",
+      "addr:suburb": "Vila Matias",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.238486655826,-9.4484797616562]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414314",
+      "addr:housenumber": "19 B",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Vila Matias",
+      "addr:suburb": "Vila Matias",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 84m 0500-0187P-0-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.239437,-9.448564]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414323",
+      "addr:housenumber": "47",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Vila Matias",
+      "addr:suburb": "Vila Matias",
+      "addr:unit": "Fundos",
+      "building": "yes",
+      "name": "Empresa Codevasf"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2397179,-9.4509627]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191730346;191730356",
+      "addr:housenumber": "5",
+      "addr:postcode": "48619-899",
+      "addr:street": "Caminho Para Vila Matias",
+      "addr:suburb": "Vila Matias",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0185P-0-27"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2569505,-9.4832965]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414318",
+      "addr:housenumber": "39 D",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Vila Matias",
+      "addr:suburb": "Vila Matias",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 50m 0500-0187P-0-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.239536,-9.449492]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414315",
+      "addr:housenumber": "39",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Vila Matias",
+      "addr:suburb": "Vila Matias",
+      "addr:unit": "A Fundos Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 53m 0500-0187P-0-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.239427,-9.449208]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414303",
+      "addr:housenumber": "20 A",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Vila Matias",
+      "addr:suburb": "Vila Matias",
+      "addr:unit": "Casa",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2383886,-9.4483004]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191730327",
+      "addr:housenumber": "600",
+      "addr:postcode": "48619-899",
+      "addr:street": "Caminho Para Vila Matias",
+      "addr:suburb": "Vila Matias",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0185P-0-27"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.25457,-9.48376]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414310",
+      "addr:housenumber": "32 B",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Vila Matias",
+      "addr:suburb": "Vila Matias",
+      "addr:unit": "Casa",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2381955,-9.4479693]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191730342;191730368",
+      "addr:housenumber": "4",
+      "addr:postcode": "48619-899",
+      "addr:street": "Caminho Para Vila Matias",
+      "addr:suburb": "Vila Matias",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0185P-0-27"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.257197,-9.483199]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414330",
+      "addr:housenumber": "53",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Vila Matias",
+      "addr:suburb": "Vila Matias",
+      "addr:unit": "Fundos Casa",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2389666,-9.4496116]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414313",
+      "addr:housenumber": "19 A",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Vila Matias",
+      "addr:suburb": "Vila Matias",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2388254,-9.4491864]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470335",
+      "addr:housenumber": "25",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Vila Matias",
+      "addr:suburb": "Vila Matias",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0168P-0-35"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.250628,-9.457513]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191730308",
+      "addr:housenumber": "42",
+      "addr:postcode": "48619-899",
+      "addr:street": "Caminho Para Vila Matias",
+      "addr:suburb": "Vila Matias",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0185P-0-27"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.256174,-9.480938]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414340",
+      "addr:housenumber": "64",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Vila Matias",
+      "addr:suburb": "Vila Matias",
+      "addr:unit": "Fundos Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0187P-0-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.244247,-9.450862]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191730182;191730321",
+      "addr:housenumber": "3",
+      "addr:postcode": "48619-899",
+      "addr:street": "Caminho Para Vila Matias",
+      "addr:suburb": "Vila Matias",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0185P-0-27"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2515088,-9.4808338]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191889021",
+      "addr:housenumber": "26",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Vila Matias",
+      "addr:suburb": "Vila Matias",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0168P-0-35"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.250547,-9.457578]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191730315",
+      "addr:housenumber": "10",
+      "addr:postcode": "48619-899",
+      "addr:street": "Caminho Para Vila Matias",
+      "addr:suburb": "Vila Matias",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0185P-0-27"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.256044,-9.481507]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470337",
+      "addr:housenumber": "21",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Vila Matias",
+      "addr:suburb": "Vila Matias",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0168P-0-35"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.252808,-9.457888]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414327",
+      "addr:housenumber": "50",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Vila Matias",
+      "addr:suburb": "Vila Matias",
+      "addr:unit": "Fundos Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 65m 0500-0187P-0-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.240907,-9.451209]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191548505",
+      "addr:housenumber": "176",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Vila Matias",
+      "addr:suburb": "Vila Matias",
+      "addr:unit": "Fundos Casa 176A",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2380076,-9.4476574]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470333;27470338",
+      "addr:housenumber": "22",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Vila Matias",
+      "addr:suburb": "Vila Matias",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0168P-0-35"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.253225,-9.45804]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470333",
+      "addr:housenumber": "22",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Vila Matias",
+      "addr:suburb": "Vila Matias",
+      "building": "yes",
+      "description": "CNEFE 2022 Sem Nome",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0168P-0-35"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.252015,-9.457393]
+      }
+    }
+  ]
+}

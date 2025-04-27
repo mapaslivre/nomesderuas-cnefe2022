@@ -1,0 +1,1843 @@
+{
+  "type": "FeatureCollection",
+  "source": "IBGE CNEFE + Faces de Logradouros - 2022",
+  "generator": "CSV-CNEFE2GeoJSON.lua 1.5.7 - fidelis.assis@gmail.com",
+  "date": "2025-02-02T09:05:07-0300",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413371",
+      "addr:housenumber": "45",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Açude",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3193531,-9.388462]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413363",
+      "addr:housenumber": "135",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Açude",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0184P-5-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3174645,-9.3918313]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413399",
+      "addr:housenumber": "200",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada do Salgadinho",
+      "addr:suburb": "Açude",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3134153,-9.3897931]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415227",
+      "addr:housenumber": "160",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada do Salgadinho",
+      "addr:suburb": "Açude",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.317081,-9.3879662]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413359",
+      "addr:housenumber": "9",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Açude",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0184P-5-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3174749,-9.3917502]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191742082",
+      "addr:housenumber": "74",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Açude",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3229032,-9.3870415]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413321",
+      "addr:housenumber": "99",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Açude",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3246194,-9.3886343]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413395",
+      "addr:housenumber": "188",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada do Salgadinho",
+      "addr:suburb": "Açude",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 45m 0500-0184P-3-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.31477,-9.38939]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191741876",
+      "addr:housenumber": "197",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada do Salgadinho",
+      "addr:suburb": "Açude",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.314014,-9.389353]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415221",
+      "addr:housenumber": "21",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Açude",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0184P-2-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3155201,-9.3884889]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415224",
+      "addr:housenumber": "45",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Açude",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0184P-2-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3159325,-9.3882991]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413348",
+      "addr:housenumber": "53",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Açude",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3203455,-9.3891072]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191741965",
+      "addr:housenumber": "143",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Açude",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0184P-7-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3200315,-9.3899689]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191741868",
+      "addr:housenumber": "186",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada do Salgadinho",
+      "addr:suburb": "Açude",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 50m 0500-0184P-3-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.314832,-9.389413]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413374",
+      "addr:housenumber": "155",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Açude",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3184852,-9.3882009]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413382",
+      "addr:housenumber": "166",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada do Salgadinho",
+      "addr:suburb": "Açude",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3160868,-9.3884277]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413385",
+      "addr:housenumber": "175",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Açude",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 74m 0500-0184P-3-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.316402,-9.390189]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413366",
+      "addr:housenumber": "134",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Açude",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3174507,-9.3920341]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413327",
+      "addr:housenumber": "69",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Açude",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3226726,-9.3868313]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413391",
+      "addr:housenumber": "13",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Açude",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0184P-2-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3149862,-9.3887345]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191741940",
+      "addr:housenumber": "140",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Açude",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0184P-5-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3176873,-9.3911062]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413331",
+      "addr:housenumber": "77",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Açude",
+      "addr:unit": "Fazenda 8",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3229032,-9.387073]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415219",
+      "addr:housenumber": "12",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Açude",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0184P-2-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3148413,-9.3888011]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413320",
+      "addr:housenumber": "86",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Açude",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3246101,-9.388935]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413361",
+      "addr:housenumber": "131",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Açude",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.317536,-9.3919085]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413380",
+      "addr:housenumber": "158",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada do Salgadinho",
+      "addr:suburb": "Açude",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3174889,-9.3877769]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413335-27413336",
+      "addr:housenumber": "104",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Açude",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 112m 0500-0184P-9-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.322554,-9.390634]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413365",
+      "addr:housenumber": "41",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Açude",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3187544,-9.3881669]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413377;191741986",
+      "addr:housenumber": "37",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Açude",
+      "amenity": "pub",
+      "building": "yes",
+      "fixme": "Confirmar nome",
+      "name": "Bar do Bilinho"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3182351,-9.3876676]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413324",
+      "addr:housenumber": "63",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Açude",
+      "addr:unit": "Fazenda 2",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.322735,-9.3871463]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191741996",
+      "addr:housenumber": "61",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Açude",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3227606,-9.3871626]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191742071",
+      "addr:housenumber": "115",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Açude",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3196401,-9.3915047]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191741836",
+      "addr:housenumber": "31",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Açude",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0184P-2-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3171584,-9.3877353]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413353",
+      "addr:housenumber": "89",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Açude",
+      "addr:unit": "Fundos 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 42m 0500-0184P-6-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.319025,-9.390574]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413356",
+      "addr:housenumber": "124",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Açude",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3177784,-9.391173]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191741927",
+      "addr:housenumber": "129",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Açude",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3176553,-9.391694]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191741874",
+      "addr:housenumber": "185",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada do Salgadinho",
+      "addr:suburb": "Açude",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3147075,-9.3890377]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191741988",
+      "addr:housenumber": "47",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Açude",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3197506,-9.3886275]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415212",
+      "addr:housenumber": "3",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Açude",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 56m 0500-0184P-2-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.314655,-9.389439]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191741867",
+      "addr:housenumber": "180",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada do Salgadinho",
+      "addr:suburb": "Açude",
+      "amenity": "school",
+      "building": "yes",
+      "name": "Colégio João Fernandes de Sousa"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3154899,-9.3886956]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413392",
+      "addr:housenumber": "181",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada do Salgadinho",
+      "addr:suburb": "Açude",
+      "amenity": "pub",
+      "building": "yes",
+      "name": "Bar do Balá"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3152822,-9.3887865]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191741822",
+      "addr:housenumber": "14",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Açude",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0184P-2-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3151076,-9.3886786]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413329",
+      "addr:housenumber": "73",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Açude",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.322867,-9.3868911]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413394",
+      "addr:housenumber": "184",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada do Salgadinho",
+      "addr:suburb": "Açude",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3147599,-9.3890148]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191741955",
+      "addr:housenumber": "119",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Açude",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3179762,-9.3908275]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413388",
+      "addr:housenumber": "173",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Açude",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 72m 0500-0184P-3-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.316482,-9.390262]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413351",
+      "addr:housenumber": "150",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Açude",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 71m 0500-0184P-8-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.319393,-9.389231]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191741863",
+      "addr:housenumber": "209",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada do Salgadinho",
+      "addr:suburb": "Açude",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3127948,-9.3902491]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191741906",
+      "addr:housenumber": "164",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada do Salgadinho",
+      "addr:suburb": "Açude",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3162755,-9.3883401]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191742015",
+      "addr:housenumber": "149",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Açude",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 62m 0500-0184P-8-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3195,-9.389223]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413357",
+      "addr:housenumber": "126",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Açude",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3177516,-9.3913098]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413375",
+      "addr:housenumber": "109",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Açude",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.318658,-9.3880796]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413323",
+      "addr:housenumber": "63",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Açude",
+      "addr:unit": "Fazenda 1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3227344,-9.3871053]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191741883",
+      "addr:housenumber": "199",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada do Salgadinho",
+      "addr:suburb": "Açude",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 45m 0500-0184P-3-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.313594,-9.390103]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413401;191741865",
+      "addr:housenumber": "203",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada do Salgadinho",
+      "addr:suburb": "Açude",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3131502,-9.3899879]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191741904",
+      "addr:housenumber": "163",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada do Salgadinho",
+      "addr:suburb": "Açude",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3163627,-9.3882996]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413393",
+      "addr:housenumber": "183",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada do Salgadinho",
+      "addr:suburb": "Açude",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "catholic",
+      "name": "Igreja Santo Antônio",
+      "religion": "christian"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3150517,-9.3888873]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191742063",
+      "addr:housenumber": "112",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Açude",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3199505,-9.3909782]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413396",
+      "addr:housenumber": "189",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada do Salgadinho",
+      "addr:suburb": "Açude",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 43m 0500-0184P-3-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.314663,-9.389426]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191741945",
+      "addr:housenumber": "143",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Açude",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0184P-5-4"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3173023,-9.3907468]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413334",
+      "addr:housenumber": "55",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Açude",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3220738,-9.3894809]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413318",
+      "addr:housenumber": "138",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Açude",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3244437,-9.3881329]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413400",
+      "addr:housenumber": "201",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada do Salgadinho",
+      "addr:suburb": "Açude",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3132776,-9.3898942]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413390",
+      "addr:housenumber": "179",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Açude",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3157527,-9.3887751]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413362",
+      "addr:housenumber": "133",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Açude",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3174542,-9.3920316]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413350",
+      "addr:housenumber": "148",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Açude",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 55m 0500-0184P-8-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.319622,-9.389241]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191742011",
+      "addr:housenumber": "71",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Açude",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3227138,-9.3869715]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413354",
+      "addr:housenumber": "120",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Açude",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3181963,-9.391053]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191741901",
+      "addr:housenumber": "162",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada do Salgadinho",
+      "addr:suburb": "Açude",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3163954,-9.3882845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415215",
+      "addr:housenumber": "7",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Açude",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0184P-2-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3145403,-9.3889396]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191741830",
+      "addr:housenumber": "19",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Açude",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 101m 0500-0184P-2-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.315084,-9.387683]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191742067",
+      "addr:housenumber": "113",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Açude",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3197027,-9.3913782]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413387",
+      "addr:housenumber": "174",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Açude",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 73m 0500-0184P-3-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.316398,-9.390168]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191741908",
+      "addr:housenumber": "165",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada do Salgadinho",
+      "addr:suburb": "Açude",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3163155,-9.3883215]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415225",
+      "addr:housenumber": "26",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Açude",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0184P-2-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3162493,-9.3881534]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191741998",
+      "addr:housenumber": "63",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Açude",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3227281,-9.3870204]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413340",
+      "addr:housenumber": "108",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Açude",
+      "addr:unit": "Fundos 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 46m 0500-0184P-9-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.321067,-9.389615]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413319",
+      "addr:housenumber": "101",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Açude",
+      "addr:unit": "Fundos 1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3245525,-9.3884296]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413376",
+      "addr:housenumber": "38",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Açude",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3183936,-9.3878397]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191741925",
+      "addr:housenumber": "127",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Açude",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.317707,-9.3915375]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415226",
+      "addr:housenumber": "27",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Açude",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0184P-2-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3167733,-9.3879124]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415222",
+      "addr:housenumber": "22",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Açude",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0184P-2-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3156056,-9.3884495]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413344",
+      "addr:housenumber": "116",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Açude",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3197426,-9.3910708]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413381",
+      "addr:housenumber": "28",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Açude",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0184P-2-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3168746,-9.3878658]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415216",
+      "addr:housenumber": "9",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Açude",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0184P-2-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3147509,-9.3888427]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415211",
+      "addr:housenumber": "2",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Açude",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0184P-2-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3131944,-9.3897786]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191741826",
+      "addr:housenumber": "15",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Açude",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0184P-2-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3152278,-9.3886233]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415228",
+      "addr:housenumber": "30",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Açude",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0184P-2-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3168969,-9.3878555]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191742000",
+      "addr:housenumber": "66",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Açude",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3227026,-9.3869333]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415218",
+      "addr:housenumber": "11",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Açude",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0184P-2-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3147956,-9.3888222]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413373",
+      "addr:housenumber": "144",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Açude",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0184P-7-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3202687,-9.3895264]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191742085",
+      "addr:housenumber": "76",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Açude",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3229032,-9.387047]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413345",
+      "addr:housenumber": "117",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Açude",
+      "addr:unit": "Fundos 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3197031,-9.3910309]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415223",
+      "addr:housenumber": "23",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Açude",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0184P-2-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3158985,-9.3883148]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191741915",
+      "addr:housenumber": "58",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Açude",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3181946,-9.3912773]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413367",
+      "addr:housenumber": "139",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Açude",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0184P-5-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3176598,-9.3912521]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191741894",
+      "addr:housenumber": "154",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Açude",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3186494,-9.3883494]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413349",
+      "addr:housenumber": "146",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Açude",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.320348,-9.3891087]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191741932",
+      "addr:housenumber": "138",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Açude",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0184P-5-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3176316,-9.3914011]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413341",
+      "addr:housenumber": "109",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Açude",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 58m 0500-0184P-9-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.321582,-9.389953]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191742003",
+      "addr:housenumber": "67",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Açude",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 53m 0500-0184P-8-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.322264,-9.386949]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413325",
+      "addr:housenumber": "65",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Açude",
+      "addr:unit": "Fazenda 4",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3227404,-9.3871497]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191742019",
+      "addr:housenumber": "151",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Açude",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 83m 0500-0184P-8-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.319137,-9.389241]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413326",
+      "addr:housenumber": "70",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Açude",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3226886,-9.3868857]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191741990",
+      "addr:housenumber": "57",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Açude",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 67m 0500-0184P-8-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.322444,-9.389035]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191741833",
+      "addr:housenumber": "20",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Açude",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 75m 0500-0184P-2-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.315262,-9.387859]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191741936",
+      "addr:housenumber": "137",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Açude",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0184P-5-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3176143,-9.3914927]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413368",
+      "addr:housenumber": "125",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Açude",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3177625,-9.3912542]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413346",
+      "addr:housenumber": "118",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Açude",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3197856,-9.390811]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191741887",
+      "addr:housenumber": "202",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada do Salgadinho",
+      "addr:suburb": "Açude",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3132778,-9.3898941]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413333",
+      "addr:housenumber": "60",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Açude",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3232452,-9.3877899]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191742007",
+      "addr:housenumber": "68",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Açude",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 42m 0500-0184P-8-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.322366,-9.386962]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413378",
+      "addr:housenumber": "156",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Açude",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3180387,-9.3877502]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413338",
+      "addr:housenumber": "103",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Açude",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 113m 0500-0184P-9-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.322581,-9.39066]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413360",
+      "addr:housenumber": "130",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Açude",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3175967,-9.3917428]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415217",
+      "addr:housenumber": "10",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Açude",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0184P-2-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3147752,-9.3888315]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191741994",
+      "addr:housenumber": "58",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Açude",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3231888,-9.3880229]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413347",
+      "addr:housenumber": "43",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Açude",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3190994,-9.3883565]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413322",
+      "addr:housenumber": "89",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Açude",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3240846,-9.3878651]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413355",
+      "addr:housenumber": "123",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Açude",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3178276,-9.3909217]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413369",
+      "addr:housenumber": "142",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Açude",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0184P-5-4"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.317495,-9.3906623]
+      }
+    }
+  ]
+}

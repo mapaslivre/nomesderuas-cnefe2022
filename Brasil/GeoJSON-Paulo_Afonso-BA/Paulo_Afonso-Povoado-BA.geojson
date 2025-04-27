@@ -1,0 +1,2490 @@
+{
+  "type": "FeatureCollection",
+  "generator": "CSV-CNEFE2GeoJSON.lua 1.5.7 - fidelis.assis@gmail.com",
+  "source": "IBGE CNEFE + Faces de Logradouros - 2022",
+  "date": "2025-02-02T09:05:31-0300",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112582202",
+      "addr:housenumber": "42",
+      "addr:postcode": "48601-018",
+      "addr:street": "Estrada do Rio do Sal para O Povoado Mão Direita",
+      "addr:suburb": "Povoado",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-156"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.161828,-9.484616]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112582166",
+      "addr:housenumber": "39",
+      "addr:postcode": "48601-018",
+      "addr:street": "Estrada do Rio do Sal para O Povoado Mão Direita",
+      "addr:suburb": "Povoado",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-156"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.166811,-9.486043]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191541896",
+      "addr:housenumber": "2",
+      "addr:postcode": "48610-488",
+      "addr:street": "Estrada do Angico",
+      "addr:suburb": "Povoado",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-177"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.17932,-9.480111]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112582085",
+      "addr:housenumber": "32",
+      "addr:postcode": "48601-018",
+      "addr:street": "Estrada Aviador do Barrocão para O Rio do Sal",
+      "addr:suburb": "Povoado",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-159"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.165855,-9.465164]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410978",
+      "addr:housenumber": "12",
+      "addr:postcode": "48601-018",
+      "addr:street": "Povoado Riacho Grande",
+      "addr:suburb": "Povoado",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-135"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.19959,-9.519827]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191541641",
+      "addr:housenumber": "18",
+      "addr:postcode": "48610-488",
+      "addr:street": "Estrada do Riacho Grande",
+      "addr:suburb": "Povoado",
+      "amenity": "school",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "name": "Escola Municipal João Filho",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-138"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.190645,-9.521719]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112582154",
+      "addr:housenumber": "38",
+      "addr:postcode": "48601-018",
+      "addr:street": "Estrada do Rio do Sal para O Povoado Mão Direita",
+      "addr:suburb": "Povoado",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-156"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.165814,-9.486229]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112582220",
+      "addr:housenumber": "44",
+      "addr:postcode": "48601-018",
+      "addr:street": "Estrada do Rio do Sal para O Povoado Mão Direita",
+      "addr:suburb": "Povoado",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-156"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.162108,-9.487034]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112582318",
+      "addr:housenumber": "14",
+      "addr:postcode": "48601-018",
+      "addr:street": "Estrada Poço Fundo para Mão Direita",
+      "addr:suburb": "Povoado",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-170"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.135986,-9.556859]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411072",
+      "addr:housenumber": "74",
+      "addr:postcode": "48601-018",
+      "addr:street": "Povoado Anjico",
+      "addr:suburb": "Povoado",
+      "addr:unit": "Barraca",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-155"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.188031,-9.457027]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112582934",
+      "addr:housenumber": "26",
+      "addr:postcode": "48601-018",
+      "addr:street": "Estrada do Ribeira",
+      "addr:suburb": "Povoado",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-173"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.195161,-9.582574]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112582839",
+      "addr:housenumber": "13",
+      "addr:postcode": "48601-018",
+      "addr:street": "Estrada Principal Mão Direita",
+      "addr:suburb": "Povoado",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-166"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.139592,-9.56283]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112582920",
+      "addr:housenumber": "12",
+      "addr:postcode": "48601-018",
+      "addr:street": "Estrada do Riacho Grande para A Mão Direita",
+      "addr:suburb": "Povoado",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-167"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.150064,-9.560796]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112581224",
+      "addr:housenumber": "57",
+      "addr:postcode": "48601-018",
+      "addr:street": "Povoado Malhada Grande",
+      "addr:suburb": "Povoado",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-163"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.133054,-9.458749]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "109862712",
+      "addr:housenumber": "55",
+      "addr:postcode": "48601-018",
+      "addr:street": "Povoado Malhada Grande",
+      "addr:suburb": "Povoado",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-163"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.132962,-9.459035]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112582535",
+      "addr:housenumber": "14",
+      "addr:postcode": "48601-018",
+      "addr:street": "Estrada da Linha de Transmissão 69 Kv",
+      "addr:suburb": "Povoado",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-174"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.197388,-9.456759]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112582329",
+      "addr:housenumber": "18",
+      "addr:postcode": "48601-018",
+      "addr:street": "Estrada do Riacho Grande para A Mão Direita",
+      "addr:suburb": "Povoado",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-167"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.135985955812,-9.5568591616562]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112582471",
+      "addr:housenumber": "28",
+      "addr:postcode": "48601-018",
+      "addr:street": "Estrada do Angico para O Poço da Volta",
+      "addr:suburb": "Povoado",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-175"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.184649,-9.481713]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191541640",
+      "addr:housenumber": "15",
+      "addr:postcode": "48610-488",
+      "addr:street": "Estrada do Riacho Grande",
+      "addr:suburb": "Povoado",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-138"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.190569,-9.521736]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191541644",
+      "addr:housenumber": "191",
+      "addr:postcode": "48610-488",
+      "addr:street": "Estrada do Riacho Grande",
+      "addr:suburb": "Povoado",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "name": "Associação de Moradores",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-138",
+      "office": "association"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.190608,-9.521719]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191541791",
+      "addr:housenumber": "50",
+      "addr:postcode": "48610-488",
+      "addr:street": "Acesso da Estrada da Linha de Transmissão",
+      "addr:suburb": "Povoado",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-148"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.207295,-9.503086]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191541775",
+      "addr:housenumber": "46",
+      "addr:postcode": "48610-488",
+      "addr:street": "Acesso da Estrada da Linha de Transmissão",
+      "addr:suburb": "Povoado",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-148"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.207792,-9.503799]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191541772",
+      "addr:housenumber": "44",
+      "addr:postcode": "48610-488",
+      "addr:street": "Acesso da Estrada da Linha de Transmissão",
+      "addr:suburb": "Povoado",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-148"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.206588,-9.504238]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411121",
+      "addr:housenumber": "163",
+      "addr:postcode": "48601-018",
+      "addr:street": "Estrada do Rio do Sal para O Povoado Mão Direita",
+      "addr:suburb": "Povoado",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-156"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.161101,-9.456926]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191541662",
+      "addr:housenumber": "50",
+      "addr:postcode": "48610-488",
+      "addr:street": "Estrada do Riacho Grande",
+      "addr:suburb": "Povoado",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-138"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.190817,-9.520555]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112581525",
+      "addr:housenumber": "170",
+      "addr:postcode": "48601-016",
+      "addr:street": "Estrada BA-210",
+      "addr:suburb": "Povoado",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-157"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.156695,-9.455973]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191541724",
+      "addr:housenumber": "26",
+      "addr:postcode": "48610-488",
+      "addr:street": "Povoado Laginha",
+      "addr:suburb": "Povoado",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-140"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.196569,-9.529152]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191541711",
+      "addr:housenumber": "189",
+      "addr:postcode": "48610-488",
+      "addr:street": "Povoado Laginha",
+      "addr:suburb": "Povoado",
+      "building": "construction",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-140"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.195652,-9.528035]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191541783",
+      "addr:housenumber": "48",
+      "addr:postcode": "48610-488",
+      "addr:street": "Acesso da Estrada da Linha de Transmissão",
+      "addr:suburb": "Povoado",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-148"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.207506,-9.503734]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410986",
+      "addr:housenumber": "23",
+      "addr:postcode": "48601-018",
+      "addr:street": "Povoado Laginha",
+      "addr:suburb": "Povoado",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-139"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.195145,-9.52698]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112582577",
+      "addr:housenumber": "30",
+      "addr:postcode": "48601-018",
+      "addr:street": "Estrada do Angico para O Poço da Volta",
+      "addr:suburb": "Povoado",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-175"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.185893,-9.489201]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410974",
+      "addr:housenumber": "8",
+      "addr:postcode": "48601-018",
+      "addr:street": "Povoado Riacho Grande",
+      "addr:suburb": "Povoado",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-135"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.199617,-9.519818]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191541705",
+      "addr:housenumber": "3",
+      "addr:postcode": "48610-488",
+      "addr:street": "Povoado Laginha",
+      "addr:suburb": "Povoado",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-140"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.181035,-9.543423]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410979",
+      "addr:housenumber": "17",
+      "addr:postcode": "48601-018",
+      "addr:street": "Povoado Riacho Grande",
+      "addr:suburb": "Povoado",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-135"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.1906,-9.52171]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410996",
+      "addr:housenumber": "27",
+      "addr:postcode": "48601-018",
+      "addr:street": "Povoado Poço Fundo",
+      "addr:suburb": "Povoado",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-144"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.179753,-9.531441]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411125",
+      "addr:housenumber": "168",
+      "addr:postcode": "48601-018",
+      "addr:street": "Estrada do Rio do Sal para O Povoado Mão Direita",
+      "addr:suburb": "Povoado",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-156"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.159683,-9.456551]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411112",
+      "addr:housenumber": "87",
+      "addr:postcode": "48601-018",
+      "addr:street": "Povoado Anjico",
+      "addr:suburb": "Povoado",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-155"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.186975,-9.457163]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112582098",
+      "addr:housenumber": "33",
+      "addr:postcode": "48601-018",
+      "addr:street": "Estrada do Rio do Sal para O Povoado Mão Direita",
+      "addr:suburb": "Povoado",
+      "addr:unit": "Fundos",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-156"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.165754,-9.46587]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410981",
+      "addr:housenumber": "16",
+      "addr:postcode": "48601-018",
+      "addr:street": "Povoado Riacho Grande",
+      "addr:suburb": "Povoado",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-135"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.190585,-9.521724]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191541701",
+      "addr:housenumber": "2",
+      "addr:postcode": "48610-488",
+      "addr:street": "Povoado Laginha",
+      "addr:suburb": "Povoado",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-140"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.180967,-9.543417]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411129",
+      "addr:housenumber": "165",
+      "addr:postcode": "48601-018",
+      "addr:street": "Estrada do Rio do Sal para O Povoado Mão Direita",
+      "addr:suburb": "Povoado",
+      "building": "construction",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-156"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.159226,-9.45655]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "109862710",
+      "addr:housenumber": "49",
+      "addr:postcode": "48601-018",
+      "addr:street": "Povoado Malhada Grande",
+      "addr:suburb": "Povoado",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-163"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.132949,-9.459503]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411118",
+      "addr:housenumber": "162",
+      "addr:postcode": "48601-018",
+      "addr:street": "Estrada do Rio do Sal para O Povoado Mão Direita",
+      "addr:suburb": "Povoado",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-156"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.161122,-9.456902]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112582266",
+      "addr:housenumber": "59",
+      "addr:postcode": "48601-018",
+      "addr:street": "Acesso da Estrada da Linha de Transmissão",
+      "addr:suburb": "Povoado",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-165"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.151008,-9.484228]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112582113",
+      "addr:housenumber": "34",
+      "addr:postcode": "48601-018",
+      "addr:street": "Estrada Aviador do Barrocão para O Rio do Sal",
+      "addr:suburb": "Povoado",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-159"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.167354,-9.468947]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411114",
+      "addr:housenumber": "90",
+      "addr:postcode": "48601-018",
+      "addr:street": "Estrada do Angico",
+      "addr:suburb": "Povoado",
+      "building": "construction",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-154"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.186984,-9.45719]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191541749",
+      "addr:housenumber": "9",
+      "addr:postcode": "48610-488",
+      "addr:street": "Povoado Poço Fundo",
+      "addr:suburb": "Povoado",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-143"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.166304,-9.531958]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191541666",
+      "addr:housenumber": "40",
+      "addr:postcode": "48610-488",
+      "addr:street": "Estrada do Riacho Grande",
+      "addr:suburb": "Povoado",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-138"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.207153,-9.509592]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411117",
+      "addr:housenumber": "114",
+      "addr:postcode": "48601-018",
+      "addr:street": "Estrada do Rio do Sal para O Povoado Mão Direita",
+      "addr:suburb": "Povoado",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-156"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.160996,-9.456916]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112582388",
+      "addr:housenumber": "58",
+      "addr:postcode": "48601-018",
+      "addr:street": "Estrada do Ribeira",
+      "addr:suburb": "Povoado",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "catholic",
+      "description": "CNEFE 2022 Igreja Católica",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-173",
+      "religion": "christian"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.216062,-9.571639]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112582250",
+      "addr:housenumber": "36",
+      "addr:postcode": "48601-018",
+      "addr:street": "Estrada Aviador do Barrocão para O Rio do Sal",
+      "addr:suburb": "Povoado",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-159"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.156601,-9.477556]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112582422",
+      "addr:housenumber": "24",
+      "addr:postcode": "48601-018",
+      "addr:street": "Estrada do Ribeira",
+      "addr:suburb": "Povoado",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-173"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.21605,-9.571634]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191541692",
+      "addr:housenumber": "31",
+      "addr:postcode": "48610-488",
+      "addr:street": "Povoado Laginha",
+      "addr:suburb": "Povoado",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-140"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.19055,-9.528524]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112582889",
+      "addr:housenumber": "13",
+      "addr:postcode": "48601-018",
+      "addr:street": "Estrada Poço Fundo para Mão Direita",
+      "addr:suburb": "Povoado",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-170"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.150071,-9.560803]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112582363",
+      "addr:housenumber": "2",
+      "addr:postcode": "48601-016",
+      "addr:street": "Estrada do Ribeira",
+      "addr:suburb": "Povoado",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-172"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.148934,-9.575782]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411131",
+      "addr:housenumber": "173",
+      "addr:postcode": "48601-016",
+      "addr:street": "Povoado Malhada Grande",
+      "addr:suburb": "Povoado",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-158"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.154103,-9.455156]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112582189",
+      "addr:housenumber": "41",
+      "addr:postcode": "48601-018",
+      "addr:street": "Estrada do Rio do Sal para O Povoado Mão Direita",
+      "addr:suburb": "Povoado",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-156"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.161836,-9.484511]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191541716",
+      "addr:housenumber": "106",
+      "addr:postcode": "48610-488",
+      "addr:street": "Povoado Laginha",
+      "addr:suburb": "Povoado",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-140"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.19664,-9.528491]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410977",
+      "addr:housenumber": "11",
+      "addr:postcode": "48601-018",
+      "addr:street": "Povoado Riacho Grande",
+      "addr:suburb": "Povoado",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-135"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.199541,-9.519717]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411123",
+      "addr:housenumber": "165",
+      "addr:postcode": "48601-018",
+      "addr:street": "Estrada do Rio do Sal para O Povoado Mão Direita",
+      "addr:suburb": "Povoado",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-156"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.160273,-9.456639]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112582762",
+      "addr:housenumber": "60",
+      "addr:postcode": "48601-018",
+      "addr:street": "Estrada do Rio do Sal para O Povoado Mão Direita",
+      "addr:suburb": "Povoado",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-156"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.151066,-9.498321]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112582126",
+      "addr:housenumber": "35",
+      "addr:postcode": "48601-018",
+      "addr:street": "Estrada do Rio do Sal para O Povoado Mão Direita",
+      "addr:suburb": "Povoado",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-156"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.166423,-9.470284]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410984",
+      "addr:housenumber": "30",
+      "addr:postcode": "48601-018",
+      "addr:street": "Povoado Laginha",
+      "addr:suburb": "Povoado",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-139"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.190841,-9.529022]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112582208",
+      "addr:housenumber": "43",
+      "addr:postcode": "48601-018",
+      "addr:street": "Estrada do Rio do Sal para O Povoado Mão Direita",
+      "addr:suburb": "Povoado",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-156"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.16165,-9.486183]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112582143",
+      "addr:housenumber": "36",
+      "addr:postcode": "48601-018",
+      "addr:street": "Estrada do Rio do Sal para O Povoado Mão Direita",
+      "addr:suburb": "Povoado",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-156"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.163714,-9.477135]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112582308",
+      "addr:housenumber": "8",
+      "addr:postcode": "48601-018",
+      "addr:street": "Estrada do Riacho Grande para A Mão Direita",
+      "addr:suburb": "Povoado",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-167"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.135529,-9.540045]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191541734",
+      "addr:housenumber": "1",
+      "addr:postcode": "48610-488",
+      "addr:street": "Estrada Linha de Transmisao",
+      "addr:suburb": "Povoado",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-142"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.18091,-9.543343]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410994-27410995",
+      "addr:housenumber": "1",
+      "addr:postcode": "48601-018",
+      "addr:street": "Povoado Poço Fundo",
+      "addr:suburb": "Povoado",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-144"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.1781965,-9.529715]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411128",
+      "addr:housenumber": "169",
+      "addr:postcode": "48601-018",
+      "addr:street": "Estrada do Rio do Sal para O Povoado Mão Direita",
+      "addr:suburb": "Povoado",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-156"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.159257,-9.456518]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112582901",
+      "addr:housenumber": "11",
+      "addr:postcode": "48601-018",
+      "addr:street": "Estrada do Mão Direita para O Riacho Grande",
+      "addr:suburb": "Povoado",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-169"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.153036,-9.55598]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411068",
+      "addr:housenumber": "81",
+      "addr:postcode": "48601-018",
+      "addr:street": "Estrada do Angico",
+      "addr:suburb": "Povoado",
+      "addr:unit": "Barraca",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-154"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.187846,-9.457017]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410985",
+      "addr:housenumber": "28",
+      "addr:postcode": "48601-018",
+      "addr:street": "Povoado Laginha",
+      "addr:suburb": "Povoado",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-139"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.19062,-9.529685]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191541637",
+      "addr:housenumber": "19",
+      "addr:postcode": "48610-488",
+      "addr:street": "Estrada do Riacho Grande",
+      "addr:suburb": "Povoado",
+      "building": "construction",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-138"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.198363,-9.518569]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410990",
+      "addr:housenumber": "1111",
+      "addr:postcode": "48601-018",
+      "addr:street": "Povoado Poço Fundo",
+      "addr:suburb": "Povoado",
+      "addr:unit": "Fundos Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-144"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.166484,-9.53218]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112581205",
+      "addr:housenumber": "56",
+      "addr:postcode": "48601-018",
+      "addr:street": "Povoado Malhada Grande",
+      "addr:suburb": "Povoado",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-163"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.133016,-9.458887]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112582338",
+      "addr:housenumber": "16",
+      "addr:postcode": "48601-018",
+      "addr:street": "Estrada Aviador do Barrocão para O Rio do Sal",
+      "addr:suburb": "Povoado",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-159"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.129876,-9.557189]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191541657",
+      "addr:housenumber": "56",
+      "addr:postcode": "48610-488",
+      "addr:street": "Estrada do Riacho Grande",
+      "addr:suburb": "Povoado",
+      "amenity": "pub",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "name": "Barzinho",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-138"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.190459,-9.520248]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191541751",
+      "addr:housenumber": "29",
+      "addr:postcode": "48610-488",
+      "addr:street": "Povoado Poço Fundo",
+      "addr:suburb": "Povoado",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-143"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.190846,-9.521773]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112582506",
+      "addr:housenumber": "31",
+      "addr:postcode": "48601-018",
+      "addr:street": "Estrada do Angico",
+      "addr:suburb": "Povoado",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-154"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.176378,-9.487361]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191541768",
+      "addr:housenumber": "43",
+      "addr:postcode": "48610-488",
+      "addr:street": "Estrada da Linha de Transmissão 69 Kv",
+      "addr:suburb": "Povoado",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-147"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.206714,-9.505381]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112582495",
+      "addr:housenumber": "8",
+      "addr:postcode": "48601-018",
+      "addr:street": "Estrada do Angico",
+      "addr:suburb": "Povoado",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-154"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.176383,-9.487343]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411132",
+      "addr:housenumber": "171",
+      "addr:postcode": "48601-018",
+      "addr:street": "Estrada do Rio do Sal para O Povoado Mão Direita",
+      "addr:suburb": "Povoado",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0118P-0-105"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.151363,-9.455336]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410975",
+      "addr:housenumber": "9",
+      "addr:postcode": "48601-018",
+      "addr:street": "Povoado Riacho Grande",
+      "addr:suburb": "Povoado",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-135"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.199642,-9.519804]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411126",
+      "addr:housenumber": "24",
+      "addr:postcode": "48601-018",
+      "addr:street": "Estrada do Rio do Sal para O Povoado Mão Direita",
+      "addr:suburb": "Povoado",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-156"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.159441,-9.456501]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410983",
+      "addr:housenumber": "5",
+      "addr:postcode": "48601-018",
+      "addr:street": "Povoado Laginha",
+      "addr:suburb": "Povoado",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-139"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.189747,-9.521888]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112582178",
+      "addr:housenumber": "40",
+      "addr:postcode": "48601-018",
+      "addr:street": "Estrada do Rio do Sal para O Povoado Mão Direita",
+      "addr:suburb": "Povoado",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-156"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.162318,-9.481769]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112582461",
+      "addr:housenumber": "697",
+      "addr:postcode": "48601-018",
+      "addr:street": "Estrada do Ribeira",
+      "addr:suburb": "Povoado",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-173"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.215417,-9.573634]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191541647",
+      "addr:housenumber": "54",
+      "addr:postcode": "48610-488",
+      "addr:street": "Estrada do Riacho Grande",
+      "addr:suburb": "Povoado",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-138"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.191226,-9.520757]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410987",
+      "addr:housenumber": "22",
+      "addr:postcode": "48601-018",
+      "addr:street": "Povoado Laginha",
+      "addr:suburb": "Povoado",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-139"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.195292,-9.526983]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410989",
+      "addr:housenumber": "10",
+      "addr:postcode": "48601-018",
+      "addr:street": "Povoado Poço Fundo",
+      "addr:suburb": "Povoado",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-144"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.16642,-9.531219]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112582567",
+      "addr:housenumber": "3",
+      "addr:postcode": "48601-018",
+      "addr:street": "Estrada do Angico para O Poço da Volta",
+      "addr:suburb": "Povoado",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-175"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.168483,-9.486105]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112582292",
+      "addr:housenumber": "56",
+      "addr:postcode": "48601-018",
+      "addr:street": "Estrada Principal Mão Direita",
+      "addr:suburb": "Povoado",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-166"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.13759,-9.527842]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191541746",
+      "addr:housenumber": "8",
+      "addr:postcode": "48610-488",
+      "addr:street": "Povoado Poço Fundo",
+      "addr:suburb": "Povoado",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-143"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.165906,-9.532087]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411130",
+      "addr:housenumber": "168",
+      "addr:postcode": "48601-018",
+      "addr:street": "Estrada do Rio do Sal para O Povoado Mão Direita",
+      "addr:suburb": "Povoado",
+      "building": "warehouse",
+      "description": "CNEFE 2022 Depósito de Material",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-156"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.15851,-9.456284]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112582786",
+      "addr:housenumber": "9",
+      "addr:postcode": "48601-018",
+      "addr:street": "Estrada do Rio do Sal para O Povoado Mão Direita",
+      "addr:suburb": "Povoado",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-156"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.146943,-9.539914]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112582521",
+      "addr:housenumber": "19",
+      "addr:postcode": "48601-018",
+      "addr:street": "Estrada do Riacho Grande para A Mão Direita",
+      "addr:suburb": "Povoado",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-167"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.128195,-9.560021]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410980",
+      "addr:housenumber": "3",
+      "addr:postcode": "48601-018",
+      "addr:street": "Povoado Riacho Grande",
+      "addr:suburb": "Povoado",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-135"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.190595,-9.521697]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112582240",
+      "addr:housenumber": "53",
+      "addr:postcode": "48601-018",
+      "addr:street": "Estrada Principal Mão Direita",
+      "addr:suburb": "Povoado",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-166"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.15095,-9.502372]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411120",
+      "addr:housenumber": "161",
+      "addr:postcode": "48601-018",
+      "addr:street": "Estrada do Rio do Sal para O Povoado Mão Direita",
+      "addr:suburb": "Povoado",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-156"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.161111,-9.456902]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112582943",
+      "addr:housenumber": "20",
+      "addr:postcode": "48601-018",
+      "addr:street": "Estrada do Mão Direita para O Sítio do Tara",
+      "addr:suburb": "Povoado",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-171"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.19515329549,-9.5825755613881]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112582481",
+      "addr:housenumber": "28",
+      "addr:postcode": "48601-018",
+      "addr:street": "Estrada do Angico",
+      "addr:suburb": "Povoado",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-154"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.181018,-9.481004]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112582796",
+      "addr:housenumber": "11",
+      "addr:postcode": "48601-018",
+      "addr:street": "Estrada do Riacho Grande para A Mão Direita",
+      "addr:suburb": "Povoado",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-167"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.150115,-9.560761]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "109862709",
+      "addr:housenumber": "48",
+      "addr:postcode": "48601-018",
+      "addr:street": "Povoado Malhada Grande",
+      "addr:suburb": "Povoado",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-163"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.132818,-9.459541]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191541795",
+      "addr:housenumber": "45",
+      "addr:postcode": "48605-480",
+      "addr:street": "Acesso da Estrada da Linha de Transmissão",
+      "addr:suburb": "Povoado",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-149"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.206628,-9.504213]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411113",
+      "addr:housenumber": "89",
+      "addr:postcode": "48601-018",
+      "addr:street": "Estrada do Angico",
+      "addr:suburb": "Povoado",
+      "building": "construction",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-154"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.186947,-9.457148]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112582410",
+      "addr:housenumber": "10",
+      "addr:postcode": "48601-018",
+      "addr:street": "Estrada Para O Povoado Poço Fundo",
+      "addr:suburb": "Povoado",
+      "building": "construction",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-168"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.146205,-9.53945]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112582641",
+      "addr:housenumber": "45",
+      "addr:postcode": "48601-018",
+      "addr:street": "Estrada do Rio do Sal para O Povoado Mão Direita",
+      "addr:suburb": "Povoado",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-156"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.156575,-9.477551]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112582678",
+      "addr:housenumber": "48",
+      "addr:postcode": "48601-018",
+      "addr:street": "Estrada do Rio do Sal para O Povoado Mão Direita",
+      "addr:suburb": "Povoado",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-156"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.152333,-9.482799]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411075",
+      "addr:housenumber": "84",
+      "addr:postcode": "48601-018",
+      "addr:street": "Povoado Anjico",
+      "addr:suburb": "Povoado",
+      "addr:unit": "Barraca",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-155"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.187395,-9.457113]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191541677",
+      "addr:housenumber": "36",
+      "addr:postcode": "48610-488",
+      "addr:street": "Povoado Laginha",
+      "addr:suburb": "Povoado",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-140"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.190966,-9.525675]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411133",
+      "addr:housenumber": "172",
+      "addr:postcode": "48601-018",
+      "addr:street": "Estrada Aviador do Barrocão para O Rio do Sal",
+      "addr:suburb": "Povoado",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0118P-0-106"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.151081,-9.45528]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411070",
+      "addr:housenumber": "79",
+      "addr:postcode": "48601-018",
+      "addr:street": "Povoado Anjico",
+      "addr:suburb": "Povoado",
+      "addr:unit": "Barraca",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-155"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.188044,-9.457077]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411124",
+      "addr:housenumber": "167",
+      "addr:postcode": "48601-018",
+      "addr:street": "Estrada do Rio do Sal para O Povoado Mão Direita",
+      "addr:suburb": "Povoado",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-156"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.159958,-9.456577]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411074",
+      "addr:housenumber": "83",
+      "addr:postcode": "48601-018",
+      "addr:street": "Povoado Anjico",
+      "addr:suburb": "Povoado",
+      "addr:unit": "Barraca",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-155"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.187563,-9.457008]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191541632",
+      "addr:housenumber": "13",
+      "addr:postcode": "48604-514",
+      "addr:street": "Estrada do Riacho Grande",
+      "addr:suburb": "Povoado",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-137"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.199613,-9.519742]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191541682",
+      "addr:housenumber": "35",
+      "addr:postcode": "48610-488",
+      "addr:street": "Povoado Laginha",
+      "addr:suburb": "Povoado",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-140"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.190993,-9.525631]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112582350",
+      "addr:housenumber": "19",
+      "addr:postcode": "48601-018",
+      "addr:street": "Estrada do Mão Direita para O Sítio do Tara",
+      "addr:suburb": "Povoado",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0118P-0-107"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.124824,-9.562824]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112582225",
+      "addr:housenumber": "46",
+      "addr:postcode": "48601-018",
+      "addr:street": "Estrada Aviador do Barrocão para O Rio do Sal",
+      "addr:suburb": "Povoado",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-159"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.156746,-9.476919]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411073",
+      "addr:housenumber": "72",
+      "addr:postcode": "48601-018",
+      "addr:street": "Povoado Anjico",
+      "addr:suburb": "Povoado",
+      "addr:unit": "Barraca",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "catholic",
+      "fixme": "Verificar coordenadas",
+      "name": "Igreja de Santa Rita",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-155",
+      "religion": "christian"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.187693,-9.45692]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411122",
+      "addr:housenumber": "176",
+      "addr:postcode": "48601-018",
+      "addr:street": "Estrada do Rio do Sal para O Povoado Mão Direita",
+      "addr:suburb": "Povoado",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-156"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.161362,-9.456624]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112582279",
+      "addr:housenumber": "58",
+      "addr:postcode": "48601-018",
+      "addr:street": "Estrada Principal Mão Direita",
+      "addr:suburb": "Povoado",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-166"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.150928,-9.502393]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191541893",
+      "addr:housenumber": "1",
+      "addr:postcode": "48610-488",
+      "addr:street": "Estrada do Angico",
+      "addr:suburb": "Povoado",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-177"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.180703,-9.479061]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191541636",
+      "addr:housenumber": "14",
+      "addr:postcode": "48610-488",
+      "addr:street": "Estrada do Riacho Grande",
+      "addr:suburb": "Povoado",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-138"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.199594,-9.519783]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410982",
+      "addr:housenumber": "6",
+      "addr:postcode": "48601-018",
+      "addr:street": "Povoado Riacho Grande",
+      "addr:suburb": "Povoado",
+      "addr:unit": "Fundos Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-135"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.189802,-9.521962]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411069",
+      "addr:housenumber": "73",
+      "addr:postcode": "48601-018",
+      "addr:street": "Povoado Anjico",
+      "addr:suburb": "Povoado",
+      "addr:unit": "Barraca",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-155"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.188121,-9.457162]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191541697;191541720",
+      "addr:housenumber": "27",
+      "addr:postcode": "48610-488",
+      "addr:street": "Povoado Laginha",
+      "addr:suburb": "Povoado",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-140"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.19356,-9.5294175]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191541787",
+      "addr:housenumber": "49",
+      "addr:postcode": "48610-488",
+      "addr:street": "Acesso da Estrada da Linha de Transmissão",
+      "addr:suburb": "Povoado",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-148"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.207676,-9.50319]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411116",
+      "addr:housenumber": "21",
+      "addr:postcode": "48601-018",
+      "addr:street": "Estrada do Rio do Sal para O Povoado Mão Direita",
+      "addr:suburb": "Povoado",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-156"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.162919,-9.456706]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112582556",
+      "addr:housenumber": "15",
+      "addr:postcode": "48601-018",
+      "addr:street": "Estrada do Angico para O Poço da Volta",
+      "addr:suburb": "Povoado",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-175"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.197389746306,-9.4567639000032]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191541779",
+      "addr:housenumber": "47",
+      "addr:postcode": "48610-488",
+      "addr:street": "Acesso da Estrada da Linha de Transmissão",
+      "addr:suburb": "Povoado",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-148"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.207791,-9.503778]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191541694",
+      "addr:housenumber": "33",
+      "addr:postcode": "48610-488",
+      "addr:street": "Povoado Laginha",
+      "addr:suburb": "Povoado",
+      "building": "construction",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-140"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.190844,-9.528992]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191541687",
+      "addr:housenumber": "32",
+      "addr:postcode": "48610-488",
+      "addr:street": "Povoado Laginha",
+      "addr:suburb": "Povoado",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-140"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.190551,-9.528505]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191541651",
+      "addr:housenumber": "55",
+      "addr:postcode": "48610-488",
+      "addr:street": "Estrada do Riacho Grande",
+      "addr:suburb": "Povoado",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-138"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.190493,-9.520275]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112582773",
+      "addr:housenumber": "57",
+      "addr:postcode": "48601-018",
+      "addr:street": "Estrada do Rio do Sal para O Povoado Mão Direita",
+      "addr:suburb": "Povoado",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-156"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.14168,-9.515437]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411119",
+      "addr:housenumber": "160",
+      "addr:postcode": "48601-018",
+      "addr:street": "Estrada do Rio do Sal para O Povoado Mão Direita",
+      "addr:suburb": "Povoado",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-156"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.161099,-9.456924]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410997",
+      "addr:housenumber": "29",
+      "addr:postcode": "48601-018",
+      "addr:street": "Povoado Poço Fundo",
+      "addr:suburb": "Povoado",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-144"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.179756508961,-9.5314417951224]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112582665",
+      "addr:housenumber": "58",
+      "addr:postcode": "48601-018",
+      "addr:street": "Estrada do Rio do Sal para O Povoado Mão Direita",
+      "addr:suburb": "Povoado",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-156"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.153456,-9.479782]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112582401",
+      "addr:housenumber": "28",
+      "addr:postcode": "48601-018",
+      "addr:street": "Estrada do Ribeira",
+      "addr:suburb": "Povoado",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-173"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.216055,-9.571637]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411111",
+      "addr:housenumber": "86",
+      "addr:postcode": "48601-018",
+      "addr:street": "Estrada do Angico",
+      "addr:suburb": "Povoado",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-154"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.186983,-9.457154]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410976",
+      "addr:housenumber": "10",
+      "addr:postcode": "48601-018",
+      "addr:street": "Povoado Riacho Grande",
+      "addr:suburb": "Povoado",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-135"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.199612,-9.519799]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411127",
+      "addr:housenumber": "17",
+      "addr:postcode": "48601-018",
+      "addr:street": "Estrada do Rio do Sal para O Povoado Mão Direita",
+      "addr:suburb": "Povoado",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-156"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.161006,-9.456574]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "109862711",
+      "addr:housenumber": "50",
+      "addr:postcode": "48601-018",
+      "addr:street": "Povoado Malhada Grande",
+      "addr:suburb": "Povoado",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-163"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.133097,-9.459438]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "109862708",
+      "addr:housenumber": "47",
+      "addr:postcode": "48601-018",
+      "addr:street": "Povoado Malhada Grande",
+      "addr:suburb": "Povoado",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-163"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.132774,-9.459611]
+      }
+    }
+  ]
+}

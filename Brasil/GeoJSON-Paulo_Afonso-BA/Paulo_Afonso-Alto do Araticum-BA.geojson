@@ -1,0 +1,1781 @@
+{
+  "type": "FeatureCollection",
+  "generator": "CSV-CNEFE2GeoJSON.lua 1.5.7 - fidelis.assis@gmail.com",
+  "source": "IBGE CNEFE + Faces de Logradouros - 2022",
+  "date": "2025-02-02T09:05:06-0300",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194569286",
+      "addr:housenumber": "19",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Alto do Araticum",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0188P-7-10"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2520105,-9.4118297]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194569377",
+      "addr:housenumber": "79",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Alto do Araticum",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0188P-15-8"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2490399,-9.4202459]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415454",
+      "addr:housenumber": "24",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Alto do Araticum",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0188P-15-45"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2569045,-9.4230461]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415460",
+      "addr:housenumber": "40",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Alto do Araticum",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.25422,-9.4198734]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194569249",
+      "addr:housenumber": "7",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Alto do Araticum",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0188P-7-4"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2547944,-9.4083584]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415474",
+      "addr:housenumber": "40 B",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Alto do Araticum",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0188P-15-8"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2479984,-9.4199624]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415503",
+      "addr:housenumber": "13",
+      "addr:postcode": "48619-899",
+      "addr:street": "Rua Estrada do Paiol",
+      "addr:suburb": "Alto do Araticum",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2565315,-9.4097793]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194569269",
+      "addr:housenumber": "17",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Alto do Araticum",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0188P-7-4"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2545177,-9.4086731]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194569396",
+      "addr:housenumber": "90",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Alto do Araticum",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2544156,-9.4189123]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415461",
+      "addr:housenumber": "83",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Alto do Araticum",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0188P-15-12"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.255148,-9.421396]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194569597",
+      "addr:housenumber": "67",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Alto do Araticum",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "name": "Associação do Alto do Araticum",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0188P-17-1",
+      "office": "association"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.262563,-9.418062]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194569123",
+      "addr:housenumber": "8892",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Alto do Araticum",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2519192,-9.4114224]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194569386",
+      "addr:housenumber": "45 A",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Alto do Araticum",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0188P-15-8"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2478502,-9.4199174]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194569203",
+      "addr:housenumber": "8",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Alto do Araticum",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0188P-7-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2548187,-9.408392]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194569090",
+      "addr:housenumber": "31",
+      "addr:postcode": "48619-899",
+      "addr:street": "Avenida Estrada Boa Esperança",
+      "addr:suburb": "Alto do Araticum",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0188P-1-5"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.258116,-9.407947]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415484",
+      "addr:housenumber": "9",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Alto do Araticum",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0188P-15-55"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.246586,-9.420886]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194569603",
+      "addr:housenumber": "6",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Alto do Araticum",
+      "amenity": "school",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "name": "Colégio Municipal Noé Pereira",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0188P-17-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.264502,-9.417972]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415446",
+      "addr:housenumber": "16",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Alto do Araticum",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0188P-15-38"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.259832,-9.422905]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415425",
+      "addr:housenumber": "1",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Alto do Araticum",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0188P-15-23"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.26894,-9.416665]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194569125",
+      "addr:housenumber": "2",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Alto do Araticum",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0188P-5-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.250459,-9.412715]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415473",
+      "addr:housenumber": "20 B",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Alto do Araticum",
+      "fixme": "Verificar coordenadas",
+      "landuse": "farmyard;orchard",
+      "name": "Chácara da Bisa Lumainha 1931",
+      "note": "Sem dados para mover para dentro da quadra 0500-0188P-15-8"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2486416,-9.4201475]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194569383",
+      "addr:housenumber": "10 A",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Alto do Araticum",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0188P-15-8"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2493834,-9.4204053]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194569244",
+      "addr:housenumber": "3",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Alto do Araticum",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0188P-7-4"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.254841,-9.4083005]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194569483",
+      "addr:housenumber": "14 A",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Alto do Araticum",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2629105,-9.4202745]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194569034",
+      "addr:housenumber": "19",
+      "addr:postcode": "48619-899",
+      "addr:street": "Avenida Estrada Boa Esperança",
+      "addr:suburb": "Alto do Araticum",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0188P-1-5"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.258212,-9.408199]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415448",
+      "addr:housenumber": "1500",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Alto do Araticum",
+      "building": "warehouse",
+      "description": "CNEFE 2022 Depósito de Máquinas",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0188P-15-36"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2595135,-9.4191159]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415467",
+      "addr:housenumber": "33",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Alto do Araticum",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0188P-15-51"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2525321,-9.4234459]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415498",
+      "addr:housenumber": "10",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Alto do Araticum",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0188P-12-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2579433,-9.4122905]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415436",
+      "addr:housenumber": "3",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Alto do Araticum",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0188P-15-26"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2659509,-9.417267]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415440",
+      "addr:housenumber": "12",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Alto do Araticum",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0188P-15-36"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2602889,-9.4215026]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194569069",
+      "addr:housenumber": "13",
+      "addr:postcode": "48619-899",
+      "addr:street": "Avenida Estrada Boa Esperança",
+      "addr:suburb": "Alto do Araticum",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0188P-1-5"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.258109,-9.407528]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415426",
+      "addr:housenumber": "3",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Alto do Araticum",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0188P-15-29"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.265573,-9.417471]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415479",
+      "addr:housenumber": "34",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Alto do Araticum",
+      "building": "warehouse",
+      "description": "CNEFE 2022 Depósito de Cerâmica",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0188P-15-53"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2488221,-9.421934]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415477",
+      "addr:housenumber": "30 A",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Alto do Araticum",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0188P-15-7"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2476286,-9.4195032]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194569190",
+      "addr:housenumber": "12",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Alto do Araticum",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0188P-7-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2547006,-9.4085345]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415514",
+      "addr:housenumber": "30",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Alto do Araticum",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0188P-4-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2514145,-9.4101877]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415502",
+      "addr:housenumber": "12",
+      "addr:postcode": "48619-899",
+      "addr:street": "Rua Estrada do Paiol",
+      "addr:suburb": "Alto do Araticum",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0188P-14-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.25764,-9.409564]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415455",
+      "addr:housenumber": "20",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Alto do Araticum",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0188P-15-45"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2569019,-9.4230188]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415491",
+      "addr:housenumber": "6",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Alto do Araticum",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0188P-13-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2579663,-9.4138087]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415428",
+      "addr:housenumber": "8",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Alto do Araticum",
+      "building": "warehouse",
+      "description": "CNEFE 2022 Depósito Produtos Agrícolas",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0188P-15-26"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2659511,-9.4172873]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415475",
+      "addr:housenumber": "34",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Alto do Araticum",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0188P-15-7"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2476298,-9.4194892]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194569087",
+      "addr:housenumber": "23",
+      "addr:postcode": "48619-899",
+      "addr:street": "Avenida Estrada Boa Esperança",
+      "addr:suburb": "Alto do Araticum",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0188P-1-5"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.258061,-9.407587]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415518",
+      "addr:housenumber": "21",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Alto do Araticum",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0188P-4-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2516222,-9.4102746]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415492",
+      "addr:housenumber": "5",
+      "addr:postcode": "48619-899",
+      "addr:street": "Rua Estrada do Paiol",
+      "addr:suburb": "Alto do Araticum",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 65m 0500-0188P-13-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.258771,-9.413686]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415462",
+      "addr:housenumber": "27",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Alto do Araticum",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0188P-15-12"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.252734,-9.422103]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415508",
+      "addr:housenumber": "19",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Alto do Araticum",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "name": "Santorine Residence Marina",
+      "note": "Sem dados para mover para dentro da quadra 0500-0188P-7-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2524059,-9.4122153]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415480;27415482",
+      "addr:housenumber": "34",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Alto do Araticum",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2486831,-9.4210975]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194569100",
+      "addr:housenumber": "1",
+      "addr:postcode": "48619-899",
+      "addr:street": "Rua Estrada do Paiol",
+      "addr:suburb": "Alto do Araticum",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 72m 0500-0188P-2-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.253129,-9.407165]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415161",
+      "addr:housenumber": "13",
+      "addr:postcode": "48619-899",
+      "addr:street": "Avenida Estrada Boa Esperança",
+      "addr:suburb": "Alto do Araticum",
+      "addr:unit": "Fundos",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0188P-1-5"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.258032,-9.408657]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194569432",
+      "addr:housenumber": "16",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Alto do Araticum",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0188P-15-23"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.268874,-9.416618]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415512",
+      "addr:housenumber": "37",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Alto do Araticum",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0188P-4-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2514756,-9.4102133]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415493",
+      "addr:housenumber": "4",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Alto do Araticum",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0188P-13-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2574986,-9.4146299]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194569487",
+      "addr:housenumber": "13 A",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Alto do Araticum",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2629331,-9.4199089]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415504",
+      "addr:housenumber": "14",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Alto do Araticum",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0188P-10-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2567592,-9.4100504]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415459",
+      "addr:housenumber": "41",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Alto do Araticum",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0188P-15-47"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2553598,-9.4215818]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194569218",
+      "addr:housenumber": "6",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Alto do Araticum",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0188P-7-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2549211,-9.4082657]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415519",
+      "addr:housenumber": "23",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Alto do Araticum",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0188P-7-7"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2526521,-9.4100644]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194569567",
+      "addr:housenumber": "96",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Alto do Araticum",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0188P-15-51"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.253233,-9.4238212]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194569037",
+      "addr:housenumber": "21",
+      "addr:postcode": "48619-899",
+      "addr:street": "Avenida Estrada Boa Esperança",
+      "addr:suburb": "Alto do Araticum",
+      "fixme": "Verificar coordenadas",
+      "landuse": "farmyard;orchard",
+      "name": "Chácara Calmom",
+      "note": "Sem face no bayface do IBGE 0500-0188P-1-5"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.258197,-9.408263]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194569222",
+      "addr:housenumber": "4",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Alto do Araticum",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0188P-7-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2549333,-9.4082507]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194569281",
+      "addr:housenumber": "21",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Alto do Araticum",
+      "fixme": "Verificar coordenadas",
+      "landuse": "farmyard;orchard",
+      "name": "Chácara Boulevard",
+      "note": "Muito afastado da face: 62m 0500-0188P-7-10"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.252945,-9.411548]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415437",
+      "addr:housenumber": "13",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Alto do Araticum",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0188P-15-31"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.262449,-9.418049]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415445",
+      "addr:housenumber": "45",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Alto do Araticum",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0188P-15-38"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.259815,-9.422899]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415524",
+      "addr:housenumber": "7",
+      "addr:postcode": "48619-899",
+      "addr:street": "Rua Estrada do Paiol",
+      "addr:suburb": "Alto do Araticum",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 67m 0500-0188P-2-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.253052,-9.407036]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194569345",
+      "addr:housenumber": "163",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Alto do Araticum",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2456906,-9.4208655]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415505",
+      "addr:housenumber": "15",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Alto do Araticum",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 164m 0500-0188P-8-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.256759,-9.410012]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415469",
+      "addr:housenumber": "34",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Alto do Araticum",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0188P-15-11"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.251476,-9.420764]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194569594",
+      "addr:housenumber": "1",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Alto do Araticum",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0188P-17-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.261506,-9.417984]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415444",
+      "addr:housenumber": "44",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Alto do Araticum",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0188P-15-38"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.259807,-9.422892]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415452",
+      "addr:housenumber": "43",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Alto do Araticum",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 61m 0500-0188P-15-16"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.25652,-9.419664]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415501",
+      "addr:housenumber": "11",
+      "addr:postcode": "48619-899",
+      "addr:street": "Rua Estrada do Paiol",
+      "addr:suburb": "Alto do Araticum",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0188P-14-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.25761,-9.409528]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194569103",
+      "addr:housenumber": "2",
+      "addr:postcode": "48619-899",
+      "addr:street": "Rua Estrada do Paiol",
+      "addr:suburb": "Alto do Araticum",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 88m 0500-0188P-2-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.252977,-9.407221]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194569588",
+      "addr:housenumber": "159",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Alto do Araticum",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2465703,-9.4212062]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194569238",
+      "addr:housenumber": "2",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Alto do Araticum",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0188P-7-4"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2548414,-9.4082991]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415507",
+      "addr:housenumber": "20",
+      "addr:postcode": "48619-899",
+      "addr:street": "Rua Estrada do Paiol",
+      "addr:suburb": "Alto do Araticum",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0188P-8-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2555681,-9.4087145]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194569110",
+      "addr:housenumber": "9",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Alto do Araticum",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0188P-3-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2516919,-9.4084626]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415162",
+      "addr:housenumber": "14",
+      "addr:postcode": "48619-899",
+      "addr:street": "Avenida Estrada Boa Esperança",
+      "addr:suburb": "Alto do Araticum",
+      "addr:unit": "Fundos",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0188P-1-5"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.257865,-9.408682]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415464",
+      "addr:housenumber": "28",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Alto do Araticum",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0188P-15-12"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.252746,-9.422095]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415520",
+      "addr:housenumber": "38",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Alto do Araticum",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0188P-2-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2530665,-9.408922]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194569226",
+      "addr:housenumber": "2",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Alto do Araticum",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0188P-7-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.254902,-9.4082877]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194569311",
+      "addr:housenumber": "13",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Alto do Araticum",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0188P-10-4"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2577347,-9.4111441]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415500",
+      "addr:housenumber": "10",
+      "addr:postcode": "48619-899",
+      "addr:street": "Rua Estrada do Paiol",
+      "addr:suburb": "Alto do Araticum",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0188P-14-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.256839,-9.40997]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415465-27415466",
+      "addr:housenumber": "29",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Alto do Araticum",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0188P-15-51"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.252845,-9.4235784]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194569291",
+      "addr:housenumber": "64",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Alto do Araticum",
+      "fixme": "Verificar coordenadas",
+      "landuse": "farmyard;orchard",
+      "name": "Chácara",
+      "note": "Sem dados para mover para dentro da quadra 0500-0188P-7-10"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.251743,-9.4122222]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194569133",
+      "addr:housenumber": "86",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Alto do Araticum",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2516905,-9.411774]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194569306",
+      "addr:housenumber": "19",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Alto do Araticum",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0188P-9-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.255339,-9.41073]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415471",
+      "addr:housenumber": "39",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Alto do Araticum",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0188P-15-8"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2495361,-9.420614]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194569123",
+      "addr:housenumber": "8892",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Alto do Araticum",
+      "landuse": "farmyard;orchard",
+      "name": "Sítio Nossa Senhora de Guadalupe"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.251919155831,-9.4114225616562]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194569040",
+      "addr:housenumber": "16",
+      "addr:postcode": "48619-899",
+      "addr:street": "Avenida Estrada Boa Esperança",
+      "addr:suburb": "Alto do Araticum",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0188P-1-5"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.258225,-9.407823]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415441",
+      "addr:housenumber": "13",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Alto do Araticum",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0188P-15-36"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2602856,-9.4215128]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415521",
+      "addr:housenumber": "40",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Alto do Araticum",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0188P-2-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2533473,-9.4085343]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194569577",
+      "addr:housenumber": "32",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Alto do Araticum",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0188P-15-54"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.24854,-9.423671]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415434",
+      "addr:housenumber": "5",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Alto do Araticum",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0188P-15-29"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.265571,-9.41747]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194569043;194569066",
+      "addr:housenumber": "20",
+      "addr:postcode": "48619-899",
+      "addr:street": "Avenida Estrada Boa Esperança",
+      "addr:suburb": "Alto do Araticum",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0188P-1-5"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2583225,-9.408653]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415490",
+      "addr:housenumber": "8",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Alto do Araticum",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 90m 0500-0188P-13-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.256279,-9.415498]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194569058",
+      "addr:housenumber": "200",
+      "addr:postcode": "48619-899",
+      "addr:street": "Avenida Estrada Boa Esperança",
+      "addr:suburb": "Alto do Araticum",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0188P-1-5"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.258415,-9.408873]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415447",
+      "addr:housenumber": "18",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Alto do Araticum",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0188P-15-38"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.259839,-9.422902]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194569400",
+      "addr:housenumber": "89",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Alto do Araticum",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2543216,-9.4189357]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415442",
+      "addr:housenumber": "14",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Alto do Araticum",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0188P-15-36"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2602902,-9.4214974]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194569214",
+      "addr:housenumber": "16",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Alto do Araticum",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0188P-7-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2546301,-9.4086197]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415470",
+      "addr:housenumber": "35",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Alto do Araticum",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0188P-15-8"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2495362,-9.4206136]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415449",
+      "addr:housenumber": "725",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Alto do Araticum",
+      "building": "warehouse",
+      "description": "CNEFE 2022 Depósito de Máquinas",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0188P-15-36"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2595123,-9.419114]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194569199",
+      "addr:housenumber": "10",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Alto do Araticum",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0188P-7-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2547194,-9.4085139]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415523",
+      "addr:housenumber": "41",
+      "addr:postcode": "48619-899",
+      "addr:street": "Rua Estrada do Paiol",
+      "addr:suburb": "Alto do Araticum",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0188P-1-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2537056,-9.4067689]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194569600",
+      "addr:housenumber": "4 B",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Alto do Araticum",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0188P-17-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.264069,-9.418168]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415468",
+      "addr:housenumber": "36",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Alto do Araticum",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0188P-15-51"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2518481,-9.422571]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194569232",
+      "addr:housenumber": "1",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Alto do Araticum",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0188P-7-4"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2548878,-9.4082414]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415457",
+      "addr:housenumber": "20",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Alto do Araticum",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0188P-15-47"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2563576,-9.4230743]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415473",
+      "addr:housenumber": "20 B",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Alto do Araticum",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0188P-15-8"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.248633899145,-9.4201490613881]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194569319",
+      "addr:housenumber": "6",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Alto do Araticum",
+      "addr:unit": "Fundos",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0188P-13-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2577622,-9.4141441]
+      }
+    }
+  ]
+}

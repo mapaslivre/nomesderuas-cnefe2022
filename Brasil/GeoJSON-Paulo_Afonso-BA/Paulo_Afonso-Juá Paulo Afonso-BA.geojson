@@ -1,0 +1,2791 @@
+{
+  "type": "FeatureCollection",
+  "generator": "CSV-CNEFE2GeoJSON.lua 1.5.7 - fidelis.assis@gmail.com",
+  "source": "IBGE CNEFE + Faces de Logradouros - 2022",
+  "date": "2025-02-02T09:05:26-0300",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413178",
+      "addr:housenumber": "643",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "warehouse",
+      "description": "CNEFE 2022 Depósito",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0113P-15-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4231074,-9.4428472]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413273",
+      "addr:housenumber": "349",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0113P-3-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4200097,-9.442594]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413282",
+      "addr:housenumber": "703",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0113P-6-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4203154,-9.4423181]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194561414",
+      "addr:housenumber": "869",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0113P-1-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4192468,-9.4424861]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413271",
+      "addr:housenumber": "1",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0113P-1-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4190461,-9.4426457]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413134",
+      "addr:housenumber": "849",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.41994,-9.4409556]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413152",
+      "addr:housenumber": "835",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0113P-7-4"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.421315,-9.44025]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413207",
+      "addr:housenumber": "728",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4215745,-9.4424425]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413209",
+      "addr:housenumber": "730",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.421578,-9.4424424]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413146",
+      "addr:housenumber": "453",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "addr:unit": "Fundos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4201083,-9.4414626]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413199",
+      "addr:housenumber": "721",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "pentecostal",
+      "name": "Igrela Assembleia de Deus",
+      "religion": "christian"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4208186,-9.4425373]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413248",
+      "addr:housenumber": "639",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4222063,-9.4435271]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413147",
+      "addr:housenumber": "856",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4204504,-9.4414498]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194561444",
+      "addr:housenumber": "905",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4194196,-9.4407528]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194561606",
+      "addr:housenumber": "746",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4215253,-9.4418146]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413168",
+      "addr:housenumber": "758",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4223263,-9.4417816]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413279",
+      "addr:housenumber": "702",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0113P-6-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4202438,-9.4423332]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413191",
+      "addr:housenumber": "715",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "amenity": "pub;restaurant",
+      "building": "yes",
+      "cuisine": "barbecue",
+      "fixme": "Verificar coordenadas",
+      "name": "Bar e Churrascaria Central",
+      "note": "Sem dados para mover para dentro da quadra 0500-0113P-9-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4214443,-9.4417733]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413176",
+      "addr:housenumber": "647",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0113P-15-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4231509,-9.4427493]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413190",
+      "addr:housenumber": "713",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0113P-9-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4213061,-9.4418762]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413208",
+      "addr:housenumber": "732",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4217755,-9.4424255]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194561670",
+      "addr:housenumber": "635",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 46m 0500-0113P-15-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.422256,-9.443143]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194561743",
+      "addr:housenumber": "638",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4222303,-9.443561]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413260",
+      "addr:housenumber": "290 C",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 43m 0500-0113P-16-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.421391,-9.444399]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413193",
+      "addr:housenumber": "712",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "amenity": "pub",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "name": "Bar do Peba",
+      "note": "Sem dados para mover para dentro da quadra 0500-0113P-9-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4212042,-9.4419521]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413141",
+      "addr:housenumber": "482",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "addr:unit": "Fundos",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0113P-1-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.419688,-9.441535]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194561745",
+      "addr:housenumber": "642",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4223696,-9.443838]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413156",
+      "addr:housenumber": "832",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0113P-7-4"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4217511,-9.4406195]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413160",
+      "addr:housenumber": "823",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "amenity": "pub",
+      "building": "yes",
+      "name": "Bar Caminho do Raso"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4219405,-9.4409975]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413159",
+      "addr:housenumber": "150 AB",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0113P-9-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4216621,-9.4409571]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194561551",
+      "addr:housenumber": "844",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0113P-7-9"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.420472,-9.440368]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413143",
+      "addr:housenumber": "863",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4197744,-9.4415815]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413202",
+      "addr:housenumber": "660",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes",
+      "craft": "dressmaker",
+      "name": "Salão de Costura da Detinha"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4211751,-9.4425719]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194561467",
+      "addr:housenumber": "680",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0113P-3-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4206779,-9.4436204]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413124",
+      "addr:housenumber": "4",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "addr:unit": "Fundos",
+      "amenity": "pub",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "name": "Bar da Parada",
+      "note": "Fora da área de projeção da face 0500-0113P-1-6"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.41595,-9.440035]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413136",
+      "addr:housenumber": "904",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4193736,-9.4407664]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413257",
+      "addr:housenumber": "304",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "addr:unit": "Fundos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4213743,-9.4439652]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194561402",
+      "addr:housenumber": "814",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0113P-1-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4196749,-9.4420062]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194561608",
+      "addr:housenumber": "755",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4211469,-9.4421004]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413122",
+      "addr:housenumber": "813",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0113P-1-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.414712,-9.440509]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413149",
+      "addr:housenumber": "841",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "name": "Rafael Motos",
+      "note": "Fora da área de projeção da face 0500-0113P-7-1",
+      "shop": "motorcycle"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4209,-9.440107]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413256",
+      "addr:housenumber": "603",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4215254,-9.443679]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413227",
+      "addr:housenumber": "387",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "addr:unit": "Fundos",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0113P-10-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.422097,-9.441888]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194561651",
+      "addr:housenumber": "666",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes",
+      "name": "Mercadinho do Edvan",
+      "shop": "convenience"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4217575,-9.4428558]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194561493",
+      "addr:housenumber": "706",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0113P-6-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4205335,-9.4422719]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413139",
+      "addr:housenumber": "897",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0113P-1-4"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4195313,-9.4412981]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194561659",
+      "addr:housenumber": "654",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "warehouse",
+      "description": "CNEFE 2022 Depósito"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4215702,-9.4425803]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413267",
+      "addr:housenumber": "72 A",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0113P-1-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4194374,-9.4423346]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413218",
+      "addr:housenumber": "13",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "addr:unit": "Fundos",
+      "building": "yes",
+      "craft": "metal_construction",
+      "description": "CNEFE 2022 Serralheria"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4219066,-9.4422744]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413289",
+      "addr:housenumber": "4",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "addr:unit": "Fundos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4209626,-9.4431828]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413133;27413137",
+      "addr:housenumber": "846",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4200939,-9.4407073]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413162",
+      "addr:housenumber": "761",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes",
+      "name": "Borracharia RO Fernando",
+      "repair": "yes",
+      "shop": "tyres"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4222117,-9.4415576]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413262",
+      "addr:housenumber": "612",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4210799,-9.4442594]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413098",
+      "addr:housenumber": "14",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "addr:unit": "Fundos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4223946,-9.4450177]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413293",
+      "addr:housenumber": "678",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4207881,-9.4434413]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413099",
+      "addr:housenumber": "615",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.420794,-9.4446982]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413127",
+      "addr:housenumber": "916",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0113P-7-8"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.419276,-9.439335]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413204",
+      "addr:housenumber": "657",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "pentecostal",
+      "name": "Igreja Deus é Amor",
+      "religion": "christian"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4213283,-9.4425834]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413130",
+      "addr:housenumber": "476",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4201639,-9.4404781]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194561589",
+      "addr:housenumber": "759",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4222903,-9.4417068]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413205;194561657",
+      "addr:housenumber": "656",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4214448,-9.4425819]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413258",
+      "addr:housenumber": "306",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "addr:unit": "Fundos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4211913,-9.4442036]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191883701",
+      "addr:housenumber": "1",
+      "addr:postcode": "48601-248",
+      "addr:street": "Povoado Juá",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0111P-0-78"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.419766,-9.447673]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413125",
+      "addr:housenumber": "466",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "addr:unit": "Fundos",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0113P-1-6"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.416206,-9.439787]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194561520",
+      "addr:housenumber": "852",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "warehouse",
+      "description": "CNEFE 2022 Depósito",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0113P-7-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4209791,-9.4416703]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413226",
+      "addr:housenumber": "621",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 52m 0500-0113P-15-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.422746,-9.442206]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413201",
+      "addr:housenumber": "659",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4212249,-9.4425905]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413206",
+      "addr:housenumber": "727",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4214271,-9.4424443]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413189",
+      "addr:housenumber": "747",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes",
+      "name": "Borracharia do Geraldo",
+      "repair": "yes",
+      "shop": "tyres"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4215004,-9.4418369]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194561389",
+      "addr:housenumber": "894",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0113P-1-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.414357,-9.44093]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413192",
+      "addr:housenumber": "750",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4211916,-9.4420664]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413215",
+      "addr:housenumber": "626",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4222165,-9.4422442]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413220",
+      "addr:housenumber": "723",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4217931,-9.4424139]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413274",
+      "addr:housenumber": "689",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0113P-3-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4200964,-9.4425847]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194561419",
+      "addr:housenumber": "885",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0113P-1-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.419116,-9.4414565]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413169",
+      "addr:housenumber": "200",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4224138,-9.4419635]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413150",
+      "addr:housenumber": "837",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0113P-7-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.420982,-9.440053]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413240",
+      "addr:housenumber": "643",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0113P-15-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.422966,-9.4437421]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194561725",
+      "addr:housenumber": "588",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4206323,-9.4449789]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413153",
+      "addr:housenumber": "820",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "amenity": "clinic",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "healthcare": "yes",
+      "name": "Posto Médico do Juá",
+      "note": "Sem dados para mover para dentro da quadra 0500-0113P-8-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4214478,-9.4402342]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194561598",
+      "addr:housenumber": "742",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4219604,-9.4419484]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413173",
+      "addr:housenumber": "649",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0113P-15-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.423067,-9.44242]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413140",
+      "addr:housenumber": "881",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0113P-1-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4191093,-9.4414566]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413144",
+      "addr:housenumber": "898",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0113P-1-4"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4194867,-9.4413222]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413230",
+      "addr:housenumber": "767",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4217784,-9.4416171]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413247",
+      "addr:housenumber": "640",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4223545,-9.4437362]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413280",
+      "addr:housenumber": "701",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4201169,-9.4424347]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413265",
+      "addr:housenumber": "875",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0113P-1-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.419678,-9.4419959]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413155",
+      "addr:housenumber": "833",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0113P-7-4"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4217041,-9.4405449]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194561595",
+      "addr:housenumber": "741",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4221705,-9.4421018]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413126",
+      "addr:housenumber": "2",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "addr:unit": "Fundos",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0113P-1-6"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.416168,-9.439809]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413238",
+      "addr:housenumber": "851",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0113P-7-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4209705,-9.4416831]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413229",
+      "addr:housenumber": "20 B",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.421908,-9.4417881]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413157",
+      "addr:housenumber": "831",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0113P-7-4"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4217842,-9.4406721]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413285",
+      "addr:housenumber": "707",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0113P-6-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4205429,-9.4422699]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413198",
+      "addr:housenumber": "110",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.420841,-9.442136]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413228",
+      "addr:housenumber": "743",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4218947,-9.441899]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194561553",
+      "addr:housenumber": "901",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "name": "Associação Povoado Juá",
+      "note": "Sem dados para mover para dentro da quadra 0500-0113P-7-10",
+      "office": "association"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4198108,-9.4410037]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413183",
+      "addr:housenumber": "1",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0113P-10-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.421551,-9.441508]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413184",
+      "addr:housenumber": "150 A",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "amenity": "pub",
+      "building": "yes",
+      "name": "Bar de Ceguinho"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.421686,-9.4415794]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194561662",
+      "addr:housenumber": "652",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4216837,-9.4425661]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413217",
+      "addr:housenumber": "731",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4217089,-9.4424408]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413212",
+      "addr:housenumber": "630",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes",
+      "name": "Mercadinho de Jaime",
+      "shop": "convenience"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4218905,-9.4425161]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413194",
+      "addr:housenumber": "711",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0113P-9-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.421204155827,-9.4419522616562]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413255",
+      "addr:housenumber": "602",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4215836,-9.4436031]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413231",
+      "addr:housenumber": "857",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0113P-7-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.421365,-9.441178]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413093",
+      "addr:housenumber": "542",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4223741,-9.4448136]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413272",
+      "addr:housenumber": "865",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0113P-2-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4178257,-9.4437606]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413222",
+      "addr:housenumber": "385",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4221037,-9.4422096]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194561406",
+      "addr:housenumber": "873",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0113P-1-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4196363,-9.4421202]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413158",
+      "addr:housenumber": "103",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "name": "Mercado do Élson",
+      "note": "Fora da área de projeção da face 0500-0113P-9-1",
+      "shop": "supermarket"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.421809,-9.441027]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413235",
+      "addr:housenumber": "61",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0113P-7-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4211402,-9.4414301]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413200",
+      "addr:housenumber": "668",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.420931,-9.442519]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413232-27413233",
+      "addr:housenumber": "858",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0113P-7-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.421285,-9.4411905]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413281",
+      "addr:housenumber": "2",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0113P-6-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4204568,-9.4422882]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413223-27413224",
+      "addr:housenumber": "625",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4224625,-9.442164]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194561695",
+      "addr:housenumber": "648",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "amenity": "canteen",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "name": "Bella Cantina",
+      "note": "Fora da área de projeção da face 0500-0113P-15-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.423119,-9.442563]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194561738",
+      "addr:housenumber": "636",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4220449,-9.4432992]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413151",
+      "addr:housenumber": "278",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "amenity": "pub",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "name": "Bar do Gilbeto",
+      "note": "Sem dados para mover para dentro da quadra 0500-0113P-8-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4213455,-9.4400654]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413252",
+      "addr:housenumber": "596",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4223053,-9.4439058]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194561392",
+      "addr:housenumber": "896",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0113P-1-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.414249,-9.441155]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413095",
+      "addr:housenumber": "619",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 71m 0500-0113P-16-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.421939,-9.445317]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413170",
+      "addr:housenumber": "2133",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4223894,-9.4419128]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413295",
+      "addr:housenumber": "679",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4207956,-9.4434416]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413187",
+      "addr:housenumber": "766",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0113P-11-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.42173,-9.441411]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413096",
+      "addr:housenumber": "583",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.422459,-9.4450329]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413188",
+      "addr:housenumber": "748",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.421496,-9.4418409]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413276",
+      "addr:housenumber": "790",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "name": "Copiadora Juá",
+      "note": "Sem dados para mover para dentro da quadra 0500-0113P-3-2",
+      "shop": "copyshop"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.420097,-9.4425845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413286",
+      "addr:housenumber": "708",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0113P-6-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4206374,-9.4422328]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194561627",
+      "addr:housenumber": "670",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0113P-12-5"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4200733,-9.4424543]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413287",
+      "addr:housenumber": "685",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0113P-3-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4208418,-9.4428323]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413121",
+      "addr:housenumber": "895",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0113P-1-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.414251,-9.441153]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194561665",
+      "addr:housenumber": "651",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4216932,-9.442561]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194561610",
+      "addr:housenumber": "752",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.421139198655,-9.4421019613881]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413135",
+      "addr:housenumber": "848",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4199763,-9.4408971]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413166-27413167",
+      "addr:housenumber": "760",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4222173,-9.441568]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413261",
+      "addr:housenumber": "86",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4210957,-9.4442389]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413097",
+      "addr:housenumber": "618",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 80m 0500-0113P-16-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.421854,-9.445336]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413210",
+      "addr:housenumber": "724",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.421794846233,-9.4424188000032]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413237",
+      "addr:housenumber": "853",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0113P-7-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4209763,-9.4416735]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413283",
+      "addr:housenumber": "704",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0113P-6-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4203691,-9.4423067]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413219",
+      "addr:housenumber": "247 A",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4218797,-9.442357]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413221",
+      "addr:housenumber": "721",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4220018,-9.4422767]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413129",
+      "addr:housenumber": "912",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.420141,-9.4404857]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413269",
+      "addr:housenumber": "457",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "addr:unit": "Fundos",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0113P-4-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.419482,-9.4423368]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194561640",
+      "addr:housenumber": "110",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4213195,-9.4428165]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194561439",
+      "addr:housenumber": "888",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0113P-1-6"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.416766,-9.439414]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194561655",
+      "addr:housenumber": "681",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4211608,-9.4425645]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413091",
+      "addr:housenumber": "40 A",
+      "addr:postcode": "48601-248",
+      "addr:street": "Povoado Juá",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0111P-0-78"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.425242,-9.444831]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413128",
+      "addr:housenumber": "478",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "addr:unit": "Fundos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4201627,-9.4404739]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413175",
+      "addr:housenumber": "645",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0113P-15-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4230995,-9.4428651]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413142",
+      "addr:housenumber": "481",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "addr:unit": "Fundos",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0113P-1-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.419689,-9.441523]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413214",
+      "addr:housenumber": "665",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.421757,-9.4429527]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194561470",
+      "addr:housenumber": "617",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0113P-3-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4206069,-9.4440565]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194561723",
+      "addr:housenumber": "589",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4205877,-9.4450451]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413123",
+      "addr:housenumber": "892",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0113P-1-6"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.415961,-9.439974]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194561410",
+      "addr:housenumber": "870",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0113P-1-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4194124,-9.4423545]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413294",
+      "addr:housenumber": "691",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0113P-3-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4200919,-9.4425863]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413290",
+      "addr:housenumber": "683",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0113P-3-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.42083,-9.443091]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413145",
+      "addr:housenumber": "861",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4200457,-9.4413382]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194561727",
+      "addr:housenumber": "604",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 45m 0500-0113P-16-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.421385,-9.44444]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413132",
+      "addr:housenumber": "8",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "addr:unit": "Fundos",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0113P-7-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.420269,-9.44047]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413254",
+      "addr:housenumber": "600",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4217067,-9.4432663]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194561667",
+      "addr:housenumber": "634",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4218841,-9.4431416]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413292",
+      "addr:housenumber": "682",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0113P-3-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4207635,-9.4434139]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413241",
+      "addr:housenumber": "644",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0113P-15-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4229851,-9.4436702]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "109862750",
+      "addr:housenumber": "555",
+      "addr:postcode": "48601-248",
+      "addr:street": "Estrada Para O Juá Vindo de Paulo Afon",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0111P-0-77"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.374165,-9.445726]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413197",
+      "addr:housenumber": "717",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4209665,-9.4419779]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194561448",
+      "addr:housenumber": "903",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4192726,-9.440786]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413266",
+      "addr:housenumber": "871",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0113P-1-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4194171,-9.4423507]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413277",
+      "addr:housenumber": "687",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0113P-3-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4202518,-9.4425476]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413213;27413216",
+      "addr:housenumber": "629",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4218806,-9.4425158]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413253",
+      "addr:housenumber": "633",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.421756,-9.4431696]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413275",
+      "addr:housenumber": "692",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 44m 0500-0113P-3-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.419878,-9.443001]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413138",
+      "addr:housenumber": "109",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4183858,-9.4411344]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194561428",
+      "addr:housenumber": "900",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0113P-1-5"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.418971,-9.4409276]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413225",
+      "addr:housenumber": "624",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4224579,-9.4421646]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413196",
+      "addr:housenumber": "7",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4209559,-9.441995]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194561464",
+      "addr:housenumber": "684",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0113P-3-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.420728,-9.442662]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413192",
+      "addr:housenumber": "750",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "amenity": "pub",
+      "building": "yes",
+      "name": "Bar Caducando"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.421195108046,-9.4420671951224]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413185",
+      "addr:housenumber": "744",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá Paulo Afonso",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4216681,-9.4417012]
+      }
+    }
+  ]
+}

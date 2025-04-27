@@ -1,0 +1,924 @@
+{
+  "type": "FeatureCollection",
+  "source": "IBGE CNEFE + Faces de Logradouros - 2022",
+  "generator": "CSV-CNEFE2GeoJSON.lua 1.5.7 - fidelis.assis@gmail.com",
+  "date": "2025-02-02T09:05:26-0300",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411807",
+      "addr:housenumber": "27",
+      "addr:postcode": "48601-018",
+      "addr:street": "Margem Rodovia BR-110",
+      "addr:suburb": "km 50",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-159"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.221109,-9.651657]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192024245",
+      "addr:housenumber": "11",
+      "addr:postcode": "48610-488",
+      "addr:street": "Saída Para Rodovia BR-110",
+      "addr:suburb": "km 50",
+      "building": "construction",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-165"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.17822,-9.645603]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411809",
+      "addr:housenumber": "36",
+      "addr:postcode": "48601-018",
+      "addr:street": "Margem Rodovia BR-110",
+      "addr:suburb": "km 50",
+      "building": "construction",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-159"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.217206,-9.65154]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112580298",
+      "addr:housenumber": "9",
+      "addr:postcode": "48601-018",
+      "addr:street": "Estrada do Tara",
+      "addr:suburb": "km 50",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-173"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.181736,-9.644788]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411798",
+      "addr:housenumber": "25",
+      "addr:postcode": "48601-018",
+      "addr:street": "Margem Rodovia BR-110",
+      "addr:suburb": "km 50",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-159"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.222121,-9.654786]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411816",
+      "addr:housenumber": "38",
+      "addr:postcode": "48601-018",
+      "addr:street": "Margem Rodovia BR-110",
+      "addr:suburb": "km 50",
+      "building": "construction",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-159"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.220565,-9.651619]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411852-27411853",
+      "addr:housenumber": "6",
+      "addr:postcode": "48601-016",
+      "addr:street": "Divisão Paulo Afonso e Santa Brígida",
+      "addr:suburb": "km 50",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-171"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.1850055,-9.647912]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112580308",
+      "addr:housenumber": "6",
+      "addr:postcode": "48601-018",
+      "addr:street": "Estrada do Tara",
+      "addr:suburb": "km 50",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-173"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.182334,-9.646454]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411812",
+      "addr:housenumber": "37",
+      "addr:postcode": "48601-018",
+      "addr:street": "Margem Rodovia BR-110",
+      "addr:suburb": "km 50",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-159"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.217249,-9.651768]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192024217",
+      "addr:housenumber": "40",
+      "addr:postcode": "48610-488",
+      "addr:street": "Saída Para Rodovia BR-110",
+      "addr:suburb": "km 50",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-165"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.216097,-9.65165]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192024138",
+      "addr:housenumber": "1",
+      "addr:postcode": "48610-488",
+      "addr:street": "Rodovia BR-110",
+      "addr:suburb": "km 50",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-160"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.223979,-9.650328]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413824",
+      "addr:housenumber": "25 B",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada BR-110",
+      "addr:suburb": "km 50",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0241P-0-90"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.225339,-9.662408]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411799",
+      "addr:housenumber": "23",
+      "addr:postcode": "48601-018",
+      "addr:street": "Margem Rodovia BR-110",
+      "addr:suburb": "km 50",
+      "building": "construction",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-159"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.222131,-9.654771]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192024223",
+      "addr:housenumber": "41",
+      "addr:postcode": "48610-488",
+      "addr:street": "Saída Para Rodovia BR-110",
+      "addr:suburb": "km 50",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-165"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.21516,-9.651697]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413821",
+      "addr:housenumber": "181 A",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada BR-110",
+      "addr:suburb": "km 50",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0241P-0-90"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.225257,-9.663173]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411811",
+      "addr:housenumber": "32",
+      "addr:postcode": "48601-018",
+      "addr:street": "Margem Rodovia BR-110",
+      "addr:suburb": "km 50",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-159"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.219427,-9.651656]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413817",
+      "addr:housenumber": "30",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada BR-110",
+      "addr:suburb": "km 50",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0241P-0-90"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.224608,-9.65109]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192024145",
+      "addr:housenumber": "3",
+      "addr:postcode": "48610-488",
+      "addr:street": "Rodovia BR-110",
+      "addr:suburb": "km 50",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-160"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.223668,-9.649628]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192024194",
+      "addr:housenumber": "2",
+      "addr:postcode": "48604-514",
+      "addr:street": "Rodovia BR-110",
+      "addr:suburb": "km 50",
+      "building": "construction",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-162"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.223963,-9.649999]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413825",
+      "addr:housenumber": "188 B",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada BR-110",
+      "addr:suburb": "km 50",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0241P-0-90"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.225408,-9.662879]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411806",
+      "addr:housenumber": "25",
+      "addr:postcode": "48601-018",
+      "addr:street": "Margem Rodovia BR-110",
+      "addr:suburb": "km 50",
+      "fixme": "Verificar coordenadas",
+      "landuse": "farmyard;orchard",
+      "name": "Chácara Recanto Feliz",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-159"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.222524,-9.651616]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411857",
+      "addr:housenumber": "44",
+      "addr:postcode": "48601-018",
+      "addr:street": "Margens Rodovia BR-110",
+      "addr:suburb": "km 50",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-166"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.200449,-9.651835]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192024161",
+      "addr:housenumber": "5",
+      "addr:postcode": "48610-488",
+      "addr:street": "Rodovia BR-110",
+      "addr:suburb": "km 50",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-160"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.22384,-9.64905]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411814",
+      "addr:housenumber": "39",
+      "addr:postcode": "48601-018",
+      "addr:street": "Margem Rodovia BR-110",
+      "addr:suburb": "km 50",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-159"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.216025,-9.651903]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413817",
+      "addr:housenumber": "30",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada BR-110",
+      "addr:suburb": "km 50",
+      "addr:unit": "Casa",
+      "amenity": "animal_breeding",
+      "animal_breeding": "sheep",
+      "fixme": "Verificar coordenadas",
+      "landuse": "farmyard",
+      "name": "Criação de Ovinos",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0241P-0-90"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2246079558,-9.6510901616562]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411801",
+      "addr:housenumber": "1",
+      "addr:postcode": "48601-018",
+      "addr:street": "Margem Rodovia BR-110",
+      "addr:suburb": "km 50",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-159"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.224232,-9.655626]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "109862713",
+      "addr:housenumber": "20 Lado Direto",
+      "addr:postcode": "48601-018",
+      "addr:street": "Rodovia BR-110",
+      "addr:suburb": "km 50",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-163"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.222998,-9.651762]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192024204",
+      "addr:housenumber": "38",
+      "addr:postcode": "48610-488",
+      "addr:street": "Margem Rodovia BR-110",
+      "addr:suburb": "km 50",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-164"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.217198,-9.65169]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192024130;192024176",
+      "addr:housenumber": "8",
+      "addr:postcode": "48610-488",
+      "addr:street": "Rodovia BR-110",
+      "addr:suburb": "km 50",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-160"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.223883,-9.651264]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411802",
+      "addr:housenumber": "10",
+      "addr:postcode": "48601-036",
+      "addr:street": "Margem Rodovia BR-110",
+      "addr:suburb": "km 50",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-161"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.223774,-9.652856]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411804",
+      "addr:housenumber": "15",
+      "addr:postcode": "48601-018",
+      "addr:street": "Margem Rodovia BR-110",
+      "addr:suburb": "km 50",
+      "building": "construction",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-159"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.223606,-9.651701]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192024187",
+      "addr:housenumber": "17",
+      "addr:postcode": "48604-514",
+      "addr:street": "Rodovia BR-110",
+      "addr:suburb": "km 50",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-162"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.223552,-9.65165]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411800",
+      "addr:housenumber": "5",
+      "addr:postcode": "48601-018",
+      "addr:street": "Margem Rodovia BR-110",
+      "addr:suburb": "km 50",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-159"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.223265,-9.655875]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192024169",
+      "addr:housenumber": "6",
+      "addr:postcode": "48610-488",
+      "addr:street": "Rodovia BR-110",
+      "addr:suburb": "km 50",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-160"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.223845,-9.649017]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411805",
+      "addr:housenumber": "80",
+      "addr:postcode": "48601-036",
+      "addr:street": "Margem Rodovia BR-110",
+      "addr:suburb": "km 50",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-161"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.222066,-9.654104]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192024153",
+      "addr:housenumber": "4",
+      "addr:postcode": "48610-488",
+      "addr:street": "Rodovia BR-110",
+      "addr:suburb": "km 50",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-160"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.223717,-9.649389]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192024125",
+      "addr:housenumber": "7",
+      "addr:postcode": "48610-488",
+      "addr:street": "Rodovia BR-110",
+      "addr:suburb": "km 50",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-160"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.224126,-9.654461]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413824",
+      "addr:housenumber": "25 B",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada BR-110",
+      "addr:suburb": "km 50",
+      "addr:unit": "Casa",
+      "fixme": "Verificar coordenadas",
+      "landuse": "orchard",
+      "name": "Cultivo de Cajueiros",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0241P-0-90",
+      "trees": "cashew_trees"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.22533129367,-9.6624095613881]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192024211",
+      "addr:housenumber": "39",
+      "addr:postcode": "48610-488",
+      "addr:street": "Saída Para Rodovia BR-110",
+      "addr:suburb": "km 50",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-165"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.216759,-9.651598]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411819",
+      "addr:housenumber": "6",
+      "addr:postcode": "48601-018",
+      "addr:street": "Margem Rodovia BR-110",
+      "addr:suburb": "km 50",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-159"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.224364,-9.655004]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112583306",
+      "addr:housenumber": "15",
+      "addr:postcode": "48601-016",
+      "addr:street": "Estrada do Tara",
+      "addr:suburb": "km 50",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-176"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.183046,-9.648332]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411820",
+      "addr:housenumber": "10",
+      "addr:postcode": "48601-018",
+      "addr:street": "Margem Rodovia BR-110",
+      "addr:suburb": "km 50",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-159"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.223709,-9.647728]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411808",
+      "addr:housenumber": "26",
+      "addr:postcode": "48601-018",
+      "addr:street": "Margem Rodovia BR-110",
+      "addr:suburb": "km 50",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-159"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.221635,-9.651639]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411796",
+      "addr:housenumber": "2",
+      "addr:postcode": "48601-018",
+      "addr:street": "Margem Rodovia BR-110",
+      "addr:suburb": "km 50",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-159"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.223182,-9.655981]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411823",
+      "addr:housenumber": "100",
+      "addr:postcode": "48601-018",
+      "addr:street": "Margem Rodovia BR-110",
+      "addr:suburb": "km 50",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-159"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.223526,-9.646287]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192024239",
+      "addr:housenumber": "43",
+      "addr:postcode": "48610-488",
+      "addr:street": "Saída Para Rodovia BR-110",
+      "addr:suburb": "km 50",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-165"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.207512,-9.651753]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192024229",
+      "addr:housenumber": "42",
+      "addr:postcode": "48610-488",
+      "addr:street": "Saída Para Rodovia BR-110",
+      "addr:suburb": "km 50",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-165"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.214353,-9.651678]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "109862715",
+      "addr:housenumber": "22",
+      "addr:postcode": "48601-018",
+      "addr:street": "Rodovia BR-110",
+      "addr:suburb": "km 50",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-163"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.223773,-9.651578]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411815",
+      "addr:housenumber": "35",
+      "addr:postcode": "48601-018",
+      "addr:street": "Margem Rodovia BR-110",
+      "addr:suburb": "km 50",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-159"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.221412,-9.651397]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192024296",
+      "addr:housenumber": "10",
+      "addr:postcode": "48604-514",
+      "addr:street": "Saída Para Rodovia BR-110",
+      "addr:suburb": "km 50",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-174"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.178221747275,-9.6456079000032]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411803;27411821",
+      "addr:housenumber": "9",
+      "addr:postcode": "48601-018",
+      "addr:street": "Margem Rodovia BR-110",
+      "addr:suburb": "km 50",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-159"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2237925,-9.650791]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192024121",
+      "addr:housenumber": "16",
+      "addr:postcode": "48601-018",
+      "addr:street": "Margem Rodovia BR-110",
+      "addr:suburb": "km 50",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-159"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.223563,-9.651657]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413825",
+      "addr:housenumber": "188 B",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada BR-110",
+      "addr:suburb": "km 50",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "name": "Fazenda Cajueiro",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0241P-0-90",
+      "place": "farm"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.225411510322,-9.6628797951224]
+      }
+    }
+  ]
+}

@@ -1,0 +1,5547 @@
+{
+  "type": "FeatureCollection",
+  "generator": "CSV-CNEFE2GeoJSON.lua 1.5.7 - fidelis.assis@gmail.com",
+  "source": "IBGE CNEFE + Faces de Logradouros - 2022",
+  "date": "2025-02-02T09:05:25-0300",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470089",
+      "addr:housenumber": "106",
+      "addr:postcode": "48602-030",
+      "addr:suburb": "Juá",
+      "building": "yes",
+      "name": "Associação de Agricultores",
+      "office": "association"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4207304,-9.4364163]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470126",
+      "addr:housenumber": "947",
+      "addr:postcode": "48602-030",
+      "addr:street": "Estrada Para Paulo Afonso",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.417031,-9.4391414]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469933",
+      "addr:housenumber": "470",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0166P-20-5"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4255006,-9.4402575]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469921",
+      "addr:housenumber": "513",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4241479,-9.4407074]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469982",
+      "addr:housenumber": "60 A",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0166P-15-4"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4254279,-9.4388957]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191407319",
+      "addr:housenumber": "543",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0166P-21-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4241359,-9.4428594]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470035",
+      "addr:housenumber": "84",
+      "addr:postcode": "48602-030",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4237955,-9.4361607]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470065",
+      "addr:housenumber": "56",
+      "addr:postcode": "48602-030",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4202589,-9.4345853]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100562669",
+      "addr:housenumber": "9963 B",
+      "addr:postcode": "48602-030",
+      "addr:suburb": "Juá",
+      "building": "yes",
+      "description": "CNEFE 2022 Mercadinho",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0167P-3-3",
+      "shop": "convenience"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4214586,-9.4397726]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191406520",
+      "addr:housenumber": "276",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0166P-1-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4270653,-9.4339642]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469931",
+      "addr:housenumber": "471",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0166P-20-5"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4254628,-9.4402901]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470110",
+      "addr:housenumber": "122",
+      "addr:postcode": "48602-030",
+      "addr:street": "Estrada Para A Padaria",
+      "addr:suburb": "Juá",
+      "building": "warehouse",
+      "description": "CNEFE 2022 Depósito"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4204968,-9.4373971]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191407056",
+      "addr:housenumber": "484",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4252446,-9.4403516]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469979",
+      "addr:housenumber": "2",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "addr:unit": "Fundos",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0166P-14-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4249256,-9.4390996]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470024",
+      "addr:housenumber": "91",
+      "addr:postcode": "48602-030",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4205941,-9.4355601]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469889",
+      "addr:housenumber": "810",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.422161,-9.4406005]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470087",
+      "addr:housenumber": "7",
+      "addr:postcode": "48602-030",
+      "addr:suburb": "Juá",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 67m 0500-0167P-1-8"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.415629,-9.432905]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469942",
+      "addr:housenumber": "464",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0166P-20-5"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4260683,-9.4397964]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470028",
+      "addr:housenumber": "47",
+      "addr:postcode": "48602-030",
+      "addr:suburb": "Juá",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0167P-12-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4198537,-9.4350228]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470062",
+      "addr:housenumber": "62",
+      "addr:postcode": "48602-030",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4210095,-9.4347859]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469827",
+      "addr:housenumber": "1",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "addr:unit": "Fundos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4269294,-9.4345923]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470101",
+      "addr:housenumber": "165",
+      "addr:postcode": "48602-030",
+      "addr:street": "Estrada Para A Igreja",
+      "addr:suburb": "Juá",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0167P-3-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4198874,-9.4386026]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470166",
+      "addr:housenumber": "197",
+      "addr:postcode": "48602-030",
+      "addr:suburb": "Juá",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0167P-3-4"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4219528,-9.4390622]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470051",
+      "addr:housenumber": "9",
+      "addr:postcode": "48602-030",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4210312,-9.4347968]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469969",
+      "addr:housenumber": "381",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4247238,-9.4397839]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470039",
+      "addr:housenumber": "263",
+      "addr:postcode": "48602-030",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4228003,-9.4367739]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469899",
+      "addr:housenumber": "70 B",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4222282,-9.4412973]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191406838",
+      "addr:housenumber": "340",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 159m 0500-0166P-5-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.422441,-9.438178]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469937",
+      "addr:housenumber": "467",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0166P-20-5"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4257117,-9.4400748]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469994",
+      "addr:housenumber": "188",
+      "addr:postcode": "48602-030",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.421892,-9.4363406]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191741279",
+      "addr:housenumber": "721",
+      "addr:postcode": "48602-030",
+      "addr:suburb": "Juá",
+      "addr:unit": "Casa Único",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.422221,-9.4357836]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470053",
+      "addr:housenumber": "75",
+      "addr:postcode": "48602-030",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4224428,-9.4360626]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469835",
+      "addr:housenumber": "316",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "construction",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0166P-4-4"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.423624,-9.437321]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191407299",
+      "addr:housenumber": "519",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4247761,-9.4408532]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469997",
+      "addr:housenumber": "217",
+      "addr:postcode": "48602-030",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4216957,-9.4362995]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191407005",
+      "addr:housenumber": "506",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4233984,-9.4406269]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191407262",
+      "addr:housenumber": "461",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0166P-20-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4269542,-9.4401349]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470023",
+      "addr:housenumber": "87",
+      "addr:postcode": "48602-030",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4203204,-9.4348759]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469928",
+      "addr:housenumber": "516",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4248804,-9.4407892]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191406734",
+      "addr:housenumber": "312",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0166P-4-5"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.423595,-9.436713]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191406610",
+      "addr:housenumber": "408",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4266921,-9.4358205]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469864",
+      "addr:housenumber": "365",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "warehouse",
+      "description": "CNEFE 2022 Depósito de João da Cruz",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0166P-9-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4220668,-9.4398698]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470151",
+      "addr:housenumber": "177",
+      "addr:postcode": "48602-030",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4210469,-9.4395053]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470168",
+      "addr:housenumber": "200",
+      "addr:postcode": "48602-030",
+      "addr:suburb": "Juá",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0167P-3-4"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4219983,-9.4388998]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469906",
+      "addr:housenumber": "535",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "man_made": "works",
+      "name": "Casa de Farinha",
+      "note": "Sem dados para mover para dentro da quadra 0500-0166P-20-12",
+      "product": "cassava_flour"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.422861,-9.4420341]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470091",
+      "addr:housenumber": "211",
+      "addr:postcode": "48602-030",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4211395,-9.4366291]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470159",
+      "addr:housenumber": "187",
+      "addr:postcode": "48602-030",
+      "addr:suburb": "Juá",
+      "building": "warehouse",
+      "description": "CNEFE 2022 Depósito",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0167P-3-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4212304,-9.439643]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191741201",
+      "addr:housenumber": "144",
+      "addr:postcode": "48602-030",
+      "addr:street": "Estrada Para A Padaria",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4200054,-9.4383694]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469917",
+      "addr:housenumber": "1",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0166P-20-11"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4237624,-9.4413537]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "98066939",
+      "addr:housenumber": "28",
+      "addr:postcode": "48602-030",
+      "addr:suburb": "Juá",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0167P-14-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4192973,-9.435224]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469888",
+      "addr:housenumber": "68",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "service",
+      "man_made": "pumping_station",
+      "name": "Casa de Bomba Juá"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4226194,-9.4400174]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469995",
+      "addr:housenumber": "233",
+      "addr:postcode": "48602-030",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4217984,-9.4366724]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191407348",
+      "addr:housenumber": "576",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4231192,-9.4435994]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "99495844",
+      "addr:housenumber": "67",
+      "addr:postcode": "48602-030",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4219794,-9.4354542]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191406939",
+      "addr:housenumber": "815",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4220815,-9.4399535]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469854",
+      "addr:housenumber": "3",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4223819,-9.4385154]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191406910",
+      "addr:housenumber": "387",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4246664,-9.43907]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470129",
+      "addr:housenumber": "941",
+      "addr:postcode": "48602-030",
+      "addr:street": "Estrada Para Paulo Afonso",
+      "addr:suburb": "Juá",
+      "building": "yes",
+      "description": "CNEFE 2022 Mercadinho",
+      "shop": "convenience"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4166939,-9.4393079]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469968",
+      "addr:housenumber": "488",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4245704,-9.4399084]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191406802",
+      "addr:housenumber": "560",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0166P-5-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.424647,-9.444866]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470001",
+      "addr:housenumber": "94",
+      "addr:postcode": "48602-030",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4208804,-9.4358919]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469941",
+      "addr:housenumber": "232",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0166P-20-5"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4260479,-9.4398152]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469951",
+      "addr:housenumber": "176",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4246238,-9.4380022]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469935",
+      "addr:housenumber": "244",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4258001,-9.4399576]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469865",
+      "addr:housenumber": "814",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4221146,-9.4399532]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469910",
+      "addr:housenumber": "5",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4231472,-9.4416086]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191406923",
+      "addr:housenumber": "357",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0166P-8-4"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4227787,-9.4390361]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469873",
+      "addr:housenumber": "503",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4229474,-9.4401518]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469859",
+      "addr:housenumber": "187",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "addr:unit": "Fundos",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 52m 0500-0166P-5-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.422967,-9.438512]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469869",
+      "addr:housenumber": "70",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0166P-9-4"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4224961,-9.4397223]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470082",
+      "addr:housenumber": "12",
+      "addr:postcode": "48602-030",
+      "addr:suburb": "Juá",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0167P-17-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4174683,-9.4338677]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469960",
+      "addr:housenumber": "420",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4260891,-9.4383473]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470116",
+      "addr:housenumber": "139",
+      "addr:postcode": "48602-030",
+      "addr:street": "Estrada Para A Padaria",
+      "addr:suburb": "Juá",
+      "building": "yes",
+      "name": "Mercadinho Lej",
+      "shop": "convenience"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4199784,-9.4378194]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191407171",
+      "addr:housenumber": "394",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.424594,-9.4381913]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470048",
+      "addr:housenumber": "346",
+      "addr:postcode": "48602-030",
+      "addr:street": "Rua Coreia",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4232196,-9.4369794]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194565228",
+      "addr:housenumber": "500 A",
+      "addr:postcode": "48601-000",
+      "addr:street": "Estrada Para O Juá",
+      "addr:suburb": "Juá",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0225P-2-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2667275,-9.3883332]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470050",
+      "addr:housenumber": "79",
+      "addr:postcode": "48602-030",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4226168,-9.4361637]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469876",
+      "addr:housenumber": "802",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4231426,-9.4403108]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470078",
+      "addr:housenumber": "27",
+      "addr:postcode": "48602-030",
+      "addr:suburb": "Juá",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0167P-14-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.418888,-9.4354478]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470079",
+      "addr:housenumber": "76",
+      "addr:postcode": "48602-030",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.42248,-9.4360567]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469920",
+      "addr:housenumber": "522",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4244714,-9.441384]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191406598",
+      "addr:housenumber": "291",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4265844,-9.4350975]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191406846",
+      "addr:housenumber": "339",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 156m 0500-0166P-5-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.422545,-9.43809]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470043",
+      "addr:housenumber": "258",
+      "addr:postcode": "48602-030",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.423,-9.43664]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470145",
+      "addr:housenumber": "171",
+      "addr:postcode": "48602-030",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4201508,-9.4402248]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469858",
+      "addr:housenumber": "372",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "amenity": "pub",
+      "building": "yes",
+      "name": "Bar de Noé"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4229247,-9.4390669]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "98066933",
+      "addr:housenumber": "261",
+      "addr:postcode": "48602-030",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.422837,-9.4367213]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470176",
+      "addr:housenumber": "243",
+      "addr:postcode": "48602-030",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4225746,-9.4378932]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470119",
+      "addr:housenumber": "120 A",
+      "addr:postcode": "48602-030",
+      "addr:street": "Estrada Para A Padaria",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4196139,-9.4378992]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191407123",
+      "addr:housenumber": "451",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0166P-15-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4264961,-9.4392635]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469839",
+      "addr:housenumber": "395",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.424275,-9.4382361]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469927",
+      "addr:housenumber": "517",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4248924,-9.4407819]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469907",
+      "addr:housenumber": "538",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0166P-20-12"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4230417,-9.4423354]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469892",
+      "addr:housenumber": "773",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4219671,-9.4408176]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469955",
+      "addr:housenumber": "399",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4252386,-9.4383746]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470177",
+      "addr:housenumber": "250",
+      "addr:postcode": "48602-030",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4228073,-9.4377304]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470174",
+      "addr:housenumber": "242",
+      "addr:postcode": "48602-030",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4223274,-9.4380754]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191406593",
+      "addr:housenumber": "287",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4269071,-9.4345275]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469971",
+      "addr:housenumber": "485",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4248616,-9.4399525]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469985",
+      "addr:housenumber": "438",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0166P-15-4"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4258054,-9.4387354]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470015",
+      "addr:housenumber": "247",
+      "addr:postcode": "48602-030",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4223207,-9.4371037]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191407377",
+      "addr:housenumber": "581",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0166P-25-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4224169,-9.4443154]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469890",
+      "addr:housenumber": "811",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4221196,-9.4406325]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470034",
+      "addr:housenumber": "102 A",
+      "addr:postcode": "48602-030",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4237964,-9.4361592]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469882",
+      "addr:housenumber": "479",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4239463,-9.4404926]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470029",
+      "addr:housenumber": "46",
+      "addr:postcode": "48602-030",
+      "addr:suburb": "Juá",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0167P-12-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4198047,-9.4349802]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470169",
+      "addr:housenumber": "202",
+      "addr:postcode": "48602-030",
+      "addr:suburb": "Juá",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0167P-3-4"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4220198,-9.4387366]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469925",
+      "addr:housenumber": "481",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.424911,-9.440599]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470130",
+      "addr:housenumber": "938",
+      "addr:postcode": "48602-030",
+      "addr:street": "Estrada Para Paulo Afonso",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4156468,-9.4392621]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "98066940",
+      "addr:housenumber": "16",
+      "addr:postcode": "48602-030",
+      "addr:suburb": "Juá",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0167P-17-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4185137,-9.4345117]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "98066929",
+      "addr:housenumber": "183 Térreo",
+      "addr:postcode": "48602-030",
+      "addr:suburb": "Juá",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0167P-3-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4211379,-9.4394175]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469866",
+      "addr:housenumber": "364",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "evangelical",
+      "description": "CNEFE 2022 Igreja Evangélica",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0166P-9-2",
+      "religion": "christian"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4219525,-9.4398711]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470084",
+      "addr:housenumber": "9",
+      "addr:postcode": "48602-030",
+      "addr:suburb": "Juá",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0167P-17-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4171107,-9.4335265]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470149",
+      "addr:housenumber": "175",
+      "addr:postcode": "48602-030",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4210037,-9.4398738]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470068",
+      "addr:housenumber": "71",
+      "addr:postcode": "48602-030",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4222151,-9.4357754]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191406541",
+      "addr:housenumber": "279",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0166P-1-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4272445,-9.4335837]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470109",
+      "addr:housenumber": "110",
+      "addr:postcode": "48602-030",
+      "addr:street": "Estrada Para A Padaria",
+      "addr:suburb": "Juá",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "catholic;protestant",
+      "name": "Igreja São João Batista",
+      "religion": "christian"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4205195,-9.437393]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191407196",
+      "addr:housenumber": "396",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4242717,-9.4383618]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469894",
+      "addr:housenumber": "74 C",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "amenity": "pub",
+      "building": "yes",
+      "name": "Bar Ponto Ideal do Mílton"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4221666,-9.4411841]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470113",
+      "addr:housenumber": "137",
+      "addr:postcode": "48602-030",
+      "addr:street": "Estrada Para A Padaria",
+      "addr:suburb": "Juá",
+      "building": "yes",
+      "description": "CNEFE 2022 Sorveteria",
+      "shop": "ice_cream"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4202695,-9.4376774]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191406444",
+      "addr:housenumber": "315",
+      "addr:postcode": "48619-899",
+      "addr:street": "Caminho Para A Casa Galego de Maninho",
+      "addr:suburb": "Juá",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0166P-0-8"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4235526,-9.4373111]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470031",
+      "addr:housenumber": "43",
+      "addr:postcode": "48602-030",
+      "addr:suburb": "Juá",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0167P-12-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4196008,-9.434839]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470017",
+      "addr:housenumber": "234",
+      "addr:postcode": "48602-030",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4219555,-9.4369262]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191406684",
+      "addr:housenumber": "120",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0166P-4-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4242766,-9.4360854]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191407345",
+      "addr:housenumber": "573",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0166P-22-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4231293,-9.4429286]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470158",
+      "addr:housenumber": "190",
+      "addr:postcode": "48602-030",
+      "addr:suburb": "Juá",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0167P-3-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4216261,-9.4397297]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191407114",
+      "addr:housenumber": "490",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0166P-15-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4263604,-9.4394123]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470167",
+      "addr:housenumber": "198",
+      "addr:postcode": "48602-030",
+      "addr:suburb": "Juá",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "name": "Mercadinho Araújo",
+      "note": "Sem dados para mover para dentro da quadra 0500-0167P-3-4",
+      "shop": "convenience"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4219526,-9.4390627]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191406667",
+      "addr:housenumber": "301",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0166P-4-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4254782,-9.4357433]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470032",
+      "addr:housenumber": "48",
+      "addr:postcode": "48602-030",
+      "addr:suburb": "Juá",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0167P-12-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4199934,-9.4351443]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191741215",
+      "addr:housenumber": "184",
+      "addr:postcode": "48602-030",
+      "addr:suburb": "Juá",
+      "building": "construction",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0167P-3-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4211316,-9.4394021]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470132",
+      "addr:housenumber": "935",
+      "addr:postcode": "48602-030",
+      "addr:street": "Estrada Para Paulo Afonso",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4157185,-9.4398537]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191741192",
+      "addr:housenumber": "112",
+      "addr:postcode": "48602-030",
+      "addr:street": "Estrada Para A Padaria",
+      "addr:suburb": "Juá",
+      "building": "yes",
+      "name": "Sertão Cultural"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.420968,-9.4374099]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469972",
+      "addr:housenumber": "374",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4252006,-9.4398453]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470146",
+      "addr:housenumber": "172",
+      "addr:postcode": "48602-030",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.420389,-9.4402242]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469918",
+      "addr:housenumber": "272",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "addr:unit": "Fundos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4239516,-9.4411587]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100604340",
+      "addr:housenumber": "540",
+      "addr:postcode": "48601-000",
+      "addr:street": "Estrada Para O Juá",
+      "addr:suburb": "Juá",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0225P-2-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2677851,-9.388953]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469950",
+      "addr:housenumber": "1",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "addr:unit": "Fundos",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0166P-20-7"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4252276,-9.4407871]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470040",
+      "addr:housenumber": "227",
+      "addr:postcode": "48602-030",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4224327,-9.4368942]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "98066932",
+      "addr:housenumber": "260",
+      "addr:postcode": "48602-030",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4229241,-9.4366567]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469919",
+      "addr:housenumber": "510",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4241979,-9.4410425]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191407301",
+      "addr:housenumber": "12",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4247927,-9.441675]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191406629",
+      "addr:housenumber": "412",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.425976,-9.4372181]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470055",
+      "addr:housenumber": "50 B",
+      "addr:postcode": "48602-030",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4226069,-9.4361564]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191406635",
+      "addr:housenumber": "413",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4259728,-9.4372312]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191407321",
+      "addr:housenumber": "545",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0166P-21-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4241155,-9.4428547]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470076",
+      "addr:housenumber": "6",
+      "addr:postcode": "48602-030",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4184517,-9.4351829]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470049",
+      "addr:housenumber": "266",
+      "addr:postcode": "48602-030",
+      "addr:street": "Rua Coreia",
+      "addr:suburb": "Juá",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "name": "Coreia Mercearia",
+      "note": "Sem dados para mover para dentro da quadra 0500-0167P-6-1",
+      "shop": "convenience"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4232081,-9.4366656]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470171",
+      "addr:housenumber": "203",
+      "addr:postcode": "48602-030",
+      "addr:suburb": "Juá",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0167P-3-4"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4220074,-9.4383619]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470088",
+      "addr:housenumber": "340 A",
+      "addr:postcode": "48602-030",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4195454,-9.4363583]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470163",
+      "addr:housenumber": "194",
+      "addr:postcode": "48602-030",
+      "addr:suburb": "Juá",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0167P-3-4"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4218862,-9.4392995]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191406470",
+      "addr:housenumber": "808",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4223035,-9.4404907]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470143",
+      "addr:housenumber": "1",
+      "addr:postcode": "48602-030",
+      "addr:street": "Estrada Para Paulo Afonso",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4141849,-9.4404002]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470125",
+      "addr:housenumber": "949",
+      "addr:postcode": "48602-030",
+      "addr:street": "Estrada Para Paulo Afonso",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4173334,-9.4390548]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "99495843",
+      "addr:housenumber": "69 A",
+      "addr:postcode": "48602-030",
+      "addr:street": "Estrada Para A Padaria",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4190436,-9.4386929]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469909",
+      "addr:housenumber": "4",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.423035,-9.4416772]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100604342",
+      "addr:housenumber": "500 A",
+      "addr:postcode": "48601-000",
+      "addr:street": "Estrada Para O Juá",
+      "addr:suburb": "Juá",
+      "addr:unit": "Fundos",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0225P-2-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2667107,-9.3883233]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470127",
+      "addr:housenumber": "50 A",
+      "addr:postcode": "48602-030",
+      "addr:street": "Estrada Para Paulo Afonso",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4170116,-9.4391471]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191406901",
+      "addr:housenumber": "390",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4239544,-9.4386418]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470072",
+      "addr:housenumber": "60",
+      "addr:postcode": "48602-030",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.420983,-9.4347721]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470104",
+      "addr:housenumber": "159",
+      "addr:postcode": "48602-030",
+      "addr:street": "Estrada Para A Igreja",
+      "addr:suburb": "Juá",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0167P-3-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4209114,-9.4375588]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469895",
+      "addr:housenumber": "74 C",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4221185,-9.4410958]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469900",
+      "addr:housenumber": "28",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "addr:unit": "Fundos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4222957,-9.4413073]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191406794",
+      "addr:housenumber": "654",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0166P-5-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.424495,-9.444886]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191406868",
+      "addr:housenumber": "336",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 78m 0500-0166P-5-4"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.422946,-9.437828]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191406461",
+      "addr:housenumber": "809",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4221832,-9.4405834]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470136",
+      "addr:housenumber": "929",
+      "addr:postcode": "48602-030",
+      "addr:street": "Estrada Para Paulo Afonso",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4147443,-9.440286]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "98066928",
+      "addr:housenumber": "179",
+      "addr:postcode": "48602-030",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4210018,-9.4394046]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470056",
+      "addr:housenumber": "60 A",
+      "addr:postcode": "48602-030",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.422331,-9.4358843]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470154",
+      "addr:housenumber": "182",
+      "addr:postcode": "48602-030",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.420936,-9.4391839]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469963",
+      "addr:housenumber": "217",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4237918,-9.4385126]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470135",
+      "addr:housenumber": "754 A",
+      "addr:postcode": "48602-030",
+      "addr:street": "Estrada Para Paulo Afonso",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4152599,-9.4400591]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470058",
+      "addr:housenumber": "102",
+      "addr:postcode": "48602-030",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4220511,-9.4358563]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470128",
+      "addr:housenumber": "943",
+      "addr:postcode": "48602-030",
+      "addr:street": "Estrada Para Paulo Afonso",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4169229,-9.4391736]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470129",
+      "addr:housenumber": "941",
+      "addr:postcode": "48602-030",
+      "addr:street": "Estrada Para Paulo Afonso",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.416693855827,-9.4393080616562]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470138",
+      "addr:housenumber": "210 A",
+      "addr:postcode": "48602-030",
+      "addr:street": "Estrada Para Paulo Afonso",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.414736598695,-9.4402875613881]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470075",
+      "addr:housenumber": "58",
+      "addr:postcode": "48602-030",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4203428,-9.4346387]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191406646",
+      "addr:housenumber": "295",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0166P-4-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4257913,-9.4355301]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470122",
+      "addr:housenumber": "959",
+      "addr:postcode": "48602-030",
+      "addr:street": "Estrada Para Paulo Afonso",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4185968,-9.4387303]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "98066922",
+      "addr:housenumber": "931",
+      "addr:postcode": "48602-030",
+      "addr:street": "Estrada Para Paulo Afonso",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4157282,-9.4398494]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470110",
+      "addr:housenumber": "122",
+      "addr:postcode": "48602-030",
+      "addr:street": "Estrada Para A Padaria",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.420498546208,-9.4374020000032]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "98066924",
+      "addr:housenumber": "79 A",
+      "addr:postcode": "48602-030",
+      "addr:street": "Estrada Para Paulo Afonso",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4169348,-9.43917]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191406713",
+      "addr:housenumber": "319",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0166P-4-4"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4237,-9.437649]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470173",
+      "addr:housenumber": "241",
+      "addr:postcode": "48602-030",
+      "addr:suburb": "Juá",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "description": "CNEFE 2022 Igreja"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4221701,-9.4382373]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470137",
+      "addr:housenumber": "220 B",
+      "addr:postcode": "48602-030",
+      "addr:street": "Estrada Para Paulo Afonso",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.414747808028,-9.4402867951224]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469983",
+      "addr:housenumber": "70 B",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0166P-15-4"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4255079,-9.4388617]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470134",
+      "addr:housenumber": "937",
+      "addr:postcode": "48602-030",
+      "addr:street": "Estrada Para Paulo Afonso",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4159381,-9.4394992]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470131",
+      "addr:housenumber": "933",
+      "addr:postcode": "48602-030",
+      "addr:street": "Estrada Para Paulo Afonso",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4154783,-9.439308]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469959",
+      "addr:housenumber": "418",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4258591,-9.4383285]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469974",
+      "addr:housenumber": "383",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes",
+      "name": "Mercadinho da Elinha",
+      "shop": "convenience"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4240517,-9.4391032]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469967",
+      "addr:housenumber": "389",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.424465,-9.4398988]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191407250",
+      "addr:housenumber": "20",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4286428,-9.4390874]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191407189",
+      "addr:housenumber": "391",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 56m 0500-0166P-16-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.425058,-9.438793]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469990",
+      "addr:housenumber": "432",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0166P-15-4"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4259711,-9.438665]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191741241",
+      "addr:housenumber": "232",
+      "addr:postcode": "48602-030",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4221097,-9.4365179]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469874",
+      "addr:housenumber": "504",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4230301,-9.4404007]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191407182",
+      "addr:housenumber": "392",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4251838,-9.4383602]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469903",
+      "addr:housenumber": "189",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0166P-11-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.423489,-9.441488]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469962",
+      "addr:housenumber": "423",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4259751,-9.4378816]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469901",
+      "addr:housenumber": "782",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4223359,-9.4414952]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469879",
+      "addr:housenumber": "805",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4230997,-9.4402791]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470114",
+      "addr:housenumber": "138",
+      "addr:postcode": "48602-030",
+      "addr:street": "Estrada Para A Padaria",
+      "addr:suburb": "Juá",
+      "amenity": "pub",
+      "building": "yes",
+      "name": "Bar do Teinha"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4201388,-9.4377503]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191407317",
+      "addr:housenumber": "544",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0166P-21-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4241505,-9.4428628]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469840",
+      "addr:housenumber": "322",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4241285,-9.4380535]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191741199",
+      "addr:housenumber": "141",
+      "addr:postcode": "48602-030",
+      "addr:street": "Estrada Para A Padaria",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.419826,-9.4379769]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469902",
+      "addr:housenumber": "783",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4223468,-9.4415153]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191406968",
+      "addr:housenumber": "784",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4223977,-9.4416083]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470054",
+      "addr:housenumber": "77",
+      "addr:postcode": "48602-030",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4226112,-9.4361596]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470061",
+      "addr:housenumber": "63",
+      "addr:postcode": "48602-030",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.421035987699,-9.434789422981]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470120",
+      "addr:housenumber": "153",
+      "addr:postcode": "48602-030",
+      "addr:street": "Estrada Para A Padaria",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4197344,-9.4377359]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469976",
+      "addr:housenumber": "379",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0166P-14-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4236785,-9.4392585]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470073",
+      "addr:housenumber": "59",
+      "addr:postcode": "48602-030",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4208393,-9.434728]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470025",
+      "addr:housenumber": "35",
+      "addr:postcode": "48602-030",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4203164,-9.4355892]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469834",
+      "addr:housenumber": "315",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0166P-4-4"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.423576,-9.437261]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191741200",
+      "addr:housenumber": "143",
+      "addr:postcode": "48602-030",
+      "addr:street": "Estrada Para A Padaria",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4200058,-9.4383691]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191406615",
+      "addr:housenumber": "409",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4263006,-9.4357477]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469897",
+      "addr:housenumber": "777",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4221522,-9.4411577]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470095",
+      "addr:housenumber": "237",
+      "addr:postcode": "48602-030",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4217732,-9.4376899]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470162",
+      "addr:housenumber": "193",
+      "addr:postcode": "48602-030",
+      "addr:suburb": "Juá",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0167P-3-4"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4218976,-9.43926]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "98066938",
+      "addr:housenumber": "39",
+      "addr:postcode": "48602-030",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4190203,-9.4355803]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "98066927",
+      "addr:housenumber": "5",
+      "addr:postcode": "48602-030",
+      "addr:street": "Estrada Para A Padaria",
+      "addr:suburb": "Juá",
+      "amenity": "pub",
+      "building": "yes",
+      "description": "CNEFE 2022 Bar"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4202724,-9.4375002]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "98066927",
+      "addr:housenumber": "5",
+      "addr:postcode": "48602-030",
+      "addr:street": "Estrada Para A Padaria",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.420264158604,-9.4374965955181]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470123",
+      "addr:housenumber": "10 A",
+      "addr:postcode": "48602-030",
+      "addr:street": "Estrada Para Paulo Afonso",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.418610544762,-9.4387281579953]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469914",
+      "addr:housenumber": "279",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0166P-20-11"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.423117,-9.4417256]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470141",
+      "addr:housenumber": "924",
+      "addr:postcode": "48602-030",
+      "addr:street": "Estrada Para Paulo Afonso",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.414635,-9.4403182]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470030",
+      "addr:housenumber": "45",
+      "addr:postcode": "48602-030",
+      "addr:suburb": "Juá",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0167P-12-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4196709,-9.4348869]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470157",
+      "addr:housenumber": "188",
+      "addr:postcode": "48602-030",
+      "addr:suburb": "Juá",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0167P-3-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4212316,-9.4396459]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470112",
+      "addr:housenumber": "120",
+      "addr:postcode": "48602-030",
+      "addr:street": "Estrada Para A Padaria",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4202393,-9.4374825]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100562671",
+      "addr:housenumber": "229",
+      "addr:postcode": "48602-030",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4227887,-9.4365774]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191406975",
+      "addr:housenumber": "786",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4225121,-9.4418472]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "98066942",
+      "addr:housenumber": "205",
+      "addr:postcode": "48602-030",
+      "addr:suburb": "Juá",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0167P-3-4"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4218855,-9.4381579]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470097",
+      "addr:housenumber": "238",
+      "addr:postcode": "48602-030",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4217935,-9.4377216]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470093",
+      "addr:housenumber": "90 B",
+      "addr:postcode": "48602-030",
+      "addr:suburb": "Juá",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0167P-8-4"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4213798,-9.4368868]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470165",
+      "addr:housenumber": "196",
+      "addr:postcode": "48602-030",
+      "addr:suburb": "Juá",
+      "description": "CNEFE 2022 Antigo Bar Beira Rio",
+      "disused:amenity": "pub",
+      "disused:building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0167P-3-4"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4219268,-9.4391546]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191407155",
+      "addr:housenumber": "431",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0166P-15-4"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4259967,-9.4386541]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470018",
+      "addr:housenumber": "249",
+      "addr:postcode": "48602-030",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4217453,-9.4370712]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191406861",
+      "addr:housenumber": "338",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 98m 0500-0166P-5-4"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.422791,-9.437943]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469898",
+      "addr:housenumber": "973 B",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4221657,-9.4411825]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470170;27470172",
+      "addr:housenumber": "36",
+      "addr:postcode": "48602-030",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.422123,-9.4382167]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470150",
+      "addr:housenumber": "176",
+      "addr:postcode": "48602-030",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4209449,-9.4398825]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470161",
+      "addr:housenumber": "192",
+      "addr:postcode": "48602-030",
+      "addr:suburb": "Juá",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0167P-3-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4216632,-9.4397199]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470099",
+      "addr:housenumber": "3",
+      "addr:postcode": "48602-030",
+      "addr:street": "Estrada Para A Padaria",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4201222,-9.4382964]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191406887",
+      "addr:housenumber": "334",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "warehouse",
+      "description": "CNEFE 2022 Galpão",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 46m 0500-0166P-5-4"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.423181,-9.437588]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469934",
+      "addr:housenumber": "253",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "addr:unit": "Fundos",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0166P-20-5"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4255637,-9.4402023]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191406962",
+      "addr:housenumber": "775",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4220678,-9.4410027]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469922",
+      "addr:housenumber": "512",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4244407,-9.4408951]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "98066923",
+      "addr:housenumber": "942",
+      "addr:postcode": "48602-030",
+      "addr:street": "Estrada Para Paulo Afonso",
+      "addr:suburb": "Juá",
+      "building": "yes",
+      "name": "Oficia Fernando Motos",
+      "shop": "motorcycle"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.416663,-9.4393278]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191406781",
+      "addr:housenumber": "541",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0166P-5-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4241472,-9.44463]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470133",
+      "addr:housenumber": "50 A",
+      "addr:postcode": "48602-030",
+      "addr:street": "Estrada Para Paulo Afonso",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.415727,-9.4398499]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191407382",
+      "addr:housenumber": "582",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0166P-25-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4223823,-9.4446039]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469858",
+      "addr:housenumber": "372",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.422920166119,-9.4390819276867]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191406692",
+      "addr:housenumber": "326",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.425132,-9.4375478]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470085",
+      "addr:housenumber": "5",
+      "addr:postcode": "48602-030",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4161978,-9.4330337]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469987",
+      "addr:housenumber": "229",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "addr:unit": "Fundos",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0166P-15-4"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4259023,-9.4386942]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469952",
+      "addr:housenumber": "216",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.424774,-9.437783]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469863",
+      "addr:housenumber": "5",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0166P-10-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.421731,-9.4401316]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413082",
+      "addr:housenumber": "75",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "name": "Abrigo para Alimentação de Cavalos e Gar",
+      "note": "Sem dados para mover para dentro da quadra 0500-0166P-21-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4243955,-9.4429196]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470142",
+      "addr:housenumber": "923",
+      "addr:postcode": "48602-030",
+      "addr:street": "Estrada Para Paulo Afonso",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4146454,-9.4403151]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470103",
+      "addr:housenumber": "163",
+      "addr:postcode": "48602-030",
+      "addr:street": "Estrada Para A Igreja",
+      "addr:suburb": "Juá",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0167P-3-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4200968,-9.4384685]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191741255",
+      "addr:housenumber": "224",
+      "addr:postcode": "48602-030",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4220512,-9.4358563]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470020",
+      "addr:housenumber": "92",
+      "addr:postcode": "48602-030",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4206334,-9.4356552]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469977",
+      "addr:housenumber": "378",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0166P-14-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4241685,-9.4391667]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191406534",
+      "addr:housenumber": "278",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0166P-1-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4272334,-9.433605]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191406620",
+      "addr:housenumber": "10 C",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4262104,-9.4359649]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470052",
+      "addr:housenumber": "57",
+      "addr:postcode": "48602-030",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4202333,-9.4345872]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "98066943",
+      "addr:housenumber": "30",
+      "addr:postcode": "48602-030",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4220177,-9.4362882]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191406654",
+      "addr:housenumber": "296",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0166P-4-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4256315,-9.4356389]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191406882",
+      "addr:housenumber": "333",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.423499,-9.4373959]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469861",
+      "addr:housenumber": "347",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4235264,-9.4390443]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470002",
+      "addr:housenumber": "95",
+      "addr:postcode": "48602-030",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4208766,-9.4358911]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470000",
+      "addr:housenumber": "212",
+      "addr:postcode": "48602-030",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4210228,-9.4361614]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469905",
+      "addr:housenumber": "788",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4227883,-9.4418271]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191406455",
+      "addr:housenumber": "812",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4221131,-9.4406374]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469973",
+      "addr:housenumber": "49",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4235961,-9.43918]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469999",
+      "addr:housenumber": "97",
+      "addr:postcode": "48602-030",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4210264,-9.4359532]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "98066936",
+      "addr:housenumber": "70",
+      "addr:postcode": "48602-030",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4220242,-9.4355742]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469881",
+      "addr:housenumber": "275",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "addr:unit": "Fundos",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0166P-20-11"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4239081,-9.4412734]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469996",
+      "addr:housenumber": "218",
+      "addr:postcode": "48602-030",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4216864,-9.4362983]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469970",
+      "addr:housenumber": "487",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4247399,-9.4399238]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470041",
+      "addr:housenumber": "259",
+      "addr:postcode": "48602-030",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4230005,-9.43664]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469993",
+      "addr:housenumber": "231",
+      "addr:postcode": "48602-030",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4222034,-9.436482]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469831",
+      "addr:housenumber": "400 A",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0166P-4-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4255055,-9.4357247]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470081",
+      "addr:housenumber": "13",
+      "addr:postcode": "48602-030",
+      "addr:suburb": "Juá",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0167P-17-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4176248,-9.4339922]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469998",
+      "addr:housenumber": "215",
+      "addr:postcode": "48602-030",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4215624,-9.4362726]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469932",
+      "addr:housenumber": "469",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0166P-20-5"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4254334,-9.4403124]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191407282",
+      "addr:housenumber": "472",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0166P-20-5"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4252409,-9.4404586]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469973",
+      "addr:housenumber": "49",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "amenity": "pub",
+      "building": "yes",
+      "name": "Bar da Fábia"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.423598702181,-9.4391768994432]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470057",
+      "addr:housenumber": "72",
+      "addr:postcode": "48602-030",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4222197,-9.4357817]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470019",
+      "addr:housenumber": "85",
+      "addr:postcode": "48602-030",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4206763,-9.4357545]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469860",
+      "addr:housenumber": "12",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 69m 0500-0166P-5-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.423006,-9.438335]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191406580",
+      "addr:housenumber": "282",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 51m 0500-0166P-1-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.427069,-9.433106]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191406625",
+      "addr:housenumber": "411",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4259752,-9.437221]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "98066926",
+      "addr:housenumber": "154",
+      "addr:postcode": "48602-030",
+      "addr:street": "Estrada Para A Padaria",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4196467,-9.4378525]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "98709695",
+      "addr:housenumber": "162",
+      "addr:postcode": "48602-030",
+      "addr:street": "Estrada Para A Igreja",
+      "addr:suburb": "Juá",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0167P-3-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4199324,-9.4385733]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469965",
+      "addr:housenumber": "497",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4240106,-9.4398223]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470152",
+      "addr:housenumber": "178",
+      "addr:postcode": "48602-030",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4210009,-9.4394025]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "98066937",
+      "addr:housenumber": "50",
+      "addr:postcode": "48602-030",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4221276,-9.435651]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470077",
+      "addr:housenumber": "40",
+      "addr:postcode": "48602-030",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4189553,-9.4356441]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470022",
+      "addr:housenumber": "88",
+      "addr:postcode": "48602-030",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.420517,-9.4353732]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469939",
+      "addr:housenumber": "466",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0166P-20-5"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4258956,-9.4399229]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191406727",
+      "addr:housenumber": "311",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0166P-4-5"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.423673,-9.436574]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469872",
+      "addr:housenumber": "803",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4229523,-9.4401593]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191406758",
+      "addr:housenumber": "553",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0166P-5-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4238424,-9.4442791]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470092",
+      "addr:housenumber": "272",
+      "addr:postcode": "48602-030",
+      "addr:suburb": "Juá",
+      "addr:unit": "Fundos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4209479,-9.43692]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100604341",
+      "addr:housenumber": "500 A",
+      "addr:postcode": "48601-000",
+      "addr:street": "Estrada Para O Juá",
+      "addr:suburb": "Juá",
+      "addr:unit": "Frente",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0225P-2-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.266696078994,-9.3883312347967]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470038",
+      "addr:housenumber": "230",
+      "addr:postcode": "48602-030",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4228103,-9.4365807]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470144",
+      "addr:housenumber": "169",
+      "addr:postcode": "48602-030",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4199285,-9.4399263]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191407297",
+      "addr:housenumber": "521",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4243173,-9.4411318]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470021",
+      "addr:housenumber": "89",
+      "addr:postcode": "48602-030",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4205016,-9.435336]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469957",
+      "addr:housenumber": "409",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0166P-17-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4253239,-9.4383103]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191407050",
+      "addr:housenumber": "483",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4250849,-9.4404701]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470155",
+      "addr:housenumber": "181",
+      "addr:postcode": "48602-030",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4209352,-9.4391978]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413083",
+      "addr:housenumber": "390",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0166P-21-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4243258,-9.4429034]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469833",
+      "addr:housenumber": "317",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0166P-4-4"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.423549,-9.437208]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "98066934",
+      "addr:housenumber": "80",
+      "addr:postcode": "48602-030",
+      "addr:suburb": "Juá",
+      "addr:unit": "B Coelb",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4231997,-9.4364039]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191407354",
+      "addr:housenumber": "577",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0166P-24-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4232935,-9.4443247]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469878",
+      "addr:housenumber": "799",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4232846,-9.4405862]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191407106",
+      "addr:housenumber": "447",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0166P-15-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4262573,-9.4395658]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191406527",
+      "addr:housenumber": "277",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0166P-1-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.427211,-9.4336526]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470086",
+      "addr:housenumber": "6",
+      "addr:postcode": "48602-030",
+      "addr:suburb": "Juá",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 66m 0500-0167P-1-8"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.415615,-9.432924]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469981",
+      "addr:housenumber": "342",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4250752,-9.4389541]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469964",
+      "addr:housenumber": "216",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "warehouse",
+      "description": "CNEFE 2022 Depósito"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4237761,-9.4384372]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469836",
+      "addr:housenumber": "318",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0166P-4-4"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.423774,-9.437511]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469938",
+      "addr:housenumber": "241",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "addr:unit": "Fundos",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0166P-15-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4259649,-9.4398377]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191406740",
+      "addr:housenumber": "313",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0166P-4-5"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.423543,-9.436935]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469912",
+      "addr:housenumber": "397",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "addr:unit": "Fundos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4229365,-9.4416739]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470083",
+      "addr:housenumber": "11",
+      "addr:postcode": "48602-030",
+      "addr:suburb": "Juá",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0167P-17-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.417447,-9.4338473]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "98066930",
+      "addr:housenumber": "185",
+      "addr:postcode": "48602-030",
+      "addr:suburb": "Juá",
+      "building": "warehouse",
+      "description": "CNEFE 2022 Depósito",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0167P-3-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.421223,-9.4396249]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469992",
+      "addr:housenumber": "221",
+      "addr:postcode": "48602-030",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.422275,-9.4362672]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469868",
+      "addr:housenumber": "100",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.422364,-9.4399675]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191406556",
+      "addr:housenumber": "281",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 86m 0500-0166P-1-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.426668,-9.433062]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470016",
+      "addr:housenumber": "246",
+      "addr:postcode": "48602-030",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4223144,-9.4371038]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470013",
+      "addr:housenumber": "245",
+      "addr:postcode": "48602-030",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4223717,-9.4371024]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470033",
+      "addr:housenumber": "82",
+      "addr:postcode": "48602-030",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4237419,-9.4362156]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469887",
+      "addr:housenumber": "806",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0166P-1-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.42244,-9.440281]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "98066941",
+      "addr:housenumber": "235",
+      "addr:postcode": "48602-030",
+      "addr:suburb": "Juá",
+      "amenity": "fast_food",
+      "building": "yes",
+      "name": "Lanchonete e Sorveteria Xodó da Avenida",
+      "shop": "ice_cream"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4216468,-9.4374923]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470118",
+      "addr:housenumber": "126",
+      "addr:postcode": "48602-030",
+      "addr:street": "Estrada Para A Padaria",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4196945,-9.4377636]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469943",
+      "addr:housenumber": "233",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "addr:unit": "Fundos",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0166P-20-5"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4262143,-9.4396633]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469936",
+      "addr:housenumber": "8",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4254492,-9.4401898]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "98066925",
+      "addr:housenumber": "124",
+      "addr:postcode": "48602-030",
+      "addr:street": "Estrada Para A Padaria",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4191926,-9.4386724]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470080",
+      "addr:housenumber": "30",
+      "addr:postcode": "48602-030",
+      "addr:suburb": "Juá",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0167P-14-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4193933,-9.4351438]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470160",
+      "addr:housenumber": "191",
+      "addr:postcode": "48602-030",
+      "addr:suburb": "Juá",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0167P-3-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4216666,-9.4397194]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470045",
+      "addr:housenumber": "228",
+      "addr:postcode": "48602-030",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4226223,-9.4367263]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469940",
+      "addr:housenumber": "465",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0166P-20-5"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4260468,-9.4398168]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469991",
+      "addr:housenumber": "225",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "addr:unit": "Fundos",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0166P-15-4"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4261018,-9.4386095]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469904",
+      "addr:housenumber": "789",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4226994,-9.4418764]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469877",
+      "addr:housenumber": "497",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4235223,-9.4402895]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469961",
+      "addr:housenumber": "1",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "addr:unit": "Fundos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4261247,-9.4383002]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469841",
+      "addr:housenumber": "321",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4240405,-9.4380051]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191407013",
+      "addr:housenumber": "508",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4236723,-9.4409994]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470156",
+      "addr:housenumber": "186",
+      "addr:postcode": "48602-030",
+      "addr:suburb": "Juá",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0167P-3-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.421223131643,-9.4396330963619]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470027",
+      "addr:housenumber": "49",
+      "addr:postcode": "48602-030",
+      "addr:suburb": "Juá",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0167P-12-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4201124,-9.4352476]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470063",
+      "addr:housenumber": "83",
+      "addr:postcode": "48602-030",
+      "addr:suburb": "Juá",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0167P-17-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4196229,-9.4346009]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469915",
+      "addr:housenumber": "278",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0166P-20-11"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.423505,-9.4414955]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191406769",
+      "addr:housenumber": "555",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0166P-5-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4237393,-9.4441612]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469857",
+      "addr:housenumber": "371",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "warehouse",
+      "description": "CNEFE 2022 Depósito"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4229492,-9.4390927]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191406661",
+      "addr:housenumber": "300",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0166P-4-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4256716,-9.4356116]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470113",
+      "addr:housenumber": "137",
+      "addr:postcode": "48602-030",
+      "addr:street": "Estrada Para A Padaria",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.420254392012,-9.437667945612]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191406563",
+      "addr:housenumber": "280",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 40m 0500-0166P-1-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.427007,-9.433304]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191741205",
+      "addr:housenumber": "161",
+      "addr:postcode": "48602-030",
+      "addr:street": "Estrada Para A Igreja",
+      "addr:suburb": "Juá",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0167P-3-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.420339,-9.4382962]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469949",
+      "addr:housenumber": "475",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4254109,-9.4396117]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469958",
+      "addr:housenumber": "401",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0166P-17-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4255789,-9.4383575]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469838",
+      "addr:housenumber": "1",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4239928,-9.4385698]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470090",
+      "addr:housenumber": "105",
+      "addr:postcode": "48602-030",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4208354,-9.4365423]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470117",
+      "addr:housenumber": "126",
+      "addr:postcode": "48602-030",
+      "addr:street": "Estrada Para A Padaria",
+      "addr:suburb": "Juá",
+      "building": "yes",
+      "name": "Padaria Recanto Doce",
+      "shop": "bakery"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4197362,-9.437735]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469871",
+      "addr:housenumber": "804",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4228317,-9.4402306]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470036",
+      "addr:housenumber": "86",
+      "addr:postcode": "48602-030",
+      "addr:suburb": "Juá",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4239578,-9.4356562]
+      }
+    }
+  ]
+}

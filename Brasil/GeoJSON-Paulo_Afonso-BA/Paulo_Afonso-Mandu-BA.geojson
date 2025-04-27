@@ -1,0 +1,83 @@
+{
+  "type": "FeatureCollection",
+  "source": "IBGE CNEFE + Faces de Logradouros - 2022",
+  "generator": "CSV-CNEFE2GeoJSON.lua 1.5.7 - fidelis.assis@gmail.com",
+  "date": "2025-02-02T09:05:27-0300",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414290",
+      "addr:housenumber": "10",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Mandu",
+      "addr:suburb": "Mandu",
+      "addr:unit": "11 Casa",
+      "amenity": "animal_breeding",
+      "crop": "forage_palm",
+      "fixme": "Verificar coordenadas",
+      "landuse": "farmland",
+      "name": "Plantação de Palma e Criação de Animais",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0118P-0-85"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.088239,-9.504677]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414290",
+      "addr:housenumber": "10",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Mandu",
+      "addr:suburb": "Mandu",
+      "addr:unit": "11 Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0118P-0-85"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.088238955819,-9.5046771616562]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192025433",
+      "addr:housenumber": "16",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Mandu",
+      "addr:suburb": "Mandu",
+      "addr:unit": "Coeba B 16",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0118P-0-85"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.089015,-9.505811]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414287",
+      "addr:housenumber": "48",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Mandu",
+      "addr:suburb": "Mandu",
+      "addr:unit": "Cisterna 048 Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0118P-0-85"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.088827,-9.506339]
+      }
+    }
+  ]
+}

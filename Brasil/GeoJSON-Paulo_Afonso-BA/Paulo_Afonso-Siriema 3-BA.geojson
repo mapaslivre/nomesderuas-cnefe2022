@@ -1,0 +1,4942 @@
+{
+  "type": "FeatureCollection",
+  "generator": "CSV-CNEFE2GeoJSON.lua 1.5.7 - fidelis.assis@gmail.com",
+  "source": "IBGE CNEFE + Faces de Logradouros - 2022",
+  "date": "2025-02-02T09:05:34-0300",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846068",
+      "addr:housenumber": "19",
+      "addr:postcode": "48604-460",
+      "addr:street": "Rua Rio Zaire",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2407199,-9.3845311]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846049",
+      "addr:housenumber": "130",
+      "addr:postcode": "48604-462",
+      "addr:street": "Rua Rio Mississipi",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2412938,-9.3842063]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846026",
+      "addr:housenumber": "184",
+      "addr:postcode": "48604-456",
+      "addr:street": "Rua Rio Eufrates",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2409886,-9.3840055]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846007",
+      "addr:housenumber": "133",
+      "addr:postcode": "48604-454",
+      "addr:street": "Rua Rio Colúmbia",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2404336,-9.3840659]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421959",
+      "addr:housenumber": "1",
+      "addr:postcode": "48610-400",
+      "addr:suburb": "Siriema 3",
+      "addr:unit": "Depósito",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2547025,-9.3877785]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846027",
+      "addr:housenumber": "174",
+      "addr:postcode": "48604-456",
+      "addr:street": "Rua Rio Eufrates",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2409224,-9.3839784]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846009",
+      "addr:housenumber": "153",
+      "addr:postcode": "48604-454",
+      "addr:street": "Rua Rio Colúmbia",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2404808,-9.3840802]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846071",
+      "addr:housenumber": "181",
+      "addr:postcode": "48604-452",
+      "addr:street": "Rua Rio Jordão",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2408431,-9.3845847]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846152",
+      "addr:housenumber": "66",
+      "addr:postcode": "48604-458",
+      "addr:street": "Rua Rio Danúbio",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2400141,-9.3841485]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846132",
+      "addr:housenumber": "55",
+      "addr:postcode": "48604-450",
+      "addr:street": "Rua Rio Senegal",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2395703,-9.3839511]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422027",
+      "addr:housenumber": "37",
+      "addr:postcode": "48610-420",
+      "addr:street": "Rua São Roque",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.254669,-9.3884057]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421931",
+      "addr:housenumber": "5",
+      "addr:postcode": "48610-420",
+      "addr:street": "Rua São Roque",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2549144,-9.3889794]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "220577195",
+      "addr:housenumber": "254",
+      "addr:postcode": "48604-454",
+      "addr:street": "Rua Rio Colúmbia",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.241085,-9.3844346]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421967",
+      "addr:housenumber": "18",
+      "addr:postcode": "48610-420",
+      "addr:street": "Rua José Caetano da Silva",
+      "addr:suburb": "Siriema 3",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0221P-4-4"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.254229,-9.388188]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100845993",
+      "addr:housenumber": "84",
+      "addr:postcode": "48604-456",
+      "addr:street": "Rua Rio Eufrates",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2403845,-9.3838254]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191770959",
+      "addr:housenumber": "14 B",
+      "addr:postcode": "48610-420",
+      "addr:street": "Rua José Caetano da Silva",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2552257,-9.388309]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100845982",
+      "addr:housenumber": "136",
+      "addr:postcode": "48604-458",
+      "addr:street": "Rua Rio Danúbio",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2400982,-9.3838541]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100845980",
+      "addr:housenumber": "116",
+      "addr:postcode": "48604-458",
+      "addr:street": "Rua Rio Danúbio",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2400903,-9.3838848]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846054",
+      "addr:housenumber": "242",
+      "addr:postcode": "48604-454",
+      "addr:street": "Rua Rio Colúmbia",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2410268,-9.3844167]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421936",
+      "addr:housenumber": "32",
+      "addr:postcode": "48610-420",
+      "addr:street": "Travessa São Roque",
+      "addr:suburb": "Siriema 3",
+      "building": "yes",
+      "description": "CNEFE 2022 Mercadinho",
+      "shop": "convenience"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2546421,-9.3888857]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422028",
+      "addr:housenumber": "3",
+      "addr:postcode": "48610-420",
+      "addr:street": "Rua São Roque",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2546646,-9.3883395]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100845969",
+      "addr:housenumber": "13",
+      "addr:postcode": "48604-454",
+      "addr:street": "Rua Rio Colúmbia",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2397426,-9.3838542]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100845998",
+      "addr:housenumber": "22",
+      "addr:postcode": "48604-458",
+      "addr:street": "Rua Rio Danúbio",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2402595,-9.3838977]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100845956",
+      "addr:housenumber": "44",
+      "addr:postcode": "48604-456",
+      "addr:street": "Rua Rio Eufrates",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2399192,-9.3836722]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846149",
+      "addr:housenumber": "36",
+      "addr:postcode": "48604-458",
+      "addr:street": "Rua Rio Danúbio",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2400011,-9.384188]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846065",
+      "addr:housenumber": "21",
+      "addr:postcode": "48604-460",
+      "addr:street": "Rua Rio Zaire",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2407543,-9.3844156]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846131",
+      "addr:housenumber": "65",
+      "addr:postcode": "48604-450",
+      "addr:street": "Rua Rio Senegal",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2395918,-9.3840671]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191770798",
+      "addr:housenumber": "1",
+      "addr:postcode": "48610-420",
+      "addr:street": "Travessa São Roque",
+      "addr:suburb": "Siriema 3",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2544843,-9.389003]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421944",
+      "addr:housenumber": "24",
+      "addr:postcode": "48604-260",
+      "addr:street": "Rua São Sebastião",
+      "addr:suburb": "Siriema 3",
+      "addr:unit": "1",
+      "building": "yes",
+      "name": "Salão Divas Charmes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2542822,-9.3886571]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191770843",
+      "addr:housenumber": "22",
+      "addr:postcode": "48610-420",
+      "addr:street": "Rua José Caetano da Silva",
+      "addr:suburb": "Siriema 3",
+      "building": "warehouse",
+      "description": "CNEFE 2022 Depósito"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2541137,-9.3882864]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846043",
+      "addr:housenumber": "243",
+      "addr:postcode": "48604-454",
+      "addr:street": "Rua Rio Colúmbia",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2410414,-9.3842469]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422042",
+      "addr:housenumber": "15",
+      "addr:postcode": "48610-420",
+      "addr:street": "Travessa São Roque",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2546319,-9.3886807]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100845988",
+      "addr:housenumber": "134",
+      "addr:postcode": "48604-456",
+      "addr:street": "Rua Rio Eufrates",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2404945,-9.38386]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100845974",
+      "addr:housenumber": "53",
+      "addr:postcode": "48604-454",
+      "addr:street": "Rua Rio Colúmbia",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2398354,-9.3838826]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100845981",
+      "addr:housenumber": "126",
+      "addr:postcode": "48604-458",
+      "addr:street": "Rua Rio Danúbio",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2401133,-9.3837973]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422029",
+      "addr:housenumber": "23",
+      "addr:postcode": "48610-420",
+      "addr:street": "Rua São Roque",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2546815,-9.3884803]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100845962",
+      "addr:housenumber": "145",
+      "addr:postcode": "48604-450",
+      "addr:street": "Rua Rio Senegal",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2397005,-9.3836644]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846023",
+      "addr:housenumber": "214",
+      "addr:postcode": "48604-456",
+      "addr:street": "Rua Rio Eufrates",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2410545,-9.3840235]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846058",
+      "addr:housenumber": "202",
+      "addr:postcode": "48604-454",
+      "addr:street": "Rua Rio Colúmbia",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2409171,-9.3843832]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846100",
+      "addr:housenumber": "37",
+      "addr:postcode": "48604-458",
+      "addr:street": "Rua Rio Danúbio",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.240148,-9.3842606]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846136",
+      "addr:housenumber": "15",
+      "addr:postcode": "48604-450",
+      "addr:street": "Rua Rio Senegal",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2395621,-9.3841754]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846135",
+      "addr:housenumber": "25",
+      "addr:postcode": "48604-450",
+      "addr:street": "Rua Rio Senegal",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2395715,-9.384141]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421972",
+      "addr:housenumber": "26",
+      "addr:postcode": "48610-420",
+      "addr:street": "Rua José Caetano da Silva",
+      "addr:suburb": "Siriema 3",
+      "building": "warehouse",
+      "description": "CNEFE 2022 Depósito"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2556377,-9.3887769]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191771890;191771892",
+      "addr:housenumber": "66",
+      "addr:postcode": "48604-500",
+      "addr:suburb": "Siriema 3",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.244012,-9.3839739]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191770801",
+      "addr:housenumber": "109",
+      "addr:postcode": "48610-420",
+      "addr:street": "Rua São Sebastião",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2544911,-9.3890608]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846014",
+      "addr:housenumber": "4",
+      "addr:postcode": "48604-460",
+      "addr:street": "Rua Rio Zaire",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2406942,-9.3840442]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421938",
+      "addr:housenumber": "26",
+      "addr:postcode": "48610-420",
+      "addr:street": "Travessa São Roque",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2544701,-9.3889963]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421993",
+      "addr:housenumber": "6",
+      "addr:postcode": "48610-400",
+      "addr:street": "Travessa José Caetano da Silva",
+      "addr:suburb": "Siriema 3",
+      "building": "yes",
+      "description": "CNEFE 2022 Venda de Doces",
+      "shop": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2552725,-9.388838]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100845991",
+      "addr:housenumber": "104",
+      "addr:postcode": "48604-456",
+      "addr:street": "Rua Rio Eufrates",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2404416,-9.3838434]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100845992",
+      "addr:housenumber": "94",
+      "addr:postcode": "48604-456",
+      "addr:street": "Rua Rio Eufrates",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.240402,-9.3838309]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421997",
+      "addr:housenumber": "3",
+      "addr:postcode": "48610-400",
+      "addr:street": "Travessa Segunda José Caetano da Silva",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2552605,-9.3889448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191771928",
+      "addr:housenumber": "63",
+      "addr:postcode": "48604-500",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2440759,-9.3836287]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846022",
+      "addr:housenumber": "224",
+      "addr:postcode": "48604-456",
+      "addr:street": "Rua Rio Eufrates",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2411342,-9.3840453]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "220577225",
+      "addr:housenumber": "92",
+      "addr:postcode": "48604-454",
+      "addr:street": "Rua Rio Colúmbia",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2402654,-9.3841896]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846016",
+      "addr:housenumber": "138",
+      "addr:postcode": "48604-460",
+      "addr:street": "Rua Rio Zaire",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2406893,-9.3840596]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846113",
+      "addr:housenumber": "34",
+      "addr:postcode": "48604-452",
+      "addr:street": "Rua Rio Jordão",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2403827,-9.3844497]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191771897",
+      "addr:housenumber": "84",
+      "addr:postcode": "48604-500",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2437035,-9.3856022]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421947",
+      "addr:housenumber": "34",
+      "addr:postcode": "48604-260",
+      "addr:street": "Rua São Sebastião",
+      "addr:suburb": "Siriema 3",
+      "addr:unit": "8",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2542665,-9.3884256]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100845989",
+      "addr:housenumber": "124",
+      "addr:postcode": "48604-456",
+      "addr:street": "Rua Rio Eufrates",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2404785,-9.383855]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846128",
+      "addr:housenumber": "12",
+      "addr:postcode": "48604-454",
+      "addr:street": "Rua Rio Colúmbia",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2398043,-9.384044]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846112",
+      "addr:housenumber": "151",
+      "addr:postcode": "48604-452",
+      "addr:street": "Rua Rio Jordão",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2404058,-9.3844567]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846093",
+      "addr:housenumber": "102",
+      "addr:postcode": "48604-454",
+      "addr:street": "Rua Rio Colúmbia",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2402483,-9.3841846]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191770773",
+      "addr:housenumber": "15",
+      "addr:postcode": "48610-420",
+      "addr:street": "Rua São Roque",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2549941,-9.3890616]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846019",
+      "addr:housenumber": "254",
+      "addr:postcode": "48604-456",
+      "addr:street": "Rua Rio Eufrates",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2411808,-9.3840581]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846139",
+      "addr:housenumber": "11",
+      "addr:postcode": "48604-452",
+      "addr:street": "Rua Rio Jordão",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2396607,-9.3842399]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191771070",
+      "addr:housenumber": "16",
+      "addr:postcode": "48610-420",
+      "addr:street": "Rua José Caetano da Silva",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2544506,-9.3883031]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846102",
+      "addr:housenumber": "17",
+      "addr:postcode": "48604-458",
+      "addr:street": "Rua Rio Danúbio",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2401213,-9.3843449]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846147",
+      "addr:housenumber": "16",
+      "addr:postcode": "48604-458",
+      "addr:street": "Rua Rio Danúbio",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2399618,-9.3843232]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846053",
+      "addr:housenumber": "252",
+      "addr:postcode": "48604-454",
+      "addr:street": "Rua Rio Colúmbia",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2410582,-9.3844264]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846110",
+      "addr:housenumber": "131",
+      "addr:postcode": "48604-452",
+      "addr:street": "Rua Rio Jordão",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2403637,-9.384444]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846101",
+      "addr:housenumber": "27",
+      "addr:postcode": "48604-458",
+      "addr:street": "Rua Rio Danúbio",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2401239,-9.3843367]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846095",
+      "addr:housenumber": "17",
+      "addr:postcode": "48604-454",
+      "addr:street": "Rua Rio Colúmbia",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2402262,-9.3841781]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191771006",
+      "addr:housenumber": "17",
+      "addr:postcode": "48610-400",
+      "addr:street": "Travessa José Caetano da Silva",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2552232,-9.3887902]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421941",
+      "addr:housenumber": "11",
+      "addr:postcode": "48604-260",
+      "addr:street": "Rua São Sebastião",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2543038,-9.3889747]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846146;220577267",
+      "addr:housenumber": "6",
+      "addr:postcode": "48604-458",
+      "addr:street": "Rua Rio Danúbio",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2400075,-9.3841684]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191771940",
+      "addr:housenumber": "163 C",
+      "addr:postcode": "48604-500",
+      "addr:suburb": "Siriema 3",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0221P-19-12"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.241437,-9.38417]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421960",
+      "addr:housenumber": "2",
+      "addr:postcode": "48610-400",
+      "addr:suburb": "Siriema 3",
+      "addr:unit": "Casa",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2547532,-9.3880426]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846003",
+      "addr:housenumber": "93",
+      "addr:postcode": "48604-454",
+      "addr:street": "Rua Rio Colúmbia",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2403405,-9.3840375]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846141",
+      "addr:housenumber": "31",
+      "addr:postcode": "48604-452",
+      "addr:street": "Rua Rio Jordão",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2396988,-9.3842507]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846109",
+      "addr:housenumber": "121",
+      "addr:postcode": "48604-452",
+      "addr:street": "Rua Rio Jordão",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2402779,-9.3844179]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191771018;191771023",
+      "addr:housenumber": "1",
+      "addr:postcode": "48610-400",
+      "addr:street": "Rua José Caetano da Silva",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2552892,-9.3885818]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421980",
+      "addr:housenumber": "51",
+      "addr:postcode": "48610-420",
+      "addr:street": "Rua José Caetano da Silva",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2552319,-9.3883137]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421935",
+      "addr:housenumber": "10",
+      "addr:postcode": "48610-420",
+      "addr:street": "Travessa São Roque",
+      "addr:suburb": "Siriema 3",
+      "building": "warehouse",
+      "description": "CNEFE 2022 Depósito"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2547236,-9.3887785]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421933",
+      "addr:housenumber": "7",
+      "addr:postcode": "48610-420",
+      "addr:street": "Rua São Roque",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2548155,-9.3888774]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191771035",
+      "addr:housenumber": "9",
+      "addr:postcode": "48610-420",
+      "addr:street": "Rua São Roque",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2547914,-9.388427]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846052",
+      "addr:housenumber": "160",
+      "addr:postcode": "48604-462",
+      "addr:street": "Rua Rio Mississipi",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2413481,-9.384103]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422010",
+      "addr:housenumber": "5",
+      "addr:postcode": "48610-420",
+      "addr:street": "Rua São Roque",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2550456,-9.3889488]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846148",
+      "addr:housenumber": "26",
+      "addr:postcode": "48604-458",
+      "addr:street": "Rua Rio Danúbio",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2399926,-9.384214]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846046",
+      "addr:housenumber": "3",
+      "addr:postcode": "48604-462",
+      "addr:street": "Rua Rio Mississipi",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2412869,-9.3843035]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422032",
+      "addr:housenumber": "4",
+      "addr:postcode": "48610-420",
+      "addr:street": "Rua José Caetano da Silva",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2545084,-9.3883172]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846116",
+      "addr:housenumber": "28",
+      "addr:postcode": "48604-460",
+      "addr:street": "Rua Rio Zaire",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2405809,-9.3844438]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100845965",
+      "addr:housenumber": "25",
+      "addr:postcode": "48604-450",
+      "addr:street": "Rua Rio Senegal",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2396766,-9.3835572]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846114",
+      "addr:housenumber": "8",
+      "addr:postcode": "48604-460",
+      "addr:street": "Rua Rio Zaire",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2405739,-9.3844665]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100845983",
+      "addr:housenumber": "146",
+      "addr:postcode": "48604-458",
+      "addr:street": "Rua Rio Danúbio",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2401592,-9.3837494]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846137",
+      "addr:housenumber": "5",
+      "addr:postcode": "48604-450",
+      "addr:street": "Rua Rio Senegal",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2395658,-9.3841618]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100845978",
+      "addr:housenumber": "96",
+      "addr:postcode": "48604-458",
+      "addr:street": "Rua Rio Danúbio",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2400828,-9.3839139]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100845968",
+      "addr:housenumber": "85",
+      "addr:postcode": "48604-450",
+      "addr:street": "Rua Rio Senegal",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2396694,-9.3837875]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421992",
+      "addr:housenumber": "2",
+      "addr:postcode": "48610-400",
+      "addr:street": "Rua José Caetano da Silva",
+      "addr:suburb": "Siriema 3",
+      "addr:unit": "4",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2554542,-9.3888264]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846140",
+      "addr:housenumber": "21",
+      "addr:postcode": "48604-452",
+      "addr:street": "Rua Rio Jordão",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2397758,-9.3842727]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846047",
+      "addr:housenumber": "110",
+      "addr:postcode": "48604-462",
+      "addr:street": "Rua Rio Mississipi",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2412849,-9.3842408]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846024",
+      "addr:housenumber": "204",
+      "addr:postcode": "48604-456",
+      "addr:street": "Rua Rio Eufrates",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2409894,-9.3840057]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421928",
+      "addr:housenumber": "3",
+      "addr:postcode": "48610-420",
+      "addr:street": "Rua São Roque",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2550967,-9.3891675]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846075",
+      "addr:housenumber": "221",
+      "addr:postcode": "48604-452",
+      "addr:street": "Rua Rio Jordão",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.240982,-9.3846262]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846103",
+      "addr:housenumber": "7",
+      "addr:postcode": "48604-458",
+      "addr:street": "Rua Rio Danúbio",
+      "addr:suburb": "Siriema 3",
+      "amenity": "pub",
+      "building": "yes",
+      "name": "Bar da Klemilda"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2401237,-9.3843383]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846041",
+      "addr:housenumber": "223",
+      "addr:postcode": "48604-454",
+      "addr:street": "Rua Rio Colúmbia",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2410468,-9.3842486]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100845967",
+      "addr:housenumber": "95",
+      "addr:postcode": "48604-450",
+      "addr:street": "Rua Rio Senegal",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2396658,-9.3838002]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191770865",
+      "addr:housenumber": "2",
+      "addr:postcode": "48610-420",
+      "addr:street": "Rua São Roque",
+      "addr:suburb": "Siriema 3",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0221P-3-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.254658,-9.387377]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100845990",
+      "addr:housenumber": "114",
+      "addr:postcode": "48604-456",
+      "addr:street": "Rua Rio Eufrates",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2404109,-9.3838337]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846129",
+      "addr:housenumber": "2",
+      "addr:postcode": "48604-454",
+      "addr:street": "Rua Rio Colúmbia",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2396816,-9.3840123]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846059",
+      "addr:housenumber": "192",
+      "addr:postcode": "48604-454",
+      "addr:street": "Rua Rio Colúmbia",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.240925,-9.3843856]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846045",
+      "addr:housenumber": "90",
+      "addr:postcode": "48604-462",
+      "addr:street": "Rua Rio Mississipi",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2412951,-9.3843434]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846037",
+      "addr:housenumber": "183",
+      "addr:postcode": "48604-454",
+      "addr:street": "Rua Rio Colúmbia",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2408799,-9.3841962]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100845958",
+      "addr:housenumber": "24",
+      "addr:postcode": "48604-456",
+      "addr:street": "Rua Rio Eufrates",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2398599,-9.383656]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100845971",
+      "addr:housenumber": "23",
+      "addr:postcode": "48604-454",
+      "addr:street": "Rua Rio Colúmbia",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2397931,-9.3838697]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421968",
+      "addr:housenumber": "12",
+      "addr:postcode": "48610-420",
+      "addr:street": "Rua José Caetano da Silva",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2553783,-9.3884466]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846127",
+      "addr:housenumber": "22",
+      "addr:postcode": "48604-454",
+      "addr:street": "Rua Rio Colúmbia",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2398105,-9.3840461]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422276",
+      "addr:housenumber": "10",
+      "addr:postcode": "48610-400",
+      "addr:suburb": "Siriema 3",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 366m 0500-0221P-17-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.243454,-9.383415]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100845995",
+      "addr:housenumber": "147",
+      "addr:postcode": "48604-458",
+      "addr:street": "Rua Rio Danúbio",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2402659,-9.3838763]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421983",
+      "addr:housenumber": "48",
+      "addr:postcode": "48610-420",
+      "addr:street": "Rua José Caetano da Silva",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2547638,-9.3882128]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422036",
+      "addr:housenumber": "39",
+      "addr:postcode": "48604-260",
+      "addr:street": "Rua São Sebastião",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2544472,-9.3885269]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846025",
+      "addr:housenumber": "15",
+      "addr:postcode": "48604-456",
+      "addr:street": "Rua Rio Eufrates",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2410376,-9.3840189]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421979",
+      "addr:housenumber": "10",
+      "addr:postcode": "48610-420",
+      "addr:street": "Rua José Caetano da Silva",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2548759,-9.3881902]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422033;27422040",
+      "addr:housenumber": "4",
+      "addr:postcode": "48604-260",
+      "addr:street": "Rua São Sebastião",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2544489,-9.3885935]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "220577221",
+      "addr:housenumber": "15",
+      "addr:postcode": "48604-454",
+      "addr:street": "Rua Rio Colúmbia",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2402759,-9.3841926]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421945",
+      "addr:housenumber": "40",
+      "addr:postcode": "48604-260",
+      "addr:street": "Rua São Sebastião",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2542768,-9.388578]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422008",
+      "addr:housenumber": "7",
+      "addr:postcode": "48610-420",
+      "addr:street": "Travessa São Roque",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2550403,-9.3887544]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100845999",
+      "addr:housenumber": "23",
+      "addr:postcode": "48604-458",
+      "addr:street": "Rua Rio Danúbio",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2402362,-9.3839746]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846050",
+      "addr:housenumber": "140",
+      "addr:postcode": "48604-462",
+      "addr:street": "Rua Rio Mississipi",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.241298,-9.3841903]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846089",
+      "addr:housenumber": "11",
+      "addr:postcode": "48604-454",
+      "addr:street": "Rua Rio Colúmbia",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2404015,-9.3842294]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100845973",
+      "addr:housenumber": "43",
+      "addr:postcode": "48604-454",
+      "addr:street": "Rua Rio Colúmbia",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2398021,-9.3838724]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846123",
+      "addr:housenumber": "10",
+      "addr:postcode": "48604-454",
+      "addr:street": "Rua Rio Colúmbia",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.239763,-9.3840338]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100845960",
+      "addr:housenumber": "4",
+      "addr:postcode": "48604-456",
+      "addr:street": "Rua Rio Eufrates",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2398291,-9.3836476]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421952",
+      "addr:housenumber": "81",
+      "addr:postcode": "48610-420",
+      "addr:street": "Rua José Caetano da Silva",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2543333,-9.3881689]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422007",
+      "addr:housenumber": "5",
+      "addr:postcode": "48610-420",
+      "addr:street": "Travessa São Roque",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2550645,-9.3887791]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846082",
+      "addr:housenumber": "40",
+      "addr:postcode": "48604-462",
+      "addr:street": "Rua Rio Mississipi",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2411971,-9.3845482]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191771951",
+      "addr:housenumber": "251",
+      "addr:postcode": "48604-500",
+      "addr:suburb": "Siriema 3",
+      "building": "warehouse",
+      "description": "CNEFE 2022 Galpão",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0221P-19-12"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.24131,-9.384595]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421985",
+      "addr:housenumber": "25",
+      "addr:postcode": "48610-400",
+      "addr:street": "Rodovia BA-210",
+      "addr:suburb": "Siriema 3",
+      "building": "warehouse",
+      "description": "CNEFE 2022 Depósito",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0221P-4-5"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.255751,-9.388776]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846030",
+      "addr:housenumber": "20",
+      "addr:postcode": "48604-460",
+      "addr:street": "Rua Rio Zaire",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.240867,-9.3840491]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846097",
+      "addr:housenumber": "67",
+      "addr:postcode": "48604-458",
+      "addr:street": "Rua Rio Danúbio",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2401634,-9.3842093]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846006",
+      "addr:housenumber": "123",
+      "addr:postcode": "48604-454",
+      "addr:street": "Rua Rio Colúmbia",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2403961,-9.3840544]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421973",
+      "addr:housenumber": "81",
+      "addr:postcode": "48610-420",
+      "addr:street": "Rua José Caetano da Silva",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2552791,-9.3883532]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421958",
+      "addr:housenumber": "38",
+      "addr:postcode": "48610-400",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2542139,-9.3877612]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846011",
+      "addr:housenumber": "88",
+      "addr:postcode": "48604-460",
+      "addr:street": "Rua Rio Zaire",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2406736,-9.3841341]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846056",
+      "addr:housenumber": "222",
+      "addr:postcode": "48604-454",
+      "addr:street": "Rua Rio Colúmbia",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2409631,-9.3843973]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100845966",
+      "addr:housenumber": "22",
+      "addr:postcode": "48604-450",
+      "addr:street": "Rua Rio Senegal",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.239665755835,-9.3838003616562]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846033",
+      "addr:housenumber": "109",
+      "addr:postcode": "48604-460",
+      "addr:street": "Rua Rio Zaire",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2408528,-9.3840973]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846072",
+      "addr:housenumber": "191",
+      "addr:postcode": "48604-452",
+      "addr:street": "Rua Rio Jordão",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2408531,-9.3845877]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846130",
+      "addr:housenumber": "75",
+      "addr:postcode": "48604-450",
+      "addr:street": "Rua Rio Senegal",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2395886,-9.384079]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846088",
+      "addr:housenumber": "152",
+      "addr:postcode": "48604-454",
+      "addr:street": "Rua Rio Colúmbia",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2404002,-9.384229]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846138",
+      "addr:housenumber": "1",
+      "addr:postcode": "48604-452",
+      "addr:street": "Rua Rio Jordão",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2396189,-9.3842279]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846067",
+      "addr:housenumber": "29",
+      "addr:postcode": "48604-460",
+      "addr:street": "Rua Rio Zaire",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2407393,-9.3844661]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421946",
+      "addr:housenumber": "7",
+      "addr:postcode": "48604-260",
+      "addr:street": "Rua São Sebastião",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2542722,-9.3885092]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191771085",
+      "addr:housenumber": "16",
+      "addr:postcode": "48604-260",
+      "addr:street": "Rua São Sebastião",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2544329,-9.3883644]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421965",
+      "addr:housenumber": "34",
+      "addr:postcode": "48610-420",
+      "addr:street": "Rua José Caetano da Silva",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2549678,-9.3882017]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421994",
+      "addr:housenumber": "7",
+      "addr:postcode": "48610-400",
+      "addr:street": "Travessa Segunda José Caetano da Silva",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2552592,-9.3888475]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421995",
+      "addr:housenumber": "4",
+      "addr:postcode": "48610-400",
+      "addr:street": "Travessa Segunda José Caetano da Silva",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.255459,-9.3889908]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421929",
+      "addr:housenumber": "4",
+      "addr:postcode": "48610-420",
+      "addr:street": "Rua São Roque",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.255034,-9.3891028]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846087",
+      "addr:housenumber": "162",
+      "addr:postcode": "48604-454",
+      "addr:street": "Rua Rio Colúmbia",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2405358,-9.3842686]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191771895",
+      "addr:housenumber": "10",
+      "addr:postcode": "48604-500",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2439961,-9.3840531]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421976",
+      "addr:housenumber": "38",
+      "addr:postcode": "48610-420",
+      "addr:street": "Rua José Caetano da Silva",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2548351,-9.3881861]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846150",
+      "addr:housenumber": "46",
+      "addr:postcode": "48604-458",
+      "addr:street": "Rua Rio Danúbio",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.239993399945,-9.3841895613881]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100845954",
+      "addr:housenumber": "6",
+      "addr:postcode": "48604-456",
+      "addr:street": "Rua Rio Eufrates",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2400587,-9.3836751]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846036",
+      "addr:housenumber": "173",
+      "addr:postcode": "48604-454",
+      "addr:street": "Rua Rio Colúmbia",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.240849,-9.3841999]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191771925",
+      "addr:housenumber": "20",
+      "addr:postcode": "48604-500",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2441016,-9.3836555]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191770983",
+      "addr:housenumber": "13",
+      "addr:postcode": "48610-400",
+      "addr:street": "Rodovia BA-210",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2554753,-9.3890786]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846064",
+      "addr:housenumber": "59",
+      "addr:postcode": "48604-460",
+      "addr:street": "Rua Rio Zaire",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2407609,-9.3843834]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422031",
+      "addr:housenumber": "3",
+      "addr:postcode": "48610-420",
+      "addr:street": "Rua José Caetano da Silva",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2545088,-9.3883172]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846107",
+      "addr:housenumber": "101",
+      "addr:postcode": "48604-452",
+      "addr:street": "Rua Rio Jordão",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2402697,-9.3844154]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421982",
+      "addr:housenumber": "25",
+      "addr:postcode": "48610-420",
+      "addr:street": "Rua José Caetano da Silva",
+      "addr:suburb": "Siriema 3",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2555984,-9.3887374]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846078",
+      "addr:housenumber": "251",
+      "addr:postcode": "48604-452",
+      "addr:street": "Rua Rio Jordão",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2409757,-9.3846243]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422002",
+      "addr:housenumber": "3",
+      "addr:postcode": "48610-420",
+      "addr:street": "Rua São Roque",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2552775,-9.3891272]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421966",
+      "addr:housenumber": "47",
+      "addr:postcode": "48610-420",
+      "addr:street": "Rua José Caetano da Silva",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2551463,-9.388314]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846106",
+      "addr:housenumber": "91",
+      "addr:postcode": "48604-452",
+      "addr:street": "Rua Rio Jordão",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2402662,-9.3844143]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422039",
+      "addr:housenumber": "27",
+      "addr:postcode": "48604-260",
+      "addr:street": "Rua São Sebastião",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2544528,-9.388749]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846029",
+      "addr:housenumber": "149",
+      "addr:postcode": "48604-460",
+      "addr:street": "Rua Rio Zaire",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2408712,-9.3840113]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422000",
+      "addr:housenumber": "65",
+      "addr:postcode": "48610-420",
+      "addr:street": "Rua São Roque",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2551342,-9.3890214]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846000",
+      "addr:housenumber": "97",
+      "addr:postcode": "48604-458",
+      "addr:street": "Rua Rio Danúbio",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2402318,-9.3839905]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191771921",
+      "addr:housenumber": "100",
+      "addr:postcode": "48604-500",
+      "addr:suburb": "Siriema 3",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0221P-19-4"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.243317,-9.387263]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421930",
+      "addr:housenumber": "4",
+      "addr:postcode": "48610-420",
+      "addr:street": "Rua São Roque",
+      "addr:suburb": "Siriema 3",
+      "amenity": "pub",
+      "building": "yes",
+      "name": "Bar sem Nome"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2549867,-9.389054]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846143",
+      "addr:housenumber": "51",
+      "addr:postcode": "48604-452",
+      "addr:street": "Rua Rio Jordão",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2397248,-9.3842581]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100845953",
+      "addr:housenumber": "9",
+      "addr:postcode": "48604-456",
+      "addr:street": "Rua Rio Eufrates",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.239908,-9.3836692]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846073",
+      "addr:housenumber": "201",
+      "addr:postcode": "48604-452",
+      "addr:street": "Rua Rio Jordão",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2407792,-9.3845656]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846020",
+      "addr:housenumber": "244",
+      "addr:postcode": "48604-456",
+      "addr:street": "Rua Rio Eufrates",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2411107,-9.3840389]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422009",
+      "addr:housenumber": "55",
+      "addr:postcode": "48610-420",
+      "addr:street": "Rua São Roque",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2549538,-9.3887976]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421963",
+      "addr:housenumber": "108",
+      "addr:postcode": "48610-420",
+      "addr:street": "Rua São Roque",
+      "addr:suburb": "Siriema 3",
+      "addr:unit": "Casa 1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2545475,-9.387768]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191770781",
+      "addr:housenumber": "8 B",
+      "addr:postcode": "48610-420",
+      "addr:street": "Rua São Roque",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2547416,-9.3887412]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421964",
+      "addr:housenumber": "108",
+      "addr:postcode": "48610-420",
+      "addr:street": "Rua São Roque",
+      "addr:suburb": "Siriema 3",
+      "addr:unit": "Casa 2",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.254549245957,-9.3877729000032]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846031",
+      "addr:housenumber": "21",
+      "addr:postcode": "48604-460",
+      "addr:street": "Rua Rio Zaire",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2408515,-9.3841016]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422001",
+      "addr:housenumber": "75",
+      "addr:postcode": "48610-420",
+      "addr:street": "Rua São Roque",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2552278,-9.3890751]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422018",
+      "addr:housenumber": "8",
+      "addr:postcode": "48610-420",
+      "addr:street": "Rua São Roque",
+      "addr:suburb": "Siriema 3",
+      "building": "warehouse",
+      "description": "CNEFE 2022 Galpão"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2549003,-9.3883119]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846038",
+      "addr:housenumber": "193",
+      "addr:postcode": "48604-454",
+      "addr:street": "Rua Rio Colúmbia",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2410112,-9.3842374]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191770860",
+      "addr:housenumber": "108",
+      "addr:postcode": "48610-420",
+      "addr:street": "Rua São Roque",
+      "addr:suburb": "Siriema 3",
+      "building": "warehouse",
+      "description": "CNEFE 2022 Depósito",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0221P-3-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.254657,-9.387392]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421962",
+      "addr:housenumber": "108",
+      "addr:postcode": "48610-420",
+      "addr:street": "Rua São Roque",
+      "addr:suburb": "Siriema 3",
+      "building": "yes",
+      "description": "CNEFE 2022 Lavanderia",
+      "shop": "laundry"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2545478,-9.3877701]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846092",
+      "addr:housenumber": "112",
+      "addr:postcode": "48604-454",
+      "addr:street": "Rua Rio Colúmbia",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2403174,-9.3842048]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846115",
+      "addr:housenumber": "18",
+      "addr:postcode": "48604-460",
+      "addr:street": "Rua Rio Zaire",
+      "addr:suburb": "Siriema 3",
+      "building": "yes",
+      "name": "Mercearia da Paula",
+      "shop": "convenience"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2405774,-9.3844554]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846126",
+      "addr:housenumber": "32",
+      "addr:postcode": "48604-454",
+      "addr:street": "Rua Rio Colúmbia",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.239774,-9.3840364]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846115",
+      "addr:housenumber": "18",
+      "addr:postcode": "48604-460",
+      "addr:street": "Rua Rio Zaire",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.240580907462,-9.3844561951224]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846080",
+      "addr:housenumber": "20",
+      "addr:postcode": "48604-462",
+      "addr:street": "Rua Rio Mississipi",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2411709,-9.3846358]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846015",
+      "addr:housenumber": "128",
+      "addr:postcode": "48604-460",
+      "addr:street": "Rua Rio Zaire",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2406903,-9.3840566]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846120",
+      "addr:housenumber": "68",
+      "addr:postcode": "48604-460",
+      "addr:street": "Rua Rio Zaire",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2406205,-9.3843165]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846018",
+      "addr:housenumber": "158",
+      "addr:postcode": "48604-460",
+      "addr:street": "Rua Rio Zaire",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2407265,-9.3839421]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846028",
+      "addr:housenumber": "159",
+      "addr:postcode": "48604-460",
+      "addr:street": "Rua Rio Zaire",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2408662,-9.3839867]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100845994",
+      "addr:housenumber": "157",
+      "addr:postcode": "48604-458",
+      "addr:street": "Rua Rio Danúbio",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2402677,-9.3838033]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846121",
+      "addr:housenumber": "78",
+      "addr:postcode": "48604-460",
+      "addr:street": "Rua Rio Zaire",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.240621,-9.3843148]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846063",
+      "addr:housenumber": "69",
+      "addr:postcode": "48604-460",
+      "addr:street": "Rua Rio Zaire",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2407523,-9.3844224]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846034",
+      "addr:housenumber": "99",
+      "addr:postcode": "48604-460",
+      "addr:street": "Rua Rio Zaire",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2408236,-9.3841515]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191771918",
+      "addr:housenumber": "98",
+      "addr:postcode": "48604-500",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2433781,-9.3870697]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100845987",
+      "addr:housenumber": "144",
+      "addr:postcode": "48604-456",
+      "addr:street": "Rua Rio Eufrates",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2405603,-9.3838807]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846117",
+      "addr:housenumber": "38",
+      "addr:postcode": "48604-460",
+      "addr:street": "Rua Rio Zaire",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2405914,-9.3844104]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846077",
+      "addr:housenumber": "241",
+      "addr:postcode": "48604-452",
+      "addr:street": "Rua Rio Jordão",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2409797,-9.3846255]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846062",
+      "addr:housenumber": "79",
+      "addr:postcode": "48604-460",
+      "addr:street": "Rua Rio Zaire",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2407521,-9.3843369]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846040",
+      "addr:housenumber": "213",
+      "addr:postcode": "48604-454",
+      "addr:street": "Rua Rio Colúmbia",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2409635,-9.3842225]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422037",
+      "addr:housenumber": "46",
+      "addr:postcode": "48604-260",
+      "addr:street": "Rua São Sebastião",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.25445,-9.3886372]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846035",
+      "addr:housenumber": "89",
+      "addr:postcode": "48604-460",
+      "addr:street": "Rua Rio Zaire",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2408144,-9.3841608]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846008",
+      "addr:housenumber": "143",
+      "addr:postcode": "48604-454",
+      "addr:street": "Rua Rio Colúmbia",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2404598,-9.3840738]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422006",
+      "addr:housenumber": "8",
+      "addr:postcode": "48610-420",
+      "addr:street": "Travessa São Roque",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2550049,-9.3887183]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846069",
+      "addr:housenumber": "9",
+      "addr:postcode": "48604-460",
+      "addr:street": "Rua Rio Zaire",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.240718,-9.3845386]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421988",
+      "addr:housenumber": "2",
+      "addr:postcode": "48610-400",
+      "addr:street": "Rodovia BA-210",
+      "addr:suburb": "Siriema 3",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0221P-4-5"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.255765,-9.388761]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846013",
+      "addr:housenumber": "108",
+      "addr:postcode": "48604-460",
+      "addr:street": "Rua Rio Zaire",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2406807,-9.3840867]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100845961",
+      "addr:housenumber": "155",
+      "addr:postcode": "48604-450",
+      "addr:street": "Rua Rio Senegal",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.239667,-9.3837957]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846111",
+      "addr:housenumber": "141",
+      "addr:postcode": "48604-452",
+      "addr:street": "Rua Rio Jordão",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2403831,-9.3844498]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846017",
+      "addr:housenumber": "148",
+      "addr:postcode": "48604-460",
+      "addr:street": "Rua Rio Zaire",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2407061,-9.3840065]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422017",
+      "addr:housenumber": "4",
+      "addr:postcode": "48610-400",
+      "addr:street": "Rua José Caetano da Silva",
+      "addr:suburb": "Siriema 3",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2550987,-9.3884187]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846118",
+      "addr:housenumber": "48",
+      "addr:postcode": "48604-460",
+      "addr:street": "Rua Rio Zaire",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2405908,-9.384412]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421937",
+      "addr:housenumber": "29",
+      "addr:postcode": "48610-420",
+      "addr:street": "Travessa São Roque",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2544667,-9.3889714]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846079",
+      "addr:housenumber": "10",
+      "addr:postcode": "48604-462",
+      "addr:street": "Rua Rio Mississipi",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.241176,-9.3846997]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422012",
+      "addr:housenumber": "65",
+      "addr:postcode": "48610-400",
+      "addr:street": "Rua José Caetano da Silva",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2550403,-9.3883948]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191770944",
+      "addr:housenumber": "30",
+      "addr:postcode": "48610-420",
+      "addr:street": "Rua José Caetano da Silva",
+      "addr:suburb": "Siriema 3",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0221P-4-4"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.254051,-9.388261]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422038",
+      "addr:housenumber": "48",
+      "addr:postcode": "48604-260",
+      "addr:street": "Rua São Sebastião",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2544507,-9.3886647]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846021",
+      "addr:housenumber": "234",
+      "addr:postcode": "48604-456",
+      "addr:street": "Rua Rio Eufrates",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2411638,-9.3840534]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421940",
+      "addr:housenumber": "18",
+      "addr:postcode": "48610-420",
+      "addr:street": "Rua São Sebastião",
+      "addr:suburb": "Siriema 3",
+      "addr:unit": "Fundos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2544446,-9.389152]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100845972",
+      "addr:housenumber": "28",
+      "addr:postcode": "48604-454",
+      "addr:street": "Rua Rio Colúmbia",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.239773,-9.3838635]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100845975",
+      "addr:housenumber": "63",
+      "addr:postcode": "48604-454",
+      "addr:street": "Rua Rio Colúmbia",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2398359,-9.3838827]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846119",
+      "addr:housenumber": "58",
+      "addr:postcode": "48604-460",
+      "addr:street": "Rua Rio Zaire",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2406052,-9.3843657]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "220577250",
+      "addr:housenumber": "76",
+      "addr:postcode": "48604-454",
+      "addr:street": "Rua Rio Colúmbia",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2399789,-9.3840994]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846051",
+      "addr:housenumber": "150",
+      "addr:postcode": "48604-462",
+      "addr:street": "Rua Rio Mississipi",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.241301,-9.3841787]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846055",
+      "addr:housenumber": "232",
+      "addr:postcode": "48604-454",
+      "addr:street": "Rua Rio Colúmbia",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2410302,-9.3844178]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846122",
+      "addr:housenumber": "72",
+      "addr:postcode": "48604-454",
+      "addr:street": "Rua Rio Colúmbia",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2399395,-9.3840838]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846076",
+      "addr:housenumber": "231",
+      "addr:postcode": "48604-452",
+      "addr:street": "Rua Rio Jordão",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2410022,-9.3846323]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846145",
+      "addr:housenumber": "71",
+      "addr:postcode": "48604-452",
+      "addr:street": "Rua Rio Jordão",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2398143,-9.3842836]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191770965",
+      "addr:housenumber": "69",
+      "addr:postcode": "48610-420",
+      "addr:street": "Rua José Caetano da Silva",
+      "addr:suburb": "Siriema 3",
+      "amenity": "pub",
+      "building": "yes",
+      "description": "CNEFE 2022 Bar"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2555541,-9.3886921]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846074",
+      "addr:housenumber": "211",
+      "addr:postcode": "48604-452",
+      "addr:street": "Rua Rio Jordão",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.24094,-9.3846137]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846001",
+      "addr:housenumber": "87",
+      "addr:postcode": "48604-458",
+      "addr:street": "Rua Rio Danúbio",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2402312,-9.3839922]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421948;191770835",
+      "addr:housenumber": "9",
+      "addr:postcode": "48604-260",
+      "addr:street": "Rua São Sebastião",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2542624,-9.3883655]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846070",
+      "addr:housenumber": "171",
+      "addr:postcode": "48604-452",
+      "addr:street": "Rua Rio Jordão",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2406934,-9.3845401]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846108",
+      "addr:housenumber": "111",
+      "addr:postcode": "48604-452",
+      "addr:street": "Rua Rio Jordão",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.240333,-9.3844346]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422035",
+      "addr:housenumber": "35",
+      "addr:postcode": "48604-260",
+      "addr:street": "Rua São Sebastião",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2544406,-9.3884066]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846084",
+      "addr:housenumber": "60",
+      "addr:postcode": "48604-462",
+      "addr:street": "Rua Rio Mississipi",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2411927,-9.3845629]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421978",
+      "addr:housenumber": "28",
+      "addr:postcode": "48610-420",
+      "addr:street": "Rua José Caetano da Silva",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2549115,-9.3881945]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421981",
+      "addr:housenumber": "20",
+      "addr:postcode": "48610-420",
+      "addr:street": "Rua José Caetano da Silva",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.255428,-9.3885064]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100845963",
+      "addr:housenumber": "135",
+      "addr:postcode": "48604-450",
+      "addr:street": "Rua Rio Senegal",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2397002,-9.3836687]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100845984",
+      "addr:housenumber": "156",
+      "addr:postcode": "48604-458",
+      "addr:street": "Rua Rio Danúbio",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.240163986992,-9.383742022981]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422005",
+      "addr:housenumber": "9",
+      "addr:postcode": "48610-420",
+      "addr:street": "Travessa São Roque",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2550097,-9.3887231]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846099",
+      "addr:housenumber": "47",
+      "addr:postcode": "48604-458",
+      "addr:street": "Rua Rio Danúbio",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2401426,-9.3842776]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421954",
+      "addr:housenumber": "10",
+      "addr:postcode": "48610-420",
+      "addr:street": "Rua José Caetano da Silva",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.25432505978,-9.3881652955181]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846060",
+      "addr:housenumber": "182",
+      "addr:postcode": "48604-454",
+      "addr:street": "Rua Rio Colúmbia",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2408284,-9.3843561]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422016",
+      "addr:housenumber": "2",
+      "addr:postcode": "48610-400",
+      "addr:street": "Rua José Caetano da Silva",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2552479,-9.3885372]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100845959",
+      "addr:housenumber": "14",
+      "addr:postcode": "48604-456",
+      "addr:street": "Rua Rio Eufrates",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2398811,-9.3836618]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846012",
+      "addr:housenumber": "98",
+      "addr:postcode": "48604-460",
+      "addr:street": "Rua Rio Zaire",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.240674,-9.384109]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846090",
+      "addr:housenumber": "132",
+      "addr:postcode": "48604-454",
+      "addr:street": "Rua Rio Colúmbia",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2404859,-9.384254]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421996",
+      "addr:housenumber": "5",
+      "addr:postcode": "48610-400",
+      "addr:street": "Travessa Segunda José Caetano da Silva",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2553044,-9.3890087]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191770906",
+      "addr:housenumber": "34",
+      "addr:postcode": "48610-420",
+      "addr:street": "Rodovia BA-210",
+      "addr:suburb": "Siriema 3",
+      "building": "construction",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 45m 0500-0221P-4-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2585,-9.385774]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100845997",
+      "addr:housenumber": "12",
+      "addr:postcode": "48604-458",
+      "addr:street": "Rua Rio Danúbio",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2402714,-9.3838582]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421970",
+      "addr:housenumber": "23",
+      "addr:postcode": "48610-420",
+      "addr:street": "Rua José Caetano da Silva",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2554513,-9.3885461]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421932",
+      "addr:housenumber": "8",
+      "addr:postcode": "48610-420",
+      "addr:street": "Rua São Roque",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2548088,-9.3888704]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846142",
+      "addr:housenumber": "41",
+      "addr:postcode": "48604-452",
+      "addr:street": "Rua Rio Jordão",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2396934,-9.3842492]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846032",
+      "addr:housenumber": "22",
+      "addr:postcode": "48604-460",
+      "addr:street": "Rua Rio Zaire",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2408525,-9.3840985]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191770951",
+      "addr:housenumber": "11",
+      "addr:postcode": "48610-420",
+      "addr:street": "Rua José Caetano da Silva",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2550882,-9.3882582]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846085",
+      "addr:housenumber": "70",
+      "addr:postcode": "48604-462",
+      "addr:street": "Rua Rio Mississipi",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2412279,-9.3844459]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846144",
+      "addr:housenumber": "61",
+      "addr:postcode": "48604-452",
+      "addr:street": "Rua Rio Jordão",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2397884,-9.3842762]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846010",
+      "addr:housenumber": "163",
+      "addr:postcode": "48604-454",
+      "addr:street": "Rua Rio Colúmbia",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2404693,-9.3840768]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191770777",
+      "addr:housenumber": "9",
+      "addr:postcode": "48610-420",
+      "addr:street": "Rua São Roque",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2547502,-9.38881]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846081",
+      "addr:housenumber": "30",
+      "addr:postcode": "48604-462",
+      "addr:street": "Rua Rio Mississipi",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.241183,-9.3845954]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421977",
+      "addr:housenumber": "27",
+      "addr:postcode": "48610-420",
+      "addr:street": "Rua José Caetano da Silva",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2548993,-9.3881931]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191770973",
+      "addr:housenumber": "3",
+      "addr:postcode": "48610-400",
+      "addr:street": "Travessa José Caetano da Silva",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2553418,-9.388819]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846057",
+      "addr:housenumber": "212",
+      "addr:postcode": "48604-454",
+      "addr:street": "Rua Rio Colúmbia",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2409704,-9.3843995]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846039",
+      "addr:housenumber": "203",
+      "addr:postcode": "48604-454",
+      "addr:street": "Rua Rio Colúmbia",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2409117,-9.3842062]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "220577234",
+      "addr:housenumber": "81",
+      "addr:postcode": "48604-452",
+      "addr:street": "Rua Rio Jordão",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2401887,-9.3843908]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846125",
+      "addr:housenumber": "42",
+      "addr:postcode": "48604-454",
+      "addr:street": "Rua Rio Colúmbia",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2398364,-9.3840536]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422011",
+      "addr:housenumber": "7",
+      "addr:postcode": "48610-400",
+      "addr:street": "Rua José Caetano da Silva",
+      "addr:suburb": "Siriema 3",
+      "building": "yes",
+      "description": "CNEFE 2022 Padaria",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0221P-8-2",
+      "shop": "bakery"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.254912,-9.388233]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100845976",
+      "addr:housenumber": "32",
+      "addr:postcode": "48604-454",
+      "addr:street": "Rua Rio Colúmbia",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2399051,-9.3839038]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191770965",
+      "addr:housenumber": "69",
+      "addr:postcode": "48610-420",
+      "addr:street": "Rua José Caetano da Silva",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.255567842772,-9.3886899579953]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421971;27421975;191770956",
+      "addr:housenumber": "15",
+      "addr:postcode": "48610-420",
+      "addr:street": "Rua José Caetano da Silva",
+      "addr:suburb": "Siriema 3",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0221P-4-4"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2546077,-9.3882803]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100845955",
+      "addr:housenumber": "54",
+      "addr:postcode": "48604-456",
+      "addr:street": "Rua Rio Eufrates",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2399392,-9.3836777]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100845964",
+      "addr:housenumber": "115",
+      "addr:postcode": "48604-450",
+      "addr:street": "Rua Rio Senegal",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2396951,-9.3836403]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421989",
+      "addr:housenumber": "3",
+      "addr:postcode": "48610-400",
+      "addr:street": "Rodovia BA-210",
+      "addr:suburb": "Siriema 3",
+      "amenity": "fast_food",
+      "building": "yes",
+      "cuisine": "friture",
+      "fixme": "Verificar coordenadas",
+      "name": "Salgaderia de Couro",
+      "note": "Fora da área de projeção da face 0500-0221P-4-5"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.255774,-9.388765]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846002",
+      "addr:housenumber": "83",
+      "addr:postcode": "48604-454",
+      "addr:street": "Rua Rio Colúmbia",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2403134,-9.3840292]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846042",
+      "addr:housenumber": "233",
+      "addr:postcode": "48604-454",
+      "addr:street": "Rua Rio Colúmbia",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2410435,-9.3842476]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422013",
+      "addr:housenumber": "5",
+      "addr:postcode": "48610-400",
+      "addr:street": "Rua José Caetano da Silva",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2550455,-9.388397]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422014",
+      "addr:housenumber": "3",
+      "addr:postcode": "48610-400",
+      "addr:street": "Rua José Caetano da Silva",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.255173,-9.3884638]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421949",
+      "addr:housenumber": "11",
+      "addr:postcode": "48610-420",
+      "addr:street": "Rua José Caetano da Silva",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2541968,-9.3883144]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100845970",
+      "addr:housenumber": "3",
+      "addr:postcode": "48604-454",
+      "addr:street": "Rua Rio Colúmbia",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2397168,-9.3838464]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100845986",
+      "addr:housenumber": "154",
+      "addr:postcode": "48604-456",
+      "addr:street": "Rua Rio Eufrates",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2405752,-9.3838855]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421993",
+      "addr:housenumber": "6",
+      "addr:postcode": "48610-400",
+      "addr:street": "Travessa José Caetano da Silva",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.255267966778,-9.3888530276867]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191770812",
+      "addr:housenumber": "2",
+      "addr:postcode": "48604-260",
+      "addr:street": "Rua São Sebastião",
+      "addr:suburb": "Siriema 3",
+      "addr:unit": "Casa 1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2543033,-9.3889681]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191770900",
+      "addr:housenumber": "33",
+      "addr:postcode": "48610-420",
+      "addr:street": "Rodovia BA-210",
+      "addr:suburb": "Siriema 3",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 48m 0500-0221P-4-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.258434,-9.385795]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421961",
+      "addr:housenumber": "3",
+      "addr:postcode": "48610-400",
+      "addr:suburb": "Siriema 3",
+      "addr:unit": "Casa",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2547457,-9.3880035]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421953",
+      "addr:housenumber": "33",
+      "addr:postcode": "48610-420",
+      "addr:street": "Rua José Caetano da Silva",
+      "addr:suburb": "Siriema 3",
+      "addr:unit": "Fundos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2543324,-9.388115]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421969",
+      "addr:housenumber": "22",
+      "addr:postcode": "48610-420",
+      "addr:street": "Rua José Caetano da Silva",
+      "addr:suburb": "Siriema 3",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0221P-4-4"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.254334,-9.388207]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421974",
+      "addr:housenumber": "16",
+      "addr:postcode": "48610-420",
+      "addr:street": "Rua José Caetano da Silva",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.255227,-9.3883101]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191770824",
+      "addr:housenumber": "15",
+      "addr:postcode": "48604-260",
+      "addr:street": "Rua São Sebastião",
+      "addr:suburb": "Siriema 3",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 42m 0500-0221P-2-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.25398,-9.389032]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421934",
+      "addr:housenumber": "8 A",
+      "addr:postcode": "48610-420",
+      "addr:street": "Rua São Roque",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2547353,-9.3887887]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846044",
+      "addr:housenumber": "253",
+      "addr:postcode": "48604-454",
+      "addr:street": "Rua Rio Colúmbia",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2411178,-9.3842709]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846133",
+      "addr:housenumber": "45",
+      "addr:postcode": "48604-450",
+      "addr:street": "Rua Rio Senegal",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2395847,-9.3840929]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846091",
+      "addr:housenumber": "122",
+      "addr:postcode": "48604-454",
+      "addr:street": "Rua Rio Colúmbia",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2403602,-9.3842173]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100845985",
+      "addr:housenumber": "9",
+      "addr:postcode": "48604-456",
+      "addr:street": "Rua Rio Eufrates",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2406019,-9.3838938]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846061",
+      "addr:housenumber": "172",
+      "addr:postcode": "48604-454",
+      "addr:street": "Rua Rio Colúmbia",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2408867,-9.3843739]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846134",
+      "addr:housenumber": "35",
+      "addr:postcode": "48604-450",
+      "addr:street": "Rua Rio Senegal",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2395841,-9.3840952]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421943",
+      "addr:housenumber": "24",
+      "addr:postcode": "48604-260",
+      "addr:street": "Rua São Sebastião",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2542804,-9.388631]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421942",
+      "addr:housenumber": "10",
+      "addr:postcode": "48604-260",
+      "addr:street": "Rua São Sebastião",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2542967,-9.3888711]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846083",
+      "addr:housenumber": "50",
+      "addr:postcode": "48604-462",
+      "addr:street": "Rua Rio Mississipi",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2412012,-9.3845343]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421957",
+      "addr:housenumber": "15",
+      "addr:postcode": "48610-420",
+      "addr:street": "Rua José Caetano da Silva",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2542779,-9.3881698]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191770792",
+      "addr:housenumber": "11",
+      "addr:postcode": "48610-420",
+      "addr:street": "Travessa São Roque",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2546507,-9.3888764]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846124",
+      "addr:housenumber": "52",
+      "addr:postcode": "48604-454",
+      "addr:street": "Rua Rio Colúmbia",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2397614,-9.3840334]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846098",
+      "addr:housenumber": "57",
+      "addr:postcode": "48604-458",
+      "addr:street": "Rua Rio Danúbio",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2401614,-9.3842185]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191771913",
+      "addr:housenumber": "95",
+      "addr:postcode": "48604-500",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2435295,-9.3864847]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100845979",
+      "addr:housenumber": "106",
+      "addr:postcode": "48604-458",
+      "addr:street": "Rua Rio Danúbio",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.240089,-9.3838899]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421999",
+      "addr:housenumber": "65",
+      "addr:postcode": "48610-400",
+      "addr:street": "Travessa José Caetano da Silva",
+      "addr:suburb": "Siriema 3",
+      "building": "yes",
+      "name": "Lado das Casas 6 Sms e 65 B"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2551853,-9.388976]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846066",
+      "addr:housenumber": "39",
+      "addr:postcode": "48604-460",
+      "addr:street": "Rua Rio Zaire",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2407355,-9.3844786]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100845957",
+      "addr:housenumber": "34",
+      "addr:postcode": "48604-456",
+      "addr:street": "Rua Rio Eufrates",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2398816,-9.3836619]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846048",
+      "addr:housenumber": "120",
+      "addr:postcode": "48604-462",
+      "addr:street": "Rua Rio Mississipi",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2412841,-9.3842438]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421991",
+      "addr:housenumber": "3",
+      "addr:postcode": "48610-400",
+      "addr:street": "Rua José Caetano da Silva",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.255519,-9.3888907]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "100846096",
+      "addr:housenumber": "77",
+      "addr:postcode": "48604-458",
+      "addr:street": "Rua Rio Danúbio",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.24016,-9.384191]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421939",
+      "addr:housenumber": "81",
+      "addr:postcode": "48610-420",
+      "addr:street": "Rua São Sebastião",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2544764,-9.3891224]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191770953",
+      "addr:housenumber": "9",
+      "addr:postcode": "48610-420",
+      "addr:street": "Rua José Caetano da Silva",
+      "addr:suburb": "Siriema 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2551387,-9.38829]
+      }
+    }
+  ]
+}

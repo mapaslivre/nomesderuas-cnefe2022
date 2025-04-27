@@ -1,0 +1,42 @@
+{
+  "type": "FeatureCollection",
+  "source": "IBGE CNEFE + Faces de Logradouros - 2022",
+  "generator": "CSV-CNEFE2GeoJSON.lua 1.5.7 - fidelis.assis@gmail.com",
+  "date": "2025-02-02T09:05:26-0300",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411186",
+      "addr:housenumber": "13",
+      "addr:postcode": "48601-018",
+      "addr:street": "Povoado Xingozinho",
+      "addr:suburb": "Último Caminho da BA 210 na Bahia",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0212P-0-101"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.010544,-9.521846]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411191",
+      "addr:housenumber": "6",
+      "addr:postcode": "48601-016",
+      "addr:street": "Povoado Xingozinho",
+      "addr:suburb": "Último Caminho da BA 210 na Bahia",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0212P-0-104"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.009339,-9.510997]
+      }
+    }
+  ]
+}

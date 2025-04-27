@@ -1,0 +1,161 @@
+{
+  "type": "FeatureCollection",
+  "source": "IBGE CNEFE + Faces de Logradouros - 2022",
+  "generator": "CSV-CNEFE2GeoJSON.lua 1.5.7 - fidelis.assis@gmail.com",
+  "date": "2025-02-02T09:05:24-0300",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194566558",
+      "addr:housenumber": "4",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Salgadinho Juá",
+      "addr:suburb": "Estrada Juá Salgadinho",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0112P-0-7"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.344664,-9.389224]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194566542",
+      "addr:housenumber": "140",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Salgadinho Juá",
+      "addr:suburb": "Estrada Juá Salgadinho",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0112P-0-7"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.344328,-9.390797]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194566568",
+      "addr:housenumber": "6",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Salgadinho Juá",
+      "addr:suburb": "Estrada Juá Salgadinho",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0112P-0-7"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.343428,-9.388165]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194566550",
+      "addr:housenumber": "340",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Salgadinho Juá",
+      "addr:suburb": "Estrada Juá Salgadinho",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0112P-0-7"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.344453,-9.389097]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194566564",
+      "addr:housenumber": "7",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Salgadinho Juá",
+      "addr:suburb": "Estrada Juá Salgadinho",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0112P-0-7"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.343981,-9.388513]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194566562",
+      "addr:housenumber": "2",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Salgadinho Juá",
+      "addr:suburb": "Estrada Juá Salgadinho",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0112P-0-7"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.345101,-9.389013]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194566555",
+      "addr:housenumber": "3",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Salgadinho Juá",
+      "addr:suburb": "Estrada Juá Salgadinho",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0112P-0-7"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.344639,-9.389248]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194566548",
+      "addr:housenumber": "10",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Salgadinho Juá",
+      "addr:suburb": "Estrada Juá Salgadinho",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0112P-0-7"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.344383,-9.389033]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194566526",
+      "addr:housenumber": "110",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Salgadinho Juá",
+      "addr:suburb": "Estrada Juá Salgadinho",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0112P-0-7"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.348448,-9.389569]
+      }
+    }
+  ]
+}

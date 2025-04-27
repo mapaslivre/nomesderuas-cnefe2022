@@ -1,0 +1,429 @@
+{
+  "type": "FeatureCollection",
+  "source": "IBGE CNEFE + Faces de Logradouros - 2022",
+  "generator": "CSV-CNEFE2GeoJSON.lua 1.5.7 - fidelis.assis@gmail.com",
+  "date": "2025-02-02T09:05:06-0300",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411007",
+      "addr:housenumber": "40",
+      "addr:postcode": "48601-018",
+      "addr:street": "Rodovia BR-110 km 07 Acamp S Terra",
+      "addr:suburb": "Acampamento sem Terra",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-134"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.214358,-9.492466]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191541182",
+      "addr:housenumber": "8",
+      "addr:postcode": "48601-018",
+      "addr:street": "Rodovia BR-110",
+      "addr:suburb": "Acampamento sem Terra",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-113"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.219444,-9.547609]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411001",
+      "addr:housenumber": "5",
+      "addr:postcode": "48601-018",
+      "addr:street": "Rodovia BR-110 km 07 Acamp S Terra",
+      "addr:suburb": "Acampamento sem Terra",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-134"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.206156,-9.500383]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411006",
+      "addr:housenumber": "4",
+      "addr:postcode": "48601-018",
+      "addr:street": "Rodovia BR-110 km 07 Acamp S Terra",
+      "addr:suburb": "Acampamento sem Terra",
+      "addr:unit": "Barraca",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-134"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.214419,-9.492483]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411004",
+      "addr:housenumber": "9",
+      "addr:postcode": "48601-018",
+      "addr:street": "Rodovia BR-110 km 07 Acamp S Terra",
+      "addr:suburb": "Acampamento sem Terra",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-134"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.206499,-9.502783]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411012",
+      "addr:housenumber": "56",
+      "addr:postcode": "48601-018",
+      "addr:street": "Rodovia BR-110 km 07 Acamp S Terra",
+      "addr:suburb": "Acampamento sem Terra",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-134"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.212928,-9.488893]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411005",
+      "addr:housenumber": "39",
+      "addr:postcode": "48601-018",
+      "addr:street": "Rodovia BR-110 km 07 Acamp S Terra",
+      "addr:suburb": "Acampamento sem Terra",
+      "addr:unit": "Barraca",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-134"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.214576,-9.492963]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191541186",
+      "addr:housenumber": "9",
+      "addr:postcode": "48610-480",
+      "addr:street": "Rodovia BR-110",
+      "addr:suburb": "Acampamento sem Terra",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-114"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.220753,-9.548573]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191541151",
+      "addr:housenumber": "5",
+      "addr:postcode": "48610-488",
+      "addr:street": "Rodovia BR-110",
+      "addr:suburb": "Acampamento sem Terra",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-112"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.220277,-9.549464]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410998",
+      "addr:housenumber": "1",
+      "addr:postcode": "48601-018",
+      "addr:street": "Rodovia BR-110 km 07 Acamp S Terra",
+      "addr:suburb": "Acampamento sem Terra",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-134"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.21429,-9.493927]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411011",
+      "addr:housenumber": "54",
+      "addr:postcode": "48601-018",
+      "addr:street": "Rodovia BR-110 km 07 Acamp S Terra",
+      "addr:suburb": "Acampamento sem Terra",
+      "addr:unit": "Barraca",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-134"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.213255,-9.489487]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191541132",
+      "addr:housenumber": "3",
+      "addr:postcode": "48610-488",
+      "addr:street": "Rodovia BR-110",
+      "addr:suburb": "Acampamento sem Terra",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-112"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.22077,-9.548614]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411008",
+      "addr:housenumber": "50",
+      "addr:postcode": "48601-018",
+      "addr:street": "Rodovia BR-110 km 07 Acamp S Terra",
+      "addr:suburb": "Acampamento sem Terra",
+      "addr:unit": "Barraca",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-134"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.21429,-9.492512]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191541052",
+      "addr:housenumber": "1",
+      "addr:postcode": "48601-014",
+      "addr:street": "Estrada ao lado da BR-110",
+      "addr:suburb": "Acampamento sem Terra",
+      "addr:unit": "Barraca 01",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-108"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.220767,-9.548607]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411013",
+      "addr:housenumber": "57",
+      "addr:postcode": "48601-018",
+      "addr:street": "Rodovia BR-110 km 07 Acamp S Terra",
+      "addr:suburb": "Acampamento sem Terra",
+      "addr:unit": "Barraca",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-134"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.211725,-9.487093]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191541163;191541170",
+      "addr:housenumber": "7",
+      "addr:postcode": "48610-488",
+      "addr:street": "Rodovia BR-110",
+      "addr:suburb": "Acampamento sem Terra",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-112"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.216959,-9.5481315]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411002",
+      "addr:housenumber": "6",
+      "addr:postcode": "48601-018",
+      "addr:street": "Rodovia BR-110 km 07 Acamp S Terra",
+      "addr:suburb": "Acampamento sem Terra",
+      "addr:unit": "Barraca",
+      "building": "construction",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-134"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.206271,-9.501396]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191541157",
+      "addr:housenumber": "6",
+      "addr:postcode": "48610-488",
+      "addr:street": "Rodovia BR-110",
+      "addr:suburb": "Acampamento sem Terra",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-112"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.217728,-9.548226]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191541177",
+      "addr:housenumber": "13",
+      "addr:postcode": "48610-488",
+      "addr:street": "Rodovia BR-110",
+      "addr:suburb": "Acampamento sem Terra",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-112"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.220191,-9.547868]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411009",
+      "addr:housenumber": "52",
+      "addr:postcode": "48601-018",
+      "addr:street": "Rodovia BR-110 km 07 Acamp S Terra",
+      "addr:suburb": "Acampamento sem Terra",
+      "addr:unit": "Barraca",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-134"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.213381,-9.491949]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191541139;191541145",
+      "addr:housenumber": "4",
+      "addr:postcode": "48610-488",
+      "addr:street": "Rodovia BR-110",
+      "addr:suburb": "Acampamento sem Terra",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-112"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2205325,-9.5499235]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411003",
+      "addr:housenumber": "8",
+      "addr:postcode": "48601-018",
+      "addr:street": "Rodovia BR-110 km 07 Acamp S Terra",
+      "addr:suburb": "Acampamento sem Terra",
+      "addr:unit": "Barraca",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-134"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.206423,-9.502604]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411010",
+      "addr:housenumber": "53",
+      "addr:postcode": "48601-018",
+      "addr:street": "Rodovia BR-110 km 07 Acamp S Terra",
+      "addr:suburb": "Acampamento sem Terra",
+      "addr:unit": "Barraca",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-134"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.21359,-9.491297]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410999",
+      "addr:housenumber": "2",
+      "addr:postcode": "48601-018",
+      "addr:street": "Rodovia BR-110 km 07 Acamp S Terra",
+      "addr:suburb": "Acampamento sem Terra",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-134"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.21446,-9.493951]
+      }
+    }
+  ]
+}

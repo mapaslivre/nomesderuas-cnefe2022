@@ -1,0 +1,331 @@
+{
+  "type": "FeatureCollection",
+  "source": "IBGE CNEFE + Faces de Logradouros - 2022",
+  "generator": "CSV-CNEFE2GeoJSON.lua 1.5.7 - fidelis.assis@gmail.com",
+  "date": "2025-02-02T09:05:37-0300",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216762880",
+      "addr:housenumber": "57",
+      "addr:postcode": "48604-504",
+      "addr:street": "Rua Boa Sorte",
+      "addr:suburb": "Terreiro Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2425246,-9.3793222]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216762887",
+      "addr:housenumber": "58 Lado",
+      "addr:postcode": "48604-504",
+      "addr:street": "Rua Boa Sorte",
+      "addr:suburb": "Terreiro Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2425726,-9.3792832]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216763080",
+      "addr:housenumber": "46",
+      "addr:postcode": "48604-506",
+      "addr:street": "Travessa Boa Sorte",
+      "addr:suburb": "Terreiro Pedra Comprida",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2411762,-9.3790194]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422372",
+      "addr:housenumber": "50",
+      "addr:postcode": "48604-504",
+      "addr:street": "Rua Boa Sorte",
+      "addr:suburb": "Terreiro Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2410893,-9.3795403]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422364",
+      "addr:housenumber": "6",
+      "addr:postcode": "48604-506",
+      "addr:street": "Travessa Boa Sorte",
+      "addr:suburb": "Terreiro Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2410834,-9.3792574]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216762842",
+      "addr:housenumber": "14",
+      "addr:postcode": "48604-506",
+      "addr:street": "Travessa Boa Sorte",
+      "addr:suburb": "Terreiro Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2408998,-9.3789568]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216762829",
+      "addr:housenumber": "133",
+      "addr:postcode": "48604-506",
+      "addr:street": "Travessa Boa Sorte",
+      "addr:suburb": "Terreiro Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2407468,-9.3787413]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422373",
+      "addr:housenumber": "50 A",
+      "addr:postcode": "48604-504",
+      "addr:street": "Rua Boa Sorte",
+      "addr:suburb": "Terreiro Pedra Comprida",
+      "building": "yes",
+      "name": "Serviço de Dedetização"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2412365,-9.3796017]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216762859",
+      "addr:housenumber": "7",
+      "addr:postcode": "48604-506",
+      "addr:street": "Travessa Boa Sorte",
+      "addr:suburb": "Terreiro Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2410523,-9.3791828]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216762852",
+      "addr:housenumber": "8",
+      "addr:postcode": "48604-506",
+      "addr:street": "Travessa Boa Sorte",
+      "addr:suburb": "Terreiro Pedra Comprida",
+      "addr:unit": "Casa A",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.241014,-9.3791242]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216762836",
+      "addr:housenumber": "33",
+      "addr:postcode": "48604-506",
+      "addr:street": "Travessa Boa Sorte",
+      "addr:suburb": "Terreiro Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.240814,-9.378836]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422356",
+      "addr:housenumber": "3",
+      "addr:postcode": "48604-506",
+      "addr:street": "Travessa Boa Sorte",
+      "addr:suburb": "Terreiro Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.240833,-9.3788627]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216762847",
+      "addr:housenumber": "29",
+      "addr:postcode": "48604-506",
+      "addr:street": "Travessa Boa Sorte",
+      "addr:suburb": "Terreiro Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2409364,-9.3790083]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216762893",
+      "addr:housenumber": "195",
+      "addr:postcode": "48604-504",
+      "addr:street": "Rua Boa Sorte",
+      "addr:suburb": "Terreiro Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2428869,-9.3790273]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216762899",
+      "addr:housenumber": "195",
+      "addr:postcode": "48604-504",
+      "addr:street": "Rua Boa Sorte",
+      "addr:suburb": "Terreiro Pedra Comprida",
+      "addr:unit": "Fundo",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2429626,-9.3789641]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422361",
+      "addr:housenumber": "8",
+      "addr:postcode": "48604-506",
+      "addr:street": "Travessa Boa Sorte",
+      "addr:suburb": "Terreiro Pedra Comprida",
+      "addr:unit": "Casa 2",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2408635,-9.3789056]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216762866",
+      "addr:housenumber": "5",
+      "addr:postcode": "48604-506",
+      "addr:street": "Travessa Boa Sorte",
+      "addr:suburb": "Terreiro Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2410993,-9.3793162]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422365",
+      "addr:housenumber": "197",
+      "addr:postcode": "48604-506",
+      "addr:street": "Travessa Boa Sorte",
+      "addr:suburb": "Terreiro Pedra Comprida",
+      "building": "yes",
+      "name": "Maristela Modas e Confecções",
+      "shop": "clothes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2408674,-9.3789112]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216762872",
+      "addr:housenumber": "162",
+      "addr:postcode": "48604-506",
+      "addr:street": "Travessa Boa Sorte",
+      "addr:suburb": "Terreiro Pedra Comprida",
+      "building": "construction",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 49m 0500-0152P-1-7"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.241434,-9.379061]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216762905",
+      "addr:housenumber": "35",
+      "addr:postcode": "48604-504",
+      "addr:street": "Rua Boa Sorte",
+      "addr:suburb": "Terreiro Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2418483,-9.3797562]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422360",
+      "addr:housenumber": "9",
+      "addr:postcode": "48604-506",
+      "addr:street": "Travessa Boa Sorte",
+      "addr:suburb": "Terreiro Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2409813,-9.379074]
+      }
+    }
+  ]
+}

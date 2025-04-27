@@ -1,0 +1,597 @@
+{
+  "type": "FeatureCollection",
+  "generator": "CSV-CNEFE2GeoJSON.lua 1.5.7 - fidelis.assis@gmail.com",
+  "source": "IBGE CNEFE + Faces de Logradouros - 2022",
+  "date": "2025-02-02T09:05:24-0300",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410918",
+      "addr:housenumber": "6",
+      "addr:postcode": "48601-018",
+      "addr:street": "Rodovia BR-110",
+      "addr:suburb": "Izídio",
+      "addr:unit": "Fundos Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-109"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.217849,-9.528948]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410932",
+      "addr:housenumber": "35",
+      "addr:postcode": "48601-018",
+      "addr:street": "Rodovia BR-110",
+      "addr:suburb": "Izídio",
+      "addr:unit": "Fundos Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-109"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.220208,-9.532621]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410933",
+      "addr:housenumber": "38",
+      "addr:postcode": "48601-018",
+      "addr:street": "Rodovia BR-110",
+      "addr:suburb": "Izídio",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-109"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.220204,-9.532631]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411024",
+      "addr:housenumber": "15",
+      "addr:postcode": "48601-018",
+      "addr:street": "Povoado Anjico",
+      "addr:suburb": "Izídio",
+      "addr:unit": "Barraca",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-153"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.196371,-9.457832]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410917",
+      "addr:housenumber": "26",
+      "addr:postcode": "48601-018",
+      "addr:street": "Rodovia BR-110",
+      "addr:suburb": "Izídio",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-109"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.21783,-9.528915]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410925",
+      "addr:housenumber": "20",
+      "addr:postcode": "48601-018",
+      "addr:street": "Rodovia BR-110",
+      "addr:suburb": "Izídio",
+      "addr:unit": "Fundos Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-109"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.21946,-9.526868]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191541059",
+      "addr:housenumber": "29",
+      "addr:postcode": "48601-018",
+      "addr:street": "Rodovia Izídio",
+      "addr:suburb": "Izídio",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-110"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.217266,-9.528405]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410915",
+      "addr:housenumber": "3",
+      "addr:postcode": "48601-018",
+      "addr:street": "Rodovia BR-110",
+      "addr:suburb": "Izídio",
+      "addr:unit": "Fundos Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-109"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.22048,-9.533477]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410921",
+      "addr:housenumber": "11",
+      "addr:postcode": "48601-018",
+      "addr:street": "Rodovia BR-110",
+      "addr:suburb": "Izídio",
+      "addr:unit": "Fundos Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-109"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.217826,-9.528944]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410927",
+      "addr:housenumber": "21",
+      "addr:postcode": "48601-018",
+      "addr:street": "Rodovia BR-110",
+      "addr:suburb": "Izídio",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-109"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2167,-9.528801]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410931",
+      "addr:housenumber": "29",
+      "addr:postcode": "48601-018",
+      "addr:street": "Rodovia BR-110",
+      "addr:suburb": "Izídio",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-109"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.220606,-9.532916]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191541201",
+      "addr:housenumber": "30",
+      "addr:postcode": "48610-480",
+      "addr:street": "Rodovia Izídio",
+      "addr:suburb": "Izídio",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-116"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.216734,-9.528861]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410934",
+      "addr:housenumber": "30",
+      "addr:postcode": "48601-018",
+      "addr:street": "Rodovia BR-110",
+      "addr:suburb": "Izídio",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-109"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.219841,-9.526697]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410916",
+      "addr:housenumber": "7",
+      "addr:postcode": "48601-018",
+      "addr:street": "Rodovia BR-110",
+      "addr:suburb": "Izídio",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-109"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.22044,-9.529565]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410928",
+      "addr:housenumber": "28",
+      "addr:postcode": "48601-018",
+      "addr:street": "Rodovia BR-110",
+      "addr:suburb": "Izídio",
+      "addr:unit": "Fundos Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-109"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.219106,-9.526892]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410922",
+      "addr:housenumber": "12",
+      "addr:postcode": "48601-018",
+      "addr:street": "Rodovia BR-110",
+      "addr:suburb": "Izídio",
+      "addr:unit": "Fundos",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-109"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.21783,-9.528895]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191541205",
+      "addr:housenumber": "8",
+      "addr:postcode": "48610-480",
+      "addr:street": "Rodovia Izídio",
+      "addr:suburb": "Izídio",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-116"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.217258,-9.527668]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410930",
+      "addr:housenumber": "32",
+      "addr:postcode": "48601-018",
+      "addr:street": "Rodovia BR-110",
+      "addr:suburb": "Izídio",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-109"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.218064,-9.527871]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191541194",
+      "addr:housenumber": "35",
+      "addr:postcode": "48610-480",
+      "addr:street": "Estrada Povoado Izídio",
+      "addr:suburb": "Izídio",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-115"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.216106,-9.529561]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410913",
+      "addr:housenumber": "2",
+      "addr:postcode": "48601-018",
+      "addr:street": "Rodovia BR-110",
+      "addr:suburb": "Izídio",
+      "addr:unit": "Fundos Casa 2",
+      "amenity": "pub",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "name": "Bar Flor da BR",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-109"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.220939,-9.532772]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191541215",
+      "addr:housenumber": "37",
+      "addr:postcode": "48610-488",
+      "addr:street": "Estrada Povoado Izídio",
+      "addr:suburb": "Izídio",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-117"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.216342,-9.529699]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410926",
+      "addr:housenumber": "21",
+      "addr:postcode": "48601-018",
+      "addr:street": "Rodovia BR-110",
+      "addr:suburb": "Izídio",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-109"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.216712,-9.528788]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410924",
+      "addr:housenumber": "24",
+      "addr:postcode": "48601-018",
+      "addr:street": "Rodovia BR-110",
+      "addr:suburb": "Izídio",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-109"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.216716,-9.52881]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410919",
+      "addr:housenumber": "6",
+      "addr:postcode": "48601-018",
+      "addr:street": "Rodovia BR-110",
+      "addr:suburb": "Izídio",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-109"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.21782,-9.528917]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410923",
+      "addr:housenumber": "25",
+      "addr:postcode": "48601-018",
+      "addr:street": "Rodovia BR-110",
+      "addr:suburb": "Izídio",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-109"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.217227,-9.528406]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191541192",
+      "addr:housenumber": "5",
+      "addr:postcode": "48610-480",
+      "addr:street": "Estrada Povoado Izídio",
+      "addr:suburb": "Izídio",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "pentecostal",
+      "fixme": "Verificar coordenadas",
+      "name": "Congregação Cristã no Brasil",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-115",
+      "religion": "christian"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.216192,-9.529461]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191541197",
+      "addr:housenumber": "34",
+      "addr:postcode": "48610-480",
+      "addr:street": "Estrada Povoado Izídio",
+      "addr:suburb": "Izídio",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-115"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.216306,-9.529718]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413776",
+      "addr:housenumber": "110",
+      "addr:postcode": "48619-899",
+      "addr:street": "Rodovia BR-110",
+      "addr:suburb": "Izídio",
+      "addr:unit": "B Coelb",
+      "amenity": "animal_breeding",
+      "animal_breeding": "sheep",
+      "fixme": "Verificar coordenadas",
+      "landuse": "farmyard",
+      "name": "Criação de Ovinos",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0115P-0-50"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.22144,-9.529381]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191541189",
+      "addr:housenumber": "1",
+      "addr:postcode": "48610-480",
+      "addr:street": "Estrada Povoado Izídio",
+      "addr:suburb": "Izídio",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-115"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.217003,-9.528781]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410914",
+      "addr:housenumber": "4",
+      "addr:postcode": "48601-018",
+      "addr:street": "Rodovia BR-110",
+      "addr:suburb": "Izídio",
+      "addr:unit": "Fundos Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-109"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.220453,-9.533369]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191541212",
+      "addr:housenumber": "36",
+      "addr:postcode": "48610-488",
+      "addr:street": "Estrada Povoado Izídio",
+      "addr:suburb": "Izídio",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-117"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.216093,-9.52961]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413776",
+      "addr:housenumber": "110",
+      "addr:postcode": "48619-899",
+      "addr:street": "Rodovia BR-110",
+      "addr:suburb": "Izídio",
+      "addr:unit": "B Coelb",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0115P-0-50"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.221439955816,-9.5293811616562]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27410929",
+      "addr:housenumber": "29",
+      "addr:postcode": "48601-018",
+      "addr:street": "Rodovia BR-110",
+      "addr:suburb": "Izídio",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-109"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.218599,-9.527138]
+      }
+    }
+  ]
+}

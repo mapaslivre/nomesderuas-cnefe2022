@@ -1,0 +1,656 @@
+{
+  "type": "FeatureCollection",
+  "source": "IBGE CNEFE + Faces de Logradouros - 2022",
+  "generator": "CSV-CNEFE2GeoJSON.lua 1.5.7 - fidelis.assis@gmail.com",
+  "date": "2025-02-02T09:05:07-0300",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192023740",
+      "addr:housenumber": "70",
+      "addr:postcode": "48610-488",
+      "addr:street": "Baixa do Campo Alegre",
+      "addr:suburb": "Baixa do Campo Alegre",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-142"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.220072,-9.637955]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192023687",
+      "addr:housenumber": "60",
+      "addr:postcode": "48610-488",
+      "addr:street": "Baixa do Campo Alegre",
+      "addr:suburb": "Baixa do Campo Alegre",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-142"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.218539,-9.635897]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411836;112580288",
+      "addr:housenumber": "85",
+      "addr:postcode": "48601-018",
+      "addr:street": "Baixa do Campo Alegre",
+      "addr:suburb": "Baixa do Campo Alegre",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-144"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.216188,-9.6423605]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411826",
+      "addr:housenumber": "98",
+      "addr:postcode": "48601-018",
+      "addr:street": "Baixa do Campo Alegre",
+      "addr:suburb": "Baixa do Campo Alegre",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-144"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.221366,-9.642359]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192023724",
+      "addr:housenumber": "58",
+      "addr:postcode": "48610-488",
+      "addr:street": "Baixa do Campo Alegre",
+      "addr:suburb": "Baixa do Campo Alegre",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-142"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.219964,-9.63755]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411828",
+      "addr:housenumber": "80",
+      "addr:postcode": "48601-018",
+      "addr:street": "Baixa do Campo Alegre",
+      "addr:suburb": "Baixa do Campo Alegre",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-144"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.221653,-9.625237]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411831",
+      "addr:housenumber": "65",
+      "addr:postcode": "48601-018",
+      "addr:street": "Baixa do Campo Alegre",
+      "addr:suburb": "Baixa do Campo Alegre",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-144"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.210225,-9.642704]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192023811",
+      "addr:housenumber": "62",
+      "addr:postcode": "48604-514",
+      "addr:street": "Baixa do Campo Alegre",
+      "addr:suburb": "Baixa do Campo Alegre",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-143"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.217684,-9.636348]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411882",
+      "addr:housenumber": "63",
+      "addr:postcode": "48601-018",
+      "addr:street": "Baixa do Campo Alegre",
+      "addr:suburb": "Baixa do Campo Alegre",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-144"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.217698,-9.635919]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192023787",
+      "addr:housenumber": "86",
+      "addr:postcode": "48610-488",
+      "addr:street": "Baixa do Campo Alegre",
+      "addr:suburb": "Baixa do Campo Alegre",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-142"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.218577,-9.642285]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192023756",
+      "addr:housenumber": "73",
+      "addr:postcode": "48610-488",
+      "addr:street": "Baixa do Campo Alegre",
+      "addr:suburb": "Baixa do Campo Alegre",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-142"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.220402,-9.639262]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411885",
+      "addr:housenumber": "79",
+      "addr:postcode": "48601-018",
+      "addr:street": "Baixa do Campo Alegre",
+      "addr:suburb": "Baixa do Campo Alegre",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-144"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.220381,-9.640271]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192023780",
+      "addr:housenumber": "85",
+      "addr:postcode": "48610-488",
+      "addr:street": "Baixa do Campo Alegre",
+      "addr:suburb": "Baixa do Campo Alegre",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-142"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.220294,-9.642341]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411835",
+      "addr:housenumber": "69",
+      "addr:postcode": "48601-018",
+      "addr:street": "Baixa do Campo Alegre",
+      "addr:suburb": "Baixa do Campo Alegre",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-144"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.22301,-9.641322]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411887",
+      "addr:housenumber": "80",
+      "addr:postcode": "48601-022",
+      "addr:street": "Baixa do Campo Alegre",
+      "addr:suburb": "Baixa do Campo Alegre",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-145"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.220623,-9.641573]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192023747",
+      "addr:housenumber": "71",
+      "addr:postcode": "48610-488",
+      "addr:street": "Baixa do Campo Alegre",
+      "addr:suburb": "Baixa do Campo Alegre",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-142"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.220259,-9.638458]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411884",
+      "addr:housenumber": "58",
+      "addr:postcode": "48601-018",
+      "addr:street": "Margens Rodovia BR-110",
+      "addr:suburb": "Baixa do Campo Alegre",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-141"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.220008,-9.636157]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411833",
+      "addr:housenumber": "52",
+      "addr:postcode": "48601-018",
+      "addr:street": "Baixa do Campo Alegre",
+      "addr:suburb": "Baixa do Campo Alegre",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-144"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.209302,-9.642306]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192023771",
+      "addr:housenumber": "82",
+      "addr:postcode": "48610-488",
+      "addr:street": "Baixa do Campo Alegre",
+      "addr:suburb": "Baixa do Campo Alegre",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-142"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.220636,-9.641802]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411827",
+      "addr:housenumber": "85",
+      "addr:postcode": "48601-018",
+      "addr:street": "Baixa do Campo Alegre",
+      "addr:suburb": "Baixa do Campo Alegre",
+      "addr:unit": "Smss",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-144"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.220003,-9.642482]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411879",
+      "addr:housenumber": "90",
+      "addr:postcode": "48601-018",
+      "addr:street": "Margens Rodovia BR-110",
+      "addr:suburb": "Baixa do Campo Alegre",
+      "building": "construction",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-141"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.222579,-9.635216]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192024539",
+      "addr:housenumber": "12",
+      "addr:postcode": "48610-488",
+      "addr:street": "Rodovia BR-110",
+      "addr:suburb": "Baixa do Campo Alegre",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-209"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.223107,-9.640811]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192024546",
+      "addr:housenumber": "36",
+      "addr:postcode": "48610-488",
+      "addr:street": "Rodovia BR-110",
+      "addr:suburb": "Baixa do Campo Alegre",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-209"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.223105,-9.640859]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192023733",
+      "addr:housenumber": "68",
+      "addr:postcode": "48610-488",
+      "addr:street": "Baixa do Campo Alegre",
+      "addr:suburb": "Baixa do Campo Alegre",
+      "building": "construction",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-142"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.220333,-9.637598]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192023793",
+      "addr:housenumber": "90",
+      "addr:postcode": "48610-488",
+      "addr:street": "Baixa do Campo Alegre",
+      "addr:suburb": "Baixa do Campo Alegre",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-142"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.221199,-9.642175]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192023799",
+      "addr:housenumber": "95",
+      "addr:postcode": "48610-488",
+      "addr:street": "Baixa do Campo Alegre",
+      "addr:suburb": "Baixa do Campo Alegre",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-142"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.221689,-9.642267]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192023767",
+      "addr:housenumber": "79",
+      "addr:postcode": "48610-488",
+      "addr:street": "Baixa do Campo Alegre",
+      "addr:suburb": "Baixa do Campo Alegre",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-142"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.220498,-9.63967]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411825",
+      "addr:housenumber": "96",
+      "addr:postcode": "48601-018",
+      "addr:street": "Baixa do Campo Alegre",
+      "addr:suburb": "Baixa do Campo Alegre",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-144"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.221405,-9.642281]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411829",
+      "addr:housenumber": "75",
+      "addr:postcode": "48601-018",
+      "addr:street": "Baixa do Campo Alegre",
+      "addr:suburb": "Baixa do Campo Alegre",
+      "building": "warehouse",
+      "description": "CNEFE 2022 Depósito",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-144"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.21332,-9.641516]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192023694",
+      "addr:housenumber": "61",
+      "addr:postcode": "48610-488",
+      "addr:street": "Baixa do Campo Alegre",
+      "addr:suburb": "Baixa do Campo Alegre",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-142"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.218317,-9.635992]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192023707",
+      "addr:housenumber": "55",
+      "addr:postcode": "48610-488",
+      "addr:street": "Baixa do Campo Alegre",
+      "addr:suburb": "Baixa do Campo Alegre",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-142"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.220078,-9.636904]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411834",
+      "addr:housenumber": "75",
+      "addr:postcode": "48601-016",
+      "addr:street": "Baixa do Campo Alegre",
+      "addr:suburb": "Baixa do Campo Alegre",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-208"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.208171,-9.642006]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192023714",
+      "addr:housenumber": "56",
+      "addr:postcode": "48610-488",
+      "addr:street": "Baixa do Campo Alegre",
+      "addr:suburb": "Baixa do Campo Alegre",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-142"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.219997,-9.637569]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411830",
+      "addr:housenumber": "58",
+      "addr:postcode": "48601-018",
+      "addr:street": "Baixa do Campo Alegre",
+      "addr:suburb": "Baixa do Campo Alegre",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-144"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.213716,-9.641393]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192023678",
+      "addr:housenumber": "59",
+      "addr:postcode": "48610-488",
+      "addr:street": "Baixa do Campo Alegre",
+      "addr:suburb": "Baixa do Campo Alegre",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-142"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.218538955802,-9.6358971616562]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192023805",
+      "addr:housenumber": "98",
+      "addr:postcode": "48610-488",
+      "addr:street": "Baixa do Campo Alegre",
+      "addr:suburb": "Baixa do Campo Alegre",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-142"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.209182,-9.642358]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192023700",
+      "addr:housenumber": "54",
+      "addr:postcode": "48610-488",
+      "addr:street": "Baixa do Campo Alegre",
+      "addr:suburb": "Baixa do Campo Alegre",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-142"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.220068,-9.636592]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192023761",
+      "addr:housenumber": "75",
+      "addr:postcode": "48610-488",
+      "addr:street": "Baixa do Campo Alegre",
+      "addr:suburb": "Baixa do Campo Alegre",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-142"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.220389,-9.639456]
+      }
+    }
+  ]
+}

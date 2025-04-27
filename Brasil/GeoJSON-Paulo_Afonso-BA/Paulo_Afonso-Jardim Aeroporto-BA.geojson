@@ -1,0 +1,4816 @@
+{
+  "type": "FeatureCollection",
+  "generator": "CSV-CNEFE2GeoJSON.lua 1.5.7 - fidelis.assis@gmail.com",
+  "source": "IBGE CNEFE + Faces de Logradouros - 2022",
+  "date": "2025-02-02T09:05:24-0300",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27468042",
+      "addr:housenumber": "331",
+      "addr:postcode": "48603-726",
+      "addr:street": "Rua Mário Andreazza",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2457048,-9.4066126]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27468010",
+      "addr:housenumber": "81",
+      "addr:postcode": "48603-726",
+      "addr:street": "Rua Mário Andreazza",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2434458,-9.4067264]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192032600",
+      "addr:housenumber": "131",
+      "addr:postcode": "48603-724",
+      "addr:street": "Rua Ministro Sérgio Mota",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2449923,-9.4059813]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467965",
+      "addr:housenumber": "236 A",
+      "addr:postcode": "48603-722",
+      "addr:street": "Rua Adélia Xavier Torres",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0228P-11-4"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.245958,-9.406082]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192032669",
+      "addr:housenumber": "85",
+      "addr:postcode": "48603-722",
+      "addr:street": "Rua Adélia Xavier Torres",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes",
+      "name": "Posto de Apoio Jardim Aeroporto"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2465899,-9.4073725]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467882",
+      "addr:housenumber": "30",
+      "addr:postcode": "48603-720",
+      "addr:street": "Rua Artur de Brito",
+      "addr:suburb": "Jardim Aeroporto",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0158P-8-6"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.245552,-9.407257]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467827",
+      "addr:housenumber": "7",
+      "addr:postcode": "48603-720",
+      "addr:street": "Estrada Para Chácara Regina",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2458149,-9.4113921]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192032478",
+      "addr:housenumber": "51",
+      "addr:postcode": "48603-734",
+      "addr:street": "Rua Esperança",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2443239,-9.4058263]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27468048",
+      "addr:housenumber": "281",
+      "addr:postcode": "48603-726",
+      "addr:street": "Rua Mário Andreazza",
+      "addr:suburb": "Jardim Aeroporto",
+      "addr:unit": "Casa",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2451892,-9.4066923]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467847",
+      "addr:housenumber": "3",
+      "addr:postcode": "48603-720",
+      "addr:street": "Rua Artur de Brito",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0158P-5-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.24735,-9.407731]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467830",
+      "addr:housenumber": "17",
+      "addr:postcode": "48603-720",
+      "addr:street": "Estrada Para Chácara Regina",
+      "addr:suburb": "Jardim Aeroporto",
+      "addr:unit": "Chalé",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0158P-6-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.245917,-9.411885]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27468021",
+      "addr:housenumber": "410",
+      "addr:postcode": "48603-720",
+      "addr:street": "Rua Artur de Brito",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2461844,-9.4070992]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27468058",
+      "addr:housenumber": "350",
+      "addr:postcode": "48603-720",
+      "addr:street": "Rua Artur de Brito",
+      "addr:suburb": "Jardim Aeroporto",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0158P-8-6"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.245721,-9.407339]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27468019",
+      "addr:housenumber": "380",
+      "addr:postcode": "48603-720",
+      "addr:street": "Rua Artur de Brito",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.245815,-9.4070989]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467994-27467995",
+      "addr:housenumber": "199",
+      "addr:postcode": "48603-726",
+      "addr:street": "Rua Mário Andreazza",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2445103,-9.4066885]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467754",
+      "addr:housenumber": "116",
+      "addr:postcode": "48603-730",
+      "addr:street": "Rua Senador Humberto de Lucena",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2441416,-9.4060572]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467741",
+      "addr:housenumber": "3",
+      "addr:postcode": "48603-730",
+      "addr:street": "Rua Senador Humberto de Lucena",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.243394,-9.40628]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192032707",
+      "addr:housenumber": "108 A",
+      "addr:postcode": "48603-726",
+      "addr:street": "Rua Mário Andreazza",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes",
+      "description": "CNEFE 2022 Salão",
+      "shop": "beauty"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2436372,-9.4065568]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467921",
+      "addr:housenumber": "226",
+      "addr:postcode": "48603-726",
+      "addr:street": "Rua Mário Andreazza",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.244768,-9.406521]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192032540",
+      "addr:housenumber": "10",
+      "addr:postcode": "48603-734",
+      "addr:street": "Rua Esperança",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0228P-1-12"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.244398,-9.405646]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467761",
+      "addr:housenumber": "152",
+      "addr:postcode": "48603-730",
+      "addr:street": "Rua Senador Humberto de Lucena",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2444586,-9.4059964]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467740",
+      "addr:housenumber": "27",
+      "addr:postcode": "48603-730",
+      "addr:street": "Rua Senador Humberto de Lucena",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2434502,-9.4062389]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467936",
+      "addr:housenumber": "982",
+      "addr:postcode": "48603-726",
+      "addr:street": "Rua Mário Andreazza",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2454408,-9.4065301]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192032948",
+      "addr:housenumber": "166",
+      "addr:postcode": "48603-720",
+      "addr:street": "Rua Artur de Brito",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2438111,-9.4070812]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27468029",
+      "addr:housenumber": "71",
+      "addr:postcode": "48603-722",
+      "addr:street": "Rua Adélia Xavier Torres",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2464568,-9.4069422]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467999",
+      "addr:housenumber": "161 A",
+      "addr:postcode": "48603-726",
+      "addr:street": "Rua Mário Andreazza",
+      "addr:suburb": "Jardim Aeroporto",
+      "addr:unit": "Casa 1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2443302,-9.4066904]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467872",
+      "addr:housenumber": "82",
+      "addr:postcode": "48603-720",
+      "addr:street": "Rua Artur de Brito",
+      "addr:suburb": "Jardim Aeroporto",
+      "addr:unit": "Casa 2",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0158P-8-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.246616,-9.407854]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467897",
+      "addr:housenumber": "5",
+      "addr:postcode": "48603-730",
+      "addr:street": "Rua Senador Humberto de Lucena",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.243549,-9.4065166]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467957",
+      "addr:housenumber": "204",
+      "addr:postcode": "48603-722",
+      "addr:street": "Rua Adélia Xavier Torres",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0228P-11-4"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.246265,-9.406147]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467829",
+      "addr:housenumber": "14",
+      "addr:postcode": "48603-720",
+      "addr:street": "Estrada Para Chácara Regina",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0158P-6-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.24594,-9.411834]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467782",
+      "addr:housenumber": "42",
+      "addr:postcode": "48603-722",
+      "addr:street": "Rua Adélia Xavier Torres",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2452109,-9.40595]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467864",
+      "addr:housenumber": "80",
+      "addr:postcode": "48603-720",
+      "addr:street": "Rua Artur de Brito",
+      "addr:suburb": "Jardim Aeroporto",
+      "addr:unit": "Fundos Casa 4",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0158P-8-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.246538,-9.407944]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467797",
+      "addr:housenumber": "86",
+      "addr:postcode": "48603-732",
+      "addr:street": "Rua Alex Antônio Bezerra da Silva",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2454935,-9.4051647]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467967",
+      "addr:housenumber": "55",
+      "addr:postcode": "48603-722",
+      "addr:street": "Rua Adélia Xavier Torres",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0228P-11-4"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.24563,-9.406007]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27468009",
+      "addr:housenumber": "85",
+      "addr:postcode": "48603-726",
+      "addr:street": "Rua Mário Andreazza",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2434988,-9.4067266]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467791-27467792",
+      "addr:housenumber": "52",
+      "addr:postcode": "48603-732",
+      "addr:street": "Rua Alex Antônio Bezerra da Silva",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2454583,-9.4055819]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467762",
+      "addr:housenumber": "13",
+      "addr:postcode": "48603-730",
+      "addr:street": "Rua Senador Humberto de Lucena",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2433902,-9.406386]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467844",
+      "addr:housenumber": "500",
+      "addr:postcode": "48603-720",
+      "addr:street": "Rua Artur de Brito",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0158P-8-6"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.24703,-9.407623]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467853",
+      "addr:housenumber": "26",
+      "addr:postcode": "48603-720",
+      "addr:street": "Rua Artur de Brito",
+      "addr:suburb": "Jardim Aeroporto",
+      "addr:unit": "Casa 2",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0158P-8-6"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.244752,-9.407138]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467758",
+      "addr:housenumber": "15",
+      "addr:postcode": "48603-730",
+      "addr:street": "Rua Senador Humberto de Lucena",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2436578,-9.4061318]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467863",
+      "addr:housenumber": "277",
+      "addr:postcode": "48603-720",
+      "addr:street": "Rua Artur de Brito",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "construction",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0158P-8-6"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.24527,-9.407213]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467796",
+      "addr:housenumber": "59",
+      "addr:postcode": "48603-732",
+      "addr:street": "Rua Alex Antônio Bezerra da Silva",
+      "addr:suburb": "Jardim Aeroporto",
+      "addr:unit": "Até 62",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2454313,-9.4053338]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467975",
+      "addr:housenumber": "136",
+      "addr:postcode": "48603-720",
+      "addr:street": "Rua Artur de Brito",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2434282,-9.4070747]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467798",
+      "addr:housenumber": "87",
+      "addr:postcode": "48603-732",
+      "addr:street": "Rua Alex Antônio Bezerra da Silva",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes",
+      "car:repair": "yes",
+      "craft": "upholsterer",
+      "description": "CNEFE 2022 Capotaria"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2454946,-9.4051641]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467901",
+      "addr:housenumber": "144",
+      "addr:postcode": "48603-726",
+      "addr:street": "Rua Mário Andreazza",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2439626,-9.4065613]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192033052",
+      "addr:housenumber": "275",
+      "addr:postcode": "48603-726",
+      "addr:street": "Rua Mário Andreazza",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2452494,-9.4066922]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467878",
+      "addr:housenumber": "12",
+      "addr:postcode": "48603-720",
+      "addr:street": "Rua Artur de Brito",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "warehouse",
+      "description": "CNEFE 2022 Depósito",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0158P-8-6"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.24581,-9.407183]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467977",
+      "addr:housenumber": "19",
+      "addr:postcode": "48603-720",
+      "addr:street": "Rua Artur de Brito",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2438741,-9.4070822]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467969",
+      "addr:housenumber": "75",
+      "addr:postcode": "48603-722",
+      "addr:street": "Rua Adélia Xavier Torres",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0228P-11-4"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.245434,-9.406015]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467764",
+      "addr:housenumber": "12",
+      "addr:postcode": "48603-730",
+      "addr:street": "Rua Senador Humberto de Lucena",
+      "addr:suburb": "Jardim Aeroporto",
+      "addr:unit": "4",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2433928,-9.4063148]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467828",
+      "addr:housenumber": "13",
+      "addr:postcode": "48603-720",
+      "addr:street": "Estrada Para Chácara Regina",
+      "addr:suburb": "Jardim Aeroporto",
+      "addr:unit": "Casa",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2459087,-9.411668]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192033049",
+      "addr:housenumber": "287",
+      "addr:postcode": "48603-726",
+      "addr:street": "Rua Mário Andreazza",
+      "addr:suburb": "Jardim Aeroporto",
+      "description": "CNEFE 2022 Horta",
+      "landuse": "allotments"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2452236,-9.4066931]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467790",
+      "addr:housenumber": "46",
+      "addr:postcode": "48603-732",
+      "addr:street": "Rua Alex Antônio Bezerra da Silva",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.245468,-9.4055701]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467776",
+      "addr:housenumber": "25",
+      "addr:postcode": "48603-724",
+      "addr:street": "Rua Ministro Sérgio Mota",
+      "addr:suburb": "Jardim Aeroporto",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0228P-1-16"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2449153,-9.405593]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467960",
+      "addr:housenumber": "163",
+      "addr:postcode": "48603-722",
+      "addr:street": "Rua Adélia Xavier Torres",
+      "addr:suburb": "Jardim Aeroporto",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0228P-11-4"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.24614,-9.406155]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192032756",
+      "addr:housenumber": "44",
+      "addr:postcode": "48603-728",
+      "addr:street": "Travessa Mário Andreazza",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2443707,-9.4061917]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27468028",
+      "addr:housenumber": "30",
+      "addr:postcode": "48603-722",
+      "addr:street": "Rua Adélia Xavier Torres",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2464541,-9.4069737]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191546824",
+      "addr:housenumber": "323",
+      "addr:postcode": "48603-720",
+      "addr:street": "Rua Artur de Brito",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "name": "Mercearia do Bel",
+      "note": "Sem face no bayface do IBGE 0500-0158P-8-6",
+      "shop": "convenience"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.245283,-9.407218]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467952",
+      "addr:housenumber": "404",
+      "addr:postcode": "48603-726",
+      "addr:street": "Rua Mário Andreazza",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2463403,-9.4065032]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467986",
+      "addr:housenumber": "254",
+      "addr:postcode": "48603-720",
+      "addr:street": "Rua Artur de Brito",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.24491,-9.4071064]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27468020",
+      "addr:housenumber": "386",
+      "addr:postcode": "48603-720",
+      "addr:street": "Rua Artur de Brito",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.245842,-9.4070989]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467768",
+      "addr:housenumber": "16",
+      "addr:postcode": "48603-730",
+      "addr:street": "Rua Senador Humberto de Lucena",
+      "addr:suburb": "Jardim Aeroporto",
+      "addr:unit": "1",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2437942,-9.4061105]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467926",
+      "addr:housenumber": "13",
+      "addr:postcode": "48603-724",
+      "addr:street": "Rua Ministro Sérgio Mota",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "warehouse",
+      "description": "CNEFE 2022 Galpão"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2449081,-9.4063421]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467909",
+      "addr:housenumber": "125",
+      "addr:postcode": "48603-730",
+      "addr:street": "Rua Senador Humberto de Lucena",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2442023,-9.4062034]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27468036",
+      "addr:housenumber": "3",
+      "addr:postcode": "48603-726",
+      "addr:street": "Rua Mário Andreazza",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2461582,-9.4066755]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192032953",
+      "addr:housenumber": "236",
+      "addr:postcode": "48603-720",
+      "addr:street": "Rua Artur de Brito",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes",
+      "description": "CNEFE 2022 Padaria",
+      "shop": "bakery"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.244598,-9.4070886]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27468035",
+      "addr:housenumber": "379",
+      "addr:postcode": "48603-726",
+      "addr:street": "Rua Mário Andreazza",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2461342,-9.406676]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467779",
+      "addr:housenumber": "185",
+      "addr:postcode": "48603-724",
+      "addr:street": "Rua Ministro Sérgio Mota",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2450232,-9.4053849]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467760",
+      "addr:housenumber": "142",
+      "addr:postcode": "48603-730",
+      "addr:street": "Rua Senador Humberto de Lucena",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.244352,-9.4060273]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27468050",
+      "addr:housenumber": "34",
+      "addr:postcode": "48603-720",
+      "addr:street": "Rua Artur de Brito",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0158P-6-4"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.245143,-9.408611]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27468006",
+      "addr:housenumber": "119",
+      "addr:postcode": "48603-726",
+      "addr:street": "Rua Mário Andreazza",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.243723,-9.4067276]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467988",
+      "addr:housenumber": "40",
+      "addr:postcode": "48603-724",
+      "addr:street": "Rua Ministro Sérgio Mota",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.244927,-9.406742]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27468018",
+      "addr:housenumber": "22",
+      "addr:postcode": "48603-720",
+      "addr:street": "Rua Artur de Brito",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "warehouse",
+      "description": "CNEFE 2022 Galpão"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.245773,-9.4070989]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192032522",
+      "addr:housenumber": "7",
+      "addr:postcode": "48603-736",
+      "addr:street": "1ª Travessa da Rua Esperança",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "construction",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0228P-1-11"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.244261,-9.405602]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27468026",
+      "addr:housenumber": "27",
+      "addr:postcode": "48603-720",
+      "addr:street": "Rua Artur de Brito",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2463215,-9.4071001]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192032747",
+      "addr:housenumber": "18",
+      "addr:postcode": "48603-728",
+      "addr:street": "Travessa Mário Andreazza",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2443794,-9.406284]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467879;27467881;27467883-27467887;27468061",
+      "addr:housenumber": "13",
+      "addr:postcode": "48603-720",
+      "addr:street": "Rua Artur de Brito",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0158P-8-6"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2456761,-9.407414]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192032566",
+      "addr:housenumber": "101",
+      "addr:postcode": "48603-724",
+      "addr:street": "Rua Ministro Sérgio Mota",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0228P-1-16"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2449173,-9.405311]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467745",
+      "addr:housenumber": "17",
+      "addr:postcode": "48603-730",
+      "addr:street": "Rua Senador Humberto de Lucena",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2438371,-9.4061038]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27468043",
+      "addr:housenumber": "339",
+      "addr:postcode": "48603-726",
+      "addr:street": "Rua Mário Andreazza",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2457648,-9.4066731]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192032453",
+      "addr:housenumber": "35",
+      "addr:postcode": "48603-724",
+      "addr:street": "Rua Ministro Sérgio Mota",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2449133,-9.4057531]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27468038",
+      "addr:housenumber": "353",
+      "addr:postcode": "48603-726",
+      "addr:street": "Rua Mário Andreazza",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2459944,-9.406679]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27468062",
+      "addr:housenumber": "433",
+      "addr:postcode": "48603-720",
+      "addr:street": "Rua Artur de Brito",
+      "addr:suburb": "Jardim Aeroporto",
+      "addr:unit": "Casa 2",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0158P-6-4"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.240132,-9.410024]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27468064;27468093",
+      "addr:housenumber": "433",
+      "addr:postcode": "48603-720",
+      "addr:street": "Rua Artur de Brito",
+      "addr:suburb": "Jardim Aeroporto",
+      "addr:unit": "Casa 3",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0158P-6-4"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.240157,-9.4096995]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467915",
+      "addr:housenumber": "49",
+      "addr:postcode": "48603-728",
+      "addr:street": "Travessa Mário Andreazza",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2445601,-9.4060937]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467931",
+      "addr:housenumber": "187",
+      "addr:postcode": "48603-730",
+      "addr:street": "Rua Senador Humberto de Lucena",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2447044,-9.406071]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467838",
+      "addr:housenumber": "70",
+      "addr:postcode": "48603-720",
+      "addr:street": "Estrada Para Chácara Regina",
+      "addr:suburb": "Jardim Aeroporto",
+      "addr:unit": "Chalé",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2457973,-9.4110409]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467959",
+      "addr:housenumber": "171",
+      "addr:postcode": "48603-722",
+      "addr:street": "Rua Adélia Xavier Torres",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0228P-11-4"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.246179,-9.406204]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27468000",
+      "addr:housenumber": "161 C",
+      "addr:postcode": "48603-726",
+      "addr:street": "Rua Mário Andreazza",
+      "addr:suburb": "Jardim Aeroporto",
+      "addr:unit": "Casa 2",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2442719,-9.4066909]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467992",
+      "addr:housenumber": "227",
+      "addr:postcode": "48603-726",
+      "addr:street": "Rua Mário Andreazza",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2447246,-9.4066863]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467927",
+      "addr:housenumber": "96",
+      "addr:postcode": "48603-724",
+      "addr:street": "Rua Ministro Sérgio Mota",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2449005,-9.4062532]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467738",
+      "addr:housenumber": "12 1 Térreo",
+      "addr:postcode": "48603-730",
+      "addr:street": "Rua Senador Humberto de Lucena",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2433887,-9.4064278]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192032771",
+      "addr:housenumber": "113",
+      "addr:postcode": "48603-730",
+      "addr:street": "Rua Senador Humberto de Lucena",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2440446,-9.4062247]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27468005",
+      "addr:housenumber": "123",
+      "addr:postcode": "48603-726",
+      "addr:street": "Rua Mário Andreazza",
+      "addr:suburb": "Jardim Aeroporto",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "evangelical",
+      "description": "CNEFE 2022 Igreja Evangélica",
+      "religion": "christian"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2436625,-9.4067273]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467903",
+      "addr:housenumber": "166",
+      "addr:postcode": "48603-726",
+      "addr:street": "Rua Mário Andreazza",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.244226,-9.4065506]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192032639",
+      "addr:housenumber": "114",
+      "addr:postcode": "48603-732",
+      "addr:street": "Rua Alex Antônio Bezerra da Silva",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2454838,-9.4049543]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192032445",
+      "addr:housenumber": "204",
+      "addr:postcode": "48603-730",
+      "addr:street": "Rua Senador Humberto de Lucena",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2448802,-9.405925]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27468065",
+      "addr:housenumber": "433",
+      "addr:postcode": "48603-720",
+      "addr:street": "Rua Artur de Brito",
+      "addr:suburb": "Jardim Aeroporto",
+      "addr:unit": "Casa 4",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0158P-6-4"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.240132,-9.410016]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192032550",
+      "addr:housenumber": "10",
+      "addr:postcode": "48603-736",
+      "addr:street": "2ª Travessa da Rua Esperança",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0228P-1-14"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.24452,-9.405307]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467747",
+      "addr:housenumber": "18",
+      "addr:postcode": "48603-730",
+      "addr:street": "Rua Senador Humberto de Lucena",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 65m 0500-0228P-1-5"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.244167,-9.406701]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467913",
+      "addr:housenumber": "98",
+      "addr:postcode": "48603-730",
+      "addr:street": "Rua Senador Humberto de Lucena",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2439323,-9.4060889]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467777",
+      "addr:housenumber": "228",
+      "addr:postcode": "48603-724",
+      "addr:street": "Rua Ministro Sérgio Mota",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2450395,-9.4052033]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192032802",
+      "addr:housenumber": "17",
+      "addr:postcode": "48603-724",
+      "addr:street": "Rua Ministro Sérgio Mota",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2448901,-9.4061313]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467922",
+      "addr:housenumber": "17",
+      "addr:postcode": "48603-726",
+      "addr:street": "Rua Mário Andreazza",
+      "addr:suburb": "Jardim Aeroporto",
+      "disused:building": "yes",
+      "disused:shop": "yes",
+      "old_name": "Loja Vaga"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.244919,-9.4065459]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467880",
+      "addr:housenumber": "100",
+      "addr:postcode": "48603-720",
+      "addr:street": "Rua Artur de Brito",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0158P-8-6"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.245923,-9.40737]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467919",
+      "addr:housenumber": "11",
+      "addr:postcode": "48603-728",
+      "addr:street": "Travessa Mário Andreazza",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2445666,-9.4064623]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467737",
+      "addr:housenumber": "114",
+      "addr:postcode": "48603-730",
+      "addr:street": "Rua Senador Humberto de Lucena",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2440949,-9.4060638]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192032788",
+      "addr:housenumber": "232",
+      "addr:postcode": "48603-726",
+      "addr:street": "Rua Mário Andreazza",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.244732,-9.406521]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467774",
+      "addr:housenumber": "60",
+      "addr:postcode": "48603-724",
+      "addr:street": "Rua Ministro Sérgio Mota",
+      "addr:suburb": "Jardim Aeroporto",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0228P-1-16"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2449153,-9.405562]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467785",
+      "addr:housenumber": "48",
+      "addr:postcode": "48603-732",
+      "addr:street": "Rua Alex Antônio Bezerra da Silva",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2454313,-9.4059111]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467750;27467756",
+      "addr:housenumber": "31",
+      "addr:postcode": "48603-730",
+      "addr:street": "Rua Senador Humberto de Lucena",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2445987,-9.405955]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467847",
+      "addr:housenumber": "3",
+      "addr:postcode": "48603-720",
+      "addr:street": "Rua Artur de Brito",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes",
+      "description": "CNEFE 2022 Borracharia",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0158P-5-1",
+      "repair": "yes",
+      "shop": "tyres"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.247349955831,-9.4077311616562]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27468047",
+      "addr:housenumber": "13",
+      "addr:postcode": "48603-726",
+      "addr:street": "Rua Mário Andreazza",
+      "addr:suburb": "Jardim Aeroporto",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "catholic",
+      "description": "CNEFE 2022 Igreja Católica",
+      "religion": "christian"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2450922,-9.406667]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27468090",
+      "addr:housenumber": "1401",
+      "addr:postcode": "48603-720",
+      "addr:street": "Rua Artur de Brito",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0158P-5-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.248806,-9.407445]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467752",
+      "addr:housenumber": "112",
+      "addr:postcode": "48603-730",
+      "addr:street": "Rua Senador Humberto de Lucena",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2440305,-9.4060736]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467817",
+      "addr:housenumber": "208 A",
+      "addr:postcode": "48603-720",
+      "addr:street": "Rua Artur de Brito",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0158P-5-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.249021,-9.407374]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467910",
+      "addr:housenumber": "119",
+      "addr:postcode": "48603-730",
+      "addr:street": "Rua Senador Humberto de Lucena",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2441908,-9.4062046]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467800;192032642",
+      "addr:housenumber": "106",
+      "addr:postcode": "48603-732",
+      "addr:street": "Rua Alex Antônio Bezerra da Silva",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2454619,-9.4050101]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467788",
+      "addr:housenumber": "22",
+      "addr:postcode": "48603-732",
+      "addr:street": "Rua Alex Antônio Bezerra da Silva",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2454083,-9.405793]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467862",
+      "addr:housenumber": "14",
+      "addr:postcode": "48603-720",
+      "addr:street": "Rua Artur de Brito",
+      "addr:suburb": "Jardim Aeroporto",
+      "addr:unit": "Casa 2",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0158P-8-6"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.244796,-9.407121]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27468067",
+      "addr:housenumber": "5",
+      "addr:postcode": "48603-720",
+      "addr:street": "Rua Artur de Brito",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0158P-5-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.247143,-9.407859]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467906",
+      "addr:housenumber": "10",
+      "addr:postcode": "48603-728",
+      "addr:street": "Travessa Mário Andreazza",
+      "addr:suburb": "Jardim Aeroporto",
+      "addr:unit": "Casa",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2443851,-9.4063021]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467945",
+      "addr:housenumber": "352",
+      "addr:postcode": "48603-726",
+      "addr:street": "Rua Mário Andreazza",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2459684,-9.4065088]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27468032",
+      "addr:housenumber": "419",
+      "addr:postcode": "48603-726",
+      "addr:street": "Rua Mário Andreazza",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2463784,-9.4066709]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192032473",
+      "addr:housenumber": "78",
+      "addr:postcode": "48603-726",
+      "addr:street": "Rua Mário Andreazza",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2433311,-9.4065629]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467899",
+      "addr:housenumber": "108",
+      "addr:postcode": "48603-726",
+      "addr:street": "Rua Mário Andreazza",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2437074,-9.4065578]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "109862964",
+      "addr:housenumber": "139",
+      "addr:postcode": "48603-724",
+      "addr:street": "Rua Ministro Sérgio Mota",
+      "addr:suburb": "Jardim Aeroporto",
+      "addr:unit": "Casa",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2450195,-9.4058956]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27468014",
+      "addr:housenumber": "316",
+      "addr:postcode": "48603-720",
+      "addr:street": "Rua Artur de Brito",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2452372,-9.4070923]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467775",
+      "addr:housenumber": "70",
+      "addr:postcode": "48603-724",
+      "addr:street": "Rua Ministro Sérgio Mota",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0228P-1-16"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2449153,-9.405578]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467812",
+      "addr:housenumber": "1",
+      "addr:postcode": "48603-720",
+      "addr:street": "Rua Artur de Brito",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0158P-5-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.249265,-9.407327]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467854",
+      "addr:housenumber": "28",
+      "addr:postcode": "48603-720",
+      "addr:street": "Rua Artur de Brito",
+      "addr:suburb": "Jardim Aeroporto",
+      "addr:unit": "Casa 3",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0158P-8-6"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2449,-9.407171]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467979",
+      "addr:housenumber": "170",
+      "addr:postcode": "48603-720",
+      "addr:street": "Rua Artur de Brito",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2439834,-9.4070841]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192032662",
+      "addr:housenumber": "123",
+      "addr:postcode": "48603-722",
+      "addr:street": "Rua Adélia Xavier Torres",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2466203,-9.4061367]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467743",
+      "addr:housenumber": "130",
+      "addr:postcode": "48603-730",
+      "addr:street": "Rua Senador Humberto de Lucena",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2442802,-9.4060375]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27468053",
+      "addr:housenumber": "33",
+      "addr:postcode": "48603-720",
+      "addr:street": "Rua Artur de Brito",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0158P-8-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2465,-9.407983]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27468046",
+      "addr:housenumber": "295",
+      "addr:postcode": "48603-726",
+      "addr:street": "Rua Mário Andreazza",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "garage",
+      "description": "CNEFE 2022 Garagem"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.245453,-9.4066845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467742",
+      "addr:housenumber": "60",
+      "addr:postcode": "48603-730",
+      "addr:street": "Rua Senador Humberto de Lucena",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2435871,-9.4061429]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467973",
+      "addr:housenumber": "130",
+      "addr:postcode": "48603-720",
+      "addr:street": "Rua Artur de Brito",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2434071,-9.4070739]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27468027",
+      "addr:housenumber": "28",
+      "addr:postcode": "48603-720",
+      "addr:street": "Rua Artur de Brito",
+      "addr:suburb": "Jardim Aeroporto",
+      "disused:building": "yes",
+      "disused:shop": "yes",
+      "old_name": "Loja Vaga"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.246381,-9.4071005]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192032895",
+      "addr:housenumber": "77",
+      "addr:postcode": "48603-722",
+      "addr:street": "Rua Adélia Xavier Torres",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0228P-11-4"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.24549,-9.406009]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467891",
+      "addr:housenumber": "501",
+      "addr:postcode": "48603-720",
+      "addr:street": "Rua Artur de Brito",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0158P-8-6"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.247063,-9.407586]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467940",
+      "addr:housenumber": "314",
+      "addr:postcode": "48603-726",
+      "addr:street": "Rua Mário Andreazza",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2455564,-9.4065249]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467787",
+      "addr:housenumber": "18",
+      "addr:postcode": "48603-732",
+      "addr:street": "Rua Alex Antônio Bezerra da Silva",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2454082,-9.40583]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467855",
+      "addr:housenumber": "33",
+      "addr:postcode": "48603-720",
+      "addr:street": "Rua Artur de Brito",
+      "addr:suburb": "Jardim Aeroporto",
+      "addr:unit": "Fundos 77 Casa 4",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0158P-8-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.246539,-9.407965]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27468079",
+      "addr:housenumber": "36",
+      "addr:postcode": "48603-720",
+      "addr:street": "Rua Artur de Brito",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0158P-6-4"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.244847,-9.408721]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27468031",
+      "addr:housenumber": "34",
+      "addr:postcode": "48603-722",
+      "addr:street": "Rua Adélia Xavier Torres",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2464827,-9.4067403]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27468040",
+      "addr:housenumber": "349",
+      "addr:postcode": "48603-726",
+      "addr:street": "Rua Mário Andreazza",
+      "addr:suburb": "Jardim Aeroporto",
+      "addr:unit": "Fundos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2458655,-9.4067356]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467934",
+      "addr:housenumber": "42",
+      "addr:postcode": "48603-724",
+      "addr:street": "Rua Ministro Sérgio Mota",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2450532,-9.4062656]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192032731",
+      "addr:housenumber": "159",
+      "addr:postcode": "48603-726",
+      "addr:street": "Rua Mário Andreazza",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2442288,-9.4065505]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467821;27468049;191546764",
+      "addr:housenumber": "9",
+      "addr:postcode": "48603-720",
+      "addr:street": "Rua Artur de Brito",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0158P-5-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2469997,-9.407897]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467947",
+      "addr:housenumber": "366",
+      "addr:postcode": "48603-726",
+      "addr:street": "Rua Mário Andreazza",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2460523,-9.4065076]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467876",
+      "addr:housenumber": "4",
+      "addr:postcode": "48603-720",
+      "addr:street": "Rua Artur de Brito",
+      "addr:suburb": "Jardim Aeroporto",
+      "disused": "yes",
+      "disused:building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0158P-8-6",
+      "old_name": "Estabelecimento Vago"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.247149,-9.40763]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467773",
+      "addr:housenumber": "90",
+      "addr:postcode": "48603-724",
+      "addr:street": "Rua Ministro Sérgio Mota",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "construction",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0228P-1-16"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2449153,-9.40544]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467793",
+      "addr:housenumber": "54",
+      "addr:postcode": "48603-732",
+      "addr:street": "Rua Alex Antônio Bezerra da Silva",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2454361,-9.4054711]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467942",
+      "addr:housenumber": "322",
+      "addr:postcode": "48603-726",
+      "addr:street": "Rua Mário Andreazza",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2457123,-9.406518]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467767",
+      "addr:housenumber": "13",
+      "addr:postcode": "48603-730",
+      "addr:street": "Rua Senador Humberto de Lucena",
+      "addr:suburb": "Jardim Aeroporto",
+      "addr:unit": "2 Fundos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2434499,-9.4062373]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467929",
+      "addr:housenumber": "102",
+      "addr:postcode": "48603-724",
+      "addr:street": "Rua Ministro Sérgio Mota",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2448883,-9.406104]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192032994",
+      "addr:housenumber": "61",
+      "addr:postcode": "48603-726",
+      "addr:street": "Rua Mário Andreazza",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2432343,-9.4066735]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27468017",
+      "addr:housenumber": "352",
+      "addr:postcode": "48603-720",
+      "addr:street": "Rua Artur de Brito",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.245617,-9.4070988]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192032468",
+      "addr:housenumber": "72",
+      "addr:postcode": "48603-726",
+      "addr:street": "Rua Mário Andreazza",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2432881,-9.4065663]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27468086",
+      "addr:housenumber": "33",
+      "addr:postcode": "48603-720",
+      "addr:street": "Rua Artur de Brito",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "warehouse",
+      "description": "CNEFE 2022 Depósito",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0158P-8-6"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.245471,-9.407249]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467928",
+      "addr:housenumber": "110",
+      "addr:postcode": "48603-724",
+      "addr:street": "Rua Ministro Sérgio Mota",
+      "addr:suburb": "Jardim Aeroporto",
+      "amenity": "fast_food",
+      "building": "yes",
+      "description": "CNEFE 2022 Lanchonete"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2448925,-9.4061587]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467961",
+      "addr:housenumber": "155",
+      "addr:postcode": "48603-722",
+      "addr:street": "Rua Adélia Xavier Torres",
+      "addr:suburb": "Jardim Aeroporto",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0228P-11-4"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.246098,-9.406115]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192033045",
+      "addr:housenumber": "295 A",
+      "addr:postcode": "48603-726",
+      "addr:street": "Rua Mário Andreazza",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2454457,-9.4066848]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467781",
+      "addr:housenumber": "155",
+      "addr:postcode": "48603-724",
+      "addr:street": "Rua Ministro Sérgio Mota",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2450204,-9.4057286]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467755",
+      "addr:housenumber": "120 A",
+      "addr:postcode": "48603-730",
+      "addr:street": "Rua Senador Humberto de Lucena",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2433894,-9.4065227]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467991",
+      "addr:housenumber": "337",
+      "addr:postcode": "48603-726",
+      "addr:street": "Rua Mário Andreazza",
+      "addr:suburb": "Jardim Aeroporto",
+      "addr:unit": "Casa",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2447788,-9.4066858]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467858",
+      "addr:housenumber": "9",
+      "addr:postcode": "48603-720",
+      "addr:street": "Estrada Para Chácara Regina",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0158P-6-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.246128,-9.412308]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192032726",
+      "addr:housenumber": "150",
+      "addr:postcode": "48603-726",
+      "addr:street": "Rua Mário Andreazza",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2441282,-9.4065547]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467889;27468054-27468055;27468071-27468072;27468075;27468082-27468083;191546816",
+      "addr:housenumber": "350",
+      "addr:postcode": "48603-720",
+      "addr:street": "Rua Artur de Brito",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0158P-8-6"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.245638,-9.4073714]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467905",
+      "addr:housenumber": "8",
+      "addr:postcode": "48603-728",
+      "addr:street": "Travessa Mário Andreazza",
+      "addr:suburb": "Jardim Aeroporto",
+      "addr:unit": "2",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2444352,-9.406382]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192032859",
+      "addr:housenumber": "336",
+      "addr:postcode": "48603-726",
+      "addr:street": "Rua Mário Andreazza",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2457375,-9.4065168]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467771",
+      "addr:housenumber": "120",
+      "addr:postcode": "48603-730",
+      "addr:street": "Rua Senador Humberto de Lucena",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.244186,-9.4060509]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192032573",
+      "addr:housenumber": "31",
+      "addr:postcode": "48603-724",
+      "addr:street": "Rua Ministro Sérgio Mota",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0228P-1-16"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2449332,-9.4052173]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467892",
+      "addr:housenumber": "158",
+      "addr:postcode": "48603-720",
+      "addr:street": "Rua Artur de Brito",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0158P-8-6"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.246178,-9.407402]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467770",
+      "addr:housenumber": "14",
+      "addr:postcode": "48603-730",
+      "addr:street": "Rua Senador Humberto de Lucena",
+      "addr:suburb": "Jardim Aeroporto",
+      "addr:unit": "2",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2436026,-9.4061405]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467772",
+      "addr:housenumber": "10",
+      "addr:postcode": "48603-724",
+      "addr:street": "Rua Ministro Sérgio Mota",
+      "addr:suburb": "Jardim Aeroporto",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0228P-1-16"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2449153,-9.405422]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192032864",
+      "addr:housenumber": "378",
+      "addr:postcode": "48603-726",
+      "addr:street": "Rua Mário Andreazza",
+      "addr:suburb": "Jardim Aeroporto",
+      "addr:unit": "Fundos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2461128,-9.4064527]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467980",
+      "addr:housenumber": "200",
+      "addr:postcode": "48603-720",
+      "addr:street": "Rua Artur de Brito",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.244291,-9.4070884]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467983",
+      "addr:housenumber": "212",
+      "addr:postcode": "48603-720",
+      "addr:street": "Rua Artur de Brito",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.244434,-9.4070885]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192032493",
+      "addr:housenumber": "2",
+      "addr:postcode": "48603-734",
+      "addr:street": "Rua Esperança",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0228P-1-9"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.243962,-9.405611]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467987",
+      "addr:housenumber": "30",
+      "addr:postcode": "48603-724",
+      "addr:street": "Rua Ministro Sérgio Mota",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.244927,-9.4068039]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467916",
+      "addr:housenumber": "41",
+      "addr:postcode": "48603-728",
+      "addr:street": "Travessa Mário Andreazza",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2445586,-9.4060798]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467801",
+      "addr:housenumber": "30",
+      "addr:postcode": "48603-722",
+      "addr:street": "Rua Adélia Xavier Torres",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2466442,-9.4061557]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467846",
+      "addr:housenumber": "32",
+      "addr:postcode": "48603-720",
+      "addr:street": "Rua Artur de Brito",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes",
+      "description": "CNEFE 2022 Oficina de Motos",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0158P-8-6",
+      "shop": "motorcycle_repair"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.245545,-9.407223]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467997",
+      "addr:housenumber": "185",
+      "addr:postcode": "48603-726",
+      "addr:street": "Rua Mário Andreazza",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2443976,-9.4066897]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467783",
+      "addr:housenumber": "30",
+      "addr:postcode": "48603-722",
+      "addr:street": "Rua Adélia Xavier Torres",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2452248,-9.4059485]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467877",
+      "addr:housenumber": "437",
+      "addr:postcode": "48603-720",
+      "addr:street": "Rua Artur de Brito",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0158P-8-6"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.246407,-9.407447]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192032907",
+      "addr:housenumber": "100",
+      "addr:postcode": "48603-722",
+      "addr:street": "Rua Adélia Xavier Torres",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2465364,-9.4064977]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467759",
+      "addr:housenumber": "136",
+      "addr:postcode": "48603-730",
+      "addr:street": "Rua Senador Humberto de Lucena",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2443139,-9.4060327]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467958",
+      "addr:housenumber": "177",
+      "addr:postcode": "48603-722",
+      "addr:street": "Rua Adélia Xavier Torres",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0228P-11-4"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.246232,-9.406136]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467946",
+      "addr:housenumber": "354",
+      "addr:postcode": "48603-726",
+      "addr:street": "Rua Mário Andreazza",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2458708,-9.4065108]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467968",
+      "addr:housenumber": "35",
+      "addr:postcode": "48603-722",
+      "addr:street": "Rua Adélia Xavier Torres",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0228P-11-4"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.245573,-9.405999]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467803",
+      "addr:housenumber": "5",
+      "addr:postcode": "48603-722",
+      "addr:street": "Rua Adélia Xavier Torres",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2466702,-9.4064515]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467953",
+      "addr:housenumber": "20",
+      "addr:postcode": "48603-722",
+      "addr:street": "Rua Adélia Xavier Torres",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0228P-11-4"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.246458,-9.406198]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467989",
+      "addr:housenumber": "23",
+      "addr:postcode": "48603-726",
+      "addr:street": "Rua Mário Andreazza",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "warehouse",
+      "description": "CNEFE 2022 Galpão"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2449132,-9.406665]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467805",
+      "addr:housenumber": "65",
+      "addr:postcode": "48603-722",
+      "addr:street": "Rua Adélia Xavier Torres",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2466468,-9.4066779]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27468030",
+      "addr:housenumber": "70",
+      "addr:postcode": "48603-722",
+      "addr:street": "Rua Adélia Xavier Torres",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.246472,-9.4068212]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467990",
+      "addr:housenumber": "247",
+      "addr:postcode": "48603-726",
+      "addr:street": "Rua Mário Andreazza",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2448609,-9.406685]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467799",
+      "addr:housenumber": "96",
+      "addr:postcode": "48603-732",
+      "addr:street": "Rua Alex Antônio Bezerra da Silva",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2454615,-9.405059]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467802",
+      "addr:housenumber": "15",
+      "addr:postcode": "48603-722",
+      "addr:street": "Rua Adélia Xavier Torres",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2466776,-9.4063798]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467784",
+      "addr:housenumber": "10",
+      "addr:postcode": "48603-722",
+      "addr:street": "Rua Adélia Xavier Torres",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2450657,-9.4059672]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467966",
+      "addr:housenumber": "346",
+      "addr:postcode": "48603-722",
+      "addr:street": "Rua Adélia Xavier Torres",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0228P-11-4"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.245667,-9.406023]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467928",
+      "addr:housenumber": "110",
+      "addr:postcode": "48603-724",
+      "addr:street": "Rua Ministro Sérgio Mota",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.244884799457,-9.4061602613881]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192032899",
+      "addr:housenumber": "49",
+      "addr:postcode": "48603-722",
+      "addr:street": "Rua Adélia Xavier Torres",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0228P-11-4"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.245412,-9.406011]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192032720",
+      "addr:housenumber": "146",
+      "addr:postcode": "48603-726",
+      "addr:street": "Rua Mário Andreazza",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2440291,-9.4065588]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467954",
+      "addr:housenumber": "201",
+      "addr:postcode": "48603-722",
+      "addr:street": "Rua Adélia Xavier Torres",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0228P-11-4"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.246472,-9.406174]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192032655",
+      "addr:housenumber": "19",
+      "addr:postcode": "48603-722",
+      "addr:street": "Rua Adélia Xavier Torres",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2466176,-9.4061367]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467976",
+      "addr:housenumber": "164",
+      "addr:postcode": "48603-720",
+      "addr:street": "Rua Artur de Brito",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2436914,-9.4070792]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467751",
+      "addr:housenumber": "15",
+      "addr:postcode": "48603-730",
+      "addr:street": "Rua Senador Humberto de Lucena",
+      "addr:suburb": "Jardim Aeroporto",
+      "addr:unit": "1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2436866,-9.4061273]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27468037",
+      "addr:housenumber": "353 A",
+      "addr:postcode": "48603-726",
+      "addr:street": "Rua Mário Andreazza",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2460419,-9.406678]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467834-27467835",
+      "addr:housenumber": "33",
+      "addr:postcode": "48603-720",
+      "addr:street": "Estrada Para Chácara Regina",
+      "addr:suburb": "Jardim Aeroporto",
+      "addr:unit": "Chalé",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2454903,-9.4096179]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467956",
+      "addr:housenumber": "145",
+      "addr:postcode": "48603-722",
+      "addr:street": "Rua Adélia Xavier Torres",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0228P-11-4"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.246061,-9.406097]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467908",
+      "addr:housenumber": "131",
+      "addr:postcode": "48603-730",
+      "addr:street": "Rua Senador Humberto de Lucena",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.24428,-9.4061957]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467914",
+      "addr:housenumber": "91",
+      "addr:postcode": "48603-730",
+      "addr:street": "Rua Senador Humberto de Lucena",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2439325,-9.406242]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467830",
+      "addr:housenumber": "17",
+      "addr:postcode": "48603-720",
+      "addr:street": "Estrada Para Chácara Regina",
+      "addr:suburb": "Jardim Aeroporto",
+      "addr:unit": "Chalé",
+      "fixme": "Verificar coordenadas",
+      "landuse": "farmyard;orchard",
+      "name": "Chácara Regina",
+      "note": "Fora da área de projeção da face 0500-0158P-6-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.245918746079,-9.4118899000032]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27468041",
+      "addr:housenumber": "349",
+      "addr:postcode": "48603-726",
+      "addr:street": "Rua Mário Andreazza",
+      "addr:suburb": "Jardim Aeroporto",
+      "addr:unit": "Fundos 2",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2458361,-9.4067362]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467902",
+      "addr:housenumber": "158",
+      "addr:postcode": "48603-726",
+      "addr:street": "Rua Mário Andreazza",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2440862,-9.4065564]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467982",
+      "addr:housenumber": "206",
+      "addr:postcode": "48603-720",
+      "addr:street": "Rua Artur de Brito",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.244397,-9.4070885]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467888",
+      "addr:housenumber": "350",
+      "addr:postcode": "48603-720",
+      "addr:street": "Rua Artur de Brito",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "name": "Mercado Barateiro",
+      "note": "Sem face no bayface do IBGE 0500-0158P-8-6",
+      "shop": "supermarket"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.245681,-9.407169]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192032516",
+      "addr:housenumber": "6",
+      "addr:postcode": "48603-736",
+      "addr:street": "1ª Travessa da Rua Esperança",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0228P-1-11"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.244235,-9.405549]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467925",
+      "addr:housenumber": "94",
+      "addr:postcode": "48603-724",
+      "addr:street": "Rua Ministro Sérgio Mota",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2449101,-9.406366]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467918",
+      "addr:housenumber": "23",
+      "addr:postcode": "48603-728",
+      "addr:street": "Travessa Mário Andreazza",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2445408,-9.4063273]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192032580",
+      "addr:housenumber": "225",
+      "addr:postcode": "48603-724",
+      "addr:street": "Rua Ministro Sérgio Mota",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0228P-1-16"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2449354,-9.4051576]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467866",
+      "addr:housenumber": "28",
+      "addr:postcode": "48603-720",
+      "addr:street": "Rua Artur de Brito",
+      "addr:suburb": "Jardim Aeroporto",
+      "addr:unit": "Casa 6",
+      "building": "warehouse",
+      "description": "CNEFE 2022 Depósito",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0158P-8-6"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.245625,-9.407282]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27468088",
+      "addr:housenumber": "277",
+      "addr:postcode": "48603-720",
+      "addr:street": "Rua Artur de Brito",
+      "addr:suburb": "Jardim Aeroporto",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0158P-8-6"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.244779,-9.40708]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192032903",
+      "addr:housenumber": "15",
+      "addr:postcode": "48603-722",
+      "addr:street": "Rua Adélia Xavier Torres",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0228P-11-4"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.245202,-9.40605]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27468008",
+      "addr:housenumber": "93",
+      "addr:postcode": "48603-726",
+      "addr:street": "Rua Mário Andreazza",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2436098,-9.4067271]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467985",
+      "addr:housenumber": "246",
+      "addr:postcode": "48603-720",
+      "addr:street": "Rua Artur de Brito",
+      "addr:suburb": "Jardim Aeroporto",
+      "addr:unit": "Fundos",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.244701,-9.4070347]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467993",
+      "addr:housenumber": "215",
+      "addr:postcode": "48603-726",
+      "addr:street": "Rua Mário Andreazza",
+      "addr:suburb": "Jardim Aeroporto",
+      "addr:unit": "Casa",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2446045,-9.4066876]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467896",
+      "addr:housenumber": "11",
+      "addr:postcode": "48603-730",
+      "addr:street": "Rua Senador Humberto de Lucena",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2435537,-9.4064122]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467941",
+      "addr:housenumber": "314",
+      "addr:postcode": "48603-726",
+      "addr:street": "Rua Mário Andreazza",
+      "addr:suburb": "Jardim Aeroporto",
+      "addr:unit": "Fundos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2455539,-9.406471]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27468016",
+      "addr:housenumber": "342",
+      "addr:postcode": "48603-720",
+      "addr:street": "Rua Artur de Brito",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.245509,-9.4070988]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467873",
+      "addr:housenumber": "100",
+      "addr:postcode": "48603-720",
+      "addr:street": "Rua Artur de Brito",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0158P-8-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.23967,-9.409055]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27468011",
+      "addr:housenumber": "269",
+      "addr:postcode": "48603-720",
+      "addr:street": "Rua Artur de Brito",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2450667,-9.4071223]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192032463",
+      "addr:housenumber": "68",
+      "addr:postcode": "48603-726",
+      "addr:street": "Rua Mário Andreazza",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2432036,-9.4066033]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467739",
+      "addr:housenumber": "26 Sobrado",
+      "addr:postcode": "48603-730",
+      "addr:street": "Rua Senador Humberto de Lucena",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2433906,-9.4063759]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467836",
+      "addr:housenumber": "32",
+      "addr:postcode": "48603-720",
+      "addr:street": "Estrada Para Chácara Regina",
+      "addr:suburb": "Jardim Aeroporto",
+      "addr:unit": "Chalé",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2456212,-9.4102148]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467875",
+      "addr:housenumber": "21",
+      "addr:postcode": "48603-720",
+      "addr:street": "Rua Artur de Brito",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "name": "Vidrotech",
+      "note": "Sem face no bayface do IBGE 0500-0158P-8-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.239492,-9.408911]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27468033",
+      "addr:housenumber": "405",
+      "addr:postcode": "48603-726",
+      "addr:street": "Rua Mário Andreazza",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2462559,-9.4066735]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192032991",
+      "addr:housenumber": "71",
+      "addr:postcode": "48603-726",
+      "addr:street": "Rua Mário Andreazza",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2433606,-9.4067261]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467900",
+      "addr:housenumber": "130",
+      "addr:postcode": "48603-726",
+      "addr:street": "Rua Mário Andreazza",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.243841,-9.4065596]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467744",
+      "addr:housenumber": "80",
+      "addr:postcode": "48603-730",
+      "addr:street": "Rua Senador Humberto de Lucena",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2437162,-9.4061227]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467819;27467845;27467849;27468052;27468069-27468070;27468080-27468081",
+      "addr:housenumber": "6",
+      "addr:postcode": "48603-720",
+      "addr:street": "Rua Artur de Brito",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "construction",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0158P-5-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2475206,-9.4086715]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192032752",
+      "addr:housenumber": "18 B",
+      "addr:postcode": "48603-728",
+      "addr:street": "Travessa Mário Andreazza",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2443915,-9.4063227]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27468022",
+      "addr:housenumber": "404",
+      "addr:postcode": "48603-720",
+      "addr:street": "Rua Artur de Brito",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.246032,-9.407099]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467804",
+      "addr:housenumber": "89",
+      "addr:postcode": "48603-722",
+      "addr:street": "Rua Adélia Xavier Torres",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.24666,-9.406549]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467951",
+      "addr:housenumber": "394",
+      "addr:postcode": "48603-726",
+      "addr:street": "Rua Mário Andreazza",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2463494,-9.406503]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467971",
+      "addr:housenumber": "110",
+      "addr:postcode": "48603-720",
+      "addr:street": "Rua Artur de Brito",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2432803,-9.4070834]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191546824",
+      "addr:housenumber": "323",
+      "addr:postcode": "48603-720",
+      "addr:street": "Rua Artur de Brito",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0158P-8-6"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.245286507692,-9.4072187951224]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467753",
+      "addr:housenumber": "22",
+      "addr:postcode": "48603-730",
+      "addr:street": "Rua Senador Humberto de Lucena",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes",
+      "name": "Mercadinho Isabella",
+      "shop": "convenience"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2445063,-9.4060113]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27468025",
+      "addr:housenumber": "422",
+      "addr:postcode": "48603-720",
+      "addr:street": "Rua Artur de Brito",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 51m 0500-0228P-13-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.246214,-9.406697]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27468015",
+      "addr:housenumber": "330",
+      "addr:postcode": "48603-720",
+      "addr:street": "Rua Artur de Brito",
+      "addr:suburb": "Jardim Aeroporto",
+      "disused:building": "yes",
+      "disused:shop": "yes",
+      "old_name": "Comércio Vazio"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2454161,-9.4070988]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467813",
+      "addr:housenumber": "2",
+      "addr:postcode": "48603-720",
+      "addr:street": "Rua Artur de Brito",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "construction",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0158P-5-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.24916,-9.407343]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192033009",
+      "addr:housenumber": "23",
+      "addr:postcode": "48603-720",
+      "addr:street": "Rua Artur de Brito",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.246011,-9.4070989]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467769",
+      "addr:housenumber": "14",
+      "addr:postcode": "48603-730",
+      "addr:street": "Rua Senador Humberto de Lucena",
+      "addr:suburb": "Jardim Aeroporto",
+      "addr:unit": "3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.243616,-9.4061384]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467970",
+      "addr:housenumber": "110",
+      "addr:postcode": "48603-720",
+      "addr:street": "Rua Artur de Brito",
+      "addr:suburb": "Jardim Aeroporto",
+      "amenity": "internet_cafe",
+      "building": "yes",
+      "name": "Planeta Lan House e Game"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2433126,-9.4070702]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27468087",
+      "addr:housenumber": "337",
+      "addr:postcode": "48603-720",
+      "addr:street": "Rua Artur de Brito",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0158P-8-6"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.245355,-9.407197]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467871",
+      "addr:housenumber": "18",
+      "addr:postcode": "48603-720",
+      "addr:street": "Rua Artur de Brito",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "name": "Metal Cad",
+      "note": "Sem face no bayface do IBGE 0500-0158P-8-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.239556,-9.40903]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467981",
+      "addr:housenumber": "220",
+      "addr:postcode": "48603-720",
+      "addr:street": "Rua Artur de Brito",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.244567,-9.4070886]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467948",
+      "addr:housenumber": "378",
+      "addr:postcode": "48603-726",
+      "addr:street": "Rua Mário Andreazza",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2461192,-9.4065065]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467978",
+      "addr:housenumber": "160",
+      "addr:postcode": "48603-720",
+      "addr:street": "Rua Artur de Brito",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2436361,-9.4070782]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192032862",
+      "addr:housenumber": "372",
+      "addr:postcode": "48603-726",
+      "addr:street": "Rua Mário Andreazza",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2461063,-9.4065067]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467943",
+      "addr:housenumber": "2",
+      "addr:postcode": "48603-726",
+      "addr:street": "Rua Mário Andreazza",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2456453,-9.4065209]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467996",
+      "addr:housenumber": "191",
+      "addr:postcode": "48603-726",
+      "addr:street": "Rua Mário Andreazza",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2444392,-9.4066892]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27468034",
+      "addr:housenumber": "399",
+      "addr:postcode": "48603-726",
+      "addr:street": "Rua Mário Andreazza",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2462178,-9.4066743]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192032956",
+      "addr:housenumber": "236",
+      "addr:postcode": "48603-720",
+      "addr:street": "Rua Artur de Brito",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.244654,-9.4070886]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192032558",
+      "addr:housenumber": "45",
+      "addr:postcode": "48603-734",
+      "addr:street": "Rua Esperança",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0228P-1-15"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.244684,-9.405695]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27468039",
+      "addr:housenumber": "349",
+      "addr:postcode": "48603-726",
+      "addr:street": "Rua Mário Andreazza",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2458359,-9.4066823]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467898",
+      "addr:housenumber": "108 A",
+      "addr:postcode": "48603-726",
+      "addr:street": "Rua Mário Andreazza",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2436632,-9.4065571]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467944",
+      "addr:housenumber": "342",
+      "addr:postcode": "48603-726",
+      "addr:street": "Rua Mário Andreazza",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2459112,-9.4065097]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467837",
+      "addr:housenumber": "31",
+      "addr:postcode": "48603-720",
+      "addr:street": "Estrada Para Chácara Regina",
+      "addr:suburb": "Jardim Aeroporto",
+      "addr:unit": "Chalé",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2457575,-9.410857]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27468095",
+      "addr:housenumber": "6",
+      "addr:postcode": "48603-720",
+      "addr:street": "Rua Artur de Brito",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0158P-8-6"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.246603,-9.407492]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192032534",
+      "addr:housenumber": "9",
+      "addr:postcode": "48603-734",
+      "addr:street": "Rua Esperança",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "construction",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0228P-1-12"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.244399,-9.405719]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467938",
+      "addr:housenumber": "308",
+      "addr:postcode": "48603-726",
+      "addr:street": "Rua Mário Andreazza",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2455302,-9.4065261]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467818;27468091",
+      "addr:housenumber": "4",
+      "addr:postcode": "48603-720",
+      "addr:street": "Rua Artur de Brito",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "construction",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0158P-5-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.248337,-9.407531]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27468076",
+      "addr:housenumber": "36",
+      "addr:postcode": "48603-720",
+      "addr:street": "Rua Artur de Brito",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0158P-8-6"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.245223,-9.407185]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467950",
+      "addr:housenumber": "388",
+      "addr:postcode": "48603-726",
+      "addr:street": "Rua Mário Andreazza",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2461434,-9.4065062]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467868",
+      "addr:housenumber": "52",
+      "addr:postcode": "48603-720",
+      "addr:street": "Rua Artur de Brito",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "garage",
+      "description": "CNEFE 2022 Garagem e Abrigo de Animais",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0158P-8-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.239333,-9.408838]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27468001",
+      "addr:housenumber": "161 D",
+      "addr:postcode": "48603-726",
+      "addr:street": "Rua Mário Andreazza",
+      "addr:suburb": "Jardim Aeroporto",
+      "addr:unit": "Casa 3",
+      "building": "yes",
+      "name": "Ponto Comercial",
+      "shop": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2443253,-9.4066904]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192032498",
+      "addr:housenumber": "45",
+      "addr:postcode": "48603-736",
+      "addr:street": "1ª Travessa da Rua Esperança",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0228P-1-10"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.244243,-9.405669]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467757",
+      "addr:housenumber": "126",
+      "addr:postcode": "48603-730",
+      "addr:street": "Rua Senador Humberto de Lucena",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.244262,-9.4060401]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467904",
+      "addr:housenumber": "171",
+      "addr:postcode": "48603-726",
+      "addr:street": "Rua Mário Andreazza",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2443857,-9.4065513]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467974",
+      "addr:housenumber": "154",
+      "addr:postcode": "48603-720",
+      "addr:street": "Rua Artur de Brito",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.243508,-9.4070761]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192032817",
+      "addr:housenumber": "23",
+      "addr:postcode": "48603-730",
+      "addr:street": "Rua Senador Humberto de Lucena",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2445996,-9.4060814]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467814-27467816;27467820;27467822-27467823;27468078",
+      "addr:housenumber": "7",
+      "addr:postcode": "48603-720",
+      "addr:street": "Rua Artur de Brito",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "construction",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0158P-5-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2479094,-9.4083891]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467789",
+      "addr:housenumber": "38",
+      "addr:postcode": "48603-732",
+      "addr:street": "Rua Alex Antônio Bezerra da Silva",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2454665,-9.4055714]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467795",
+      "addr:housenumber": "74",
+      "addr:postcode": "48603-732",
+      "addr:street": "Rua Alex Antônio Bezerra da Silva",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2454321,-9.4053557]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467794",
+      "addr:housenumber": "62",
+      "addr:postcode": "48603-732",
+      "addr:street": "Rua Alex Antônio Bezerra da Silva",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2454337,-9.4054032]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467984",
+      "addr:housenumber": "246",
+      "addr:postcode": "48603-720",
+      "addr:street": "Rua Artur de Brito",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.244707,-9.4070886]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192032458",
+      "addr:housenumber": "10",
+      "addr:postcode": "48603-726",
+      "addr:street": "Rua Mário Andreazza",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2431587,-9.4066323]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27468004",
+      "addr:housenumber": "131",
+      "addr:postcode": "48603-726",
+      "addr:street": "Rua Mário Andreazza",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2439538,-9.4067159]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467907",
+      "addr:housenumber": "17",
+      "addr:postcode": "48603-728",
+      "addr:street": "Travessa Mário Andreazza",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2443655,-9.4062396]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27468002",
+      "addr:housenumber": "161 B",
+      "addr:postcode": "48603-726",
+      "addr:street": "Rua Mário Andreazza",
+      "addr:suburb": "Jardim Aeroporto",
+      "addr:unit": "Casa 4",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2442785,-9.4066909]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467912",
+      "addr:housenumber": "13",
+      "addr:postcode": "48603-730",
+      "addr:street": "Rua Senador Humberto de Lucena",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.243851,-9.4062545]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467923",
+      "addr:housenumber": "30",
+      "addr:postcode": "48603-726",
+      "addr:street": "Rua Mário Andreazza",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.244789,-9.406521]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192032528",
+      "addr:housenumber": "60",
+      "addr:postcode": "48603-734",
+      "addr:street": "Rua Esperança",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0228P-1-12"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.244298,-9.4057]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467962",
+      "addr:housenumber": "144",
+      "addr:postcode": "48603-722",
+      "addr:street": "Rua Adélia Xavier Torres",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0228P-11-4"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.246033,-9.406118]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467924",
+      "addr:housenumber": "11",
+      "addr:postcode": "48603-724",
+      "addr:street": "Rua Ministro Sérgio Mota",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2449344,-9.4064912]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467749",
+      "addr:housenumber": "94 Térreo",
+      "addr:postcode": "48603-730",
+      "addr:street": "Rua Senador Humberto de Lucena",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2438636,-9.4060997]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27467917",
+      "addr:housenumber": "31",
+      "addr:postcode": "48603-728",
+      "addr:street": "Travessa Mário Andreazza",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2445313,-9.4062776]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192032482",
+      "addr:housenumber": "40",
+      "addr:postcode": "48603-734",
+      "addr:street": "Rua Esperança",
+      "addr:suburb": "Jardim Aeroporto",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2441844,-9.4058378]
+      }
+    }
+  ]
+}

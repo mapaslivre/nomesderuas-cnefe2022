@@ -1,0 +1,6108 @@
+{
+  "type": "FeatureCollection",
+  "source": "IBGE CNEFE + Faces de Logradouros - 2022",
+  "generator": "CSV-CNEFE2GeoJSON.lua 1.5.7 - fidelis.assis@gmail.com",
+  "date": "2025-02-02T09:05:28-0300",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763593",
+      "addr:housenumber": "89 B",
+      "addr:postcode": "48609-318",
+      "addr:street": "Rua São Luís",
+      "addr:suburb": "PA IV",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0174P-16-6"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.205666,-9.432924]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763337",
+      "addr:housenumber": "2000",
+      "addr:postcode": "48609-300",
+      "addr:street": "Rua da Independência",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2053961,-9.4350413]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763308",
+      "addr:housenumber": "23",
+      "addr:postcode": "48609-302",
+      "addr:street": "Rua Chafariz",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2050942,-9.4341401]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357342",
+      "addr:housenumber": "18",
+      "addr:postcode": "48609-322",
+      "addr:street": "Rua do Flamengo",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.20531,-9.4331745]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216227421",
+      "addr:housenumber": "69",
+      "addr:postcode": "48609-312",
+      "addr:street": "Travessa Juazeiro",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2047096,-9.4331346]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357115",
+      "addr:housenumber": "199 A",
+      "addr:postcode": "48609-236",
+      "addr:street": "Rua Palmares",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2073538,-9.4357716]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357189",
+      "addr:housenumber": "157",
+      "addr:postcode": "48609-226",
+      "addr:street": "Rua Barão de Mauá",
+      "addr:suburb": "PA IV",
+      "addr:unit": "Fundos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2104989,-9.4354844]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763549",
+      "addr:housenumber": "11",
+      "addr:postcode": "48611-274",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2051783,-9.4321373]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763700",
+      "addr:housenumber": "34",
+      "addr:postcode": "48609-318",
+      "addr:street": "Travessa São Luís",
+      "addr:suburb": "PA IV",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0174P-20-5"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.205972,-9.432873]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357310",
+      "addr:housenumber": "243",
+      "addr:postcode": "48609-305",
+      "addr:street": "Rua Dom Pedro 1",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2048486,-9.4342682]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357357",
+      "addr:housenumber": "77",
+      "addr:postcode": "48609-322",
+      "addr:street": "Rua do Flamengo",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2053923,-9.4335819]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368980",
+      "addr:housenumber": "362",
+      "addr:postcode": "48609-305",
+      "addr:street": "Rua Dom Pedro I",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2047801,-9.4335094]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763274",
+      "addr:housenumber": "33",
+      "addr:postcode": "48609-116",
+      "addr:street": "Rua Nova",
+      "addr:suburb": "PA IV",
+      "building": "construction",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0174P-3-6"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.20842,-9.435339]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763649",
+      "addr:housenumber": "6",
+      "addr:postcode": "48609-318",
+      "addr:street": "Travessa São Luís",
+      "addr:suburb": "PA IV",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0174P-20-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.20594,-9.432715]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763342",
+      "addr:housenumber": "1841 B",
+      "addr:postcode": "48609-300",
+      "addr:street": "Rua da Independência",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2061559,-9.4356355]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357124",
+      "addr:housenumber": "65",
+      "addr:postcode": "48609-236",
+      "addr:street": "Rua Palmares",
+      "addr:suburb": "PA IV",
+      "building": "yes",
+      "name": "Mini Mercearia da Naza",
+      "shop": "convenience"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2083693,-9.4359271]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763266",
+      "addr:housenumber": "26",
+      "addr:postcode": "48609-116",
+      "addr:street": "Rua Nova",
+      "addr:suburb": "PA IV",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0174P-3-6"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.208594,-9.435364]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27369014",
+      "addr:housenumber": "119",
+      "addr:postcode": "48609-316",
+      "addr:street": "Rua José Alves",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2048168,-9.4323147]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357395",
+      "addr:housenumber": "24",
+      "addr:postcode": "48611-274",
+      "addr:street": "Rodovia BR-110",
+      "addr:suburb": "PA IV",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 113m 0500-0174P-15-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.201134,-9.425905]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357100",
+      "addr:housenumber": "42",
+      "addr:postcode": "48609-236",
+      "addr:street": "Rua Palmares",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2085451,-9.436084]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763605",
+      "addr:housenumber": "31",
+      "addr:postcode": "48609-318",
+      "addr:street": "Rua São Luís",
+      "addr:suburb": "PA IV",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0174P-16-6"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.206111,-9.433068]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357083",
+      "addr:housenumber": "2",
+      "addr:postcode": "48609-236",
+      "addr:street": "Travessa Palmares",
+      "addr:suburb": "PA IV",
+      "addr:unit": "Casa 2",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2072758,-9.4352822]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357053",
+      "addr:housenumber": "37",
+      "addr:postcode": "48609-226",
+      "addr:street": "Rua Barão de Mauá",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2112074,-9.43569]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763270",
+      "addr:housenumber": "29",
+      "addr:postcode": "48609-116",
+      "addr:street": "Rua Nova",
+      "addr:suburb": "PA IV",
+      "building": "construction",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0174P-3-6"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.208276,-9.435339]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357322",
+      "addr:housenumber": "42",
+      "addr:postcode": "48609-305",
+      "addr:street": "Rua Dom Pedro 1",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2050245,-9.4330929]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357414",
+      "addr:housenumber": "15",
+      "addr:postcode": "48611-274",
+      "addr:street": "Rodovia BR-110",
+      "addr:suburb": "PA IV",
+      "addr:unit": "Entrada",
+      "building": "warehouse",
+      "description": "CNEFE 2022 Galpão de Ração",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 107m 0500-0174P-16-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.202814,-9.430916]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357077",
+      "addr:housenumber": "265",
+      "addr:postcode": "48609-236",
+      "addr:street": "Rua Palmares",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2065634,-9.4354256]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357321",
+      "addr:housenumber": "373",
+      "addr:postcode": "48609-305",
+      "addr:street": "Rua Dom Pedro 1",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2050295,-9.4330556]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191392904",
+      "addr:housenumber": "76",
+      "addr:postcode": "48609-318",
+      "addr:street": "Rua São Luís",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2123675,-9.4290082]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763703",
+      "addr:housenumber": "8",
+      "addr:postcode": "48609-318",
+      "addr:street": "Travessa São Luís",
+      "addr:suburb": "PA IV",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0174P-20-5"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.205958,-9.432913]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357360",
+      "addr:housenumber": "11",
+      "addr:postcode": "48609-302",
+      "addr:street": "Rua do Chafariz",
+      "addr:suburb": "PA IV",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0174P-10-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.205723,-9.433772]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368985",
+      "addr:housenumber": "140",
+      "addr:postcode": "48609-312",
+      "addr:street": "Rua Juazeiro",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2043086,-9.4327622]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368976",
+      "addr:housenumber": "164",
+      "addr:postcode": "48609-305",
+      "addr:street": "Rua Dom Pedro I",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2047306,-9.4338168]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357354",
+      "addr:housenumber": "96",
+      "addr:postcode": "48609-322",
+      "addr:street": "Rua do Flamengo",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2054369,-9.4333388]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357323",
+      "addr:housenumber": "361",
+      "addr:postcode": "48609-305",
+      "addr:street": "Rua Dom Pedro 1",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2050191,-9.4331331]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27369000",
+      "addr:housenumber": "201",
+      "addr:postcode": "48609-314",
+      "addr:street": "Rua Central",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2040687,-9.4333412]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357382",
+      "addr:housenumber": "1",
+      "addr:postcode": "48609-300",
+      "addr:suburb": "PA IV",
+      "building": "industrial",
+      "description": "CNEFE 2022 Fábrica de Ração",
+      "man_made": "works",
+      "product": "animal_feed"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.206867,-9.4251945]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763264",
+      "addr:housenumber": "24",
+      "addr:postcode": "48609-116",
+      "addr:street": "Rua Nova",
+      "addr:suburb": "PA IV",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0174P-3-6"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.208675,-9.43535]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763345",
+      "addr:housenumber": "1841 C",
+      "addr:postcode": "48609-300",
+      "addr:street": "Rua da Independência",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2062688,-9.4357005]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763669",
+      "addr:housenumber": "22",
+      "addr:postcode": "48609-318",
+      "addr:street": "Travessa São Luís",
+      "addr:suburb": "PA IV",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0174P-20-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.205869,-9.432413]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357355",
+      "addr:housenumber": "103",
+      "addr:postcode": "48609-322",
+      "addr:street": "Rua do Flamengo",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2054101,-9.4334849]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763280",
+      "addr:housenumber": "40",
+      "addr:postcode": "48609-116",
+      "addr:street": "Rua Nova",
+      "addr:suburb": "PA IV",
+      "building": "construction",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0174P-3-6"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.209023,-9.435402]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763353",
+      "addr:housenumber": "270",
+      "addr:postcode": "48609-300",
+      "addr:street": "Travessa da Independência",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2065789,-9.4356154]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357055",
+      "addr:housenumber": "191",
+      "addr:postcode": "48609-226",
+      "addr:street": "Rua Barão de Mauá",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.210301,-9.4355385]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357332",
+      "addr:housenumber": "254",
+      "addr:postcode": "48609-305",
+      "addr:street": "Rua Dom Pedro 1",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2048794,-9.433987]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763254",
+      "addr:housenumber": "247",
+      "addr:postcode": "48609-236",
+      "addr:street": "Rua Palmares",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2067737,-9.4357009]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357066",
+      "addr:housenumber": "85",
+      "addr:postcode": "48609-226",
+      "addr:street": "Rua Barão de Mauá",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2114782,-9.4359083]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216227448",
+      "addr:housenumber": "1",
+      "addr:postcode": "48609-312",
+      "addr:street": "Rua Juazeiro",
+      "addr:suburb": "PA IV",
+      "addr:unit": "Casa 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0086P-11-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.204525,-9.433385]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368969",
+      "addr:housenumber": "222",
+      "addr:postcode": "48609-305",
+      "addr:street": "Rua Dom Pedro I",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.204654,-9.4343679]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27369002",
+      "addr:housenumber": "211",
+      "addr:postcode": "48609-314",
+      "addr:street": "Rua Central",
+      "addr:suburb": "PA IV",
+      "addr:unit": "Fundos Fundos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2041916,-9.4335254]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357101",
+      "addr:housenumber": "42 A",
+      "addr:postcode": "48609-236",
+      "addr:street": "Rua Palmares",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2084979,-9.4360809]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216227400",
+      "addr:housenumber": "216",
+      "addr:postcode": "48609-305",
+      "addr:street": "Rua Dom Pedro I",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2046482,-9.4344297]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763272",
+      "addr:housenumber": "31",
+      "addr:postcode": "48609-116",
+      "addr:street": "Rua Nova",
+      "addr:suburb": "PA IV",
+      "building": "construction",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0174P-3-6"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.208278,-9.435341]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27369006",
+      "addr:housenumber": "100",
+      "addr:postcode": "48609-314",
+      "addr:street": "Rua Central",
+      "addr:suburb": "PA IV",
+      "addr:unit": "Barraca 1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2044953,-9.4345604]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357305",
+      "addr:housenumber": "75",
+      "addr:postcode": "48609-302",
+      "addr:street": "Rua Chafariz",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2055668,-9.4339178]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357098",
+      "addr:housenumber": "5",
+      "addr:postcode": "48609-155",
+      "addr:street": "Rua Adauto Pereira",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2088468,-9.4361928]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357123",
+      "addr:housenumber": "91",
+      "addr:postcode": "48609-236",
+      "addr:street": "Rua Palmares",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2081675,-9.4359109]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763278",
+      "addr:housenumber": "71",
+      "addr:postcode": "48609-116",
+      "addr:street": "Rua Nova",
+      "addr:suburb": "PA IV",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0174P-3-6"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.20872,-9.435386]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357120",
+      "addr:housenumber": "145",
+      "addr:postcode": "48609-236",
+      "addr:street": "Rua Palmares",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2076911,-9.4358602]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763242",
+      "addr:housenumber": "1727 B",
+      "addr:postcode": "48609-300",
+      "addr:street": "Rua da Independência",
+      "addr:suburb": "PA IV",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2070712,-9.4360584]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763394",
+      "addr:housenumber": "12",
+      "addr:postcode": "48609-305",
+      "addr:street": "Rua Dom Pedro 1",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2049571,-9.433567]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368971",
+      "addr:housenumber": "250",
+      "addr:postcode": "48609-305",
+      "addr:street": "Rua Dom Pedro I",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2046782,-9.4341428]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357391",
+      "addr:housenumber": "26",
+      "addr:postcode": "48611-274",
+      "addr:street": "Rodovia BR-110",
+      "addr:suburb": "PA IV",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 101m 0500-0174P-15-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.201029,-9.425928]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357306;191763298",
+      "addr:housenumber": "59",
+      "addr:postcode": "48609-302",
+      "addr:street": "Rua Chafariz",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2053079,-9.4340612]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763231",
+      "addr:housenumber": "3",
+      "addr:postcode": "48609-236",
+      "addr:street": "Travessa Palmares",
+      "addr:suburb": "PA IV",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2071296,-9.4354827]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368992",
+      "addr:housenumber": "285",
+      "addr:postcode": "48609-314",
+      "addr:street": "Rua Central",
+      "addr:suburb": "PA IV",
+      "addr:unit": "Fundos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.20388,-9.4326442]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763258",
+      "addr:housenumber": "107 A",
+      "addr:postcode": "48609-236",
+      "addr:street": "Rua Palmares",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2079854,-9.4358964]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357345",
+      "addr:housenumber": "16",
+      "addr:postcode": "48609-322",
+      "addr:street": "Rua do Flamengo",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2053302,-9.4330664]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357085",
+      "addr:housenumber": "1789",
+      "addr:postcode": "48609-300",
+      "addr:street": "Rua da Independência",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2066642,-9.4359026]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357341",
+      "addr:housenumber": "151",
+      "addr:postcode": "48609-322",
+      "addr:street": "Rua do Flamengo",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2052888,-9.4332877]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357091",
+      "addr:housenumber": "1663",
+      "addr:postcode": "48609-300",
+      "addr:street": "Rua da Independência",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2076478,-9.4361988]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27369019",
+      "addr:housenumber": "56",
+      "addr:postcode": "48609-305",
+      "addr:street": "Rua Dom Pedro I",
+      "addr:suburb": "PA IV",
+      "addr:unit": "Casa 1",
+      "building": "warehouse",
+      "description": "CNEFE 2022 Depósito Engetec"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2044975,-9.4359078]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27369012",
+      "addr:housenumber": "1",
+      "addr:postcode": "48609-305",
+      "addr:street": "Rua Dom Pedro I",
+      "addr:suburb": "PA IV",
+      "amenity": "school",
+      "building": "yes",
+      "name": "Escola Municipal Antônio Bispo Cavalcante"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2049017,-9.4326344]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357396",
+      "addr:housenumber": "23",
+      "addr:postcode": "48611-274",
+      "addr:street": "Rodovia BR-110",
+      "addr:suburb": "PA IV",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 102m 0500-0174P-15-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.201019,-9.425869]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763243",
+      "addr:housenumber": "25",
+      "addr:postcode": "48609-300",
+      "addr:street": "Rua da Independência",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2072876,-9.43612]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368970",
+      "addr:housenumber": "223",
+      "addr:postcode": "48609-305",
+      "addr:street": "Rua Dom Pedro I",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2046697,-9.4342004]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763349",
+      "addr:housenumber": "1813",
+      "addr:postcode": "48609-300",
+      "addr:street": "Rua da Independência",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2064418,-9.4358207]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763290",
+      "addr:housenumber": "11",
+      "addr:postcode": "48609-302",
+      "addr:street": "Rua Chafariz",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2052808,-9.4340834]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357373",
+      "addr:housenumber": "157",
+      "addr:postcode": "48609-302",
+      "addr:street": "Rua Chafariz",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2060928,-9.4334958]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763665",
+      "addr:housenumber": "21",
+      "addr:postcode": "48609-318",
+      "addr:street": "Travessa São Luís",
+      "addr:suburb": "PA IV",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0174P-20-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.205934,-9.432475]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357412",
+      "addr:housenumber": "12",
+      "addr:postcode": "48611-274",
+      "addr:street": "Rodovia BR-110",
+      "addr:suburb": "PA IV",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 106m 0500-0174P-16-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.202799,-9.430894]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368999",
+      "addr:housenumber": "115 B",
+      "addr:postcode": "48609-314",
+      "addr:street": "Rua Central",
+      "addr:suburb": "PA IV",
+      "addr:unit": "Fundos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2043576,-9.4339955]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763244",
+      "addr:housenumber": "1691",
+      "addr:postcode": "48609-300",
+      "addr:street": "Rua da Independência",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2075461,-9.4361796]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357331",
+      "addr:housenumber": "297",
+      "addr:postcode": "48609-305",
+      "addr:street": "Rua Dom Pedro 1",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2049428,-9.4336602]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763275",
+      "addr:housenumber": "86",
+      "addr:postcode": "48609-116",
+      "addr:street": "Rua Nova",
+      "addr:suburb": "PA IV",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0174P-3-6"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.208534,-9.435334]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368983",
+      "addr:housenumber": "368",
+      "addr:postcode": "48609-305",
+      "addr:street": "Rua Dom Pedro I",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2048016,-9.4333754]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357054",
+      "addr:housenumber": "207",
+      "addr:postcode": "48609-226",
+      "addr:street": "Rua Barão de Mauá",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.210185,-9.4355386]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763249",
+      "addr:housenumber": "2",
+      "addr:postcode": "48609-236",
+      "addr:street": "Rua Palmares",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2086156,-9.4360888]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763233",
+      "addr:housenumber": "4",
+      "addr:postcode": "48609-236",
+      "addr:street": "Travessa Palmares",
+      "addr:suburb": "PA IV",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2071586,-9.4354222]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763545",
+      "addr:housenumber": "465",
+      "addr:postcode": "48611-274",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2051544,-9.4322622]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763484",
+      "addr:housenumber": "2",
+      "addr:postcode": "48609-300",
+      "addr:street": "Travessa da Independência",
+      "addr:suburb": "PA IV",
+      "building": "warehouse",
+      "fixme": "Verificar coordenadas",
+      "name": "Galpão de Ferramentas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0174P-12-7"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2051208,-9.4282742]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763427",
+      "addr:housenumber": "50",
+      "addr:postcode": "48609-308",
+      "addr:street": "Rua Josias Gomes dos Santos",
+      "addr:suburb": "PA IV",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0174P-10-5"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.205739,-9.433346]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357333",
+      "addr:housenumber": "253",
+      "addr:postcode": "48609-305",
+      "addr:street": "Rua Dom Pedro 1",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2048551,-9.4340431]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357393",
+      "addr:housenumber": "13",
+      "addr:postcode": "48611-274",
+      "addr:street": "Rodovia BR-110",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2002753,-9.426404]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216227506",
+      "addr:housenumber": "135",
+      "addr:postcode": "48609-312",
+      "addr:street": "Rua Juazeiro",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2044201,-9.4325395]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357370",
+      "addr:housenumber": "69",
+      "addr:postcode": "48609-318",
+      "addr:street": "Rua São Luís",
+      "addr:suburb": "PA IV",
+      "addr:unit": "Anexo",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2056113,-9.4329642]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357124",
+      "addr:housenumber": "65",
+      "addr:postcode": "48609-236",
+      "addr:street": "Rua Palmares",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.208369255828,-9.4359272616562]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763288;191763300",
+      "addr:housenumber": "41",
+      "addr:postcode": "48609-302",
+      "addr:street": "Rua Chafariz",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2056728,-9.433857]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357320",
+      "addr:housenumber": "391",
+      "addr:postcode": "48609-305",
+      "addr:street": "Rua Dom Pedro 1",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2050545,-9.4328712]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357081",
+      "addr:housenumber": "215",
+      "addr:postcode": "48609-236",
+      "addr:street": "Rua Palmares",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2069942,-9.4356427]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763450",
+      "addr:housenumber": "53",
+      "addr:postcode": "48609-308",
+      "addr:street": "Rua Josias Gomes dos Santos",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2058234,-9.4332586]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763656",
+      "addr:housenumber": "11",
+      "addr:postcode": "48609-318",
+      "addr:street": "Travessa São Luís",
+      "addr:suburb": "PA IV",
+      "addr:unit": "Smsb",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0174P-20-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.206095,-9.432636]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763276",
+      "addr:housenumber": "79",
+      "addr:postcode": "48609-116",
+      "addr:street": "Rua Nova",
+      "addr:suburb": "PA IV",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0174P-3-6"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.208578,-9.435333]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763662",
+      "addr:housenumber": "20",
+      "addr:postcode": "48609-318",
+      "addr:street": "Travessa São Luís",
+      "addr:suburb": "PA IV",
+      "building": "construction",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0174P-20-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.205976,-9.432509]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357109",
+      "addr:housenumber": "120",
+      "addr:postcode": "48609-236",
+      "addr:street": "Rua Palmares",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2076782,-9.4359962]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216227453",
+      "addr:housenumber": "4",
+      "addr:postcode": "48609-312",
+      "addr:street": "Rua Juazeiro",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2043917,-9.4329999]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357389",
+      "addr:housenumber": "9",
+      "addr:postcode": "48611-274",
+      "addr:street": "Rodovia BR-110",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2005481,-9.4272096]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763260",
+      "addr:housenumber": "2098",
+      "addr:postcode": "48609-116",
+      "addr:street": "Rua Nova",
+      "addr:suburb": "PA IV",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0174P-3-6"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.208866,-9.435383]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27369013",
+      "addr:housenumber": "4",
+      "addr:postcode": "48609-316",
+      "addr:street": "Rua José Alves",
+      "addr:suburb": "PA IV",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "charismatic;evangelical;pentecostal",
+      "name": "Igreja Missionária Pentecostal da Glória de Deus",
+      "religion": "christian"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2049274,-9.4322517]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357087",
+      "addr:housenumber": "22",
+      "addr:postcode": "48609-300",
+      "addr:street": "Rua da Independência",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2069626,-9.436022]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357317",
+      "addr:housenumber": "203 Térreo",
+      "addr:postcode": "48609-305",
+      "addr:street": "Rua Dom Pedro 1",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2047259,-9.4347147]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357084",
+      "addr:housenumber": "1791",
+      "addr:postcode": "48609-300",
+      "addr:street": "Rua da Independência",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2065907,-9.4358973]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357362",
+      "addr:housenumber": "34",
+      "addr:postcode": "48609-302",
+      "addr:street": "Rua do Chafariz",
+      "addr:suburb": "PA IV",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0174P-10-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.205767,-9.433729]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368989",
+      "addr:housenumber": "130",
+      "addr:postcode": "48609-312",
+      "addr:street": "Rua Juazeiro",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2044529,-9.4330969]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27369005",
+      "addr:housenumber": "204",
+      "addr:postcode": "48609-314",
+      "addr:street": "Rua Central",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2041212,-9.4334898]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27369018",
+      "addr:housenumber": "93",
+      "addr:postcode": "48609-316",
+      "addr:street": "Rua José Alves",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2046166,-9.4323812]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763462",
+      "addr:housenumber": "45",
+      "addr:postcode": "48609-308",
+      "addr:street": "Rua Josias Gomes dos Santos",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2058406,-9.4335085]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357061",
+      "addr:housenumber": "982",
+      "addr:postcode": "48609-226",
+      "addr:street": "Rua Barão de Mauá",
+      "addr:suburb": "PA IV",
+      "addr:unit": "Fundos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2115138,-9.4358599]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191392292",
+      "addr:housenumber": "259",
+      "addr:postcode": "48609-226",
+      "addr:street": "Rua Barão de Mauá",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.209775,-9.4355389]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357080",
+      "addr:housenumber": "221",
+      "addr:postcode": "48609-236",
+      "addr:street": "Rua Palmares",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2069623,-9.435628]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763334",
+      "addr:housenumber": "2010",
+      "addr:postcode": "48609-300",
+      "addr:street": "Rua da Independência",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2051595,-9.4348607]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357187",
+      "addr:housenumber": "141",
+      "addr:postcode": "48609-226",
+      "addr:street": "Rua Barão de Mauá",
+      "addr:suburb": "PA IV",
+      "addr:unit": "Fundos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2107774,-9.4354894]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357129",
+      "addr:housenumber": "21",
+      "addr:postcode": "48609-236",
+      "addr:street": "Rua Palmares",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2088998,-9.4359694]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357315",
+      "addr:housenumber": "203 B",
+      "addr:postcode": "48609-305",
+      "addr:street": "Rua Dom Pedro 1",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2047576,-9.4346788]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763366",
+      "addr:housenumber": "98",
+      "addr:postcode": "48609-236",
+      "addr:street": "Rua Palmares",
+      "addr:suburb": "PA IV",
+      "building": "yes",
+      "fixme": "Confirmar nome",
+      "name": "Baía de Equino"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2062106,-9.435294]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763659",
+      "addr:housenumber": "19",
+      "addr:postcode": "48609-318",
+      "addr:street": "Travessa São Luís",
+      "addr:suburb": "PA IV",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0174P-20-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.206094,-9.432565]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368981",
+      "addr:housenumber": "304",
+      "addr:postcode": "48609-305",
+      "addr:street": "Rua Dom Pedro I",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2047615,-9.4336247]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763567",
+      "addr:housenumber": "36",
+      "addr:postcode": "48609-318",
+      "addr:street": "Rua São Luís",
+      "addr:suburb": "PA IV",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0174P-16-6"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.20529,-9.4327]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216226864",
+      "addr:housenumber": "14",
+      "addr:postcode": "48609-325",
+      "addr:street": "Rua BR-110",
+      "addr:suburb": "PA IV",
+      "building": "yes",
+      "name": "Trevao"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2035861,-9.4361083]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763541",
+      "addr:housenumber": "22",
+      "addr:postcode": "48611-274",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2051496,-9.4322871]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357390",
+      "addr:housenumber": "10",
+      "addr:postcode": "48611-274",
+      "addr:street": "Rodovia BR-110",
+      "addr:suburb": "PA IV",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 91m 0500-0174P-15-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.20092,-9.425901]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368974",
+      "addr:housenumber": "260 B",
+      "addr:postcode": "48609-305",
+      "addr:street": "Rua Dom Pedro I",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2047002,-9.4340061]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191392271",
+      "addr:housenumber": "147",
+      "addr:postcode": "48609-226",
+      "addr:street": "Rua Barão de Mauá",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2107427,-9.4355395]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357056",
+      "addr:housenumber": "287",
+      "addr:postcode": "48609-226",
+      "addr:street": "Rua Barão de Mauá",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2094099,-9.4355392]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763251",
+      "addr:housenumber": "82",
+      "addr:postcode": "48609-236",
+      "addr:street": "Rua Palmares",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2081577,-9.436058]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357058",
+      "addr:housenumber": "269",
+      "addr:postcode": "48609-226",
+      "addr:street": "Rua Barão de Mauá",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2096209,-9.435539]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191392249",
+      "addr:housenumber": "36",
+      "addr:postcode": "48609-226",
+      "addr:street": "Rua Barão de Mauá",
+      "addr:suburb": "PA IV",
+      "addr:unit": "Traco 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.211102,-9.435673]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763679",
+      "addr:housenumber": "24",
+      "addr:postcode": "48609-318",
+      "addr:street": "Travessa São Luís",
+      "addr:suburb": "PA IV",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0174P-20-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.205681,-9.432369]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357329",
+      "addr:housenumber": "291 A",
+      "addr:postcode": "48609-305",
+      "addr:street": "Rua Dom Pedro 1",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2049332,-9.4337232]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763674",
+      "addr:housenumber": "23",
+      "addr:postcode": "48609-318",
+      "addr:street": "Travessa São Luís",
+      "addr:suburb": "PA IV",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0174P-20-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.205673298872,-9.4323705613881]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763689",
+      "addr:housenumber": "31",
+      "addr:postcode": "48609-318",
+      "addr:street": "Travessa São Luís",
+      "addr:suburb": "PA IV",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0174P-20-5"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.206091,-9.43276]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357208",
+      "addr:housenumber": "181",
+      "addr:postcode": "48609-226",
+      "addr:street": "Rua Barão de Mauá",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.210358,-9.4355385]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357302",
+      "addr:housenumber": "33",
+      "addr:postcode": "48609-302",
+      "addr:street": "Rua Chafariz",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2057024,-9.4338399]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763558",
+      "addr:housenumber": "99",
+      "addr:postcode": "48611-274",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2067128,-9.4298432]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357104",
+      "addr:housenumber": "72",
+      "addr:postcode": "48609-236",
+      "addr:street": "Rua Palmares",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2082165,-9.4360619]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357415",
+      "addr:housenumber": "16",
+      "addr:postcode": "48611-274",
+      "addr:street": "Rodovia BR-110",
+      "addr:suburb": "PA IV",
+      "addr:unit": "Entrada",
+      "building": "warehouse",
+      "description": "CNEFE 2022 Galpão de Ração",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 106m 0500-0174P-16-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.202805,-9.430907]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763246",
+      "addr:housenumber": "38",
+      "addr:postcode": "48609-300",
+      "addr:street": "Rua da Independência",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2086937,-9.4362626]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763282",
+      "addr:housenumber": "2010",
+      "addr:postcode": "48610-488",
+      "addr:street": "Rua Adauto Pereira",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2090258,-9.4355913]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357308",
+      "addr:housenumber": "52",
+      "addr:postcode": "48609-302",
+      "addr:street": "Rua Chafariz",
+      "addr:suburb": "PA IV",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2053798,-9.434068]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357088",
+      "addr:housenumber": "1707",
+      "addr:postcode": "48609-300",
+      "addr:street": "Rua da Independência",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2073471,-9.4361343]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191392236",
+      "addr:housenumber": "223",
+      "addr:postcode": "48609-226",
+      "addr:street": "Rua Barão de Mauá",
+      "addr:suburb": "PA IV",
+      "amenity": "car_wash",
+      "building": "yes",
+      "name": "Lava a jato Oliveira"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.210071,-9.4355387]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763294",
+      "addr:housenumber": "13 A",
+      "addr:postcode": "48609-302",
+      "addr:street": "Rua Chafariz",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2052748,-9.4340718]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763390",
+      "addr:housenumber": "310",
+      "addr:postcode": "48609-305",
+      "addr:street": "Rua Dom Pedro 1",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.204958846188,-9.4335719000032]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357059",
+      "addr:housenumber": "165 A",
+      "addr:postcode": "48609-226",
+      "addr:street": "Rua Barão de Mauá",
+      "addr:suburb": "PA IV",
+      "addr:unit": "Frente",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.210589,-9.4355383]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357126",
+      "addr:housenumber": "59",
+      "addr:postcode": "48609-236",
+      "addr:street": "Rua Palmares",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2085132,-9.4359385]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357304",
+      "addr:housenumber": "47",
+      "addr:postcode": "48609-302",
+      "addr:street": "Rua Chafariz",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2056995,-9.4338416]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763581",
+      "addr:housenumber": "50",
+      "addr:postcode": "48609-318",
+      "addr:street": "Rua São Luís",
+      "addr:suburb": "PA IV",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0174P-16-6"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.205463,-9.432785]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763478",
+      "addr:housenumber": "1",
+      "addr:postcode": "48609-300",
+      "addr:street": "Travessa da Independência",
+      "addr:suburb": "PA IV",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 57m 0500-0174P-12-7"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.205596,-9.428501]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357372",
+      "addr:housenumber": "54",
+      "addr:postcode": "48609-302",
+      "addr:street": "Rua Chafariz",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.20607,-9.433503]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368990;27368993",
+      "addr:housenumber": "285",
+      "addr:postcode": "48609-314",
+      "addr:street": "Rua Central",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2037598,-9.4326159]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763312",
+      "addr:housenumber": "201",
+      "addr:postcode": "48609-302",
+      "addr:street": "Rua Chafariz",
+      "addr:suburb": "PA IV",
+      "building": "garage",
+      "description": "CNEFE 2022 Garagem"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2048915,-9.4342039]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357367",
+      "addr:housenumber": "81",
+      "addr:postcode": "48609-318",
+      "addr:street": "Rua São Luís",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2057329,-9.4329955]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357067",
+      "addr:housenumber": "225 A",
+      "addr:postcode": "48609-226",
+      "addr:street": "Rua Barão de Mauá",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.211373,-9.435863]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357348",
+      "addr:housenumber": "41",
+      "addr:postcode": "48609-318",
+      "addr:street": "Rua São Luís",
+      "addr:suburb": "PA IV",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2053436,-9.4328318]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357106",
+      "addr:housenumber": "100",
+      "addr:postcode": "48609-236",
+      "addr:street": "Rua Palmares",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2080824,-9.4360528]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763456",
+      "addr:housenumber": "17",
+      "addr:postcode": "48609-308",
+      "addr:street": "Rua Josias Gomes dos Santos",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2058183,-9.433417]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763325",
+      "addr:housenumber": "202",
+      "addr:postcode": "48609-305",
+      "addr:street": "Rua Dom Pedro 1",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2048212,-9.4344475]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763618",
+      "addr:housenumber": "149",
+      "addr:postcode": "48609-305",
+      "addr:street": "Rua Dom Pedro 1",
+      "addr:suburb": "PA IV",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0174P-16-11"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.205143,-9.431534]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27369009",
+      "addr:housenumber": "105",
+      "addr:postcode": "48609-314",
+      "addr:street": "Rua Central",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2043508,-9.4341356]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763331",
+      "addr:housenumber": "2009",
+      "addr:postcode": "48609-300",
+      "addr:street": "Rua da Independência",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2049878,-9.4347649]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216227521",
+      "addr:housenumber": "54",
+      "addr:postcode": "48609-312",
+      "addr:street": "Rua Juazeiro",
+      "addr:suburb": "PA IV",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0086P-12-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.204536,-9.43335]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357364",
+      "addr:housenumber": "46",
+      "addr:postcode": "48609-308",
+      "addr:street": "Rua Josias Gomes dos Santos",
+      "addr:suburb": "PA IV",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0174P-10-5"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.20575,-9.433522]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357318",
+      "addr:housenumber": "405",
+      "addr:postcode": "48609-305",
+      "addr:street": "Rua Dom Pedro 1",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.205053,-9.4327132]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763255",
+      "addr:housenumber": "18",
+      "addr:postcode": "48609-236",
+      "addr:street": "Rua Palmares",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2067291,-9.4356673]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216226872",
+      "addr:housenumber": "44",
+      "addr:postcode": "48609-305",
+      "addr:street": "Rua Dom Pedro I",
+      "addr:suburb": "PA IV",
+      "amenity": "pub",
+      "building": "yes",
+      "name": "Bar da Xoxa"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2044974,-9.4359329]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357094",
+      "addr:housenumber": "1625",
+      "addr:postcode": "48609-300",
+      "addr:street": "Rua da Independência",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2080911,-9.436252]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763341",
+      "addr:housenumber": "1851 A",
+      "addr:postcode": "48609-300",
+      "addr:street": "Rua da Independência",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2061491,-9.4356314]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357366",
+      "addr:housenumber": "6",
+      "addr:postcode": "48609-308",
+      "addr:street": "Rua Josias Gomes dos Santos",
+      "addr:suburb": "PA IV",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0174P-10-5"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.205742,-9.433256]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357312",
+      "addr:housenumber": "73",
+      "addr:postcode": "48609-305",
+      "addr:street": "Rua Dom Pedro 1",
+      "addr:suburb": "PA IV",
+      "building": "yes",
+      "name": "Barraquinho"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2048141,-9.4344934]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357307",
+      "addr:housenumber": "55",
+      "addr:postcode": "48609-302",
+      "addr:street": "Rua Chafariz",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2054251,-9.4340277]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357052",
+      "addr:housenumber": "111 Térreo",
+      "addr:postcode": "48609-226",
+      "addr:street": "Rua Barão de Mauá",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2109436,-9.4355636]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763292",
+      "addr:housenumber": "12",
+      "addr:postcode": "48609-302",
+      "addr:street": "Rua Chafariz",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.205279,-9.43408]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763303",
+      "addr:housenumber": "67",
+      "addr:postcode": "48609-302",
+      "addr:street": "Rua Chafariz",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2052706,-9.4340644]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763228",
+      "addr:housenumber": "289",
+      "addr:postcode": "48609-236",
+      "addr:street": "Rua Palmares",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2064584,-9.4353726]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763591",
+      "addr:housenumber": "80",
+      "addr:postcode": "48609-318",
+      "addr:street": "Rua São Luís",
+      "addr:suburb": "PA IV",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0174P-16-6"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.205591,-9.432865]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357352",
+      "addr:housenumber": "5",
+      "addr:postcode": "48609-322",
+      "addr:street": "Rua do Flamengo",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2054579,-9.4332244]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763306",
+      "addr:housenumber": "28",
+      "addr:postcode": "48609-302",
+      "addr:street": "Rua Chafariz",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2050197,-9.4341585]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368973",
+      "addr:housenumber": "260",
+      "addr:postcode": "48609-305",
+      "addr:street": "Rua Dom Pedro I",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2046919,-9.4340579]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763340",
+      "addr:housenumber": "1851",
+      "addr:postcode": "48609-300",
+      "addr:street": "Rua da Independência",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2059901,-9.4355321]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357309",
+      "addr:housenumber": "31",
+      "addr:postcode": "48609-302",
+      "addr:street": "Rua Chafariz",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2053446,-9.4340532]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357336",
+      "addr:housenumber": "30",
+      "addr:postcode": "48609-322",
+      "addr:street": "Rua do Flamengo",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2051653,-9.4339593]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357301",
+      "addr:housenumber": "44",
+      "addr:postcode": "48609-302",
+      "addr:street": "Rua Chafariz",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2059335,-9.4337129]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357062",
+      "addr:housenumber": "37 Térreo",
+      "addr:postcode": "48609-226",
+      "addr:street": "Rua Barão de Mauá",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2112869,-9.4357711]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357356",
+      "addr:housenumber": "115",
+      "addr:postcode": "48609-322",
+      "addr:street": "Rua do Flamengo",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2053988,-9.4335466]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763295",
+      "addr:housenumber": "61",
+      "addr:postcode": "48609-302",
+      "addr:street": "Rua Chafariz",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2052061,-9.434123]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357350",
+      "addr:housenumber": "25",
+      "addr:postcode": "48609-318",
+      "addr:street": "Rua São Luís",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2052536,-9.432787]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763339",
+      "addr:housenumber": "1919",
+      "addr:postcode": "48609-300",
+      "addr:street": "Rua da Independência",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2056265,-9.4352544]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763297",
+      "addr:housenumber": "62",
+      "addr:postcode": "48609-302",
+      "addr:street": "Rua Chafariz",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2051952,-9.4341242]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357299",
+      "addr:housenumber": "151",
+      "addr:postcode": "48609-302",
+      "addr:street": "Rua Chafariz",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2060892,-9.4336091]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357073",
+      "addr:housenumber": "311",
+      "addr:postcode": "48609-236",
+      "addr:street": "Rua Palmares",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2062611,-9.4352743]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357313",
+      "addr:housenumber": "203 A",
+      "addr:postcode": "48609-305",
+      "addr:street": "Rua Dom Pedro 1",
+      "addr:suburb": "PA IV",
+      "building": "yes",
+      "description": "CNEFE 2022 Mercadinho",
+      "shop": "convenience"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2047475,-9.4346903]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763576",
+      "addr:housenumber": "13",
+      "addr:postcode": "48609-318",
+      "addr:street": "Rua São Luís",
+      "addr:suburb": "PA IV",
+      "building": "construction",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0174P-16-6"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.205442,-9.432773]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763553",
+      "addr:housenumber": "101",
+      "addr:postcode": "48611-274",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2066983,-9.4298834]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357330",
+      "addr:housenumber": "16",
+      "addr:postcode": "48609-305",
+      "addr:street": "Rua Dom Pedro 1",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2049037,-9.4339163]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216226872",
+      "addr:housenumber": "44",
+      "addr:postcode": "48609-305",
+      "addr:street": "Rua Dom Pedro I",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.204500907984,-9.4359336951224]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216227428",
+      "addr:housenumber": "51",
+      "addr:postcode": "48609-312",
+      "addr:street": "Travessa Juazeiro",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2046455,-9.4331515]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763527",
+      "addr:housenumber": "34",
+      "addr:postcode": "48611-274",
+      "addr:suburb": "PA IV",
+      "building": "warehouse",
+      "description": "CNEFE 2022 Galpão de Ração"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2012055,-9.428037]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357075",
+      "addr:housenumber": "297",
+      "addr:postcode": "48609-236",
+      "addr:street": "Rua Palmares",
+      "addr:suburb": "PA IV",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2063483,-9.4353178]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357334",
+      "addr:housenumber": "285",
+      "addr:postcode": "48609-305",
+      "addr:street": "Rua Dom Pedro 1",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2049121,-9.433861]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763563",
+      "addr:housenumber": "102",
+      "addr:postcode": "48611-274",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2066818,-9.429926]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357365",
+      "addr:housenumber": "25",
+      "addr:postcode": "48609-308",
+      "addr:street": "Rua Josias Gomes dos Santos",
+      "addr:suburb": "PA IV",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0174P-10-5"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.205739,-9.433457]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357353",
+      "addr:housenumber": "123",
+      "addr:postcode": "48609-322",
+      "addr:street": "Rua do Flamengo",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2054434,-9.433303]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357072",
+      "addr:housenumber": "1318",
+      "addr:postcode": "48609-116",
+      "addr:street": "Rua Nova",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2091835,-9.4354995]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368630",
+      "addr:housenumber": "2005 Frente",
+      "addr:postcode": "48609-140",
+      "addr:street": "Rua Padre Lourenço",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2043479,-9.4361403]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357119",
+      "addr:housenumber": "161",
+      "addr:postcode": "48609-236",
+      "addr:street": "Rua Palmares",
+      "addr:suburb": "PA IV",
+      "addr:unit": "Fundos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2074377,-9.4357413]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27369011",
+      "addr:housenumber": "85",
+      "addr:postcode": "48609-314",
+      "addr:street": "Rua Central",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2044242,-9.4343509]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27369001",
+      "addr:housenumber": "200",
+      "addr:postcode": "48609-314",
+      "addr:street": "Rua Central",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2040889,-9.4333983]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357112",
+      "addr:housenumber": "1707",
+      "addr:postcode": "48609-236",
+      "addr:street": "Rua Palmares",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2073539,-9.435919]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216227404",
+      "addr:housenumber": "164",
+      "addr:postcode": "48609-305",
+      "addr:street": "Rua Dom Pedro I",
+      "addr:suburb": "PA IV",
+      "addr:unit": "Fundos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2046672,-9.4338672]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357089",
+      "addr:housenumber": "27",
+      "addr:postcode": "48609-300",
+      "addr:street": "Rua da Independência",
+      "addr:suburb": "PA IV",
+      "building": "yes",
+      "description": "CNEFE 2022 Mercadinho",
+      "shop": "convenience"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.207351887717,-9.436126922981]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368977",
+      "addr:housenumber": "305 B",
+      "addr:postcode": "48609-305",
+      "addr:street": "Rua Dom Pedro I",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2047497,-9.4336983]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357092",
+      "addr:housenumber": "1663 A",
+      "addr:postcode": "48609-300",
+      "addr:street": "Rua da Independência",
+      "addr:suburb": "PA IV",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2077713,-9.4362163]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357329",
+      "addr:housenumber": "291 A",
+      "addr:postcode": "48609-305",
+      "addr:street": "Rua Dom Pedro 1",
+      "addr:suburb": "PA IV",
+      "building": "yes",
+      "description": "CNEFE 2022 Barbearia",
+      "hairdresser": "barber",
+      "shop": "hairdresser"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.204924958694,-9.4337195955181]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763386",
+      "addr:housenumber": "388",
+      "addr:postcode": "48609-305",
+      "addr:street": "Rua Dom Pedro 1",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2050083,-9.4332125]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357076",
+      "addr:housenumber": "281",
+      "addr:postcode": "48609-236",
+      "addr:street": "Rua Palmares",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2065408,-9.4354138]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763279",
+      "addr:housenumber": "63",
+      "addr:postcode": "48609-116",
+      "addr:street": "Rua Nova",
+      "addr:suburb": "PA IV",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0174P-3-6"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.208864,-9.435352]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763364",
+      "addr:housenumber": "97",
+      "addr:postcode": "48609-236",
+      "addr:street": "Rua Palmares",
+      "addr:suburb": "PA IV",
+      "building": "garage",
+      "description": "CNEFE 2022 Garagem"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2062274,-9.4354297]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763259",
+      "addr:housenumber": "65 B",
+      "addr:postcode": "48609-236",
+      "addr:street": "Rua Palmares",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2084468,-9.4359332]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763601",
+      "addr:housenumber": "92",
+      "addr:postcode": "48609-318",
+      "addr:street": "Rua São Luís",
+      "addr:suburb": "PA IV",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0174P-16-6"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.205779,-9.432948]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763250",
+      "addr:housenumber": "31",
+      "addr:postcode": "48609-236",
+      "addr:street": "Rua Palmares",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2083374,-9.4360701]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357118",
+      "addr:housenumber": "161 Frente",
+      "addr:postcode": "48609-236",
+      "addr:street": "Rua Palmares",
+      "addr:suburb": "PA IV",
+      "amenity": "pub",
+      "building": "yes",
+      "description": "CNEFE 2022 Bar"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2075041,-9.4358179]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357105",
+      "addr:housenumber": "90",
+      "addr:postcode": "48609-236",
+      "addr:street": "Rua Palmares",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2081107,-9.4360548]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357086",
+      "addr:housenumber": "176",
+      "addr:postcode": "48609-300",
+      "addr:street": "Rua da Independência",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2067398,-9.4359352]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357122",
+      "addr:housenumber": "107",
+      "addr:postcode": "48609-236",
+      "addr:street": "Rua Palmares",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.20799,-9.4358968]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357121",
+      "addr:housenumber": "125",
+      "addr:postcode": "48609-236",
+      "addr:street": "Rua Palmares",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2078107,-9.4358825]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368979",
+      "addr:housenumber": "381",
+      "addr:postcode": "48609-305",
+      "addr:street": "Rua Dom Pedro I",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2047772,-9.4335273]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357347",
+      "addr:housenumber": "41 Térreo",
+      "addr:postcode": "48609-318",
+      "addr:street": "Rua São Luís",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2053904,-9.4328247]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368626",
+      "addr:housenumber": "2031",
+      "addr:postcode": "48609-140",
+      "addr:street": "Rua Padre Lourenço",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2041026,-9.4362369]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763262",
+      "addr:housenumber": "22",
+      "addr:postcode": "48609-116",
+      "addr:street": "Rua Nova",
+      "addr:suburb": "PA IV",
+      "building": "construction",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0174P-3-6"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.208809,-9.435436]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357337",
+      "addr:housenumber": "86",
+      "addr:postcode": "48609-322",
+      "addr:street": "Rua do Flamengo",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2052192,-9.4336591]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763622",
+      "addr:housenumber": "9",
+      "addr:postcode": "48609-300",
+      "addr:suburb": "PA IV",
+      "building": "yes",
+      "name": "Netuno"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2068682,-9.4203097]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357064",
+      "addr:housenumber": "100",
+      "addr:postcode": "48609-226",
+      "addr:street": "Rua Barão de Mauá",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2112098,-9.4356878]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357319",
+      "addr:housenumber": "397",
+      "addr:postcode": "48609-305",
+      "addr:street": "Rua Dom Pedro 1",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2050605,-9.4328264]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357057",
+      "addr:housenumber": "239",
+      "addr:postcode": "48609-226",
+      "addr:street": "Rua Barão de Mauá",
+      "addr:suburb": "PA IV",
+      "addr:unit": "Depósito",
+      "building": "warehouse",
+      "description": "CNEFE 2022 Depósito da Igreja"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.20996,-9.4355388]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357324",
+      "addr:housenumber": "349",
+      "addr:postcode": "48609-305",
+      "addr:street": "Rua Dom Pedro 1",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2050034,-9.4332493]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763322",
+      "addr:housenumber": "70",
+      "addr:postcode": "48609-305",
+      "addr:street": "Rua Dom Pedro 1",
+      "addr:suburb": "PA IV",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "pentecostal",
+      "name": "Igreja Pentecostal Puro Nardo",
+      "religion": "christian"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2048346,-9.4343603]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763359",
+      "addr:housenumber": "280",
+      "addr:postcode": "48609-236",
+      "addr:street": "Rua Palmares",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2063778,-9.4355048]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763356",
+      "addr:housenumber": "282",
+      "addr:postcode": "48609-236",
+      "addr:street": "Rua Palmares",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.206437,-9.4355344]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357107",
+      "addr:housenumber": "110",
+      "addr:postcode": "48609-236",
+      "addr:street": "Rua Palmares",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2078253,-9.4360244]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357110",
+      "addr:housenumber": "140",
+      "addr:postcode": "48609-236",
+      "addr:street": "Rua Palmares",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2077021,-9.436001]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357103",
+      "addr:housenumber": "60",
+      "addr:postcode": "48609-236",
+      "addr:street": "Rua Palmares",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.208315,-9.4360685]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216227526",
+      "addr:housenumber": "56",
+      "addr:postcode": "48609-312",
+      "addr:street": "Rua Juazeiro",
+      "addr:suburb": "PA IV",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0086P-12-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.204496,-9.433455]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368984",
+      "addr:housenumber": "369",
+      "addr:postcode": "48609-305",
+      "addr:street": "Rua Dom Pedro I",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2048227,-9.433244]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357099",
+      "addr:housenumber": "41",
+      "addr:postcode": "48609-155",
+      "addr:street": "Rua Adauto Pereira",
+      "addr:suburb": "PA IV",
+      "building": "yes",
+      "name": "Ponto"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2088799,-9.436115]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763267",
+      "addr:housenumber": "2012",
+      "addr:postcode": "48609-116",
+      "addr:street": "Rua Nova",
+      "addr:suburb": "PA IV",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0174P-3-6"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.208518,-9.43536]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763241",
+      "addr:housenumber": "1737",
+      "addr:postcode": "48609-300",
+      "addr:street": "Rua da Independência",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2071105,-9.4360697]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763247",
+      "addr:housenumber": "1",
+      "addr:postcode": "48609-236",
+      "addr:street": "Rua Palmares",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2087883,-9.4361022]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368994",
+      "addr:housenumber": "247",
+      "addr:postcode": "48609-314",
+      "addr:street": "Rua Central",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2039355,-9.4329637]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763472",
+      "addr:housenumber": "2",
+      "addr:postcode": "48609-300",
+      "addr:suburb": "PA IV",
+      "amenity": "fast_food;restaurant",
+      "building": "yes",
+      "name": "Restaurante e Lanchonete Denise Mux"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.206865,-9.4251956]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763245",
+      "addr:housenumber": "1631",
+      "addr:postcode": "48609-300",
+      "addr:street": "Rua da Independência",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2080853,-9.4362515]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216226864",
+      "addr:housenumber": "14",
+      "addr:postcode": "48609-325",
+      "addr:street": "Rua BR-110",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.203599844657,-9.4361061579953]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763271",
+      "addr:housenumber": "30",
+      "addr:postcode": "48609-116",
+      "addr:street": "Rua Nova",
+      "addr:suburb": "PA IV",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0174P-3-6"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.208247,-9.435326]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357392",
+      "addr:housenumber": "12",
+      "addr:postcode": "48611-274",
+      "addr:street": "Rodovia BR-110",
+      "addr:suburb": "PA IV",
+      "building": "yes",
+      "name": "Basílio Som"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2001774,-9.4261149]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357082",
+      "addr:housenumber": "1",
+      "addr:postcode": "48609-236",
+      "addr:street": "Travessa Palmares",
+      "addr:suburb": "PA IV",
+      "addr:unit": "Casa 1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.207271266168,-9.4352972276867]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216227408",
+      "addr:housenumber": "370",
+      "addr:postcode": "48609-305",
+      "addr:street": "Rua Dom Pedro I",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2048791,-9.4330963]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368982",
+      "addr:housenumber": "367",
+      "addr:postcode": "48609-305",
+      "addr:street": "Rua Dom Pedro I",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2048091,-9.4333289]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357111",
+      "addr:housenumber": "160",
+      "addr:postcode": "48609-236",
+      "addr:street": "Rua Palmares",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2074373,-9.4359439]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357102",
+      "addr:housenumber": "3",
+      "addr:postcode": "48609-236",
+      "addr:street": "Rua Palmares",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2084084,-9.4360748]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368628",
+      "addr:housenumber": "2025",
+      "addr:postcode": "48609-140",
+      "addr:street": "Rua Padre Lourenço",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2041025,-9.4362374]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763248",
+      "addr:housenumber": "24",
+      "addr:postcode": "48609-236",
+      "addr:street": "Rua Palmares",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2086828,-9.4360933]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357079",
+      "addr:housenumber": "237",
+      "addr:postcode": "48609-236",
+      "addr:street": "Rua Palmares",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2068572,-9.4355783]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763381",
+      "addr:housenumber": "77",
+      "addr:postcode": "48609-305",
+      "addr:street": "Rua Dom Pedro 1",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2050582,-9.4327406]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763252",
+      "addr:housenumber": "204",
+      "addr:postcode": "48609-236",
+      "addr:street": "Rua Palmares",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2071234,-9.4358476]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763305",
+      "addr:housenumber": "20",
+      "addr:postcode": "48609-302",
+      "addr:street": "Rua Chafariz",
+      "addr:suburb": "PA IV",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2050285,-9.4341556]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27369007",
+      "addr:housenumber": "103",
+      "addr:postcode": "48609-314",
+      "addr:street": "Rua Central",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.204273,-9.4339197]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357074",
+      "addr:housenumber": "293",
+      "addr:postcode": "48609-236",
+      "addr:street": "Rua Palmares",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2063788,-9.4353329]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763226",
+      "addr:housenumber": "291",
+      "addr:postcode": "48609-236",
+      "addr:street": "Rua Palmares",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.206461002153,-9.4353694994432]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763447",
+      "addr:housenumber": "57",
+      "addr:postcode": "48609-308",
+      "addr:street": "Rua Josias Gomes dos Santos",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2058519,-9.4331511]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357114",
+      "addr:housenumber": "14",
+      "addr:postcode": "48609-236",
+      "addr:street": "Rua Palmares",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2072396,-9.4358852]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357078",
+      "addr:housenumber": "251",
+      "addr:postcode": "48609-236",
+      "addr:street": "Rua Palmares",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2067449,-9.4355205]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357108",
+      "addr:housenumber": "116",
+      "addr:postcode": "48609-236",
+      "addr:street": "Rua Palmares",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.207883,-9.4360326]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763257",
+      "addr:housenumber": "199 D",
+      "addr:postcode": "48609-236",
+      "addr:street": "Rua Palmares",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2074537,-9.4358024]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357127",
+      "addr:housenumber": "43",
+      "addr:postcode": "48609-236",
+      "addr:street": "Rua Palmares",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2086098,-9.4359463]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763609",
+      "addr:housenumber": "3",
+      "addr:postcode": "48609-305",
+      "addr:suburb": "PA IV",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0174P-16-9"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.207966,-9.429611]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357363",
+      "addr:housenumber": "48",
+      "addr:postcode": "48609-308",
+      "addr:street": "Rua Josias Gomes dos Santos",
+      "addr:suburb": "PA IV",
+      "addr:unit": "Anexo",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0174P-10-5"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.205732,-9.433393]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763453",
+      "addr:housenumber": "55",
+      "addr:postcode": "48609-308",
+      "addr:street": "Rua Josias Gomes dos Santos",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2058142,-9.4333441]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763263",
+      "addr:housenumber": "2098 A",
+      "addr:postcode": "48609-116",
+      "addr:street": "Rua Nova",
+      "addr:suburb": "PA IV",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0174P-3-6"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.208731,-9.435374]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216227492",
+      "addr:housenumber": "116",
+      "addr:postcode": "48609-314",
+      "addr:street": "Rua Central",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2042777,-9.433933]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357311",
+      "addr:housenumber": "233",
+      "addr:postcode": "48609-305",
+      "addr:street": "Rua Dom Pedro 1",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.20485,-9.43426]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357404",
+      "addr:housenumber": "11",
+      "addr:postcode": "48611-274",
+      "addr:street": "Rodovia BR-110",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.200284,-9.4264296]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357369",
+      "addr:housenumber": "69 A",
+      "addr:postcode": "48609-318",
+      "addr:street": "Rua São Luís",
+      "addr:suburb": "PA IV",
+      "addr:unit": "Anexo",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2055884,-9.4329527]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357338",
+      "addr:housenumber": "92",
+      "addr:postcode": "48609-322",
+      "addr:street": "Rua do Flamengo",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2052359,-9.43357]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763283",
+      "addr:housenumber": "20",
+      "addr:postcode": "48610-488",
+      "addr:street": "Rua Adauto Pereira",
+      "addr:suburb": "PA IV",
+      "building": "garage",
+      "description": "CNEFE 2022 Garagem"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.209055,-9.4355391]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357128",
+      "addr:housenumber": "31",
+      "addr:postcode": "48609-236",
+      "addr:street": "Rua Palmares",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2087937,-9.4359609]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763347",
+      "addr:housenumber": "1827",
+      "addr:postcode": "48609-300",
+      "addr:street": "Rua da Independência",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2062605,-9.4356973]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357071",
+      "addr:housenumber": "1334",
+      "addr:postcode": "48609-116",
+      "addr:street": "Rua Nova",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2093941,-9.4351468]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763300",
+      "addr:housenumber": "41",
+      "addr:postcode": "48609-302",
+      "addr:street": "Rua Chafariz",
+      "addr:suburb": "PA IV",
+      "building": "yes",
+      "name": "Ponto Comercia"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2052724,-9.434067]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191392245",
+      "addr:housenumber": "99",
+      "addr:postcode": "48609-226",
+      "addr:street": "Rua Barão de Mauá",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2113771,-9.4358676]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763684",
+      "addr:housenumber": "22",
+      "addr:postcode": "48609-318",
+      "addr:street": "Travessa São Luís",
+      "addr:suburb": "PA IV",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "name": "Lucas Criador de Porvos",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0174P-20-4"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.206009,-9.432523]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763609",
+      "addr:housenumber": "3",
+      "addr:postcode": "48609-305",
+      "addr:suburb": "PA IV",
+      "building": "warehouse",
+      "description": "CNEFE 2022 Galpão",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0174P-16-9"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.207951377248,-9.4296189347967]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27369010",
+      "addr:housenumber": "100",
+      "addr:postcode": "48609-314",
+      "addr:street": "Rua Central",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2044737,-9.4344891]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763362",
+      "addr:housenumber": "96",
+      "addr:postcode": "48609-236",
+      "addr:street": "Rua Palmares",
+      "addr:suburb": "PA IV",
+      "building": "garage",
+      "description": "CNEFE 2022 Garagem"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2063434,-9.4354876]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368996",
+      "addr:housenumber": "239",
+      "addr:postcode": "48609-314",
+      "addr:street": "Rua Central",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.203976,-9.4330786]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357095",
+      "addr:housenumber": "1607",
+      "addr:postcode": "48609-300",
+      "addr:street": "Rua da Independência",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2083706,-9.4362597]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368997",
+      "addr:housenumber": "223",
+      "addr:postcode": "48609-314",
+      "addr:street": "Rua Central",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2040264,-9.4332214]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368627",
+      "addr:housenumber": "1",
+      "addr:postcode": "48609-140",
+      "addr:street": "Rua Padre Lourenço",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2040509,-9.4361926]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763343",
+      "addr:housenumber": "1841",
+      "addr:postcode": "48609-300",
+      "addr:street": "Rua da Independência",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2061429,-9.4356282]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763443",
+      "addr:housenumber": "113",
+      "addr:postcode": "48609-318",
+      "addr:street": "Rua São Luís",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2059562,-9.4331198]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357358",
+      "addr:housenumber": "7",
+      "addr:postcode": "48609-308",
+      "addr:street": "Rua Josias Gomes dos Santos",
+      "addr:suburb": "PA IV",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0174P-10-5"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.205758,-9.433184]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357326",
+      "addr:housenumber": "325",
+      "addr:postcode": "48609-305",
+      "addr:street": "Rua Dom Pedro 1",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2049892,-9.4333552]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763277",
+      "addr:housenumber": "75",
+      "addr:postcode": "48609-116",
+      "addr:street": "Rua Nova",
+      "addr:suburb": "PA IV",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0174P-3-6"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.208675,-9.435341]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763281",
+      "addr:housenumber": "132",
+      "addr:postcode": "48610-488",
+      "addr:street": "Rua Adauto Pereira",
+      "addr:suburb": "PA IV",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2090125,-9.4357159]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763632",
+      "addr:housenumber": "12",
+      "addr:postcode": "48609-318",
+      "addr:street": "Travessa São Luís",
+      "addr:suburb": "PA IV",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0174P-20-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.205497,-9.432528]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763329",
+      "addr:housenumber": "2008",
+      "addr:postcode": "48609-300",
+      "addr:street": "Rua da Independência",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2049739,-9.4347579]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763645;191763653",
+      "addr:housenumber": "16",
+      "addr:postcode": "48609-318",
+      "addr:street": "Travessa São Luís",
+      "addr:suburb": "PA IV",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0174P-20-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2059,-9.432696]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763585",
+      "addr:housenumber": "60",
+      "addr:postcode": "48609-318",
+      "addr:street": "Rua São Luís",
+      "addr:suburb": "PA IV",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0174P-16-6"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.205491,-9.432828]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27369020",
+      "addr:housenumber": "68",
+      "addr:postcode": "48609-305",
+      "addr:street": "Rua Dom Pedro I",
+      "addr:suburb": "PA IV",
+      "addr:unit": "Casa 1",
+      "building": "yes",
+      "name": "Csbeleira"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2044977,-9.4358079]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357359",
+      "addr:housenumber": "80",
+      "addr:postcode": "48609-302",
+      "addr:street": "Rua do Chafariz",
+      "addr:suburb": "PA IV",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0174P-10-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.205536,-9.433869]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763256",
+      "addr:housenumber": "2",
+      "addr:postcode": "48609-236",
+      "addr:street": "Rua Palmares",
+      "addr:suburb": "PA IV",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 60m 0500-0174P-3-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.207438,-9.435289]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763351",
+      "addr:housenumber": "91",
+      "addr:postcode": "48609-300",
+      "addr:street": "Travessa da Independência",
+      "addr:suburb": "PA IV",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2065436,-9.4356393]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357351",
+      "addr:housenumber": "24",
+      "addr:postcode": "48609-322",
+      "addr:street": "Rua do Flamengo",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2054798,-9.4331048]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357378",
+      "addr:housenumber": "117",
+      "addr:postcode": "48609-318",
+      "addr:street": "Rua São Luís",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2058881,-9.4331041]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763326",
+      "addr:housenumber": "205 A",
+      "addr:postcode": "48609-305",
+      "addr:street": "Rua Dom Pedro 1",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2048061,-9.4345452]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763588",
+      "addr:housenumber": "70",
+      "addr:postcode": "48609-318",
+      "addr:street": "Rua São Luís",
+      "addr:suburb": "PA IV",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0174P-16-6"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.205556,-9.43283]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368972",
+      "addr:housenumber": "222 A",
+      "addr:postcode": "48609-305",
+      "addr:street": "Rua Dom Pedro I",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2046621,-9.4342813]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357090",
+      "addr:housenumber": "1681",
+      "addr:postcode": "48609-300",
+      "addr:street": "Rua da Independência",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2074928,-9.4361689]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357328",
+      "addr:housenumber": "315",
+      "addr:postcode": "48609-305",
+      "addr:street": "Rua Dom Pedro 1",
+      "addr:suburb": "PA IV",
+      "addr:unit": "Fundos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2050122,-9.4335682]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27369020",
+      "addr:housenumber": "68",
+      "addr:postcode": "48609-305",
+      "addr:street": "Rua Dom Pedro I",
+      "addr:suburb": "PA IV",
+      "addr:unit": "Casa 1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.204497831641,-9.4358160963619]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357413",
+      "addr:housenumber": "14",
+      "addr:postcode": "48611-274",
+      "addr:street": "Rodovia BR-110",
+      "addr:suburb": "PA IV",
+      "addr:unit": "Entrada",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 107m 0500-0174P-16-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.202798892308,-9.430906545612]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216226860",
+      "addr:housenumber": "12",
+      "addr:postcode": "48609-325",
+      "addr:street": "Rua BR-110",
+      "addr:suburb": "PA IV",
+      "building": "yes",
+      "name": "Posto de Ensaio Tacógrafos"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2035354,-9.435898]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357298",
+      "addr:housenumber": "40",
+      "addr:postcode": "48609-302",
+      "addr:street": "Rua Chafariz",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2060928,-9.4336021]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27369017",
+      "addr:housenumber": "105",
+      "addr:postcode": "48609-316",
+      "addr:street": "Rua José Alves",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2047411,-9.4323399]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368975",
+      "addr:housenumber": "179",
+      "addr:postcode": "48609-305",
+      "addr:street": "Rua Dom Pedro I",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2047215,-9.4338739]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357339",
+      "addr:housenumber": "112",
+      "addr:postcode": "48609-322",
+      "addr:street": "Rua do Flamengo",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2052759,-9.4333567]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763268",
+      "addr:housenumber": "28",
+      "addr:postcode": "48609-116",
+      "addr:street": "Rua Nova",
+      "addr:suburb": "PA IV",
+      "building": "construction",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0174P-3-6"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.208375,-9.435373]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763367",
+      "addr:housenumber": "99",
+      "addr:postcode": "48609-236",
+      "addr:street": "Rua Palmares",
+      "addr:suburb": "PA IV",
+      "building": "yes",
+      "fixme": "Confirmar nome",
+      "name": "Baía de Equino"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2061976,-9.4353096]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368991",
+      "addr:housenumber": "285",
+      "addr:postcode": "48609-314",
+      "addr:street": "Rua Central",
+      "addr:suburb": "PA IV",
+      "addr:unit": "Anexo",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2038296,-9.4326655]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216227413",
+      "addr:housenumber": "374",
+      "addr:postcode": "48609-305",
+      "addr:street": "Rua Dom Pedro I",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2048314,-9.4331958]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191392240",
+      "addr:housenumber": "25",
+      "addr:postcode": "48609-226",
+      "addr:street": "Rua Barão de Mauá",
+      "addr:suburb": "PA IV",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "catholic",
+      "name": "Igreja Matriz Chama Viva",
+      "religion": "christian"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.209881,-9.4355388]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368626",
+      "addr:housenumber": "2031",
+      "addr:postcode": "48609-140",
+      "addr:street": "Rua Padre Lourenço",
+      "addr:suburb": "PA IV",
+      "amenity": "pub",
+      "building": "yes",
+      "name": "Silvanas Bar"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.204119215596,-9.436239768701]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357097",
+      "addr:housenumber": "1567",
+      "addr:postcode": "48609-300",
+      "addr:street": "Rua da Independência",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2087006,-9.4362627]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368978",
+      "addr:housenumber": "304 A",
+      "addr:postcode": "48609-305",
+      "addr:street": "Rua Dom Pedro I",
+      "addr:suburb": "PA IV",
+      "building": "yes",
+      "name": "Disk Bebidas 0 Grau"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2047491,-9.4337022]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357343",
+      "addr:housenumber": "25",
+      "addr:postcode": "48609-322",
+      "addr:street": "Rua do Flamengo",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2052997,-9.4332296]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216227400",
+      "addr:housenumber": "216",
+      "addr:postcode": "48609-305",
+      "addr:street": "Rua Dom Pedro I",
+      "addr:suburb": "PA IV",
+      "amenity": "fast_food",
+      "building": "yes",
+      "description": "CNEFE 2022 Lanchonete"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.20465338953,-9.4344430733878]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357335",
+      "addr:housenumber": "271",
+      "addr:postcode": "48609-305",
+      "addr:street": "Rua Dom Pedro 1",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2048927,-9.4339562]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357325",
+      "addr:housenumber": "337",
+      "addr:postcode": "48609-305",
+      "addr:street": "Rua Dom Pedro 1",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2049755,-9.433445]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763327",
+      "addr:housenumber": "2023",
+      "addr:postcode": "48609-300",
+      "addr:street": "Rua da Independência",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2049966,-9.4347686]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357113",
+      "addr:housenumber": "180",
+      "addr:postcode": "48609-236",
+      "addr:street": "Rua Palmares",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2073048,-9.4359046]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368978",
+      "addr:housenumber": "304 A",
+      "addr:postcode": "48609-305",
+      "addr:street": "Rua Dom Pedro I",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.204757829767,-9.4337098799755]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357303",
+      "addr:housenumber": "57",
+      "addr:postcode": "48609-302",
+      "addr:street": "Rua Chafariz",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2055734,-9.4339126]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357327",
+      "addr:housenumber": "325 A",
+      "addr:postcode": "48609-305",
+      "addr:street": "Rua Dom Pedro 1",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2049695,-9.4334857]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27369008",
+      "addr:housenumber": "115",
+      "addr:postcode": "48609-314",
+      "addr:street": "Rua Central",
+      "addr:suburb": "PA IV",
+      "addr:unit": "Casa 1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2043604,-9.4341609]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357340",
+      "addr:housenumber": "104",
+      "addr:postcode": "48609-322",
+      "addr:street": "Rua do Flamengo",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2052613,-9.4334345]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763324",
+      "addr:housenumber": "209",
+      "addr:postcode": "48609-305",
+      "addr:street": "Rua Dom Pedro 1",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2048298,-9.4343917]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191392264",
+      "addr:housenumber": "175",
+      "addr:postcode": "48609-226",
+      "addr:street": "Rua Barão de Mauá",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.210388,-9.4355384]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357316",
+      "addr:housenumber": "205",
+      "addr:postcode": "48609-305",
+      "addr:street": "Rua Dom Pedro 1",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2048047,-9.4345542]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763597",
+      "addr:housenumber": "19",
+      "addr:postcode": "48609-318",
+      "addr:street": "Rua São Luís",
+      "addr:suburb": "PA IV",
+      "building": "construction",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0174P-16-6"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.20572,-9.432943]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763697",
+      "addr:housenumber": "33",
+      "addr:postcode": "48609-318",
+      "addr:street": "Travessa São Luís",
+      "addr:suburb": "PA IV",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0174P-20-5"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.205994,-9.432843]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357388",
+      "addr:housenumber": "1709",
+      "addr:postcode": "48611-274",
+      "addr:street": "Rodovia BR-110",
+      "addr:suburb": "PA IV",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 41m 0500-0174P-15-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.200783,-9.426912]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368625",
+      "addr:housenumber": "5000",
+      "addr:postcode": "48609-325",
+      "addr:street": "Rua BR-110",
+      "addr:suburb": "PA IV",
+      "building": "yes",
+      "name": "Socorro Mecânico"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2035474,-9.4359311]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763265",
+      "addr:housenumber": "2010",
+      "addr:postcode": "48609-116",
+      "addr:street": "Rua Nova",
+      "addr:suburb": "PA IV",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0174P-3-6"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.20862,-9.435359]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763253",
+      "addr:housenumber": "15",
+      "addr:postcode": "48609-236",
+      "addr:street": "Rua Palmares",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2070757,-9.4358315]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763273",
+      "addr:housenumber": "32",
+      "addr:postcode": "48609-116",
+      "addr:street": "Rua Nova",
+      "addr:suburb": "PA IV",
+      "building": "construction",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0174P-3-6"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.208409219517,-9.4353471628642]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763404",
+      "addr:housenumber": "82",
+      "addr:postcode": "48609-322",
+      "addr:street": "Rua do Flamengo",
+      "addr:suburb": "PA IV",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "pentecostal",
+      "name": "Assembleia de Deus",
+      "religion": "christian"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2051956,-9.4337853]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368998",
+      "addr:housenumber": "211",
+      "addr:postcode": "48609-314",
+      "addr:street": "Rua Central",
+      "addr:suburb": "PA IV",
+      "addr:unit": "Casa",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2040677,-9.4333382]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357059",
+      "addr:housenumber": "165 A",
+      "addr:postcode": "48609-226",
+      "addr:street": "Rua Barão de Mauá",
+      "addr:suburb": "PA IV",
+      "addr:unit": "Frente",
+      "building": "yes",
+      "name": "Lu Variedades",
+      "shop": "variety_store"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.210588742136,-9.4355371237789]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763637",
+      "addr:housenumber": "14",
+      "addr:postcode": "48609-318",
+      "addr:street": "Travessa São Luís",
+      "addr:suburb": "PA IV",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0174P-20-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.205648,-9.432552]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357344",
+      "addr:housenumber": "27",
+      "addr:postcode": "48609-322",
+      "addr:street": "Rua do Flamengo",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2053388,-9.4330205]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357070",
+      "addr:housenumber": "1314",
+      "addr:postcode": "48609-116",
+      "addr:street": "Rua Nova",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2093166,-9.435219]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357394",
+      "addr:housenumber": "26",
+      "addr:postcode": "48611-274",
+      "addr:street": "Rodovia BR-110",
+      "addr:suburb": "PA IV",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "man_made": "water_works",
+      "name": "Tratamento de Esgoto da Imbasa",
+      "note": "Muito afastado da face: 64m 0500-0174P-15-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.200396,-9.425118]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763694",
+      "addr:housenumber": "32",
+      "addr:postcode": "48609-318",
+      "addr:street": "Travessa São Luís",
+      "addr:suburb": "PA IV",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0174P-20-5"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.206064,-9.432813]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357093",
+      "addr:housenumber": "37",
+      "addr:postcode": "48609-300",
+      "addr:street": "Rua da Independência",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2085643,-9.4362615]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368971",
+      "addr:housenumber": "250",
+      "addr:postcode": "48609-305",
+      "addr:street": "Rua Dom Pedro I",
+      "addr:suburb": "PA IV",
+      "building": "yes",
+      "name": "Lb Jogos",
+      "shop": "bookmaker"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.204672295535,-9.4341564857377]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368968",
+      "addr:housenumber": "30",
+      "addr:postcode": "48609-305",
+      "addr:street": "Rua Dom Pedro I",
+      "addr:suburb": "PA IV",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "catholic",
+      "name": "Igreja Santa Teresinha",
+      "religion": "christian"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2046294,-9.4346306]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357300",
+      "addr:housenumber": "43",
+      "addr:postcode": "48609-302",
+      "addr:street": "Rua Chafariz",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2060004,-9.4336712]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763287",
+      "addr:housenumber": "13",
+      "addr:postcode": "48609-302",
+      "addr:street": "Rua Chafariz",
+      "addr:suburb": "PA IV",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0174P-8-4"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.206273,-9.433257]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357096",
+      "addr:housenumber": "1587",
+      "addr:postcode": "48609-300",
+      "addr:street": "Rua da Independência",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2085534,-9.4362614]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27369016",
+      "addr:housenumber": "113",
+      "addr:postcode": "48609-316",
+      "addr:street": "Rua José Alves",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2048018,-9.4323197]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763613",
+      "addr:housenumber": "400",
+      "addr:postcode": "48609-305",
+      "addr:suburb": "PA IV",
+      "building": "warehouse",
+      "description": "CNEFE 2022 Depósito",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0174P-16-9"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.206824,-9.42737]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216227417",
+      "addr:housenumber": "260 A",
+      "addr:postcode": "48609-305",
+      "addr:street": "Rua Dom Pedro I",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2046956,-9.4340344]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357368",
+      "addr:housenumber": "81 A",
+      "addr:postcode": "48609-318",
+      "addr:street": "Rua São Luís",
+      "addr:suburb": "PA IV",
+      "addr:unit": "Casa",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2056822,-9.4329957]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763627",
+      "addr:housenumber": "11",
+      "addr:postcode": "48609-318",
+      "addr:street": "Travessa São Luís",
+      "addr:suburb": "PA IV",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0174P-20-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.205427,-9.432479]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357349",
+      "addr:housenumber": "28",
+      "addr:postcode": "48609-318",
+      "addr:street": "Rua São Luís",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.205346016768,-9.4328406114057]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191763641",
+      "addr:housenumber": "15",
+      "addr:postcode": "48609-318",
+      "addr:street": "Travessa São Luís",
+      "addr:suburb": "PA IV",
+      "building": "construction",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0174P-20-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.205765,-9.432628]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357387",
+      "addr:housenumber": "25",
+      "addr:postcode": "48611-274",
+      "addr:street": "Rodovia BR-110",
+      "addr:suburb": "PA IV",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 105m 0500-0174P-15-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.20106,-9.425919]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357361",
+      "addr:housenumber": "68",
+      "addr:postcode": "48609-302",
+      "addr:street": "Rua do Chafariz",
+      "addr:suburb": "PA IV",
+      "addr:unit": "Anexo",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0174P-10-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.205411,-9.43389]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357417",
+      "addr:housenumber": "13",
+      "addr:postcode": "48611-274",
+      "addr:street": "Rodovia BR-110",
+      "addr:suburb": "PA IV",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "name": "Armazém de Pipocas",
+      "note": "Muito afastado da face: 107m 0500-0174P-16-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.202814805118,-9.4309056430548]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357416",
+      "addr:housenumber": "4",
+      "addr:postcode": "48611-274",
+      "addr:street": "Rodovia BR-110",
+      "addr:suburb": "PA IV",
+      "addr:unit": "Entrada",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 102m 0500-0174P-16-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.202747,-9.430854]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27357371",
+      "addr:housenumber": "55",
+      "addr:postcode": "48609-318",
+      "addr:street": "Rua São Luís",
+      "addr:suburb": "PA IV",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2055316,-9.4328946]
+      }
+    }
+  ]
+}

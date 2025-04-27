@@ -1,0 +1,1571 @@
+{
+  "type": "FeatureCollection",
+  "generator": "CSV-CNEFE2GeoJSON.lua 1.5.7 - fidelis.assis@gmail.com",
+  "source": "IBGE CNEFE + Faces de Logradouros - 2022",
+  "date": "2025-02-02T09:05:08-0300",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411768",
+      "addr:housenumber": "3",
+      "addr:postcode": "48601-018",
+      "addr:street": "Rodovia BR-110",
+      "addr:suburb": "Barriga",
+      "addr:unit": "Smsa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-146"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.224418,-9.665211]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192023990",
+      "addr:housenumber": "11",
+      "addr:postcode": "48610-488",
+      "addr:street": "Saída Para Rodovia BR-110",
+      "addr:suburb": "Barriga",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-147"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.223212,-9.665221]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413833",
+      "addr:housenumber": "67",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Para O Bogo",
+      "addr:suburb": "Barriga",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0241P-0-95"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.230684,-9.671084]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192023998",
+      "addr:housenumber": "20",
+      "addr:postcode": "48610-488",
+      "addr:street": "Saída Para Rodovia BR-110",
+      "addr:suburb": "Barriga",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-147"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.224777,-9.664777]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411777",
+      "addr:housenumber": "55",
+      "addr:postcode": "48601-018",
+      "addr:street": "Rodovia BR-110",
+      "addr:suburb": "Barriga",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-146"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.225438,-9.669927]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411754",
+      "addr:housenumber": "71",
+      "addr:postcode": "48601-018",
+      "addr:street": "Estrada Para Barriga 2",
+      "addr:suburb": "Barriga",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-152"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.218262,-9.670376]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192023966",
+      "addr:housenumber": "70",
+      "addr:postcode": "48610-488",
+      "addr:street": "Saída Para Rodovia BR-110",
+      "addr:suburb": "Barriga",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-147"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.218574,-9.670071]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192024072",
+      "addr:housenumber": "34",
+      "addr:postcode": "48610-488",
+      "addr:street": "Rodovia BR-110",
+      "addr:suburb": "Barriga",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-158"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.224914,-9.662938]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411746",
+      "addr:housenumber": "62",
+      "addr:postcode": "48601-018",
+      "addr:street": "Saída Para Rodovia BR-110",
+      "addr:suburb": "Barriga",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-151"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.222259,-9.667797]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411749",
+      "addr:housenumber": "65",
+      "addr:postcode": "48601-016",
+      "addr:street": "Saída Para Rodovia BR-110",
+      "addr:suburb": "Barriga",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-148"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.221255,-9.668037]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192023985",
+      "addr:housenumber": "92",
+      "addr:postcode": "48610-488",
+      "addr:street": "Saída Para Rodovia BR-110",
+      "addr:suburb": "Barriga",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-147"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.219413,-9.669695]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192023934",
+      "addr:housenumber": "59",
+      "addr:postcode": "48610-488",
+      "addr:street": "Saída Para Rodovia BR-110",
+      "addr:suburb": "Barriga",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-147"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.225521,-9.669392]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411769",
+      "addr:housenumber": "30",
+      "addr:postcode": "48601-018",
+      "addr:street": "Rodovia BR-110",
+      "addr:suburb": "Barriga",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-146"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.224823,-9.663402]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411793",
+      "addr:housenumber": "41",
+      "addr:postcode": "48601-018",
+      "addr:street": "Rodovia BR-110",
+      "addr:suburb": "Barriga",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-146"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.224718,-9.673303]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192034038",
+      "addr:housenumber": "225",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Barriga",
+      "addr:suburb": "Barriga",
+      "amenity": "animal_breeding",
+      "animal_breeding": "sheep",
+      "crop": "bean;corn",
+      "fixme": "Verificar coordenadas",
+      "landuse": "farmland;farmyard",
+      "name": "Criação de Ovinos e Plantio de Milho e Feijão",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0241P-0-94"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.225743,-9.668267]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192034130",
+      "addr:housenumber": "60 B",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Para O Bogo",
+      "addr:suburb": "Barriga",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0241P-0-95"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.227824,-9.670616]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411770",
+      "addr:housenumber": "7",
+      "addr:postcode": "48601-016",
+      "addr:street": "Rodovia BR-110",
+      "addr:suburb": "Barriga",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-156"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.224258,-9.665195]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411753",
+      "addr:housenumber": "63",
+      "addr:postcode": "48601-018",
+      "addr:street": "Saída Para Rodovia BR-110",
+      "addr:suburb": "Barriga",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-151"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.221632,-9.667074]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411752",
+      "addr:housenumber": "58",
+      "addr:postcode": "48601-018",
+      "addr:street": "Saída Para Rodovia BR-110",
+      "addr:suburb": "Barriga",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-151"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.222307,-9.668759]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192024012",
+      "addr:housenumber": "26",
+      "addr:postcode": "48610-488",
+      "addr:street": "Saída Para Rodovia BR-110",
+      "addr:suburb": "Barriga",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-147"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.224912,-9.664648]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192023896",
+      "addr:housenumber": "43 A",
+      "addr:postcode": "48610-488",
+      "addr:street": "Saída Para Rodovia BR-110",
+      "addr:suburb": "Barriga",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-147"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.22492,-9.672508]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413791",
+      "addr:housenumber": "1",
+      "addr:postcode": "48601-018",
+      "addr:street": "Povoado Barriga",
+      "addr:suburb": "Barriga",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-155"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.225371,-9.667082]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411747",
+      "addr:housenumber": "64",
+      "addr:postcode": "48601-016",
+      "addr:street": "Saída Para Rodovia BR-110",
+      "addr:suburb": "Barriga",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-148"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.221637,-9.667879]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411788",
+      "addr:housenumber": "15",
+      "addr:postcode": "48601-018",
+      "addr:street": "Rodovia BR-110",
+      "addr:suburb": "Barriga",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-146"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.224865,-9.665033]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414042",
+      "addr:housenumber": "130",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Barriga",
+      "addr:suburb": "Barriga",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0241P-0-94"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.225802,-9.670998]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192023924",
+      "addr:housenumber": "54",
+      "addr:postcode": "48610-488",
+      "addr:street": "Saída Para Rodovia BR-110",
+      "addr:suburb": "Barriga",
+      "amenity": "pub",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "name": "Neide Bar e Drisk Galada",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-147"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.225395,-9.670133]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192024047",
+      "addr:housenumber": "49",
+      "addr:postcode": "48610-488",
+      "addr:street": "Estrada Para Barriga 2",
+      "addr:suburb": "Barriga",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-154"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.223286,-9.667486]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192023973",
+      "addr:housenumber": "82",
+      "addr:postcode": "48610-488",
+      "addr:street": "Saída Para Rodovia BR-110",
+      "addr:suburb": "Barriga",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-147"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.218312,-9.670031]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411763",
+      "addr:housenumber": "85",
+      "addr:postcode": "48601-018",
+      "addr:street": "Estrada Para Barriga 2",
+      "addr:suburb": "Barriga",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-152"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.212755,-9.669972]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192034044",
+      "addr:housenumber": "325 C",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Barriga",
+      "addr:suburb": "Barriga",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0241P-0-94"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.225828,-9.668381]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414042",
+      "addr:housenumber": "130",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Barriga",
+      "addr:suburb": "Barriga",
+      "amenity": "animal_breeding",
+      "animal_breeding": "sheep",
+      "crop": "bean;corn",
+      "fixme": "Verificar coordenadas",
+      "landuse": "farmland;farmyard",
+      "name": "Plantio de Milho Feijão e Criação de Ovinos",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0241P-0-94"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.225801955797,-9.6709981616562]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411762",
+      "addr:housenumber": "86",
+      "addr:postcode": "48601-018",
+      "addr:street": "Estrada Para Barriga 2",
+      "addr:suburb": "Barriga",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-152"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.211475,-9.669341]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411758",
+      "addr:housenumber": "89",
+      "addr:postcode": "48601-018",
+      "addr:street": "Estrada Para Barriga 2",
+      "addr:suburb": "Barriga",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-152"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.21148,-9.669346]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112583164",
+      "addr:housenumber": "56",
+      "addr:postcode": "48601-018",
+      "addr:street": "Margens Rodovia BR-110",
+      "addr:suburb": "Barriga",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-149"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.222104,-9.668687]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "109862714",
+      "addr:housenumber": "2 A",
+      "addr:postcode": "48601-018",
+      "addr:street": "Rodovia BR-110",
+      "addr:suburb": "Barriga",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "name": "Quiosk",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-146"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.22537,-9.666727]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411767",
+      "addr:housenumber": "65",
+      "addr:postcode": "48601-018",
+      "addr:street": "Rodovia BR-110",
+      "addr:suburb": "Barriga",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-146"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.221343,-9.667908]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411789",
+      "addr:housenumber": "26",
+      "addr:postcode": "48601-018",
+      "addr:street": "Rodovia BR-110",
+      "addr:suburb": "Barriga",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-146"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.225197,-9.664233]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192024007",
+      "addr:housenumber": "25",
+      "addr:postcode": "48610-488",
+      "addr:street": "Saída Para Rodovia BR-110",
+      "addr:suburb": "Barriga",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-147"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.224413,-9.664783]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411787",
+      "addr:housenumber": "6",
+      "addr:postcode": "48601-016",
+      "addr:street": "Rodovia BR-110",
+      "addr:suburb": "Barriga",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-156"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.224569,-9.66523]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192024017",
+      "addr:housenumber": "26",
+      "addr:postcode": "48610-488",
+      "addr:street": "Saída Para Rodovia BR-110",
+      "addr:suburb": "Barriga",
+      "addr:unit": "Smsa",
+      "amenity": "pub",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "name": "Bar do Paulo",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-147"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.224853,-9.664694]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192024068",
+      "addr:housenumber": "31",
+      "addr:postcode": "48610-488",
+      "addr:street": "Rodovia BR-110",
+      "addr:suburb": "Barriga",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-158"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.225081,-9.663339]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411759",
+      "addr:housenumber": "90",
+      "addr:postcode": "48601-018",
+      "addr:street": "Estrada Para Barriga 2",
+      "addr:suburb": "Barriga",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-152"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.211473,-9.669336]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192023929",
+      "addr:housenumber": "58",
+      "addr:postcode": "48610-488",
+      "addr:street": "Saída Para Rodovia BR-110",
+      "addr:suburb": "Barriga",
+      "amenity": "pub",
+      "building": "yes",
+      "description": "CNEFE 2022 Bar",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-147"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.225343,-9.669534]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411751",
+      "addr:housenumber": "62",
+      "addr:postcode": "48601-016",
+      "addr:street": "Saída Para Rodovia BR-110",
+      "addr:suburb": "Barriga",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-148"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.218035,-9.670951]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192023914",
+      "addr:housenumber": "52",
+      "addr:postcode": "48610-488",
+      "addr:street": "Saída Para Rodovia BR-110",
+      "addr:suburb": "Barriga",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-147"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.225396,-9.67017]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411756",
+      "addr:housenumber": "80",
+      "addr:postcode": "48601-018",
+      "addr:street": "Estrada Para Barriga 2",
+      "addr:suburb": "Barriga",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-152"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.217837,-9.670033]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411765",
+      "addr:housenumber": "78",
+      "addr:postcode": "48601-016",
+      "addr:street": "Estrada Para Barriga 2",
+      "addr:suburb": "Barriga",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-153"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.219026,-9.671392]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411786",
+      "addr:housenumber": "8",
+      "addr:postcode": "48601-018",
+      "addr:street": "Rodovia BR-110",
+      "addr:suburb": "Barriga",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-146"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.224127,-9.665181]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411776",
+      "addr:housenumber": "56",
+      "addr:postcode": "48601-018",
+      "addr:street": "Rodovia BR-110",
+      "addr:suburb": "Barriga",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-146"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.22542,-9.669854]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411779",
+      "addr:housenumber": "58",
+      "addr:postcode": "48601-018",
+      "addr:street": "Rodovia BR-110",
+      "addr:suburb": "Barriga",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-146"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.225453,-9.669512]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112591013",
+      "addr:housenumber": "284 A",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Barriga",
+      "addr:suburb": "Barriga",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0241P-0-94"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.225428,-9.665373]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192024002",
+      "addr:housenumber": "22",
+      "addr:postcode": "48610-488",
+      "addr:street": "Saída Para Rodovia BR-110",
+      "addr:suburb": "Barriga",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-147"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.224526,-9.664786]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192024079",
+      "addr:housenumber": "6",
+      "addr:postcode": "48610-488",
+      "addr:street": "Rodovia BR-110",
+      "addr:suburb": "Barriga",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-158"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.22446,-9.655459]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192034038",
+      "addr:housenumber": "225",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Barriga",
+      "addr:suburb": "Barriga",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0241P-0-94"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.225735293536,-9.6682685613881]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192023919",
+      "addr:housenumber": "53",
+      "addr:postcode": "48610-488",
+      "addr:street": "Saída Para Rodovia BR-110",
+      "addr:suburb": "Barriga",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-147"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.225339,-9.670165]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411782",
+      "addr:housenumber": "5",
+      "addr:postcode": "48601-018",
+      "addr:street": "Rodovia BR-110",
+      "addr:suburb": "Barriga",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-146"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.225327,-9.665833]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411750",
+      "addr:housenumber": "60",
+      "addr:postcode": "48601-016",
+      "addr:street": "Saída Para Rodovia BR-110",
+      "addr:suburb": "Barriga",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-148"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.222732,-9.667687]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192024075",
+      "addr:housenumber": "35",
+      "addr:postcode": "48610-488",
+      "addr:street": "Rodovia BR-110",
+      "addr:suburb": "Barriga",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-158"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.225073,-9.662764]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413789",
+      "addr:housenumber": "200 B",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Barriga",
+      "addr:suburb": "Barriga",
+      "addr:unit": "Casa",
+      "amenity": "animal_breeding",
+      "animal_breeding": "sheep",
+      "crop": "bean;corn",
+      "fixme": "Verificar coordenadas",
+      "landuse": "farmland;farmyard;orchard",
+      "name": "Cultivo de Cajueiros Milho e Feijão Criação de Ovinos",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0241P-0-94",
+      "trees": "cashew_trees"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.226808,-9.664393]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192023941",
+      "addr:housenumber": "60",
+      "addr:postcode": "48610-488",
+      "addr:street": "Saída Para Rodovia BR-110",
+      "addr:suburb": "Barriga",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-147"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.225396,-9.667565]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192023959",
+      "addr:housenumber": "66",
+      "addr:postcode": "48610-488",
+      "addr:street": "Saída Para Rodovia BR-110",
+      "addr:suburb": "Barriga",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-147"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.218809,-9.668442]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192024040",
+      "addr:housenumber": "48",
+      "addr:postcode": "48610-488",
+      "addr:street": "Estrada Para Barriga 2",
+      "addr:suburb": "Barriga",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-154"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.221949,-9.667824]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411748",
+      "addr:housenumber": "55",
+      "addr:postcode": "48601-018",
+      "addr:street": "Saída Para Rodovia BR-110",
+      "addr:suburb": "Barriga",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-151"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.221856,-9.669276]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411764",
+      "addr:housenumber": "76",
+      "addr:postcode": "48601-018",
+      "addr:street": "Estrada Para Barriga 2",
+      "addr:suburb": "Barriga",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-152"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.217891,-9.6714]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411783-27411784",
+      "addr:housenumber": "9",
+      "addr:postcode": "48601-018",
+      "addr:street": "Rodovia BR-110",
+      "addr:suburb": "Barriga",
+      "building": "construction",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-146"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2237895,-9.665192]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411785",
+      "addr:housenumber": "10",
+      "addr:postcode": "48601-018",
+      "addr:street": "Rodovia BR-110",
+      "addr:suburb": "Barriga",
+      "building": "construction",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-146"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.223532,-9.665205]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192023903",
+      "addr:housenumber": "49",
+      "addr:postcode": "48610-488",
+      "addr:street": "Saída Para Rodovia BR-110",
+      "addr:suburb": "Barriga",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-147"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.225248,-9.670653]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192023994",
+      "addr:housenumber": "14",
+      "addr:postcode": "48610-488",
+      "addr:street": "Saída Para Rodovia BR-110",
+      "addr:suburb": "Barriga",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-147"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.223152,-9.665124]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411766",
+      "addr:housenumber": "77",
+      "addr:postcode": "48601-018",
+      "addr:street": "Estrada Para Barriga 2",
+      "addr:suburb": "Barriga",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-152"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.21908,-9.671315]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192034020",
+      "addr:housenumber": "310 B",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Barriga",
+      "addr:suburb": "Barriga",
+      "amenity": "animal_breeding",
+      "animal_breeding": "cow",
+      "crop": "bean;corn",
+      "fixme": "Verificar coordenadas",
+      "landuse": "farmland;farmyard",
+      "name": "Plantio de Milho e Feijão Criação de Bovinos",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0241P-0-94"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.226253,-9.667229]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192024053",
+      "addr:housenumber": "12",
+      "addr:postcode": "48610-488",
+      "addr:street": "Estrada Para Barriga 2",
+      "addr:suburb": "Barriga",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-154"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.222919,-9.665749]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192023890",
+      "addr:housenumber": "43",
+      "addr:postcode": "48610-488",
+      "addr:street": "Saída Para Rodovia BR-110",
+      "addr:suburb": "Barriga",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-147"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.224924,-9.672532]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411795",
+      "addr:housenumber": "2",
+      "addr:postcode": "48601-018",
+      "addr:street": "Rodovia BR-110",
+      "addr:suburb": "Barriga",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-146"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.224894,-9.673822]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192024063",
+      "addr:housenumber": "23",
+      "addr:postcode": "48604-514",
+      "addr:street": "Saída Para Rodovia BR-110",
+      "addr:suburb": "Barriga",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-157"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.224127,-9.664802]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411794",
+      "addr:housenumber": "46",
+      "addr:postcode": "48601-018",
+      "addr:street": "Rodovia BR-110",
+      "addr:suburb": "Barriga",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-146"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.224719,-9.673899]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192024022",
+      "addr:housenumber": "28",
+      "addr:postcode": "48610-488",
+      "addr:street": "Saída Para Rodovia BR-110",
+      "addr:suburb": "Barriga",
+      "building": "construction",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-147"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.22515,-9.663847]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192034130",
+      "addr:housenumber": "60 B",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Para O Bogo",
+      "addr:suburb": "Barriga",
+      "crop": "bean;corn",
+      "fixme": "Verificar coordenadas",
+      "landuse": "farmland",
+      "name": "Plantio de Milho e Feijão",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0241P-0-95"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.227825747405,-9.6706209000032]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192023948",
+      "addr:housenumber": "62",
+      "addr:postcode": "48610-488",
+      "addr:street": "Saída Para Rodovia BR-110",
+      "addr:suburb": "Barriga",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-147"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.223986,-9.667809]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192034136",
+      "addr:housenumber": "70 C",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Para O Bogo",
+      "addr:suburb": "Barriga",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0241P-0-95"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2279,-9.670619]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192023980",
+      "addr:housenumber": "83",
+      "addr:postcode": "48610-488",
+      "addr:street": "Saída Para Rodovia BR-110",
+      "addr:suburb": "Barriga",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-147"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.21923,-9.670373]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413784",
+      "addr:housenumber": "2",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Barriga",
+      "addr:suburb": "Barriga",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0241P-0-94"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.225144,-9.67358]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413789",
+      "addr:housenumber": "200 B",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Barriga",
+      "addr:suburb": "Barriga",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0241P-0-94"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.226811510338,-9.6643937951224]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112580372",
+      "addr:housenumber": "63",
+      "addr:postcode": "48601-018",
+      "addr:street": "Margens Rodovia BR-110",
+      "addr:suburb": "Barriga",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-149"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.222463,-9.668799]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192034020",
+      "addr:housenumber": "310 B",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Barriga",
+      "addr:suburb": "Barriga",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0241P-0-94"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.226257790968,-9.667221622981]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411778",
+      "addr:housenumber": "57",
+      "addr:postcode": "48601-018",
+      "addr:street": "Rodovia BR-110",
+      "addr:suburb": "Barriga",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-146"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.225485,-9.669743]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192023880",
+      "addr:housenumber": "38",
+      "addr:postcode": "48601-018",
+      "addr:street": "Rodovia BR-110",
+      "addr:suburb": "Barriga",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-146"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.225067,-9.662658]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411757",
+      "addr:housenumber": "73",
+      "addr:postcode": "48601-018",
+      "addr:street": "Estrada Para Barriga 2",
+      "addr:suburb": "Barriga",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-152"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.218256,-9.67064]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192023909",
+      "addr:housenumber": "50",
+      "addr:postcode": "48610-488",
+      "addr:street": "Saída Para Rodovia BR-110",
+      "addr:suburb": "Barriga",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-147"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.22532,-9.670607]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411755",
+      "addr:housenumber": "75",
+      "addr:postcode": "48601-018",
+      "addr:street": "Estrada Para Barriga 2",
+      "addr:suburb": "Barriga",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-152"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.218019,-9.670977]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413798",
+      "addr:housenumber": "10 A",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Barriga",
+      "addr:suburb": "Barriga",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0241P-0-94"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.225398,-9.671243]
+      }
+    }
+  ]
+}

@@ -1,0 +1,532 @@
+{
+  "type": "FeatureCollection",
+  "generator": "CSV-CNEFE2GeoJSON.lua 1.5.7 - fidelis.assis@gmail.com",
+  "source": "IBGE CNEFE + Faces de Logradouros - 2022",
+  "date": "2025-02-02T09:05:06-0300",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411045",
+      "addr:housenumber": "2",
+      "addr:postcode": "48601-018",
+      "addr:street": "Povoado Anjico",
+      "addr:suburb": "Anjico",
+      "addr:unit": "Barraca",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-151"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.199748,-9.463421]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411028",
+      "addr:housenumber": "58",
+      "addr:postcode": "48601-018",
+      "addr:street": "Povoado Anjico",
+      "addr:suburb": "Anjico",
+      "addr:unit": "Barraca",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-151"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.19579,-9.457936]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411057",
+      "addr:housenumber": "54",
+      "addr:postcode": "48601-018",
+      "addr:street": "Povoado Anjico",
+      "addr:suburb": "Anjico",
+      "addr:unit": "Barraca",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-151"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.197,-9.464429]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411060",
+      "addr:housenumber": "50",
+      "addr:postcode": "48601-018",
+      "addr:street": "Povoado Anjico",
+      "addr:suburb": "Anjico",
+      "addr:unit": "Barraca",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-151"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.19686,-9.464802]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411025",
+      "addr:housenumber": "16",
+      "addr:postcode": "48601-018",
+      "addr:street": "Povoado Anjico",
+      "addr:suburb": "Anjico",
+      "addr:unit": "Barraca",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-151"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.196281,-9.45783]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411047",
+      "addr:housenumber": "4",
+      "addr:postcode": "48601-018",
+      "addr:street": "Povoado Anjico",
+      "addr:suburb": "Anjico",
+      "addr:unit": "Barraca",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-151"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.19984,-9.463653]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411046",
+      "addr:housenumber": "3",
+      "addr:postcode": "48601-018",
+      "addr:street": "Povoado Anjico",
+      "addr:suburb": "Anjico",
+      "addr:unit": "Barraca",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-151"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.199677,-9.463602]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411029",
+      "addr:housenumber": "57",
+      "addr:postcode": "48601-018",
+      "addr:street": "Povoado Anjico",
+      "addr:suburb": "Anjico",
+      "addr:unit": "Barraca",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-151"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.195796,-9.457921]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411049",
+      "addr:housenumber": "6",
+      "addr:postcode": "48601-018",
+      "addr:street": "Povoado Anjico",
+      "addr:suburb": "Anjico",
+      "addr:unit": "Barraca",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-151"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.19996,-9.464099]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411097",
+      "addr:housenumber": "8",
+      "addr:postcode": "48601-018",
+      "addr:street": "Povoado Anjico",
+      "addr:suburb": "Anjico",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-151"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.197044,-9.457259]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411050",
+      "addr:housenumber": "7",
+      "addr:postcode": "48601-018",
+      "addr:street": "Povoado Anjico",
+      "addr:suburb": "Anjico",
+      "addr:unit": "Barraca",
+      "building": "construction",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-151"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.200006,-9.464146]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411021;27411061",
+      "addr:housenumber": "52",
+      "addr:postcode": "48601-018",
+      "addr:street": "Povoado Anjico",
+      "addr:suburb": "Anjico",
+      "addr:unit": "Barraca",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-151"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.196874,-9.4610825]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411027",
+      "addr:housenumber": "59",
+      "addr:postcode": "48601-018",
+      "addr:street": "Povoado Anjico",
+      "addr:suburb": "Anjico",
+      "addr:unit": "Barraca",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-151"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.195789955825,-9.4579361616562]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411058",
+      "addr:housenumber": "45",
+      "addr:postcode": "48601-018",
+      "addr:street": "Povoado Anjico",
+      "addr:suburb": "Anjico",
+      "addr:unit": "Barraca",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-151"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.196936,-9.464676]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411048",
+      "addr:housenumber": "5",
+      "addr:postcode": "48601-018",
+      "addr:street": "Povoado Anjico",
+      "addr:suburb": "Anjico",
+      "addr:unit": "Barraca",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-151"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.199887,-9.463755]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411041;27411051",
+      "addr:housenumber": "27",
+      "addr:postcode": "48601-018",
+      "addr:street": "Povoado Anjico",
+      "addr:suburb": "Anjico",
+      "addr:unit": "Barraca",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-151"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.1989525,-9.463392]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411023",
+      "addr:housenumber": "20",
+      "addr:postcode": "48601-016",
+      "addr:street": "Povoado Anjico",
+      "addr:suburb": "Anjico",
+      "addr:unit": "Barraca",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-152"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.196469,-9.457545]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411026",
+      "addr:housenumber": "63",
+      "addr:postcode": "48601-018",
+      "addr:street": "Povoado Anjico",
+      "addr:suburb": "Anjico",
+      "addr:unit": "Barraca",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-151"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.196054,-9.457675]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411059",
+      "addr:housenumber": "47",
+      "addr:postcode": "48601-018",
+      "addr:street": "Povoado Anjico",
+      "addr:suburb": "Anjico",
+      "addr:unit": "Barraca",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-151"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.196897,-9.464806]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411031",
+      "addr:housenumber": "64",
+      "addr:postcode": "48601-018",
+      "addr:street": "Povoado Anjico",
+      "addr:suburb": "Anjico",
+      "addr:unit": "Barraca",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-151"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.196037,-9.457643]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411022",
+      "addr:housenumber": "53",
+      "addr:postcode": "48601-018",
+      "addr:street": "Povoado Anjico",
+      "addr:suburb": "Anjico",
+      "addr:unit": "Barraca",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-151"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.19682,-9.457374]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411062",
+      "addr:housenumber": "55",
+      "addr:postcode": "48601-018",
+      "addr:street": "Povoado Anjico",
+      "addr:suburb": "Anjico",
+      "addr:unit": "Barraca",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-151"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.196919,-9.46487]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411052",
+      "addr:housenumber": "26",
+      "addr:postcode": "48601-016",
+      "addr:street": "Povoado Anjico",
+      "addr:suburb": "Anjico",
+      "addr:unit": "Barraca",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-152"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.200089,-9.464269]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411030;27411044",
+      "addr:housenumber": "1",
+      "addr:postcode": "48601-018",
+      "addr:street": "Povoado Anjico",
+      "addr:suburb": "Anjico",
+      "addr:unit": "Barraca",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-151"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.1978345,-9.460421]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411054",
+      "addr:housenumber": "29",
+      "addr:postcode": "48601-018",
+      "addr:street": "Povoado Anjico",
+      "addr:suburb": "Anjico",
+      "addr:unit": "Barraca",
+      "building": "construction",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-151"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.196608,-9.462496]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411053",
+      "addr:housenumber": "28",
+      "addr:postcode": "48601-018",
+      "addr:street": "Povoado Anjico",
+      "addr:suburb": "Anjico",
+      "addr:unit": "Barraca",
+      "amenity": "events_venue",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "name": "Área de Festa",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-151"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.196487,-9.462066]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411063",
+      "addr:housenumber": "51",
+      "addr:postcode": "48601-018",
+      "addr:street": "Povoado Anjico",
+      "addr:suburb": "Anjico",
+      "addr:unit": "Barraca",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-151"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.196843,-9.464758]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411055",
+      "addr:housenumber": "30",
+      "addr:postcode": "48601-018",
+      "addr:street": "Povoado Anjico",
+      "addr:suburb": "Anjico",
+      "addr:unit": "Barraca",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-151"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.19678,-9.463287]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411056",
+      "addr:housenumber": "31",
+      "addr:postcode": "48601-018",
+      "addr:street": "Povoado Anjico",
+      "addr:suburb": "Anjico",
+      "addr:unit": "Barraca",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-151"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.196871,-9.463309]
+      }
+    }
+  ]
+}

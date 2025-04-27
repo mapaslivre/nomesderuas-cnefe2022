@@ -1,0 +1,407 @@
+{
+  "type": "FeatureCollection",
+  "generator": "CSV-CNEFE2GeoJSON.lua 1.5.7 - fidelis.assis@gmail.com",
+  "source": "IBGE CNEFE + Faces de Logradouros - 2022",
+  "date": "2025-02-02T09:05:29-0300",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "109862751",
+      "addr:housenumber": "78",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Mosquito",
+      "addr:suburb": "Paulo Afonso Várzea",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0109P-0-93"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.423639,-9.647693]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112587560",
+      "addr:housenumber": "82",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Raso da Catarina",
+      "addr:suburb": "Paulo Afonso Várzea",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0109P-0-102"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.443008,-9.556807]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112587111",
+      "addr:housenumber": "80",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Várzea Indo para O Raso",
+      "addr:suburb": "Paulo Afonso Várzea",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0109P-0-103"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.443009,-9.556584]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "109862707",
+      "addr:housenumber": "211",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Para O Gavião",
+      "addr:suburb": "Paulo Afonso Várzea",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0109P-0-100"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.435111,-9.553783]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112586582",
+      "addr:housenumber": "379",
+      "addr:postcode": "48601-018",
+      "addr:street": "Estrada Raso da Catarina",
+      "addr:suburb": "Paulo Afonso Várzea",
+      "building": "service",
+      "fixme": "Verificar coordenadas",
+      "man_made": "pumping_station",
+      "name": "Casa de Bomba Hidráulica",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0109P-0-104"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.462384,-9.568269]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "109862699",
+      "addr:housenumber": "45",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Mosquito",
+      "addr:suburb": "Paulo Afonso Várzea",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0109P-0-93"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.411966,-9.640154]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "109862747",
+      "addr:housenumber": "433",
+      "addr:postcode": "48619-899",
+      "addr:street": "Fazenda Cantagalo",
+      "addr:suburb": "Paulo Afonso Várzea",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0109P-0-89"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.443161,-9.557928]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112586568",
+      "addr:housenumber": "165",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Raso da Catarina",
+      "addr:suburb": "Paulo Afonso Várzea",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0109P-0-102"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.434456,-9.553899]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "109862695",
+      "addr:housenumber": "149",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Entre Cantagalo E Poços",
+      "addr:suburb": "Paulo Afonso Várzea",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0109P-0-88"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.435091,-9.553789]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "109862683",
+      "addr:housenumber": "235",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Mosquito",
+      "addr:suburb": "Paulo Afonso Várzea",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "name": "Fazenda Bom Viver",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0109P-0-93",
+      "place": "farm"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.425619,-9.64424]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112586563",
+      "addr:housenumber": "246",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Raso da Catarina",
+      "addr:suburb": "Paulo Afonso Várzea",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0109P-0-102"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.443178,-9.557766]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112587121",
+      "addr:housenumber": "81",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Raso da Catarina",
+      "addr:suburb": "Paulo Afonso Várzea",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0109P-0-102"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.443017,-9.556645]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112586541",
+      "addr:housenumber": "434",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Raso da Catarina",
+      "addr:suburb": "Paulo Afonso Várzea",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0109P-0-102"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.443069,-9.558329]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112586279",
+      "addr:housenumber": "189",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Raso da Catarina",
+      "addr:suburb": "Paulo Afonso Várzea",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0109P-0-102"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.443819,-9.562622]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "109862691",
+      "addr:housenumber": "110",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Entre Cantagalo E Poços",
+      "addr:suburb": "Paulo Afonso Várzea",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0109P-0-88"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.432739,-9.55651]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "109862700",
+      "addr:housenumber": "21 B",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Mosquito",
+      "addr:suburb": "Paulo Afonso Várzea",
+      "addr:unit": "Lado Direito",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "name": "Fazenda Boa Sorte",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0109P-0-93",
+      "place": "farm"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.414878,-9.644774]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112586286",
+      "addr:housenumber": "454",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Raso da Catarina",
+      "addr:suburb": "Paulo Afonso Várzea",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0109P-0-102"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.443912,-9.562844]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112580947",
+      "addr:housenumber": "415",
+      "addr:postcode": "48619-899",
+      "addr:street": "Entrada Estrada da Várzea Até O Povoad",
+      "addr:suburb": "Paulo Afonso Várzea",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0109P-0-101"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.434546,-9.553962]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112580970",
+      "addr:housenumber": "16",
+      "addr:postcode": "48619-899",
+      "addr:street": "Entrada Estrada da Várzea Até O Povoad",
+      "addr:suburb": "Paulo Afonso Várzea",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0109P-0-101"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.443165,-9.557958]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112586555",
+      "addr:housenumber": "244",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Raso da Catarina",
+      "addr:suburb": "Paulo Afonso Várzea",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0109P-0-102"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.443717,-9.562335]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "109862693",
+      "addr:housenumber": "71",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Entre Cantagalo E Poços",
+      "addr:suburb": "Paulo Afonso Várzea",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0109P-0-88"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4326,-9.55664]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "109862753",
+      "addr:housenumber": "40",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Para O Gavião",
+      "addr:suburb": "Paulo Afonso Várzea",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0109P-0-100"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.412035,-9.640221]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "109862700",
+      "addr:housenumber": "21 B",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Mosquito",
+      "addr:suburb": "Paulo Afonso Várzea",
+      "addr:unit": "Lado Direito",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0109P-0-93"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.414877955801,-9.6447741616562]
+      }
+    }
+  ]
+}

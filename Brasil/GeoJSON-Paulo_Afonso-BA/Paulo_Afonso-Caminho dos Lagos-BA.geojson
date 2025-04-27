@@ -1,0 +1,6410 @@
+{
+  "type": "FeatureCollection",
+  "source": "IBGE CNEFE + Faces de Logradouros - 2022",
+  "generator": "CSV-CNEFE2GeoJSON.lua 1.5.7 - fidelis.assis@gmail.com",
+  "date": "2025-02-02T09:05:13-0300",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "215077235",
+      "addr:housenumber": "144",
+      "addr:postcode": "48605-420",
+      "addr:street": "Rua Lago Cristalino",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0067P-18-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.228351,-9.389679]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "223974034",
+      "addr:housenumber": "105",
+      "addr:postcode": "48605-430",
+      "addr:street": "Rua Lago da Paz",
+      "addr:suburb": "Caminho dos Lagos",
+      "addr:unit": "Casa B",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2261697,-9.3885903]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421060",
+      "addr:housenumber": "204",
+      "addr:postcode": "48605-430",
+      "addr:street": "Rua Lago da Paz",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2259456,-9.3897373]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364216",
+      "addr:housenumber": "371",
+      "addr:postcode": "48605-410",
+      "addr:street": "Rua Lago Dourado",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2272181,-9.3917856]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364222",
+      "addr:housenumber": "324",
+      "addr:postcode": "48605-390",
+      "addr:street": "Rua Lago Horizonte",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2269285,-9.3913866]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "223974032",
+      "addr:housenumber": "93",
+      "addr:postcode": "48605-430",
+      "addr:street": "Rua Lago da Paz",
+      "addr:suburb": "Caminho dos Lagos",
+      "addr:unit": "Casa",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2261986,-9.3884397]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364186",
+      "addr:housenumber": "303",
+      "addr:postcode": "48605-410",
+      "addr:street": "Rua Lago Dourado",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2273609,-9.3910439]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421165",
+      "addr:housenumber": "921",
+      "addr:postcode": "48605-215",
+      "addr:street": "Rua Chile",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2239097,-9.3919677]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364089",
+      "addr:housenumber": "3",
+      "addr:postcode": "48605-400",
+      "addr:street": "Rua Lago Azul",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0067P-18-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.228815,-9.389766]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "223974136",
+      "addr:housenumber": "118",
+      "addr:postcode": "48605-440",
+      "addr:street": "Rua Lago Itapoã",
+      "addr:suburb": "Caminho dos Lagos",
+      "addr:unit": "Casa",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2242747,-9.3892861]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "215076417",
+      "addr:housenumber": "147",
+      "addr:postcode": "48605-410",
+      "addr:street": "Rua Lago Dourado",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2276548,-9.3893178]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421161",
+      "addr:housenumber": "264",
+      "addr:postcode": "48605-440",
+      "addr:street": "Rua Lago Itapoã",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2240392,-9.390711]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364225",
+      "addr:housenumber": "354",
+      "addr:postcode": "48605-390",
+      "addr:street": "Rua Lago Horizonte",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2269045,-9.3916013]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "223974061",
+      "addr:housenumber": "218",
+      "addr:postcode": "48605-330",
+      "addr:street": "Rua Lago Paranoá",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes",
+      "name": "Alex Eeiknner Estética e Saufr"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2254291,-9.3895464]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364242",
+      "addr:housenumber": "1",
+      "addr:postcode": "48605-390",
+      "addr:street": "Rua Lago Horizonte",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2268315,-9.3911238]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "215077249",
+      "addr:housenumber": "141",
+      "addr:postcode": "48605-420",
+      "addr:street": "Travessa dos Lagos",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0067P-18-4"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.228438,-9.390148]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "223973980",
+      "addr:housenumber": "180",
+      "addr:postcode": "48605-430",
+      "addr:street": "Rua Lago da Paz",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2260017,-9.3894335]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "217976756",
+      "addr:housenumber": "1",
+      "addr:postcode": "48605-355",
+      "addr:street": "Rua Chile",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2224324,-9.3920649]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364172",
+      "addr:housenumber": "159",
+      "addr:postcode": "48605-410",
+      "addr:street": "Rua Lago Dourado",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2276478,-9.3893546]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "223974031",
+      "addr:housenumber": "80",
+      "addr:postcode": "48605-430",
+      "addr:street": "Rua Lago da Paz",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2262281,-9.3882862]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421097",
+      "addr:housenumber": "273",
+      "addr:postcode": "48605-430",
+      "addr:street": "Rua Lago da Paz",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2256498,-9.3902909]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364160",
+      "addr:housenumber": "1",
+      "addr:postcode": "48605-290",
+      "addr:street": "Travessa Canadá",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.227631,-9.391295]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421102",
+      "addr:housenumber": "198",
+      "addr:postcode": "48605-430",
+      "addr:street": "Rua Lago da Paz",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2257772,-9.3896148]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "223974039",
+      "addr:housenumber": "83",
+      "addr:postcode": "48605-430",
+      "addr:street": "Rua Lago da Paz",
+      "addr:suburb": "Caminho dos Lagos",
+      "addr:unit": "Casa",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2260926,-9.3881668]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "223974018",
+      "addr:housenumber": "2",
+      "addr:postcode": "48605-430",
+      "addr:street": "Rua Lago da Paz",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.226355,-9.3876256]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421053",
+      "addr:housenumber": "472",
+      "addr:postcode": "48605-430",
+      "addr:street": "Rua Lago da Paz",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2254079,-9.3923179]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364092",
+      "addr:housenumber": "81",
+      "addr:postcode": "48605-400",
+      "addr:street": "Rua Lago Azul",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0067P-18-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2291,-9.389558]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364133",
+      "addr:housenumber": "376 Térreo",
+      "addr:postcode": "48605-410",
+      "addr:street": "Rua Lago Dourado",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2273699,-9.3918239]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "223974188",
+      "addr:housenumber": "237",
+      "addr:postcode": "48605-380",
+      "addr:street": "Rua Lago Itaparica",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2244626,-9.3906611]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421043",
+      "addr:housenumber": "417",
+      "addr:postcode": "48605-350",
+      "addr:street": "Rua Lago do Amor",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2260275,-9.3922389]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "223974272",
+      "addr:housenumber": "97",
+      "addr:postcode": "48605-440",
+      "addr:street": "Rua Lago Itapoã",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0147P-15-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.224182,-9.38925]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364161",
+      "addr:housenumber": "176",
+      "addr:postcode": "48605-420",
+      "addr:street": "Rua Lago Cristalino",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.228203,-9.3898196]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "223974276",
+      "addr:housenumber": "137",
+      "addr:postcode": "48605-440",
+      "addr:street": "Rua Lago Itapoã",
+      "addr:suburb": "Caminho dos Lagos",
+      "addr:unit": "Loja",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "name": "Bebs Distribuidora",
+      "note": "Sem face no bayface do IBGE 0500-0147P-15-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.224135,-9.389604]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364239",
+      "addr:housenumber": "494",
+      "addr:postcode": "48605-390",
+      "addr:street": "Rua Lago Horizonte",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2266733,-9.3927216]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "223974187",
+      "addr:housenumber": "245",
+      "addr:postcode": "48605-380",
+      "addr:street": "Rua Lago Itaparica",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2244446,-9.3907556]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421093",
+      "addr:housenumber": "14",
+      "addr:postcode": "48605-330",
+      "addr:street": "Rua Lago Paranoá",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2257878,-9.3875342]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421153;223974139;223974141;223974143;223974145;223974147-223974153",
+      "addr:housenumber": "56",
+      "addr:postcode": "48605-440",
+      "addr:street": "Rua Lago Itapoã",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.224354,-9.3891271]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "215076140",
+      "addr:housenumber": "161 A",
+      "addr:postcode": "48605-420",
+      "addr:street": "Rua Lago Cristalino",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2282128,-9.389763]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421095",
+      "addr:housenumber": "158",
+      "addr:postcode": "48605-330",
+      "addr:suburb": "Caminho dos Lagos",
+      "addr:unit": "Lote",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2255729,-9.3888672]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364157",
+      "addr:housenumber": "241",
+      "addr:postcode": "48605-410",
+      "addr:street": "Rua Lago Dourado",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2275925,-9.3906385]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "217976738",
+      "addr:housenumber": "122",
+      "addr:postcode": "48605-355",
+      "addr:street": "Rua Chile",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0060P-25-5"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.230179,-9.394608]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421169",
+      "addr:housenumber": "189",
+      "addr:postcode": "48605-440",
+      "addr:street": "Rua Lago Itapoã",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0147P-15-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.224041,-9.390028]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364238",
+      "addr:housenumber": "484",
+      "addr:postcode": "48605-390",
+      "addr:street": "Rua Lago Horizonte",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2266863,-9.3926672]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "215076899",
+      "addr:housenumber": "197",
+      "addr:postcode": "48605-390",
+      "addr:street": "Rua Lago Horizonte",
+      "addr:suburb": "Caminho dos Lagos",
+      "addr:unit": "Garagem",
+      "building": "yes",
+      "name": "Je Embalagens e Descartáveis"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2271119,-9.3895209]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364260",
+      "addr:housenumber": "99",
+      "addr:postcode": "48605-390",
+      "addr:street": "Rua Lago Horizonte",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2272225,-9.3886262]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364132",
+      "addr:housenumber": "377",
+      "addr:postcode": "48605-410",
+      "addr:street": "Rua Lago Dourado",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2273551,-9.3919229]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "223783496",
+      "addr:housenumber": "119",
+      "addr:postcode": "48605-340",
+      "addr:street": "Rua Lago Norte",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes",
+      "name": "Emplacadora Emplacavel"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2305667,-9.3886763]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "215076673",
+      "addr:housenumber": "106 Apartamento 12 Térreo",
+      "addr:postcode": "48605-410",
+      "addr:street": "Travessa Lago Dourado",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2270184,-9.3911737]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "223974120",
+      "addr:housenumber": "188",
+      "addr:postcode": "48605-380",
+      "addr:street": "Rua Lago Itaparica",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2248894,-9.3892977]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364203",
+      "addr:housenumber": "495",
+      "addr:postcode": "48605-410",
+      "addr:street": "Rua Lago Dourado",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2270364,-9.3928994]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364156",
+      "addr:housenumber": "227",
+      "addr:postcode": "48605-410",
+      "addr:street": "Rua Lago Dourado",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2276157,-9.3905102]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "223973965",
+      "addr:housenumber": "365",
+      "addr:postcode": "48605-350",
+      "addr:street": "Rua Lago do Amor",
+      "addr:suburb": "Caminho dos Lagos",
+      "addr:unit": "Casa",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2261009,-9.391775]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "223974186",
+      "addr:housenumber": "251",
+      "addr:postcode": "48605-380",
+      "addr:street": "Rua Lago Itaparica",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2244272,-9.3908477]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421125",
+      "addr:housenumber": "353",
+      "addr:postcode": "48605-330",
+      "addr:street": "Rua Lago Paranoá",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2249743,-9.3910521]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "215077014",
+      "addr:housenumber": "55",
+      "addr:postcode": "48605-400",
+      "addr:street": "Rua Lago Azul",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "name": "Atelier Ana Martins",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0067P-18-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.228939,-9.389149]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "215077063",
+      "addr:housenumber": "28",
+      "addr:postcode": "48605-420",
+      "addr:street": "Rua Lago Cristalino",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0067P-18-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.228503,-9.388683]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421054",
+      "addr:housenumber": "251",
+      "addr:postcode": "48605-350",
+      "addr:street": "Rua Lago do Amor",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2263358,-9.3905253]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "223974108",
+      "addr:housenumber": "195",
+      "addr:postcode": "48605-345",
+      "addr:street": "Rua Entre Lagos",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2251308,-9.3888817]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364167",
+      "addr:housenumber": "84",
+      "addr:postcode": "48605-410",
+      "addr:street": "Rua Lago Dourado",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.227917,-9.3886848]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421114;223974078;223974080;223974082",
+      "addr:housenumber": "375",
+      "addr:postcode": "48605-430",
+      "addr:street": "Rua Lago da Paz",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2254648,-9.3912493]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364181",
+      "addr:housenumber": "80",
+      "addr:postcode": "48605-390",
+      "addr:street": "Rua Lago Horizonte",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2273657,-9.388832]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "223974116",
+      "addr:housenumber": "242",
+      "addr:postcode": "48605-380",
+      "addr:street": "Rua Lago Itaparica",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2248049,-9.389755]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "223974278",
+      "addr:housenumber": "307",
+      "addr:postcode": "48605-440",
+      "addr:street": "Rua Lago Itapoã",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0147P-15-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.223864,-9.391098]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "223974225",
+      "addr:housenumber": "374",
+      "addr:postcode": "48605-440",
+      "addr:street": "Rua Lago Itapoã",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2238818,-9.3916734]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364228",
+      "addr:housenumber": "384",
+      "addr:postcode": "48605-390",
+      "addr:street": "Rua Lago Horizonte",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2268666,-9.3918329]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "215077055",
+      "addr:housenumber": "2",
+      "addr:postcode": "48605-420",
+      "addr:street": "Rua Lago Cristalino",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0067P-18-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.228593,-9.388395]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364276",
+      "addr:housenumber": "148",
+      "addr:postcode": "48605-350",
+      "addr:street": "Rua Lago do Amor",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2268066,-9.3890855]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "215076824",
+      "addr:housenumber": "233",
+      "addr:postcode": "48605-390",
+      "addr:street": "Rua Lago Horizonte",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2269738,-9.3901638]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364234",
+      "addr:housenumber": "444",
+      "addr:postcode": "48605-390",
+      "addr:street": "Rua Lago Horizonte",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2267539,-9.3923773]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "215076229",
+      "addr:housenumber": "85",
+      "addr:postcode": "48605-420",
+      "addr:street": "Rua Lago Cristalino",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes",
+      "healthcare": "yes",
+      "name": "Clínica P"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2283598,-9.3890223]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27304641",
+      "addr:housenumber": "22",
+      "addr:postcode": "48605-340",
+      "addr:street": "Rua Lago Norte",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2297845,-9.3886068]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364212",
+      "addr:housenumber": "409",
+      "addr:postcode": "48605-410",
+      "addr:street": "Rua Lago Dourado",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2271699,-9.3921198]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364248",
+      "addr:housenumber": "225",
+      "addr:postcode": "48605-390",
+      "addr:street": "Rua Lago Horizonte",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2269862,-9.39009]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364233",
+      "addr:housenumber": "434",
+      "addr:postcode": "48605-390",
+      "addr:street": "Rua Lago Horizonte",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2267925,-9.3921907]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421045",
+      "addr:housenumber": "397",
+      "addr:postcode": "48605-350",
+      "addr:street": "Rua Lago do Amor",
+      "addr:suburb": "Caminho dos Lagos",
+      "addr:unit": "Fundos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2259974,-9.3920798]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "223973990",
+      "addr:housenumber": "115",
+      "addr:postcode": "48605-350",
+      "addr:street": "Rua Lago do Amor",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2266198,-9.3890672]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364230",
+      "addr:housenumber": "404",
+      "addr:postcode": "48605-390",
+      "addr:street": "Rua Lago Horizonte",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2268321,-9.3919993]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364231",
+      "addr:housenumber": "414",
+      "addr:postcode": "48605-390",
+      "addr:street": "Rua Lago Horizonte",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2268221,-9.3920475]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364243",
+      "addr:housenumber": "323",
+      "addr:postcode": "48605-390",
+      "addr:street": "Rua Lago Horizonte",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2268417,-9.3909451]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "215076081",
+      "addr:housenumber": "215",
+      "addr:postcode": "48605-410",
+      "addr:street": "Rua Lago Dourado",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.227639,-9.390381]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364251",
+      "addr:housenumber": "218",
+      "addr:postcode": "48605-350",
+      "addr:street": "Rua Lago do Amor",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes",
+      "name": "Vitória Variedades",
+      "shop": "variety_store"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2266387,-9.3899414]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "215076633",
+      "addr:housenumber": "213 A",
+      "addr:postcode": "48605-410",
+      "addr:street": "Rua Lago Dourado",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2275172,-9.3901624]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364191",
+      "addr:housenumber": "192 B",
+      "addr:postcode": "48605-390",
+      "addr:street": "Rua Lago Horizonte",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2271628,-9.3900043]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "223974038",
+      "addr:housenumber": "95",
+      "addr:postcode": "48605-430",
+      "addr:street": "Rua Lago da Paz",
+      "addr:suburb": "Caminho dos Lagos",
+      "addr:unit": "Casa A",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2260539,-9.3883622]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364130",
+      "addr:housenumber": "357",
+      "addr:postcode": "48605-410",
+      "addr:street": "Rua Lago Dourado",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2274034,-9.3915996]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "215075910",
+      "addr:housenumber": "345",
+      "addr:postcode": "48605-410",
+      "addr:street": "Rua Lago Dourado",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2273904,-9.3913705]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "215076258",
+      "addr:housenumber": "57 A",
+      "addr:postcode": "48605-420",
+      "addr:street": "Rua Lago Cristalino",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2283808,-9.3888659]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364250",
+      "addr:housenumber": "204",
+      "addr:postcode": "48605-350",
+      "addr:street": "Rua Lago do Amor",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2266608,-9.3898254]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421046",
+      "addr:housenumber": "381",
+      "addr:postcode": "48605-350",
+      "addr:street": "Rua Lago do Amor",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2260667,-9.391991]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "215077140",
+      "addr:housenumber": "118",
+      "addr:postcode": "48605-420",
+      "addr:street": "Rua Lago Cristalino",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0067P-18-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.228351,-9.389466]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421083",
+      "addr:housenumber": "119",
+      "addr:postcode": "48605-430",
+      "addr:street": "Rua Lago da Paz",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.22615,-9.3886928]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "223974216",
+      "addr:housenumber": "314",
+      "addr:postcode": "48605-440",
+      "addr:street": "Rua Lago Itapoã",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2239846,-9.391045]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364271",
+      "addr:housenumber": "74",
+      "addr:postcode": "48605-350",
+      "addr:street": "Rua Lago do Amor",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2269431,-9.388423]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421063",
+      "addr:housenumber": "258",
+      "addr:postcode": "48605-430",
+      "addr:street": "Rua Lago da Paz",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2258704,-9.3901446]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "223974103",
+      "addr:housenumber": "444",
+      "addr:postcode": "48605-380",
+      "addr:street": "Rua Lago Itaparica",
+      "addr:suburb": "Caminho dos Lagos",
+      "addr:unit": "Casa A",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2244478,-9.3916547]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "223974277",
+      "addr:housenumber": "300",
+      "addr:postcode": "48605-440",
+      "addr:street": "Rua Lago Itapoã",
+      "addr:suburb": "Caminho dos Lagos",
+      "addr:unit": "Torre",
+      "building": "construction",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0147P-15-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.223922,-9.390649]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364244",
+      "addr:housenumber": "309",
+      "addr:postcode": "48605-390",
+      "addr:street": "Rua Lago Horizonte",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2268504,-9.3908941]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421149",
+      "addr:housenumber": "157",
+      "addr:postcode": "48605-380",
+      "addr:street": "Rua Lago Itaparica",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2246208,-9.3898119]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "215076849",
+      "addr:housenumber": "244",
+      "addr:postcode": "48605-350",
+      "addr:street": "Rua Lago do Amor",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2265863,-9.3902161]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "223974067",
+      "addr:housenumber": "350",
+      "addr:postcode": "48605-430",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.225278,-9.3908305]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364246",
+      "addr:housenumber": "245",
+      "addr:postcode": "48605-390",
+      "addr:street": "Rua Lago Horizonte",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2269552,-9.3902738]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421058",
+      "addr:housenumber": "153",
+      "addr:postcode": "48605-350",
+      "addr:street": "Rua Lago do Amor",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2264785,-9.3897618]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364171",
+      "addr:housenumber": "183",
+      "addr:postcode": "48605-410",
+      "addr:street": "Rua Lago Dourado",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2275975,-9.3896172]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "223974185",
+      "addr:housenumber": "301",
+      "addr:postcode": "48605-380",
+      "addr:street": "Rua Lago Itaparica",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2243593,-9.3912053]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "215077071",
+      "addr:housenumber": "30",
+      "addr:postcode": "48605-420",
+      "addr:street": "Rua Lago Cristalino",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0067P-18-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.228453,-9.388768]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "215076645",
+      "addr:housenumber": "213 C",
+      "addr:postcode": "48605-410",
+      "addr:street": "Rua Lago Dourado",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2275026,-9.3902601]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364266",
+      "addr:housenumber": "42",
+      "addr:postcode": "48605-350",
+      "addr:street": "Rua Lago do Amor",
+      "addr:suburb": "Caminho dos Lagos",
+      "addr:unit": "Portão B",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2270235,-9.3880239]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "215076162",
+      "addr:housenumber": "161 B",
+      "addr:postcode": "48605-420",
+      "addr:street": "Rua Lago Cristalino",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2282315,-9.3896544]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364178",
+      "addr:housenumber": "35",
+      "addr:postcode": "48605-410",
+      "addr:street": "Rua Lago Dourado",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2278451,-9.3883246]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "215076424",
+      "addr:housenumber": "133",
+      "addr:postcode": "48605-410",
+      "addr:street": "Rua Lago Dourado",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2276675,-9.3892516]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "215076934",
+      "addr:housenumber": "18",
+      "addr:postcode": "48605-350",
+      "addr:street": "Rua Lago do Amor",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2270362,-9.3879608]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421089",
+      "addr:housenumber": "43",
+      "addr:postcode": "48605-430",
+      "addr:street": "Rua Lago da Paz",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2261539,-9.3878571]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "223974208",
+      "addr:housenumber": "1",
+      "addr:postcode": "48605-380",
+      "addr:street": "Rua Lago Itaparica",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2243389,-9.3913132]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421101",
+      "addr:housenumber": "209",
+      "addr:postcode": "48605-430",
+      "addr:street": "Rua Lago da Paz",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2257638,-9.3896861]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364142",
+      "addr:housenumber": "443",
+      "addr:postcode": "48605-410",
+      "addr:street": "Rua Lago Dourado",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2272833,-9.39243]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364141",
+      "addr:housenumber": "423",
+      "addr:postcode": "48605-410",
+      "addr:street": "Rua Lago Dourado",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2273122,-9.3922264]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "223974035",
+      "addr:housenumber": "105",
+      "addr:postcode": "48605-430",
+      "addr:street": "Rua Lago da Paz",
+      "addr:suburb": "Caminho dos Lagos",
+      "addr:unit": "Casa",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.226169655834,-9.3885904616562]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364218",
+      "addr:housenumber": "361",
+      "addr:postcode": "48605-410",
+      "addr:street": "Rua Lago Dourado",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2272394,-9.3916421]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421052",
+      "addr:housenumber": "456",
+      "addr:postcode": "48605-430",
+      "addr:street": "Rua Lago da Paz",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2254905,-9.392166]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421099",
+      "addr:housenumber": "235",
+      "addr:postcode": "48605-430",
+      "addr:street": "Rua Lago da Paz",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2257184,-9.389927]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "223974157",
+      "addr:housenumber": "33",
+      "addr:postcode": "48605-380",
+      "addr:street": "Rua Lago Itaparica",
+      "addr:suburb": "Caminho dos Lagos",
+      "addr:unit": "Edifício",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2242751,-9.3916493]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364200",
+      "addr:housenumber": "228",
+      "addr:postcode": "48605-390",
+      "addr:street": "Rua Lago Horizonte",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2271235,-9.3902317]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421084",
+      "addr:housenumber": "133",
+      "addr:postcode": "48605-430",
+      "addr:street": "Rua Lago da Paz",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2261345,-9.3887736]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421075;223974000-223974004;223974006;223974008",
+      "addr:housenumber": "55",
+      "addr:postcode": "48605-350",
+      "addr:street": "Rua Lago do Amor",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2267845,-9.38823]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421066",
+      "addr:housenumber": "290",
+      "addr:postcode": "48605-430",
+      "addr:street": "Rua Lago da Paz",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2258215,-9.3904095]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "223974040",
+      "addr:housenumber": "55",
+      "addr:postcode": "48605-430",
+      "addr:street": "Rua Lago da Paz",
+      "addr:suburb": "Caminho dos Lagos",
+      "addr:unit": "Lote",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2261245,-9.3880058]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421098",
+      "addr:housenumber": "247",
+      "addr:postcode": "48605-430",
+      "addr:street": "Rua Lago da Paz",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2256892,-9.390082]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421170",
+      "addr:housenumber": "175",
+      "addr:postcode": "48605-440",
+      "addr:street": "Rua Lago Itapoã",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0147P-15-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.22407,-9.38992]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "223974221",
+      "addr:housenumber": "360",
+      "addr:postcode": "48605-440",
+      "addr:street": "Rua Lago Itapoã",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2239121,-9.3914878]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364183",
+      "addr:housenumber": "224",
+      "addr:postcode": "48605-390",
+      "addr:street": "Rua Lago Horizonte",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2272876,-9.3892804]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421080;223974020",
+      "addr:housenumber": "16",
+      "addr:postcode": "48605-430",
+      "addr:street": "Rua Lago da Paz",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2263274,-9.3877691]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "223974075",
+      "addr:housenumber": "393",
+      "addr:postcode": "48605-430",
+      "addr:street": "Rua Lago da Paz",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.225427,-9.3914542]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421111",
+      "addr:housenumber": "459",
+      "addr:postcode": "48605-430",
+      "addr:street": "Rua Lago da Paz",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2253519,-9.3918615]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27304642",
+      "addr:housenumber": "89",
+      "addr:postcode": "48605-340",
+      "addr:street": "Rua Lago Norte",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2302879,-9.3886555]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421059",
+      "addr:housenumber": "192",
+      "addr:postcode": "48605-430",
+      "addr:street": "Rua Lago da Paz",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2259705,-9.3896024]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364275",
+      "addr:housenumber": "134",
+      "addr:postcode": "48605-350",
+      "addr:street": "Rua Lago do Amor",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2268219,-9.3890163]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "223974041",
+      "addr:housenumber": "31",
+      "addr:postcode": "48605-430",
+      "addr:street": "Rua Lago da Paz",
+      "addr:suburb": "Caminho dos Lagos",
+      "addr:unit": "Casa",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2261816,-9.3877174]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421163",
+      "addr:housenumber": "386",
+      "addr:postcode": "48605-440",
+      "addr:street": "Rua Lago Itapoã",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2238695,-9.3917486]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364220",
+      "addr:housenumber": "347",
+      "addr:postcode": "48605-410",
+      "addr:street": "Rua Lago Dourado",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2272783,-9.3913868]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364169",
+      "addr:housenumber": "80",
+      "addr:postcode": "48605-410",
+      "addr:street": "Rua Lago Dourado",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2278808,-9.3888919]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "223974026-223974029",
+      "addr:housenumber": "40",
+      "addr:postcode": "48605-430",
+      "addr:street": "Rua Lago da Paz",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2262919,-9.387954]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421090",
+      "addr:housenumber": "43 C",
+      "addr:postcode": "48605-430",
+      "addr:street": "Rua Lago da Paz",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2261487,-9.3878835]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364209",
+      "addr:housenumber": "435",
+      "addr:postcode": "48605-410",
+      "addr:street": "Rua Lago Dourado",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.22712,-9.3924723]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "223974076",
+      "addr:housenumber": "397",
+      "addr:postcode": "48605-430",
+      "addr:street": "Rua Lago da Paz",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2254473,-9.3913444]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421105",
+      "addr:housenumber": "244",
+      "addr:postcode": "48605-330",
+      "addr:street": "Rua Lago Paranoá",
+      "addr:suburb": "Caminho dos Lagos",
+      "addr:unit": "Loja A",
+      "building": "yes",
+      "name": "Centro Madimosele"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2253905,-9.3897514]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421112",
+      "addr:housenumber": "459",
+      "addr:postcode": "48605-430",
+      "addr:street": "Rua Lago da Paz",
+      "addr:suburb": "Caminho dos Lagos",
+      "addr:unit": "Casa A",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2253488,-9.3918783]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364194",
+      "addr:housenumber": "240",
+      "addr:postcode": "48605-390",
+      "addr:street": "Rua Lago Horizonte",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2270773,-9.3904985]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421167",
+      "addr:housenumber": "247",
+      "addr:postcode": "48605-440",
+      "addr:street": "Rua Lago Itapoã",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0147P-15-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.223956,-9.390498]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364226",
+      "addr:housenumber": "364",
+      "addr:postcode": "48605-390",
+      "addr:street": "Rua Lago Horizonte",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2268929,-9.3916783]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "223974054",
+      "addr:housenumber": "158",
+      "addr:postcode": "48605-330",
+      "addr:suburb": "Caminho dos Lagos",
+      "addr:unit": "Anexo B",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2256999,-9.3889142]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "215076399",
+      "addr:housenumber": "145 A",
+      "addr:postcode": "48605-410",
+      "addr:street": "Rua Lago Dourado",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2276346,-9.3894234]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421051",
+      "addr:housenumber": "436",
+      "addr:postcode": "48605-430",
+      "addr:street": "Rua Lago da Paz",
+      "addr:suburb": "Caminho dos Lagos",
+      "addr:unit": "Casa",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2255206,-9.3920034]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421071",
+      "addr:housenumber": "63",
+      "addr:postcode": "48605-350",
+      "addr:street": "Rua Lago do Amor",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2267116,-9.388601]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "223974100",
+      "addr:housenumber": "380",
+      "addr:postcode": "48605-380",
+      "addr:street": "Rua Lago Itaparica",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2245609,-9.3910389]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364207",
+      "addr:housenumber": "455",
+      "addr:postcode": "48605-410",
+      "addr:street": "Rua Lago Dourado",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2271012,-9.392578]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364245",
+      "addr:housenumber": "281",
+      "addr:postcode": "48605-390",
+      "addr:street": "Rua Lago Horizonte",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2269095,-9.3905439]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "223974037",
+      "addr:housenumber": "99",
+      "addr:postcode": "48605-430",
+      "addr:street": "Rua Lago da Paz",
+      "addr:suburb": "Caminho dos Lagos",
+      "addr:unit": "Casa",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2260465,-9.3883993]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "223974022",
+      "addr:housenumber": "44",
+      "addr:postcode": "48605-430",
+      "addr:street": "Rua Lago da Paz",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes",
+      "name": "Jeanei Lima Estética"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2263159,-9.3878288]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364211",
+      "addr:housenumber": "417",
+      "addr:postcode": "48605-410",
+      "addr:street": "Rua Lago Dourado",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes",
+      "healthcare": "yes",
+      "name": "Aeropharma"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2271573,-9.3922093]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421068",
+      "addr:housenumber": "89",
+      "addr:postcode": "48605-350",
+      "addr:street": "Rua Lago do Amor",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2266512,-9.3889079]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364173",
+      "addr:housenumber": "107",
+      "addr:postcode": "48605-410",
+      "addr:street": "Rua Lago Dourado",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2277143,-9.3890074]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "223973997",
+      "addr:housenumber": "37",
+      "addr:postcode": "48605-350",
+      "addr:street": "Rua Lago do Amor",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2268737,-9.3877768]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364176",
+      "addr:housenumber": "99",
+      "addr:postcode": "48605-410",
+      "addr:street": "Rua Lago Dourado",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.227804,-9.3885391]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421162",
+      "addr:housenumber": "296",
+      "addr:postcode": "48605-440",
+      "addr:street": "Rua Lago Itapoã",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2240086,-9.3908981]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364197",
+      "addr:housenumber": "278",
+      "addr:postcode": "48605-390",
+      "addr:street": "Rua Lago Horizonte",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2270393,-9.3907183]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421079",
+      "addr:housenumber": "3",
+      "addr:postcode": "48605-350",
+      "addr:street": "Rua Lago do Amor",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2268764,-9.3877627]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421062",
+      "addr:housenumber": "244",
+      "addr:postcode": "48605-430",
+      "addr:street": "Rua Lago da Paz",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.225882,-9.3900819]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "223974065",
+      "addr:housenumber": "350",
+      "addr:postcode": "48605-430",
+      "addr:suburb": "Caminho dos Lagos",
+      "addr:unit": "Casa A",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.225270299798,-9.3908320613881]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "223974159;223974181;223974183;223974189-223974191;223974194;223974198;223974200;223974203;223974206",
+      "addr:flats": "101-304",
+      "addr:housenumber": "343",
+      "addr:postcode": "48605-380",
+      "addr:street": "Rua Lago Itaparica",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes",
+      "building:flats": "12",
+      "building:levels": "3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2242777,-9.391636]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "215076802",
+      "addr:housenumber": "519",
+      "addr:postcode": "48605-355",
+      "addr:street": "Rua Chile",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes",
+      "description": "CNEFE 2022 Copiadora",
+      "shop": "copyshop"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2268641,-9.3930399]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421057",
+      "addr:housenumber": "179",
+      "addr:postcode": "48605-350",
+      "addr:street": "Rua Lago do Amor",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2264378,-9.3899796]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421061",
+      "addr:housenumber": "218",
+      "addr:postcode": "48605-430",
+      "addr:street": "Rua Lago da Paz",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2259272,-9.3898367]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364168",
+      "addr:housenumber": "82",
+      "addr:postcode": "48605-410",
+      "addr:street": "Rua Lago Dourado",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2279136,-9.3887053]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "223974071",
+      "addr:housenumber": "439",
+      "addr:postcode": "48605-430",
+      "addr:street": "Rua Lago da Paz",
+      "addr:suburb": "Caminho dos Lagos",
+      "addr:unit": "Casa",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2253642,-9.3917949]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "215076313",
+      "addr:housenumber": "120",
+      "addr:postcode": "48605-410",
+      "addr:street": "Rua Lago Dourado",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2278095,-9.389297]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "215077123",
+      "addr:housenumber": "52",
+      "addr:postcode": "48605-420",
+      "addr:street": "Rua Lago Cristalino",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "construction",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0067P-18-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.228426,-9.389222]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364151",
+      "addr:housenumber": "192",
+      "addr:postcode": "48605-280",
+      "addr:street": "Rua Canadá",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2280478,-9.3904215]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421113",
+      "addr:housenumber": "407",
+      "addr:postcode": "48605-430",
+      "addr:street": "Rua Lago da Paz",
+      "addr:suburb": "Caminho dos Lagos",
+      "addr:unit": "Casa A",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2254061,-9.3915674]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "215077026",
+      "addr:housenumber": "17",
+      "addr:postcode": "48605-400",
+      "addr:street": "Rua Lago Azul",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0067P-18-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.228989,-9.388792]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "223974063",
+      "addr:housenumber": "244",
+      "addr:postcode": "48605-330",
+      "addr:street": "Rua Lago Paranoá",
+      "addr:suburb": "Caminho dos Lagos",
+      "addr:unit": "Casa A",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2253623,-9.3899007]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421110",
+      "addr:housenumber": "350",
+      "addr:postcode": "48605-330",
+      "addr:street": "Rua Lago Paranoá",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2251722,-9.3907974]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "223974024",
+      "addr:housenumber": "44",
+      "addr:postcode": "48605-430",
+      "addr:street": "Rua Lago da Paz",
+      "addr:suburb": "Caminho dos Lagos",
+      "addr:unit": "Casa",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.226317645957,-9.3878337000032]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "223974015",
+      "addr:housenumber": "63",
+      "addr:postcode": "48605-350",
+      "addr:street": "Rua Lago do Amor",
+      "addr:suburb": "Caminho dos Lagos",
+      "addr:unit": "Casa B2",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2267256,-9.3885297]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "217976720",
+      "addr:housenumber": "46",
+      "addr:postcode": "48605-270",
+      "addr:street": "Rua Equador",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0060P-25-4"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.230496,-9.395012]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421064",
+      "addr:housenumber": "286",
+      "addr:postcode": "48605-430",
+      "addr:street": "Rua Lago da Paz",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2258487,-9.3902622]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "223974036",
+      "addr:housenumber": "109",
+      "addr:postcode": "48605-430",
+      "addr:street": "Rua Lago da Paz",
+      "addr:suburb": "Caminho dos Lagos",
+      "addr:unit": "Casa A",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2260305,-9.3884801]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421140",
+      "addr:housenumber": "259",
+      "addr:postcode": "48605-380",
+      "addr:street": "Rua Lago Itaparica",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2247807,-9.3898858]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "223974220",
+      "addr:housenumber": "346",
+      "addr:postcode": "48605-440",
+      "addr:street": "Rua Lago Itapoã",
+      "addr:suburb": "Caminho dos Lagos",
+      "addr:unit": "Edifício",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2239299,-9.3913793]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421082",
+      "addr:housenumber": "109",
+      "addr:postcode": "48605-430",
+      "addr:street": "Rua Lago da Paz",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2261573,-9.3886545]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421100",
+      "addr:housenumber": "194",
+      "addr:postcode": "48605-430",
+      "addr:street": "Rua Lago da Paz",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2257343,-9.3898427]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27304639",
+      "addr:housenumber": "69",
+      "addr:postcode": "48605-340",
+      "addr:street": "Rua Lago Norte",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2301032,-9.3886417]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421065",
+      "addr:housenumber": "288",
+      "addr:postcode": "48605-430",
+      "addr:street": "Rua Lago da Paz",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2258314,-9.3903555]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364274",
+      "addr:housenumber": "120",
+      "addr:postcode": "48605-350",
+      "addr:street": "Rua Lago do Amor",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2268635,-9.388818]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421103",
+      "addr:housenumber": "210",
+      "addr:postcode": "48605-430",
+      "addr:street": "Rua Lago da Paz",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2258115,-9.3894327]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "223783498",
+      "addr:housenumber": "119",
+      "addr:postcode": "48605-340",
+      "addr:street": "Rua Lago Norte",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2305843,-9.3886776]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "223974033",
+      "addr:housenumber": "93",
+      "addr:postcode": "48605-430",
+      "addr:street": "Rua Lago da Paz",
+      "addr:suburb": "Caminho dos Lagos",
+      "addr:unit": "Casa A",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.226202107502,-9.3884404951224]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "215077038",
+      "addr:housenumber": "31",
+      "addr:postcode": "48605-400",
+      "addr:street": "Rua Lago Azul",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0067P-18-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.228913,-9.388593]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364254",
+      "addr:housenumber": "320",
+      "addr:postcode": "48605-350",
+      "addr:street": "Rua Lago do Amor",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2264628,-9.3909002]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364135",
+      "addr:housenumber": "378",
+      "addr:postcode": "48605-410",
+      "addr:street": "Rua Lago Dourado",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2273699,-9.3918236]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421133",
+      "addr:housenumber": "8",
+      "addr:postcode": "48605-330",
+      "addr:street": "Rua Lago Paranoá",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes",
+      "name": "Floeicultura"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.225233,-9.3896249]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421078;223973998-223973999",
+      "addr:housenumber": "47",
+      "addr:postcode": "48605-350",
+      "addr:street": "Rua Lago do Amor",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2267641,-9.3883341]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "223974215",
+      "addr:housenumber": "296",
+      "addr:postcode": "48605-440",
+      "addr:street": "Rua Lago Itapoã",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes",
+      "healthcare": "yes",
+      "name": "Oralface"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2239903,-9.39101]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421131",
+      "addr:housenumber": "285",
+      "addr:postcode": "48605-330",
+      "addr:street": "Rua Lago Paranoá",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2251147,-9.3902689]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364134;215075939;215075958",
+      "addr:housenumber": "392",
+      "addr:postcode": "48605-410",
+      "addr:street": "Rua Lago Dourado",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.227339,-9.3920378]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "215076301",
+      "addr:housenumber": "28",
+      "addr:postcode": "48605-410",
+      "addr:street": "Rua Lago Dourado",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2279753,-9.3884238]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421109",
+      "addr:housenumber": "336",
+      "addr:postcode": "48605-330",
+      "addr:street": "Rua Lago Paranoá",
+      "addr:suburb": "Caminho dos Lagos",
+      "addr:unit": "Casa",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2252145,-9.3906852]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "223974050",
+      "addr:housenumber": "158",
+      "addr:postcode": "48605-330",
+      "addr:suburb": "Caminho dos Lagos",
+      "addr:unit": "Loja",
+      "building": "yes",
+      "healthcare": "yes",
+      "name": "Clínica Fernanda Pinheiro"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.225577687063,-9.388859822981]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "217976747",
+      "addr:housenumber": "4",
+      "addr:postcode": "48605-355",
+      "addr:street": "Rua Chile",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0060P-25-6"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.22221,-9.392281]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "217976724",
+      "addr:housenumber": "106",
+      "addr:postcode": "48605-355",
+      "addr:street": "Rua Chile",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0060P-25-5"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.230416,-9.39468]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364146;215075992",
+      "addr:housenumber": "220",
+      "addr:postcode": "48605-280",
+      "addr:street": "Rua Canadá",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2278849,-9.391228]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "223974129",
+      "addr:housenumber": "171",
+      "addr:postcode": "48605-380",
+      "addr:street": "Rua Lago Itaparica",
+      "addr:suburb": "Caminho dos Lagos",
+      "addr:unit": "Casa",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2246007,-9.3899292]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421151",
+      "addr:housenumber": "65",
+      "addr:postcode": "48605-380",
+      "addr:street": "Rua Lago Itaparica",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2247601,-9.3889951]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421164",
+      "addr:housenumber": "931",
+      "addr:postcode": "48605-215",
+      "addr:street": "Rua Chile",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.223849,-9.3919908]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421069",
+      "addr:housenumber": "77",
+      "addr:postcode": "48605-350",
+      "addr:street": "Rua Lago do Amor",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2266983,-9.3886682]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421093",
+      "addr:housenumber": "14",
+      "addr:postcode": "48605-330",
+      "addr:street": "Rua Lago Paranoá",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes",
+      "name": "Joyce Farias Designer e Estética"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.225779559796,-9.3875305955181]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "217976784",
+      "addr:housenumber": "85 B",
+      "addr:postcode": "48605-355",
+      "addr:street": "Rua Chile",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2230665,-9.3919921]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421124",
+      "addr:housenumber": "389",
+      "addr:postcode": "48605-330",
+      "addr:street": "Rua Lago Paranoá",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2249185,-9.3913252]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421047",
+      "addr:housenumber": "453",
+      "addr:postcode": "48605-350",
+      "addr:street": "Rua Lago do Amor",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2260976,-9.3917959]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421126",
+      "addr:housenumber": "355",
+      "addr:postcode": "48605-330",
+      "addr:street": "Rua Lago Paranoá",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2249939,-9.3909384]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "223974059",
+      "addr:housenumber": "192",
+      "addr:postcode": "48605-330",
+      "addr:street": "Rua Lago Paranoá",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.225458,-9.3893933]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421117",
+      "addr:housenumber": "366",
+      "addr:postcode": "48605-330",
+      "addr:street": "Rua Lago Paranoá",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2251441,-9.3910195]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364258",
+      "addr:housenumber": "123",
+      "addr:postcode": "48605-390",
+      "addr:street": "Rua Lago Horizonte",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.22717,-9.3889719]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27304634",
+      "addr:housenumber": "129",
+      "addr:postcode": "48605-340",
+      "addr:street": "Rua Lago Norte",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2307926,-9.3886932]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364217",
+      "addr:housenumber": "369",
+      "addr:postcode": "48605-410",
+      "addr:street": "Rua Lago Dourado",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2272234,-9.3917486]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421138",
+      "addr:housenumber": "165",
+      "addr:postcode": "48605-330",
+      "addr:street": "Rua Lago Paranoá",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2253097,-9.3892075]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364237",
+      "addr:housenumber": "474",
+      "addr:postcode": "48605-390",
+      "addr:street": "Rua Lago Horizonte",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2267111,-9.3925635]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364219",
+      "addr:housenumber": "355",
+      "addr:postcode": "48605-410",
+      "addr:street": "Rua Lago Dourado",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2272455,-9.3916014]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421137",
+      "addr:housenumber": "10",
+      "addr:postcode": "48605-330",
+      "addr:street": "Rua Lago Paranoá",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2252819,-9.3893591]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "223974106",
+      "addr:housenumber": "3",
+      "addr:postcode": "48605-330",
+      "addr:street": "Rua Lago Paranoá",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2251393,-9.3901346]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364170",
+      "addr:housenumber": "158",
+      "addr:postcode": "48605-410",
+      "addr:street": "Rua Lago Dourado",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2277544,-9.3896102]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "223974060",
+      "addr:housenumber": "206",
+      "addr:postcode": "48605-330",
+      "addr:street": "Rua Lago Paranoá",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2254394,-9.3894918]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421156",
+      "addr:housenumber": "196",
+      "addr:postcode": "48605-440",
+      "addr:street": "Rua Lago Itapoã",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2241643,-9.3899574]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "223974092",
+      "addr:housenumber": "416",
+      "addr:postcode": "48605-330",
+      "addr:street": "Rua Lago Paranoá",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2250634,-9.3915258]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421104",
+      "addr:housenumber": "232",
+      "addr:postcode": "48605-330",
+      "addr:street": "Rua Lago Paranoá",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2253945,-9.3897299]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421108",
+      "addr:housenumber": "322",
+      "addr:postcode": "48605-330",
+      "addr:street": "Rua Lago Paranoá",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2252371,-9.390565]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421175;223974237;223974243;223974248;223974253;223974256;223974260;223974262;223974264;223974266;223974268;223974270",
+      "addr:housenumber": "62",
+      "addr:postcode": "48605-440",
+      "addr:street": "Rua Lago Itapoã",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0147P-15-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.22419,-9.389189]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364182",
+      "addr:housenumber": "132",
+      "addr:postcode": "48605-390",
+      "addr:street": "Rua Lago Horizonte",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2273096,-9.3891538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421155",
+      "addr:housenumber": "182 A",
+      "addr:postcode": "48605-440",
+      "addr:street": "Rua Lago Itapoã",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2241892,-9.3898056]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "217976730",
+      "addr:housenumber": "150 Térreo",
+      "addr:postcode": "48605-355",
+      "addr:street": "Rua Chile",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "name": "Residencial Alfredo Jacinto",
+      "note": "Sem face no bayface do IBGE 0500-0060P-25-5"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.229819,-9.394603]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421106",
+      "addr:housenumber": "296",
+      "addr:postcode": "48605-330",
+      "addr:street": "Rua Lago Paranoá",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2252866,-9.3903025]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364188",
+      "addr:housenumber": "277",
+      "addr:postcode": "48605-410",
+      "addr:street": "Rua Lago Dourado",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2273982,-9.3908376]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "215076126",
+      "addr:housenumber": "309",
+      "addr:postcode": "48605-410",
+      "addr:street": "Rua Lago Dourado",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2275007,-9.3911295]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421094",
+      "addr:housenumber": "68",
+      "addr:postcode": "48605-330",
+      "addr:street": "Rua Lago Paranoá",
+      "addr:suburb": "Caminho dos Lagos",
+      "addr:unit": "Casa",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2257041,-9.3880311]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421119",
+      "addr:housenumber": "402",
+      "addr:postcode": "48605-330",
+      "addr:street": "Rua Lago Paranoá",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.225111,-9.3912644]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421136",
+      "addr:housenumber": "193",
+      "addr:postcode": "48605-330",
+      "addr:street": "Rua Lago Paranoá",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.225265,-9.3894506]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364205",
+      "addr:housenumber": "475",
+      "addr:postcode": "48605-410",
+      "addr:street": "Rua Lago Dourado",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2270765,-9.3927007]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364261",
+      "addr:housenumber": "85",
+      "addr:postcode": "48605-390",
+      "addr:street": "Rua Lago Horizonte",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2272333,-9.388555]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364152",
+      "addr:housenumber": "194",
+      "addr:postcode": "48605-280",
+      "addr:street": "Rua Canadá",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "warehouse",
+      "description": "CNEFE 2022 Depósito"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2279189,-9.3910088]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421148",
+      "addr:housenumber": "4",
+      "addr:postcode": "48605-330",
+      "addr:street": "Rua Lago Paranoá",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2251415,-9.3901228]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421127",
+      "addr:housenumber": "334",
+      "addr:postcode": "48605-380",
+      "addr:street": "Rua Lago Itaparica",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2246362,-9.3906294]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364143",
+      "addr:housenumber": "463 B",
+      "addr:postcode": "48605-410",
+      "addr:street": "Rua Lago Dourado",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2272558,-9.3925991]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421134",
+      "addr:housenumber": "243",
+      "addr:postcode": "48605-330",
+      "addr:street": "Rua Lago Paranoá",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2251782,-9.3899234]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364262",
+      "addr:housenumber": "73",
+      "addr:postcode": "48605-390",
+      "addr:street": "Rua Lago Horizonte",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2272525,-9.3884285]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "215077161",
+      "addr:housenumber": "158",
+      "addr:postcode": "48605-420",
+      "addr:street": "Rua Lago Cristalino",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0067P-18-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.228319,-9.390025]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "223974155",
+      "addr:housenumber": "359",
+      "addr:postcode": "48605-380",
+      "addr:street": "Rua Lago Itaparica",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.224254,-9.3917606]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "223974062",
+      "addr:housenumber": "218",
+      "addr:postcode": "48605-330",
+      "addr:street": "Rua Lago Paranoá",
+      "addr:suburb": "Caminho dos Lagos",
+      "addr:unit": "Casa A",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2254255,-9.3895658]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364185",
+      "addr:housenumber": "319",
+      "addr:postcode": "48605-410",
+      "addr:street": "Rua Lago Dourado",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.22735,-9.3912535]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421121",
+      "addr:housenumber": "468",
+      "addr:postcode": "48605-330",
+      "addr:street": "Rua Lago Paranoá",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2250208,-9.3917601]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421159;223974161-223974164;223974166;223974168;223974170;223974173;223974175;223974177;223974179",
+      "addr:flats": "101-304",
+      "addr:housenumber": "331",
+      "addr:postcode": "48605-380",
+      "addr:street": "Rua Lago Itaparica",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes",
+      "building:flats": "12",
+      "building:levels": "3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2243157,-9.3914353]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364165",
+      "addr:housenumber": "31",
+      "addr:postcode": "48605-420",
+      "addr:street": "Rua Lago Cristalino",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2284778,-9.3885566]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "217976798",
+      "addr:housenumber": "151",
+      "addr:postcode": "48605-360",
+      "addr:street": "Rua Lago Ipanema",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2233977,-9.3919182]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "215076281",
+      "addr:housenumber": "42",
+      "addr:postcode": "48605-420",
+      "addr:street": "Rua Lago Cristalino",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2284526,-9.3886346]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364089",
+      "addr:housenumber": "3",
+      "addr:postcode": "48605-400",
+      "addr:street": "Rua Lago Azul",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "name": "Rc Fitness",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0067P-18-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.228828742814,-9.3897638579953]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364223",
+      "addr:housenumber": "334",
+      "addr:postcode": "48605-390",
+      "addr:street": "Rua Lago Horizonte",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2269301,-9.3913659]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "217976727;217976734",
+      "addr:housenumber": "140",
+      "addr:postcode": "48605-355",
+      "addr:street": "Rua Chile",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0060P-25-5"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.230087,-9.394641]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "223974084",
+      "addr:housenumber": "366",
+      "addr:postcode": "48605-430",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2253077,-9.3910252]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421091",
+      "addr:housenumber": "43 D",
+      "addr:postcode": "48605-430",
+      "addr:street": "Rua Lago da Paz",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2261465,-9.3878945]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364257",
+      "addr:housenumber": "137",
+      "addr:postcode": "48605-390",
+      "addr:street": "Rua Lago Horizonte",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2271556,-9.3890666]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "215076229",
+      "addr:housenumber": "85",
+      "addr:postcode": "48605-420",
+      "addr:street": "Rua Lago Cristalino",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.228355266775,-9.3890373276867]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364091",
+      "addr:housenumber": "6",
+      "addr:postcode": "48605-400",
+      "addr:street": "Rua Lago Azul",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0067P-18-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.228862,-9.389418]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "223973996",
+      "addr:housenumber": "17",
+      "addr:postcode": "48605-350",
+      "addr:street": "Rua Lago do Amor",
+      "addr:suburb": "Caminho dos Lagos",
+      "addr:unit": "Casa",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2268516,-9.387889]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "223973971",
+      "addr:housenumber": "388",
+      "addr:postcode": "48605-350",
+      "addr:street": "Travessa Lago do Amor",
+      "addr:suburb": "Caminho dos Lagos",
+      "addr:unit": "Casa A",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2257796,-9.391501]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "217976821",
+      "addr:housenumber": "123",
+      "addr:postcode": "48605-360",
+      "addr:street": "Rua Lago Ipanema",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.22324,-9.3917555]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421115",
+      "addr:housenumber": "357",
+      "addr:postcode": "48605-430",
+      "addr:street": "Rua Lago da Paz",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2254891,-9.3911278]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "215077014",
+      "addr:housenumber": "55",
+      "addr:postcode": "48605-400",
+      "addr:street": "Rua Lago Azul",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0067P-18-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.228941601805,-9.3891458994432]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "223974102",
+      "addr:housenumber": "398",
+      "addr:postcode": "48605-380",
+      "addr:street": "Rua Lago Itaparica",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2245197,-9.3912632]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27304644",
+      "addr:housenumber": "79",
+      "addr:postcode": "48605-340",
+      "addr:street": "Rua Lago Norte",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2301939,-9.3886484]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "217976817",
+      "addr:housenumber": "81",
+      "addr:postcode": "48605-360",
+      "addr:street": "Rua Lago Ipanema",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2230393,-9.3915189]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "217976807",
+      "addr:housenumber": "123 A",
+      "addr:postcode": "48605-360",
+      "addr:street": "Rua Lago Ipanema",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2231713,-9.3916693]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "215076006",
+      "addr:housenumber": "80",
+      "addr:postcode": "48605-280",
+      "addr:street": "Rua Canadá",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2279307,-9.3909509]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421157",
+      "addr:housenumber": "132",
+      "addr:postcode": "48605-440",
+      "addr:street": "Rua Lago Itapoã",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2242529,-9.3894183]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "215077000",
+      "addr:housenumber": "5",
+      "addr:postcode": "48605-400",
+      "addr:street": "Rua Lago Azul",
+      "addr:suburb": "Caminho dos Lagos",
+      "addr:unit": "Garagem",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0067P-18-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.228871,-9.389512]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364221",
+      "addr:housenumber": "333",
+      "addr:postcode": "48605-410",
+      "addr:street": "Rua Lago Dourado",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2272804,-9.391377]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364087",
+      "addr:housenumber": "1",
+      "addr:postcode": "48605-400",
+      "addr:street": "Rua Lago Azul",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0067P-18-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.22876,-9.390125]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364090",
+      "addr:housenumber": "4",
+      "addr:postcode": "48605-400",
+      "addr:street": "Rua Lago Azul",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0067P-18-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.228796,-9.389672]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364190",
+      "addr:housenumber": "192 A",
+      "addr:postcode": "48605-390",
+      "addr:street": "Rua Lago Horizonte",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2271792,-9.3899093]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421050",
+      "addr:housenumber": "388 Lado",
+      "addr:postcode": "48605-350",
+      "addr:street": "Travessa Lago do Amor",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2258465,-9.391507]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364267",
+      "addr:housenumber": "42",
+      "addr:postcode": "48605-350",
+      "addr:street": "Rua Lago do Amor",
+      "addr:suburb": "Caminho dos Lagos",
+      "addr:unit": "Portão C",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2270236,-9.3880237]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364208",
+      "addr:housenumber": "445",
+      "addr:postcode": "48605-410",
+      "addr:street": "Rua Lago Dourado",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2271191,-9.3924787]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27304640",
+      "addr:housenumber": "115",
+      "addr:postcode": "48605-340",
+      "addr:street": "Rua Lago Norte",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2299896,-9.3886331]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27304637",
+      "addr:housenumber": "20",
+      "addr:postcode": "48605-340",
+      "addr:street": "Rua Lago Norte",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2296021,-9.3885798]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27304635",
+      "addr:housenumber": "119 Térreo",
+      "addr:postcode": "48605-340",
+      "addr:street": "Rua Lago Norte",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.230552078979,-9.3886842347967]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364224",
+      "addr:housenumber": "344",
+      "addr:postcode": "48605-390",
+      "addr:street": "Rua Lago Horizonte",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2269188,-9.3914964]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364088",
+      "addr:housenumber": "2",
+      "addr:postcode": "48605-400",
+      "addr:street": "Rua Lago Azul",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0067P-18-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.228808,-9.389965]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421092",
+      "addr:housenumber": "12",
+      "addr:postcode": "48605-330",
+      "addr:street": "Rua Lago Paranoá",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2257918,-9.3875102]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364273",
+      "addr:housenumber": "96",
+      "addr:postcode": "48605-350",
+      "addr:street": "Rua Lago do Amor",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2268995,-9.3886394]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "217976722",
+      "addr:housenumber": "42",
+      "addr:postcode": "48605-270",
+      "addr:street": "Rua Equador",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0060P-25-4"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.230505,-9.394932]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364264",
+      "addr:housenumber": "123",
+      "addr:postcode": "48605-350",
+      "addr:street": "Rua Lago do Amor",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2270384,-9.3877611]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364153",
+      "addr:housenumber": "201",
+      "addr:postcode": "48605-410",
+      "addr:street": "Rua Lago Dourado",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2276814,-9.3901016]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "215076696;215076714;215076726;215076743;215076755;215076765",
+      "addr:housenumber": "106",
+      "addr:postcode": "48605-410",
+      "addr:street": "Travessa Lago Dourado",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.227018531624,-9.3911818963619]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364213",
+      "addr:housenumber": "401",
+      "addr:postcode": "48605-410",
+      "addr:street": "Rua Lago Dourado",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2271816,-9.3920379]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "223974030",
+      "addr:housenumber": "68",
+      "addr:postcode": "48605-430",
+      "addr:street": "Rua Lago da Paz",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.226245,-9.388198]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "215076609",
+      "addr:housenumber": "239",
+      "addr:postcode": "48605-410",
+      "addr:street": "Rua Lago Dourado",
+      "addr:suburb": "Caminho dos Lagos",
+      "addr:unit": "Garagem",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2274637,-9.3904749]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364093",
+      "addr:housenumber": "69",
+      "addr:postcode": "48605-400",
+      "addr:street": "Rua Lago Azul",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0067P-18-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.228854,-9.389211]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364253",
+      "addr:housenumber": "308",
+      "addr:postcode": "48605-350",
+      "addr:street": "Rua Lago do Amor",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2264784,-9.3907686]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364201",
+      "addr:housenumber": "519",
+      "addr:postcode": "48605-410",
+      "addr:street": "Rua Lago Dourado",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2269876,-9.3930838]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364148",
+      "addr:housenumber": "194",
+      "addr:postcode": "48605-280",
+      "addr:street": "Rua Canadá",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.227916,-9.3910232]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364241",
+      "addr:housenumber": "514",
+      "addr:postcode": "48605-390",
+      "addr:street": "Rua Lago Horizonte",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.226584,-9.3929195]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421160",
+      "addr:housenumber": "230",
+      "addr:postcode": "48605-440",
+      "addr:street": "Rua Lago Itapoã",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2240597,-9.3905854]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421067",
+      "addr:housenumber": "294",
+      "addr:postcode": "48605-435",
+      "addr:street": "Travessa Lago da Paz",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2259884,-9.3905212]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364248",
+      "addr:housenumber": "225",
+      "addr:postcode": "48605-390",
+      "addr:street": "Rua Lago Horizonte",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes",
+      "name": "Edina Confecções E Artesanato",
+      "shop": "clothes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.226971094092,-9.390080545612]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "215076589",
+      "addr:housenumber": "183 A",
+      "addr:postcode": "48605-284",
+      "addr:street": "Travessa dos Lagos",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.227391,-9.3896442]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364159",
+      "addr:housenumber": "281",
+      "addr:postcode": "48605-410",
+      "addr:street": "Rua Lago Dourado",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2275467,-9.3908924]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364162",
+      "addr:housenumber": "95",
+      "addr:postcode": "48605-420",
+      "addr:street": "Rua Lago Cristalino",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2283383,-9.3891406]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364252",
+      "addr:housenumber": "230",
+      "addr:postcode": "48605-350",
+      "addr:street": "Rua Lago do Amor",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2266238,-9.3900196]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364158",
+      "addr:housenumber": "267",
+      "addr:postcode": "48605-410",
+      "addr:street": "Rua Lago Dourado",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2275536,-9.3908543]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "223973964",
+      "addr:housenumber": "381",
+      "addr:postcode": "48605-350",
+      "addr:street": "Rua Lago do Amor",
+      "addr:suburb": "Caminho dos Lagos",
+      "addr:unit": "Fundos Anexo 2",
+      "building": "yes",
+      "healthcare": "alternative",
+      "healthcare:speciality": "acupuncture",
+      "name": "Mirra Dor e Acupuntura"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2260198,-9.3919379]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "223973969",
+      "addr:housenumber": "369",
+      "addr:postcode": "48605-350",
+      "addr:street": "Travessa Lago do Amor",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2259174,-9.3915134]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "215076179",
+      "addr:housenumber": "123",
+      "addr:postcode": "48605-420",
+      "addr:street": "Rua Lago Cristalino",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2282903,-9.3893302]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421150",
+      "addr:housenumber": "75",
+      "addr:postcode": "48605-380",
+      "addr:street": "Rua Lago Itaparica",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2247411,-9.3891066]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364198",
+      "addr:housenumber": "304",
+      "addr:postcode": "48605-390",
+      "addr:street": "Rua Lago Horizonte",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2269837,-9.3910399]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "217976736;217976741;217976744",
+      "addr:housenumber": "150",
+      "addr:postcode": "48605-355",
+      "addr:street": "Rua Chile",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0060P-25-5"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.229971,-9.394558]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364184",
+      "addr:housenumber": "174",
+      "addr:postcode": "48605-390",
+      "addr:street": "Rua Lago Horizonte",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2272378,-9.3895498]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "223974275",
+      "addr:housenumber": "137",
+      "addr:postcode": "48605-440",
+      "addr:street": "Rua Lago Itapoã",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0147P-15-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.224151613354,-9.389606868701]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "223974122",
+      "addr:housenumber": "295",
+      "addr:postcode": "48605-380",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2250135,-9.3904008]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "215076063",
+      "addr:housenumber": "205 B",
+      "addr:postcode": "48605-410",
+      "addr:street": "Rua Lago Dourado",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2276686,-9.3902095]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364202",
+      "addr:housenumber": "507",
+      "addr:postcode": "48605-410",
+      "addr:street": "Rua Lago Dourado",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2270126,-9.3929926]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "215076916",
+      "addr:housenumber": "3",
+      "addr:postcode": "48605-390",
+      "addr:street": "Rua Lago Horizonte",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes",
+      "name": "Ultragás",
+      "shop": "gas"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.227329,-9.3879248]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364259",
+      "addr:housenumber": "111",
+      "addr:postcode": "48605-390",
+      "addr:street": "Rua Lago Horizonte",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2271958,-9.3888018]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "215077178",
+      "addr:housenumber": "174 Térreo",
+      "addr:postcode": "48605-420",
+      "addr:street": "Rua Lago Cristalino",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0067P-18-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.228202,-9.390026]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364269",
+      "addr:housenumber": "44",
+      "addr:postcode": "48605-350",
+      "addr:street": "Rua Lago do Amor",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2269981,-9.38815]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421088",
+      "addr:housenumber": "43 A",
+      "addr:postcode": "48605-430",
+      "addr:street": "Rua Lago da Paz",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2261512,-9.3878708]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "215077212",
+      "addr:housenumber": "174 B",
+      "addr:postcode": "48605-420",
+      "addr:street": "Rua Lago Cristalino",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0067P-18-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.228268,-9.389988]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364154",
+      "addr:housenumber": "205 A",
+      "addr:postcode": "48605-410",
+      "addr:street": "Rua Lago Dourado",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2276535,-9.3903007]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "223973992",
+      "addr:housenumber": "85",
+      "addr:postcode": "48605-350",
+      "addr:street": "Rua Lago do Amor",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.226688,-9.3887206]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364180",
+      "addr:housenumber": "28",
+      "addr:postcode": "48605-390",
+      "addr:street": "Rua Lago Horizonte",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2274721,-9.3882217]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364232",
+      "addr:housenumber": "424",
+      "addr:postcode": "48605-390",
+      "addr:street": "Rua Lago Horizonte",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2268089,-9.3921115]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "215076863",
+      "addr:housenumber": "236",
+      "addr:postcode": "48605-350",
+      "addr:street": "Rua Lago do Amor",
+      "addr:suburb": "Caminho dos Lagos",
+      "addr:unit": "Lote",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2265759,-9.3902708]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364193",
+      "addr:housenumber": "212",
+      "addr:postcode": "48605-390",
+      "addr:street": "Rua Lago Horizonte",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2271144,-9.3902839]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364227",
+      "addr:housenumber": "374",
+      "addr:postcode": "48605-390",
+      "addr:street": "Rua Lago Horizonte",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2268869,-9.3917183]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "223974132",
+      "addr:housenumber": "208",
+      "addr:postcode": "48605-440",
+      "addr:street": "Rua Lago Itapoã",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2241034,-9.3901337]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421044",
+      "addr:housenumber": "425",
+      "addr:postcode": "48605-350",
+      "addr:street": "Rua Lago do Amor",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2260199,-9.3922871]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421166",
+      "addr:housenumber": "331",
+      "addr:postcode": "48605-440",
+      "addr:street": "Rua Lago Itapoã",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0147P-15-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.223841,-9.391212]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "223974052",
+      "addr:housenumber": "158",
+      "addr:postcode": "48605-330",
+      "addr:suburb": "Caminho dos Lagos",
+      "addr:unit": "Casa",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.225578088846,-9.3888805733878]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364255",
+      "addr:housenumber": "189",
+      "addr:postcode": "48605-390",
+      "addr:street": "Rua Lago Horizonte",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2271046,-9.3894021]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364174",
+      "addr:housenumber": "93",
+      "addr:postcode": "48605-410",
+      "addr:street": "Rua Lago Dourado",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2277193,-9.3889812]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421147",
+      "addr:housenumber": "195",
+      "addr:postcode": "48605-380",
+      "addr:street": "Rua Lago Itaparica",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2245638,-9.3901459]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364196",
+      "addr:housenumber": "266",
+      "addr:postcode": "48605-390",
+      "addr:street": "Rua Lago Horizonte",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2270489,-9.3906631]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421087",
+      "addr:housenumber": "69",
+      "addr:postcode": "48605-430",
+      "addr:street": "Rua Lago da Paz",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.226107,-9.3880939]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364096",
+      "addr:housenumber": "29",
+      "addr:postcode": "48605-400",
+      "addr:street": "Rua Lago Azul",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0067P-18-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.228947,-9.388807]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "215077110",
+      "addr:housenumber": "66",
+      "addr:postcode": "48605-420",
+      "addr:street": "Rua Lago Cristalino",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0067P-18-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.228461,-9.388984]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "223974118",
+      "addr:housenumber": "216",
+      "addr:postcode": "48605-380",
+      "addr:street": "Rua Lago Itaparica",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2248495,-9.3895134]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "215076534",
+      "addr:housenumber": "16",
+      "addr:postcode": "48605-390",
+      "addr:street": "Rua Lago Horizonte",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2274956,-9.388087]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "223974048",
+      "addr:housenumber": "92",
+      "addr:postcode": "48605-330",
+      "addr:street": "Rua Lago Paranoá",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2256731,-9.3882152]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "215076874",
+      "addr:housenumber": "268",
+      "addr:postcode": "48605-350",
+      "addr:street": "Rua Lago do Amor",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2265479,-9.3904143]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "223974012",
+      "addr:housenumber": "63",
+      "addr:postcode": "48605-350",
+      "addr:street": "Rua Lago do Amor",
+      "addr:suburb": "Caminho dos Lagos",
+      "addr:unit": "Casa B",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.226721,-9.3885531]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421107",
+      "addr:housenumber": "308",
+      "addr:postcode": "48605-330",
+      "addr:street": "Rua Lago Paranoá",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2252588,-9.3904502]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "223974042",
+      "addr:housenumber": "17",
+      "addr:postcode": "48605-430",
+      "addr:street": "Rua Lago da Paz",
+      "addr:suburb": "Caminho dos Lagos",
+      "addr:unit": "Casa",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.226186,-9.3876952]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364210",
+      "addr:housenumber": "427",
+      "addr:postcode": "48605-410",
+      "addr:street": "Rua Lago Dourado",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2271321,-9.3923869]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364272",
+      "addr:housenumber": "84",
+      "addr:postcode": "48605-350",
+      "addr:street": "Rua Lago do Amor",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2269221,-9.3885274]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "223974046",
+      "addr:housenumber": "80",
+      "addr:postcode": "48605-330",
+      "addr:street": "Rua Lago Paranoá",
+      "addr:suburb": "Caminho dos Lagos",
+      "addr:unit": "Casa",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2256899,-9.3881155]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "223974133",
+      "addr:housenumber": "158",
+      "addr:postcode": "48605-440",
+      "addr:street": "Rua Lago Itapoã",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2242205,-9.3896154]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364149",
+      "addr:housenumber": "154",
+      "addr:postcode": "48605-280",
+      "addr:street": "Rua Canadá",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.227966,-9.3907779]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "223974110",
+      "addr:housenumber": "195",
+      "addr:postcode": "48605-345",
+      "addr:street": "Rua Entre Lagos",
+      "addr:suburb": "Caminho dos Lagos",
+      "addr:unit": "Casa A",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2252211,-9.3889161]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27304643",
+      "addr:housenumber": "21",
+      "addr:postcode": "48605-340",
+      "addr:street": "Rua Lago Norte",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2297048,-9.388595]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364277",
+      "addr:housenumber": "68",
+      "addr:postcode": "48605-350",
+      "addr:street": "Rua Lago do Amor",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "warehouse",
+      "description": "CNEFE 2022 Depósito"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2269678,-9.3883005]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "223974101",
+      "addr:housenumber": "380",
+      "addr:postcode": "48605-380",
+      "addr:street": "Rua Lago Itaparica",
+      "addr:suburb": "Caminho dos Lagos",
+      "addr:unit": "Casa A",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2245447,-9.3911271]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364214",
+      "addr:housenumber": "399",
+      "addr:postcode": "48605-410",
+      "addr:street": "Rua Lago Dourado",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2271885,-9.3919892]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364229",
+      "addr:housenumber": "394",
+      "addr:postcode": "48605-390",
+      "addr:street": "Rua Lago Horizonte",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2268479,-9.3919231]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364136",
+      "addr:housenumber": "392",
+      "addr:postcode": "48605-410",
+      "addr:street": "Rua Lago Dourado",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes",
+      "description": "CNEFE 2022 Padaria",
+      "shop": "bakery"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2273542,-9.3919301]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "223973995",
+      "addr:housenumber": "29",
+      "addr:postcode": "48605-350",
+      "addr:street": "Rua Lago do Amor",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2268261,-9.3880189]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364192",
+      "addr:housenumber": "202",
+      "addr:postcode": "48605-390",
+      "addr:street": "Rua Lago Horizonte",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2271574,-9.3900356]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "215076948",
+      "addr:housenumber": "42",
+      "addr:postcode": "48605-350",
+      "addr:street": "Rua Lago do Amor",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2270302,-9.3879906]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "223974114",
+      "addr:housenumber": "280",
+      "addr:postcode": "48605-380",
+      "addr:street": "Rua Lago Itaparica",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2247427,-9.3900919]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421139",
+      "addr:housenumber": "298",
+      "addr:postcode": "48605-380",
+      "addr:street": "Rua Lago Itaparica",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2247205,-9.3902122]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364211",
+      "addr:housenumber": "417",
+      "addr:postcode": "48605-410",
+      "addr:street": "Rua Lago Dourado",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.227166028719,-9.3922169799755]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364206",
+      "addr:housenumber": "465",
+      "addr:postcode": "48605-410",
+      "addr:street": "Rua Lago Dourado",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2270735,-9.3927153]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "215076208",
+      "addr:housenumber": "109",
+      "addr:postcode": "48605-420",
+      "addr:street": "Rua Lago Cristalino",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2283083,-9.3892586]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364204",
+      "addr:housenumber": "485",
+      "addr:postcode": "48605-410",
+      "addr:street": "Rua Lago Dourado",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2270422,-9.3928705]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "215076245",
+      "addr:housenumber": "71",
+      "addr:postcode": "48605-420",
+      "addr:street": "Rua Lago Cristalino",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2283692,-9.3889509]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "215076658",
+      "addr:housenumber": "106 Apartamento 11 Térreo",
+      "addr:postcode": "48605-410",
+      "addr:street": "Travessa Lago Dourado",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.227007620895,-9.3911818628642]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364137-27364140;215075923",
+      "addr:housenumber": "407",
+      "addr:postcode": "48605-410",
+      "addr:street": "Rua Lago Dourado",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2273215,-9.3921611]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364270",
+      "addr:housenumber": "68",
+      "addr:postcode": "48605-350",
+      "addr:street": "Rua Lago do Amor",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2269467,-9.3884053]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421152",
+      "addr:housenumber": "63",
+      "addr:postcode": "48605-380",
+      "addr:street": "Rua Lago Itaparica",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.224777,-9.3888959]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421135",
+      "addr:housenumber": "219",
+      "addr:postcode": "48605-330",
+      "addr:street": "Rua Lago Paranoá",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2252158,-9.3897187]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364177",
+      "addr:housenumber": "43",
+      "addr:postcode": "48605-410",
+      "addr:street": "Rua Lago Dourado",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2278313,-9.3883969]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "215076540",
+      "addr:housenumber": "40",
+      "addr:postcode": "48605-390",
+      "addr:street": "Rua Lago Horizonte",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2274505,-9.3883456]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "215076025",
+      "addr:housenumber": "142",
+      "addr:postcode": "48605-280",
+      "addr:street": "Rua Canadá",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2280075,-9.3905964]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "223974010",
+      "addr:housenumber": "63",
+      "addr:postcode": "48605-350",
+      "addr:street": "Rua Lago do Amor",
+      "addr:suburb": "Caminho dos Lagos",
+      "addr:unit": "Casa C",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.226720742171,-9.3885519237789]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364263",
+      "addr:housenumber": "59",
+      "addr:postcode": "48605-390",
+      "addr:street": "Rua Lago Horizonte",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2272762,-9.3882728]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364215",
+      "addr:housenumber": "381",
+      "addr:postcode": "48605-410",
+      "addr:street": "Rua Lago Dourado",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2271897,-9.3919805]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364147",
+      "addr:housenumber": "206",
+      "addr:postcode": "48605-280",
+      "addr:street": "Rua Canadá",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2279068,-9.3910696]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364131",
+      "addr:housenumber": "359",
+      "addr:postcode": "48605-410",
+      "addr:street": "Rua Lago Dourado",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2273828,-9.3917365]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "223974073",
+      "addr:housenumber": "407",
+      "addr:postcode": "48605-430",
+      "addr:street": "Rua Lago da Paz",
+      "addr:suburb": "Caminho dos Lagos",
+      "addr:unit": "Casa",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.225400196262,-9.3915810857377]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364256",
+      "addr:housenumber": "163",
+      "addr:postcode": "48605-390",
+      "addr:street": "Rua Lago Horizonte",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2271292,-9.3892405]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421055",
+      "addr:housenumber": "193",
+      "addr:postcode": "48605-350",
+      "addr:street": "Rua Lago do Amor",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2264178,-9.3900863]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "215076270",
+      "addr:housenumber": "57 C",
+      "addr:postcode": "48605-420",
+      "addr:street": "Rua Lago Cristalino",
+      "addr:suburb": "Caminho dos Lagos",
+      "addr:unit": "Fundos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2283618,-9.3887385]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "223973970",
+      "addr:housenumber": "388",
+      "addr:postcode": "48605-350",
+      "addr:street": "Travessa Lago do Amor",
+      "addr:suburb": "Caminho dos Lagos",
+      "addr:unit": "Casa",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.225832,-9.3915057]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364236",
+      "addr:housenumber": "464",
+      "addr:postcode": "48605-390",
+      "addr:street": "Rua Lago Horizonte",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2267466,-9.3924123]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421128",
+      "addr:housenumber": "444",
+      "addr:postcode": "48605-380",
+      "addr:street": "Rua Lago Itaparica",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2244447,-9.3916714]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "223973972",
+      "addr:housenumber": "436",
+      "addr:postcode": "48605-430",
+      "addr:street": "Rua Lago da Paz",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2255134,-9.3920424]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364175",
+      "addr:housenumber": "81",
+      "addr:postcode": "48605-410",
+      "addr:street": "Rua Lago Dourado",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2277406,-9.3888702]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "223973975",
+      "addr:housenumber": "219",
+      "addr:postcode": "48605-350",
+      "addr:street": "Rua Lago do Amor",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2263716,-9.3903336]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364265",
+      "addr:housenumber": "123 A",
+      "addr:postcode": "48605-350",
+      "addr:street": "Rua Lago do Amor",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2270517,-9.3878231]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "215076516",
+      "addr:housenumber": "29",
+      "addr:postcode": "48605-410",
+      "addr:street": "Rua Lago Dourado",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2278481,-9.3883092]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364144",
+      "addr:housenumber": "463 A",
+      "addr:postcode": "48605-410",
+      "addr:street": "Rua Lago Dourado",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2272519,-9.3926186]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364195",
+      "addr:housenumber": "252",
+      "addr:postcode": "48605-390",
+      "addr:street": "Rua Lago Horizonte",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2270737,-9.3905194]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364166",
+      "addr:housenumber": "17",
+      "addr:postcode": "48605-420",
+      "addr:street": "Rua Lago Cristalino",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2285113,-9.3884528]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27421176",
+      "addr:housenumber": "71",
+      "addr:postcode": "48605-440",
+      "addr:street": "Rua Lago Itapoã",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0147P-15-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.224274,-9.389056]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "215077150",
+      "addr:housenumber": "132",
+      "addr:postcode": "48605-420",
+      "addr:street": "Rua Lago Cristalino",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0067P-18-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.228357,-9.389611]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364164",
+      "addr:housenumber": "57 B",
+      "addr:postcode": "48605-420",
+      "addr:street": "Rua Lago Cristalino",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2283782,-9.3888822]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364240",
+      "addr:housenumber": "504",
+      "addr:postcode": "48605-390",
+      "addr:street": "Rua Lago Horizonte",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2266522,-9.3928073]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "215077196",
+      "addr:housenumber": "174 A",
+      "addr:postcode": "48605-420",
+      "addr:street": "Rua Lago Cristalino",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0067P-18-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.228267,-9.390021]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364235",
+      "addr:housenumber": "454",
+      "addr:postcode": "48605-390",
+      "addr:street": "Rua Lago Horizonte",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2267441,-9.3924242]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27364251",
+      "addr:housenumber": "218",
+      "addr:postcode": "48605-350",
+      "addr:street": "Rua Lago do Amor",
+      "addr:suburb": "Caminho dos Lagos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.226641116468,-9.3899502114057]
+      }
+    }
+  ]
+}

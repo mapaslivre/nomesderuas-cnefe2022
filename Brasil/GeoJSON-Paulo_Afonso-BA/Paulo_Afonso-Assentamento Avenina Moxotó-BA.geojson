@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "generator": "CSV-CNEFE2GeoJSON.lua 1.5.7 - fidelis.assis@gmail.com",
+  "source": "IBGE CNEFE + Faces de Logradouros - 2022",
+  "date": "2025-02-02T09:05:07-0300",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216762789",
+      "addr:housenumber": "208 B",
+      "addr:postcode": "48604-500",
+      "addr:street": "Avenida Moxotó",
+      "addr:suburb": "Assentamento Avenina Moxotó",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2405736,-9.3786687]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422352",
+      "addr:housenumber": "208",
+      "addr:postcode": "48604-500",
+      "addr:street": "Avenida Moxotó",
+      "addr:suburb": "Assentamento Avenina Moxotó",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2406025,-9.378641]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422353",
+      "addr:housenumber": "220",
+      "addr:postcode": "48604-500",
+      "addr:street": "Avenida Moxotó",
+      "addr:suburb": "Assentamento Avenina Moxotó",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2405693,-9.3786728]
+      }
+    }
+  ]
+}

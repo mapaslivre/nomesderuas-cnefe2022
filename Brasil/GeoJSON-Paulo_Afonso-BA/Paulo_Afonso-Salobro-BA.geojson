@@ -1,0 +1,1613 @@
+{
+  "type": "FeatureCollection",
+  "generator": "CSV-CNEFE2GeoJSON.lua 1.5.7 - fidelis.assis@gmail.com",
+  "source": "IBGE CNEFE + Faces de Logradouros - 2022",
+  "date": "2025-02-02T09:05:33-0300",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414189",
+      "addr:housenumber": "85",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Salobro",
+      "addr:unit": "Fundos Casa",
+      "amenity": "pub",
+      "building": "yes",
+      "description": "CNEFE 2022 Bar",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0186P-1-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0532012,-9.557408]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "215196548",
+      "addr:housenumber": "65",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Salobro",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 169m 0500-0186P-3-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.054567,-9.554099]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414132",
+      "addr:housenumber": "58",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Salobro",
+      "addr:unit": "Fundos Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0186P-4-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0524949,-9.5581674]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414194",
+      "addr:housenumber": "6",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Salobro",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0186P-1-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0532013,-9.5569976]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414185",
+      "addr:housenumber": "51",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Salobro",
+      "addr:unit": "Fundos Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0186P-5-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0544498,-9.5578877]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414188",
+      "addr:housenumber": "85",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Salobro",
+      "addr:unit": "Fundos Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0186P-5-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0535994,-9.5580909]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414180",
+      "addr:housenumber": "1",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Salobro",
+      "addr:unit": "Casa",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "name": "Igreja Caolica",
+      "note": "Sem dados para mover para dentro da quadra 0500-0186P-5-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0539546,-9.5586316]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "215196552",
+      "addr:housenumber": "2",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Salobro",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0186P-4-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.05186,-9.5578477]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414198",
+      "addr:housenumber": "4",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Salobro",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0186P-1-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.053761,-9.555706]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414165",
+      "addr:housenumber": "42",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Salobro",
+      "addr:unit": "Fundos Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0186P-5-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0571525,-9.5573074]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414195",
+      "addr:housenumber": "65",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Salobro",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 54m 0500-0186P-1-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.053692,-9.557168]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414183",
+      "addr:housenumber": "50",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Salobro",
+      "addr:unit": "Fundos Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0186P-5-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0542218,-9.55789]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "215196654",
+      "addr:housenumber": "6",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Salobro",
+      "addr:unit": "Casa 6",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0186P-6-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.053514,-9.561793]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414167",
+      "addr:housenumber": "21",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Salobro",
+      "addr:unit": "Fundos Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0186P-5-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0572603,-9.5572732]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414153",
+      "addr:housenumber": "29",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Salobro",
+      "addr:unit": "Fundos Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0186P-5-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0541489,-9.5586003]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414141",
+      "addr:housenumber": "3",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Salobro",
+      "addr:unit": "Fundos Casa",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0547371,-9.5618198]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414187",
+      "addr:housenumber": "53",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Salobro",
+      "addr:unit": "Fundos Chalé",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0186P-5-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0537428,-9.5579802]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414201",
+      "addr:housenumber": "11",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Salobro",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0186P-3-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0557572,-9.5548015]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "215196568",
+      "addr:housenumber": "11",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Salobro",
+      "addr:unit": "Casa 2",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0186P-5-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0548348,-9.5579394]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414172",
+      "addr:housenumber": "90",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Salobro",
+      "addr:unit": "Fundos Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0186P-2-4"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0552564,-9.5564243]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414163",
+      "addr:housenumber": "40",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Salobro",
+      "addr:unit": "Fundos Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0186P-6-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0559995,-9.5585243]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414124",
+      "addr:housenumber": "69",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Salobro",
+      "addr:unit": "Fundos Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0186P-4-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.051596,-9.557223]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "215196643",
+      "addr:housenumber": "2",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Salobro",
+      "addr:unit": "Casa 6",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0186P-6-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0558798,-9.5584583]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414206",
+      "addr:housenumber": "55",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Salobro",
+      "addr:unit": "Fundos Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0186P-5-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0529796,-9.5583622]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414164;27414171",
+      "addr:housenumber": "41",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Salobro",
+      "addr:unit": "Fundos Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0186P-5-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0577249,-9.5568844]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414192",
+      "addr:housenumber": "62",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Salobro",
+      "addr:unit": "Fundos Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0186P-1-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0531441,-9.5574698]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414125",
+      "addr:housenumber": "64",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Salobro",
+      "addr:unit": "Fundos Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 65m 0500-0186P-4-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.051641,-9.558444]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "215196661",
+      "addr:housenumber": "6",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Salobro",
+      "addr:unit": "Casa 2",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0186P-6-4"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.053389,-9.556843]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "215196659",
+      "addr:housenumber": "7",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Salobro",
+      "addr:unit": "Casa 4",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0186P-6-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0545619,-9.5613825]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414127",
+      "addr:housenumber": "67",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Salobro",
+      "addr:unit": "Fundos Chalé",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 48m 0500-0186P-4-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.051823,-9.558368]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414140",
+      "addr:housenumber": "7",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Salobro",
+      "addr:unit": "Fundos Casa",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.054453,-9.5614838]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "215196637",
+      "addr:housenumber": "9",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Salobro",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0186P-5-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0568933,-9.55735]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414175",
+      "addr:housenumber": "1",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Salobro",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0186P-3-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0553849,-9.5554888]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414156",
+      "addr:housenumber": "35",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Salobro",
+      "addr:unit": "Fundos Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0186P-6-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.05561,-9.558532]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414197",
+      "addr:housenumber": "3",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Salobro",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0186P-1-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0532842,-9.5567006]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414149",
+      "addr:housenumber": "21",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Salobro",
+      "addr:unit": "Fundos Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0186P-5-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0533253,-9.558797]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414147",
+      "addr:housenumber": "14",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Salobro",
+      "addr:unit": "Fundos Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0186P-6-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0543429,-9.561148]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414144",
+      "addr:housenumber": "9",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Salobro",
+      "addr:unit": "Fundos Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 43m 0500-0186P-6-4"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.054702,-9.56222]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414122",
+      "addr:housenumber": "73",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Salobro",
+      "addr:unit": "Fundos Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0186P-4-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0519186,-9.5573035]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414155",
+      "addr:housenumber": "9",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Salobro",
+      "addr:unit": "Fundos Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0186P-5-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0550247,-9.5580368]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "215196559",
+      "addr:housenumber": "20",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Salobro",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0186P-4-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0515516,-9.5584352]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414121",
+      "addr:housenumber": "72",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Salobro",
+      "addr:unit": "Fundos Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0186P-4-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0517955,-9.557293]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414146",
+      "addr:housenumber": "11",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Salobro",
+      "addr:unit": "Fundos",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0186P-6-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0544559,-9.561255]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414150",
+      "addr:housenumber": "23",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Salobro",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0186P-5-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0535092,-9.5587269]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414174",
+      "addr:housenumber": "92",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Salobro",
+      "addr:unit": "Fundos Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0186P-2-4"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0549551,-9.5563548]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414193",
+      "addr:housenumber": "7",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Salobro",
+      "addr:unit": "Fundos Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0186P-1-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0531841,-9.5571237]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414190",
+      "addr:housenumber": "75",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Salobro",
+      "addr:unit": "Fundos Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0186P-1-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0531657,-9.5572763]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414136",
+      "addr:housenumber": "17",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Salobro",
+      "addr:unit": "Fundos Casa",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "evangelical",
+      "description": "CNEFE 2022 Igreja Evangélica",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0186P-5-3",
+      "religion": "christian"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0532448,-9.5588025]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414203",
+      "addr:housenumber": "1",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Salobro",
+      "addr:unit": "Fundos Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 139m 0500-0186P-3-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.054827,-9.554211]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414139",
+      "addr:housenumber": "4",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Salobro",
+      "addr:unit": "Fundos Casa",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0543751,-9.561391]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414186",
+      "addr:housenumber": "52",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Salobro",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0186P-5-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0540895,-9.557849]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414202",
+      "addr:housenumber": "91",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Salobro",
+      "addr:unit": "Fundos Casa",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0550168,-9.554464]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414120",
+      "addr:housenumber": "71",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Salobro",
+      "addr:unit": "Fundos Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0186P-4-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0523476,-9.5581195]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "215196645",
+      "addr:housenumber": "9",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Salobro",
+      "addr:unit": "Casa 2",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 48m 0500-0186P-6-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.05572,-9.558863]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414181",
+      "addr:housenumber": "26",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Salobro",
+      "addr:unit": "Fundos Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0186P-5-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.053829,-9.5586675]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "215196647",
+      "addr:housenumber": "7",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Salobro",
+      "addr:unit": "Casa 2",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 46m 0500-0186P-6-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.056706,-9.559605]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414143",
+      "addr:housenumber": "1",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Salobro",
+      "addr:unit": "Fundos Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 42m 0500-0186P-6-4"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.054703,-9.562206]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414191",
+      "addr:housenumber": "104",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Salobro",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0186P-1-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0531412,-9.5574808]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414166",
+      "addr:housenumber": "43",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Salobro",
+      "addr:unit": "Fundos Chalé",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0186P-5-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0570973,-9.5573139]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414151",
+      "addr:housenumber": "24",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Salobro",
+      "addr:unit": "Fundos Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0186P-5-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0538199,-9.5586705]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414184",
+      "addr:housenumber": "49",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Salobro",
+      "addr:unit": "Fundos Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0186P-5-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0540829,-9.5578481]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414133",
+      "addr:housenumber": "57",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Salobro",
+      "addr:unit": "Fundos Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0186P-5-4"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0529742,-9.5587593]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414204",
+      "addr:housenumber": "102",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Salobro",
+      "addr:unit": "Fundos Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 181m 0500-0186P-3-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.054467,-9.55405]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "215196545",
+      "addr:housenumber": "6",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Salobro",
+      "addr:unit": "Casa 3",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 50m 0500-0186P-3-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.055921,-9.555591]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414182",
+      "addr:housenumber": "27",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Salobro",
+      "addr:unit": "Fundos Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0186P-5-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0542226,-9.5578903]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414126",
+      "addr:housenumber": "67",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Salobro",
+      "addr:unit": "Fundos Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0186P-4-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0520356,-9.5582997]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "215196567",
+      "addr:housenumber": "11",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Salobro",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0186P-5-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0548453,-9.5579437]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414160",
+      "addr:housenumber": "7",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Salobro",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 64m 0500-0186P-6-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.056748,-9.559814]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414177",
+      "addr:housenumber": "95",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Salobro",
+      "addr:unit": "Fundos Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0186P-3-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0556559,-9.5551331]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414205",
+      "addr:housenumber": "3",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Salobro",
+      "addr:unit": "Fundos Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0186P-5-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0533774,-9.5582464]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414148",
+      "addr:housenumber": "5",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Salobro",
+      "addr:unit": "Fundos Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0186P-6-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0542808,-9.561088]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414138",
+      "addr:housenumber": "16",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Salobro",
+      "addr:unit": "Fundos Casa",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0534331,-9.5613645]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414119",
+      "addr:housenumber": "63",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Salobro",
+      "addr:unit": "Fundos Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0186P-4-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0521326,-9.5580224]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "215196653",
+      "addr:housenumber": "26",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Salobro",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 42m 0500-0186P-6-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.053556,-9.56162]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414154",
+      "addr:housenumber": "28",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Salobro",
+      "addr:unit": "Fundos Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0186P-5-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0550426,-9.5580454]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "215196519",
+      "addr:housenumber": "6",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Salobro",
+      "building": "yes",
+      "description": "CNEFE 2022 Borracharia",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0186P-1-1",
+      "repair": "yes",
+      "shop": "tyres"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0531884,-9.5570756]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414158",
+      "addr:housenumber": "34",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Salobro",
+      "addr:unit": "Fundos Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0186P-6-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.057315,-9.559597]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414142",
+      "addr:housenumber": "2",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Salobro",
+      "addr:unit": "Fundos Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 41m 0500-0186P-6-4"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.054686,-9.56217]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "215196539",
+      "addr:housenumber": "4",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Salobro",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 43m 0500-0186P-3-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.055207,-9.554906]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414169",
+      "addr:housenumber": "46",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Salobro",
+      "addr:unit": "Fundos Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0186P-5-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0579508,-9.5566106]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "215196656",
+      "addr:housenumber": "240",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Salobro",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0186P-6-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.053415,-9.561998]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "215196660",
+      "addr:housenumber": "1",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Salobro",
+      "amenity": "pub",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "name": "Bar do Babá",
+      "note": "Sem dados para mover para dentro da quadra 0500-0186P-6-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0541191,-9.5609332]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414173",
+      "addr:housenumber": "81",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Salobro",
+      "addr:unit": "Fundos Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0186P-2-4"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.055766,-9.5567928]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414128",
+      "addr:housenumber": "66",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Salobro",
+      "addr:unit": "Fundos Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0186P-4-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0519019,-9.5583292]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414200",
+      "addr:housenumber": "4",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Salobro",
+      "addr:unit": "Casa",
+      "building": "construction",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0186P-3-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0552568,-9.5544537]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414196",
+      "addr:housenumber": "2",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Salobro",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0186P-1-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0531436,-9.5571174]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414134",
+      "addr:housenumber": "58",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Salobro",
+      "addr:unit": "Fundos Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0186P-5-4"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0529227,-9.5586092]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414168",
+      "addr:housenumber": "61",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Salobro",
+      "addr:unit": "Fundos Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0186P-5-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0571467,-9.5573075]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414117",
+      "addr:housenumber": "61",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Salobro",
+      "addr:unit": "Fundos Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0186P-4-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.053143,-9.558352]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414199",
+      "addr:housenumber": "5",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Salobro",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0186P-1-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0535285,-9.5561923]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414176;27414178",
+      "addr:housenumber": "5",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Salobro",
+      "addr:unit": "Casa",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0557255,-9.5550171]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414129",
+      "addr:housenumber": "65",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Salobro",
+      "addr:unit": "Fundos Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0186P-4-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0521389,-9.5582815]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "215196635",
+      "addr:housenumber": "6",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Salobro",
+      "addr:unit": "Casa 4",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0186P-5-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0577677,-9.5568059]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414179",
+      "addr:housenumber": "3",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Salobro",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0186P-3-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0557749,-9.5549375]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414159",
+      "addr:housenumber": "6",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Salobro",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0186P-6-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.0569219,-9.559249]
+      }
+    }
+  ]
+}

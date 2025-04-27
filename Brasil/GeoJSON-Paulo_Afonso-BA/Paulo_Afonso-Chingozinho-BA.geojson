@@ -1,0 +1,322 @@
+{
+  "type": "FeatureCollection",
+  "generator": "CSV-CNEFE2GeoJSON.lua 1.5.7 - fidelis.assis@gmail.com",
+  "source": "IBGE CNEFE + Faces de Logradouros - 2022",
+  "date": "2025-02-02T09:05:23-0300",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112586067",
+      "addr:housenumber": "3",
+      "addr:postcode": "48601-016",
+      "addr:street": "Estrada da Faixa",
+      "addr:suburb": "Chingozinho",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "name": "Base da Imbasa",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0212P-0-97"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.027971,-9.533554]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112586055",
+      "addr:housenumber": "6",
+      "addr:postcode": "48601-018",
+      "addr:street": "Estrada do Xingozinho para O Rio",
+      "addr:suburb": "Chingozinho",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0212P-0-99"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.014743,-9.524189]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112584010",
+      "addr:housenumber": "85",
+      "addr:postcode": "48601-018",
+      "addr:street": "Povoado Xingozinho",
+      "addr:suburb": "Chingozinho",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "name": "Associação de Piscicultores",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0212P-0-102",
+      "office": "association"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.021415,-9.553898]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112584105",
+      "addr:housenumber": "2",
+      "addr:postcode": "48601-018",
+      "addr:street": "Estrada BA-210",
+      "addr:suburb": "Chingozinho",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0212P-0-96"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.04379,-9.531623]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411243",
+      "addr:housenumber": "19",
+      "addr:postcode": "48601-018",
+      "addr:street": "Quilômetro 23",
+      "addr:suburb": "Chingozinho",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0212P-0-95"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.044328,-9.530738]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112584239",
+      "addr:housenumber": "18",
+      "addr:postcode": "48601-018",
+      "addr:street": "Estrada do Xingozinho para O Rio",
+      "addr:suburb": "Chingozinho",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0212P-0-99"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.027024,-9.511548]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411187",
+      "addr:housenumber": "2",
+      "addr:postcode": "48601-016",
+      "addr:street": "Povoado Xingozinho",
+      "addr:suburb": "Chingozinho",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0212P-0-103"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.01009,-9.52131]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112584021",
+      "addr:housenumber": "25",
+      "addr:postcode": "48601-018",
+      "addr:street": "Povoado Xingozinho",
+      "addr:suburb": "Chingozinho",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "name": "Associação de Piscultores",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0212P-0-102",
+      "office": "association"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.021423,-9.553914]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112586214",
+      "addr:housenumber": "5",
+      "addr:postcode": "48601-018",
+      "addr:street": "Estrada da Faixa",
+      "addr:suburb": "Chingozinho",
+      "building": "construction",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0212P-0-98"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.026972,-9.531476]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112584200",
+      "addr:housenumber": "58",
+      "addr:postcode": "48601-018",
+      "addr:street": "Povoado Xingozinho",
+      "addr:suburb": "Chingozinho",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0212P-0-102"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.022064,-9.553304]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112585279",
+      "addr:housenumber": "15",
+      "addr:postcode": "48601-018",
+      "addr:street": "Estrada do Xingozinho para O Rio",
+      "addr:suburb": "Chingozinho",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "name": "Associação Purina",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0212P-0-99",
+      "office": "association"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.00944,-9.510873]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112584021",
+      "addr:housenumber": "25",
+      "addr:postcode": "48601-018",
+      "addr:street": "Povoado Xingozinho",
+      "addr:suburb": "Chingozinho",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0212P-0-102"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.021422955813,-9.5539141616562]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112584188",
+      "addr:housenumber": "18",
+      "addr:postcode": "48601-018",
+      "addr:street": "Povoado Xingozinho",
+      "addr:suburb": "Chingozinho",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0212P-0-102"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.022773,-9.555083]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112584779",
+      "addr:housenumber": "8",
+      "addr:postcode": "48601-018",
+      "addr:street": "Estrada do Xingozinho para O Rio",
+      "addr:suburb": "Chingozinho",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0212P-0-99"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.01458,-9.523832]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112584010",
+      "addr:housenumber": "85",
+      "addr:postcode": "48601-018",
+      "addr:street": "Povoado Xingozinho",
+      "addr:suburb": "Chingozinho",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0212P-0-102"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.02140729614,-9.5538995613881]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411188",
+      "addr:housenumber": "3",
+      "addr:postcode": "48601-018",
+      "addr:street": "Povoado Xingozinho",
+      "addr:suburb": "Chingozinho",
+      "building": "warehouse",
+      "description": "CNEFE 2022 Depósito",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0212P-0-102"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.010225,-9.521437]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112584228",
+      "addr:housenumber": "9",
+      "addr:postcode": "48601-018",
+      "addr:street": "Estrada do Xingozinho para O Rio",
+      "addr:suburb": "Chingozinho",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0212P-0-99"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.015671,-9.525158]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112584793",
+      "addr:housenumber": "7",
+      "addr:postcode": "48601-018",
+      "addr:street": "Estrada do Xingozinho para O Rio",
+      "addr:suburb": "Chingozinho",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0212P-0-99"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.00935,-9.510891]
+      }
+    }
+  ]
+}

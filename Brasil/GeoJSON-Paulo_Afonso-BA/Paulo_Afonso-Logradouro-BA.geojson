@@ -1,0 +1,895 @@
+{
+  "type": "FeatureCollection",
+  "source": "IBGE CNEFE + Faces de Logradouros - 2022",
+  "generator": "CSV-CNEFE2GeoJSON.lua 1.5.7 - fidelis.assis@gmail.com",
+  "date": "2025-02-02T09:05:26-0300",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411872",
+      "addr:housenumber": "37",
+      "addr:postcode": "48601-018",
+      "addr:street": "Margens Rodovia BR-110",
+      "addr:suburb": "Logradouro",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-135"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.221713,-9.624915]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192023468",
+      "addr:housenumber": "46",
+      "addr:postcode": "48610-488",
+      "addr:street": "Saída Para Rodovia BR-110",
+      "addr:suburb": "Logradouro",
+      "amenity": "pub",
+      "building": "yes",
+      "description": "CNEFE 2022 Bar",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-136"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.221949,-9.632514]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192023368",
+      "addr:housenumber": "5",
+      "addr:postcode": "48610-488",
+      "addr:street": "Saída Para Rodovia BR-110",
+      "addr:suburb": "Logradouro",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-136"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.219916,-9.619373]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192023511",
+      "addr:housenumber": "55",
+      "addr:postcode": "48610-488",
+      "addr:street": "Saída Para Rodovia BR-110",
+      "addr:suburb": "Logradouro",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-136"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.220097,-9.634896]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192023398",
+      "addr:housenumber": "8",
+      "addr:postcode": "48610-488",
+      "addr:street": "Saída Para Rodovia BR-110",
+      "addr:suburb": "Logradouro",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-136"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.21479,-9.615954]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411866",
+      "addr:housenumber": "3",
+      "addr:postcode": "48601-018",
+      "addr:street": "Margens Rodovia BR-110",
+      "addr:suburb": "Logradouro",
+      "building": "construction",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-135"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.219951,-9.619277]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411877",
+      "addr:housenumber": "41",
+      "addr:postcode": "48601-018",
+      "addr:street": "Margens Rodovia BR-110",
+      "addr:suburb": "Logradouro",
+      "building": "construction",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-135"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.221965,-9.627492]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192023473",
+      "addr:housenumber": "38",
+      "addr:postcode": "48610-488",
+      "addr:street": "Saída Para Rodovia BR-110",
+      "addr:suburb": "Logradouro",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-136"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.22208,-9.633776]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192023621",
+      "addr:housenumber": "22",
+      "addr:postcode": "48610-488",
+      "addr:street": "Estrada Perto D Povoado Logradouro",
+      "addr:suburb": "Logradouro",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-137"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.218367,-9.62247]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192023420",
+      "addr:housenumber": "31",
+      "addr:postcode": "48610-488",
+      "addr:street": "Saída Para Rodovia BR-110",
+      "addr:suburb": "Logradouro",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-136"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.221049,-9.621045]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192023462",
+      "addr:housenumber": "35",
+      "addr:postcode": "48610-488",
+      "addr:street": "Saída Para Rodovia BR-110",
+      "addr:suburb": "Logradouro",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-136"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.221717,-9.632414]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192023382;192023389",
+      "addr:housenumber": "7",
+      "addr:postcode": "48610-488",
+      "addr:street": "Saída Para Rodovia BR-110",
+      "addr:suburb": "Logradouro",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-136"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.21801,-9.619132]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192023375",
+      "addr:housenumber": "6",
+      "addr:postcode": "48610-488",
+      "addr:street": "Saída Para Rodovia BR-110",
+      "addr:suburb": "Logradouro",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-136"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.219201,-9.619357]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411869",
+      "addr:housenumber": "2",
+      "addr:postcode": "48601-018",
+      "addr:street": "Margens Rodovia BR-110",
+      "addr:suburb": "Logradouro",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-135"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.220476,-9.61762]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192023500",
+      "addr:housenumber": "53",
+      "addr:postcode": "48610-488",
+      "addr:street": "Saída Para Rodovia BR-110",
+      "addr:suburb": "Logradouro",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-136"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.220129,-9.634372]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411790",
+      "addr:housenumber": "43",
+      "addr:postcode": "48601-018",
+      "addr:street": "Rodovia BR-110",
+      "addr:suburb": "Logradouro",
+      "building": "construction",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-139"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.221536,-9.631551]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192023505",
+      "addr:housenumber": "54",
+      "addr:postcode": "48610-488",
+      "addr:street": "Saída Para Rodovia BR-110",
+      "addr:suburb": "Logradouro",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-136"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.220128,-9.634558]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192023548",
+      "addr:housenumber": "9",
+      "addr:postcode": "48610-488",
+      "addr:street": "Estrada Perto D Povoado Logradouro",
+      "addr:suburb": "Logradouro",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-137"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.214798,-9.622581]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192023596",
+      "addr:housenumber": "14",
+      "addr:postcode": "48610-488",
+      "addr:street": "Estrada Perto D Povoado Logradouro",
+      "addr:suburb": "Logradouro",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-137"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.218588,-9.621796]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192023478",
+      "addr:housenumber": "66",
+      "addr:postcode": "48610-488",
+      "addr:street": "Saída Para Rodovia BR-110",
+      "addr:suburb": "Logradouro",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-136"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.222603,-9.634082]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411867",
+      "addr:housenumber": "5",
+      "addr:postcode": "48601-018",
+      "addr:street": "Margens Rodovia BR-110",
+      "addr:suburb": "Logradouro",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-135"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.219758,-9.617807]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192023555",
+      "addr:housenumber": "10",
+      "addr:postcode": "48610-488",
+      "addr:street": "Estrada Perto D Povoado Logradouro",
+      "addr:suburb": "Logradouro",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-137"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.209793,-9.624064]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192023649",
+      "addr:housenumber": "26",
+      "addr:postcode": "48610-488",
+      "addr:street": "Estrada Perto D Povoado Logradouro",
+      "addr:suburb": "Logradouro",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-137"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.217299,-9.622561]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192023432",
+      "addr:housenumber": "39",
+      "addr:postcode": "48610-488",
+      "addr:street": "Saída Para Rodovia BR-110",
+      "addr:suburb": "Logradouro",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-136"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.220341,-9.625607]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192023590",
+      "addr:housenumber": "13",
+      "addr:postcode": "48610-488",
+      "addr:street": "Estrada Perto D Povoado Logradouro",
+      "addr:suburb": "Logradouro",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-137"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.203794,-9.626306]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192023445",
+      "addr:housenumber": "39",
+      "addr:postcode": "48610-488",
+      "addr:street": "Saída Para Rodovia BR-110",
+      "addr:suburb": "Logradouro",
+      "addr:unit": "Smsa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-136"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2212,-9.625928]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411868",
+      "addr:housenumber": "1",
+      "addr:postcode": "48601-018",
+      "addr:street": "Margens Rodovia BR-110",
+      "addr:suburb": "Logradouro",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-135"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.219404,-9.616896]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411874",
+      "addr:housenumber": "33",
+      "addr:postcode": "48601-018",
+      "addr:street": "Margens Rodovia BR-110",
+      "addr:suburb": "Logradouro",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-135"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.221473,-9.622796]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192023609",
+      "addr:housenumber": "17",
+      "addr:postcode": "48610-488",
+      "addr:street": "Estrada Perto D Povoado Logradouro",
+      "addr:suburb": "Logradouro",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-137"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.21836,-9.621594]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192023661",
+      "addr:housenumber": "29",
+      "addr:postcode": "48610-488",
+      "addr:street": "Estrada Perto D Povoado Logradouro",
+      "addr:suburb": "Logradouro",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-137"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.217428,-9.622923]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192023564",
+      "addr:housenumber": "11",
+      "addr:postcode": "48610-488",
+      "addr:street": "Estrada Perto D Povoado Logradouro",
+      "addr:suburb": "Logradouro",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-137"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.209752,-9.623542]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192023532",
+      "addr:housenumber": "58",
+      "addr:postcode": "48610-488",
+      "addr:street": "Saída Para Rodovia BR-110",
+      "addr:suburb": "Logradouro",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-136"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.219297,-9.636044]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192023484",
+      "addr:housenumber": "48",
+      "addr:postcode": "48610-488",
+      "addr:street": "Saída Para Rodovia BR-110",
+      "addr:suburb": "Logradouro",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-136"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.221212,-9.634766]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192023603",
+      "addr:housenumber": "16",
+      "addr:postcode": "48610-488",
+      "addr:street": "Estrada Perto D Povoado Logradouro",
+      "addr:suburb": "Logradouro",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-137"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.218616,-9.621806]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192023615",
+      "addr:housenumber": "19",
+      "addr:postcode": "48610-488",
+      "addr:street": "Estrada Perto D Povoado Logradouro",
+      "addr:suburb": "Logradouro",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-137"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.217694,-9.621719]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411873",
+      "addr:housenumber": "34",
+      "addr:postcode": "48601-018",
+      "addr:street": "Margens Rodovia BR-110",
+      "addr:suburb": "Logradouro",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-135"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.221633,-9.623774]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411881",
+      "addr:housenumber": "50",
+      "addr:postcode": "48601-018",
+      "addr:street": "Estrada Perto D Povoado Logradouro",
+      "addr:suburb": "Logradouro",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-140"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.220725,-9.634513]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192023655",
+      "addr:housenumber": "28",
+      "addr:postcode": "48610-488",
+      "addr:street": "Estrada Perto D Povoado Logradouro",
+      "addr:suburb": "Logradouro",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-137"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.217202,-9.622562]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192023405",
+      "addr:housenumber": "6 A",
+      "addr:postcode": "48610-488",
+      "addr:street": "Saída Para Rodovia BR-110",
+      "addr:suburb": "Logradouro",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-136"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.219779,-9.619476]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192023426",
+      "addr:housenumber": "32",
+      "addr:postcode": "48610-488",
+      "addr:street": "Saída Para Rodovia BR-110",
+      "addr:suburb": "Logradouro",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-136"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.220961,-9.621246]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411875",
+      "addr:housenumber": "38",
+      "addr:postcode": "48601-018",
+      "addr:street": "Margens Rodovia BR-110",
+      "addr:suburb": "Logradouro",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-135"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.221237,-9.625418]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192023517",
+      "addr:housenumber": "56",
+      "addr:postcode": "48610-488",
+      "addr:street": "Saída Para Rodovia BR-110",
+      "addr:suburb": "Logradouro",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-136"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.220209,-9.63532]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192023453",
+      "addr:housenumber": "40",
+      "addr:postcode": "48610-488",
+      "addr:street": "Saída Para Rodovia BR-110",
+      "addr:suburb": "Logradouro",
+      "building": "construction",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-136"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.221251,-9.625527]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192023667",
+      "addr:housenumber": "12",
+      "addr:postcode": "48609-048",
+      "addr:street": "Estrada Perto D Povoado Logradouro",
+      "addr:suburb": "Logradouro",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-138"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.203806,-9.626361]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192023494",
+      "addr:housenumber": "52",
+      "addr:postcode": "48610-488",
+      "addr:street": "Saída Para Rodovia BR-110",
+      "addr:suburb": "Logradouro",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-136"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.220078,-9.634041]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411871",
+      "addr:housenumber": "35",
+      "addr:postcode": "48601-018",
+      "addr:street": "Margens Rodovia BR-110",
+      "addr:suburb": "Logradouro",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-135"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.221616,-9.623789]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192023458",
+      "addr:housenumber": "42",
+      "addr:postcode": "48610-488",
+      "addr:street": "Saída Para Rodovia BR-110",
+      "addr:suburb": "Logradouro",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-136"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.222222,-9.630217]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192023439",
+      "addr:housenumber": "36",
+      "addr:postcode": "48610-488",
+      "addr:street": "Saída Para Rodovia BR-110",
+      "addr:suburb": "Logradouro",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-136"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.221176,-9.625914]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192023641",
+      "addr:housenumber": "23",
+      "addr:postcode": "48610-488",
+      "addr:street": "Estrada Perto D Povoado Logradouro",
+      "addr:suburb": "Logradouro",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-137"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.21759,-9.622553]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192023414",
+      "addr:housenumber": "30",
+      "addr:postcode": "48610-488",
+      "addr:street": "Saída Para Rodovia BR-110",
+      "addr:suburb": "Logradouro",
+      "building": "construction",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-136"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.220885,-9.620696]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192023489",
+      "addr:housenumber": "50",
+      "addr:postcode": "48610-488",
+      "addr:street": "Saída Para Rodovia BR-110",
+      "addr:suburb": "Logradouro",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-136"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.220023,-9.633455]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192023525",
+      "addr:housenumber": "57",
+      "addr:postcode": "48610-488",
+      "addr:street": "Saída Para Rodovia BR-110",
+      "addr:suburb": "Logradouro",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-136"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.220085,-9.635861]
+      }
+    }
+  ]
+}
