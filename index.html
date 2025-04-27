@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>JOSM Video Tour</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      background: #f8f8f8;
+      margin: 0;
+      display: flex;
+      height: 100vh;
+      overflow: hidden;
+      color: #333;
+    }
+
+    .sidebar {
+      width: 280px;
+      background: #2c3e50;
+      color: white;
+      padding: 20px;
+      overflow-y: auto;
+    }
+
+    .sidebar h3 {
+      border-bottom: 1px solid #555;
+      padding-bottom: 5px;
+      margin-top: 20px;
+    }
+
+    .video-link {
+      display: block;
+      color: white;
+      text-decoration: none;
+      margin: 8px 0;
+      cursor: pointer;
+      font-size: 14px;
+    }
+
+    .video-link:hover {
+      text-decoration: underline;
+    }
+
+    .video-link.active {
+      background: #1abc9c;
+      padding: 4px 8px;
+      border-radius: 4px;
+    }
+
+    .content {
+      flex-grow: 1;
+      padding: 40px;
+      text-align: center;
+      position: relative;
+    }
+
+    .video-container {
+      position: relative;
+      display: inline-block;
+    }
+
+    video {
+      border: 4px solid #444;
+      border-radius: 10px;
+      width: 80%;
+      max-width: 600px;
+      height: auto;
+      box-shadow: 0 6px 15px rgba(0, 0, 0, 0.2);
+    }
+
+    .overlay-controls {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      display: none;
+      flex-direction: row;
+      gap: 20px;
+      z-index: 10;
+    }
+
+    .overlay-controls button {
+      padding: 10px 20px;
+      font-size: 16px;
+      background: #2c3e50;
+      color: white;
+      border: none;
+      border-radius: 6px;
+      cursor: pointer;
+      transition: background 0.3s ease;
+    }
+
+    .overlay-controls button:disabled {
+      background: #aaa;
+      cursor: not-allowed;
+    }
+
+    h2 {
+      margin-bottom: 20px;
+    }
+
+    p {
+      font-size: 14px;
+      color: #555;
+    }
+
+    /* Fullscreen adjustments */
+    video:fullscreen,
+    .video-container:fullscreen {
+      width: 100%;
+      height: 100%;
+    }
+
+    .overlay-controls {
+      z-index: 10;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="sidebar">
+    <h3>Atalhos</h3>
+    <div id="atalhosList"></div>
+
+    <h3>Outras Dicas</h3>
+    <div id="outrasDicasList"></div>
+  </div>
+
+  <div class="content">
+    <h2>JOSM Vídeos de Treinamento Tour</h2>
+
+    <div class="video-container">
+      <video id="videoPlayer" controls>
+        <source id="videoSource" src="" type="video/webm">
+        Seu navegador não suporta o vídeo.
+      </video>
+
+      <div class="overlay-controls" id="overlayControls">
+        <button id="prevButton">◀ Anterior</button>
+        <button id="nextButton">Próximo ▶</button>
+      </div>
+    </div>
+
+    <p>Assista os vídeos em ordem. Os botões aparecem ao fim de cada vídeo.</p>
+    <p>Nota: Vídeo sem áudio. Duplo clique no vídeo para tela cheia. Esc para sair.</p>
+  </div>
+
+  <script>
+    const atalhos = [
+      "GeoJSON-Carnaíba-PE","GeoJSON-Catende-PE","GeoJSON-Esplanada-BA","GeoJSON-Feira_da_Mata-BA",
+      "GeoJSON-Iaçu-BA","GeoJSON-Itambé-BA","GeoJSON-Itatim-BA","GeoJSON-Licínio_de_Almeida-BA",
+      "GeoJSON-Paulo_Afonso-BA","GeoJSON-Santa_Bárbara-BA"
+    ];
+
+    const outrasDicas = [
+      "desenhar-no-topo_entao_arrastar-para-a-base.webm", "dominando_a_janela_de_validacao.webm",
+      "dominando_multiplas_camadas.webm", "exemplo_janela_filtro.webm",
+      "filtro-como-gerenciador-de-tarefas.webm", "ligar_desligar_camadas.webm"
+    ];
+
+    const video = document.getElementById("videoPlayer");
+    const source = document.getElementById("videoSource");
+    const overlay = document.getElementById("overlayControls");
+    const nextButton = document.getElementById("nextButton");
+    const prevButton = document.getElementById("prevButton");
+
+    const atalhosList = document.getElementById("atalhosList");
+    const outrasDicasList = document.getElementById("outrasDicasList");
+
+    const videoList = [...atalhos.map(v => "videos/atalhos_teclado/" + v), ...outrasDicas.map(v => "videos/outras_dicas/" + v)];
+    let current = 0;
+    let allLinks = [];
+
+    function highlightLink(index) {
+      allLinks.forEach((link, i) => {
+        link.classList.toggle("active", i === index);
+      });
+    }
+
+    function loadVideoByPath(path, index) {
+      source.src = path;
+      video.load();
+      current = index;
+      overlay.style.display = "none";
+      highlightLink(index);
+    }
+
+    function createList(container, files, folder, offset) {
+      files.forEach((file, idx) => {
+        const link = document.createElement("a");
+        link.textContent = file.replace(".webm", "").replace(/_/g, " ");
+        link.className = "video-link";
+        link.onclick = () => loadVideoByPath(`videos/${folder}/${file}`, offset + idx);
+        container.appendChild(link);
+        allLinks[offset + idx] = link;
+      });
+    }
+
+    video.onended = () => {
+      overlay.style.display = "flex";
+      nextButton.disabled = current >= videoList.length - 1;
+      prevButton.disabled = current <= 0;
+    };
+
+    nextButton.onclick = () => {
+      if (current < videoList.length - 1) {
+        current++;
+        loadVideoByPath(videoList[current], current);
+      }
+    };
+
+    prevButton.onclick = () => {
+      if (current > 0) {
+        current--;
+        loadVideoByPath(videoList[current], current);
+      }
+    };
+
+    // Fullscreen support (duplo clique no vídeo)
+    const videoContainer = video.parentElement;
+    video.ondblclick = () => {
+      if (!document.fullscreenElement) {
+        videoContainer.requestFullscreen?.();
+      } else {
+        document.exitFullscreen?.();
+      }
+    };
+
+    createList(atalhosList, atalhos, "atalhos_teclado", 0);
+    createList(outrasDicasList, outrasDicas, "outras_dicas", atalhos.length);
+    loadVideoByPath(videoList[0], 0);
+  </script>
+</body>
+</html>
+
