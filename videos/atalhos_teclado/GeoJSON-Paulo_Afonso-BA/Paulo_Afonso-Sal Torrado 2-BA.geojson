@@ -1,0 +1,485 @@
+{
+  "type": "FeatureCollection",
+  "generator": "CSV-CNEFE2GeoJSON.lua 1.5.7 - fidelis.assis@gmail.com",
+  "source": "IBGE CNEFE + Faces de Logradouros - 2022",
+  "date": "2025-02-02T09:05:33-0300",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191716897",
+      "addr:housenumber": "16",
+      "addr:postcode": "48606-000",
+      "addr:suburb": "Sal Torrado 2",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "name": "Quentinha da Edilene",
+      "note": "Sem face no bayface do IBGE 0500-0037P-11-4"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.22273,-9.377098]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27355334",
+      "addr:housenumber": "2",
+      "addr:postcode": "48606-500",
+      "addr:suburb": "Sal Torrado 2",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0037P-10-18"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.222895,-9.383848]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27355332",
+      "addr:housenumber": "9",
+      "addr:postcode": "48606-500",
+      "addr:suburb": "Sal Torrado 2",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0037P-10-18"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.222714,-9.382433]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27355301",
+      "addr:housenumber": "5",
+      "addr:postcode": "48606-500",
+      "addr:street": "Rua Rua sem Denominação em Frente à Rua do Sossego",
+      "addr:suburb": "Sal Torrado 2",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2221699,-9.3827391]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191716896",
+      "addr:housenumber": "6",
+      "addr:postcode": "48606-000",
+      "addr:suburb": "Sal Torrado 2",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "name": "Movelaria Geraldo",
+      "note": "Sem face no bayface do IBGE 0500-0037P-11-4",
+      "shop": "furniture"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.222579,-9.377109]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27355343",
+      "addr:housenumber": "10",
+      "addr:postcode": "48606-500",
+      "addr:suburb": "Sal Torrado 2",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0037P-10-19"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.217363,-9.377495]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27355335",
+      "addr:housenumber": "36",
+      "addr:postcode": "48606-500",
+      "addr:suburb": "Sal Torrado 2",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2212848,-9.3797483]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27355313",
+      "addr:housenumber": "22",
+      "addr:postcode": "48606-500",
+      "addr:suburb": "Sal Torrado 2",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0037P-10-12"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.219158,-9.386145]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191716904",
+      "addr:housenumber": "6",
+      "addr:postcode": "48606-000",
+      "addr:suburb": "Sal Torrado 2",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "name": "Único",
+      "note": "Sem face no bayface do IBGE 0500-0037P-11-4"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.22292,-9.377159]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27355307;27355309-27355310",
+      "addr:housenumber": "18",
+      "addr:postcode": "48606-500",
+      "addr:suburb": "Sal Torrado 2",
+      "building": "construction",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 489m 0500-0037P-10-12"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2185423,-9.3853363]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27355364",
+      "addr:housenumber": "27",
+      "addr:postcode": "48606-500",
+      "addr:street": "Rua Rua sem Denominação em Frente à Rua do Sossego",
+      "addr:suburb": "Sal Torrado 2",
+      "building": "construction",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 73m 0500-0037P-10-23"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.221861,-9.382258]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27355325",
+      "addr:housenumber": "14",
+      "addr:postcode": "48606-500",
+      "addr:street": "Rua Rua sem Denominação em Frente à Rua do Sossego",
+      "addr:suburb": "Sal Torrado 2",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0037P-10-17"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.221887,-9.377426]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191716809",
+      "addr:housenumber": "35",
+      "addr:postcode": "48606-500",
+      "addr:street": "Rua Rua sem Denominação em Frente à Rua do Sossego",
+      "addr:suburb": "Sal Torrado 2",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 108m 0500-0037P-10-23"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.221678,-9.381978]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27355299",
+      "addr:housenumber": "18",
+      "addr:postcode": "48606-500",
+      "addr:street": "Rua Rua sem Denominação em Frente à Rua do Sossego",
+      "addr:suburb": "Sal Torrado 2",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2218181,-9.3832404]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27355342",
+      "addr:housenumber": "69",
+      "addr:postcode": "48606-500",
+      "addr:suburb": "Sal Torrado 2",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 74m 0500-0037P-10-19"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.219314,-9.376947]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191716824",
+      "addr:housenumber": "32",
+      "addr:postcode": "48606-000",
+      "addr:suburb": "Sal Torrado 2",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0037P-10-25"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.223222,-9.377259]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27355366",
+      "addr:housenumber": "29",
+      "addr:postcode": "48606-500",
+      "addr:street": "Rua Rua sem Denominação em Frente à Rua do Sossego",
+      "addr:suburb": "Sal Torrado 2",
+      "amenity": "animal_breeding",
+      "animal_breeding": "goat",
+      "farmyard": "stockyard",
+      "landuse": "farmyard",
+      "name": "Curral de Criação de Caprinos"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2218962,-9.3832545]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27355314",
+      "addr:housenumber": "25",
+      "addr:postcode": "48606-500",
+      "addr:suburb": "Sal Torrado 2",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0037P-10-13"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.222823,-9.383449]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191716900",
+      "addr:housenumber": "8",
+      "addr:postcode": "48606-000",
+      "addr:suburb": "Sal Torrado 2",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "name": "Lu Presentes",
+      "note": "Sem face no bayface do IBGE 0500-0037P-11-4",
+      "shop": "gift"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.222792,-9.377101]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191716829",
+      "addr:housenumber": "5",
+      "addr:postcode": "48606-000",
+      "addr:suburb": "Sal Torrado 2",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0037P-10-25"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.222939,-9.377242]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27355311",
+      "addr:housenumber": "12",
+      "addr:postcode": "48606-500",
+      "addr:suburb": "Sal Torrado 2",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 452m 0500-0037P-10-12"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.218854,-9.385168]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191716908",
+      "addr:housenumber": "13",
+      "addr:postcode": "48606-000",
+      "addr:suburb": "Sal Torrado 2",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "name": "Iran Peças e Acessórios",
+      "note": "Sem face no bayface do IBGE 0500-0037P-11-4"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.223445,-9.377253]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27355305",
+      "addr:housenumber": "5",
+      "addr:postcode": "48606-500",
+      "addr:suburb": "Sal Torrado 2",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "name": "Roça de Fruteiras",
+      "note": "Muito afastado da face: 457m 0500-0037P-10-12"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.218758,-9.385146]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191716832",
+      "addr:housenumber": "6",
+      "addr:postcode": "48606-000",
+      "addr:suburb": "Sal Torrado 2",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "name": "Fabtrica de Móveis Reis",
+      "note": "Sem face no bayface do IBGE 0500-0037P-10-25",
+      "shop": "furniture"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.222844,-9.377192]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191716822",
+      "addr:housenumber": "31",
+      "addr:postcode": "48606-000",
+      "addr:suburb": "Sal Torrado 2",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0037P-10-25"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.223295,-9.377298]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27355300",
+      "addr:housenumber": "7",
+      "addr:postcode": "48606-500",
+      "addr:street": "Rua Rua sem Denominação em Frente à Rua do Sossego",
+      "addr:suburb": "Sal Torrado 2",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2217947,-9.3832298]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191716827",
+      "addr:housenumber": "34",
+      "addr:postcode": "48606-000",
+      "addr:suburb": "Sal Torrado 2",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "name": "Oficina Mecânica João de Bila",
+      "note": "Sem face no bayface do IBGE 0500-0037P-10-25",
+      "shop": "car_repair"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.22315,-9.377256]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27355306;27355312",
+      "addr:housenumber": "11",
+      "addr:postcode": "48606-500",
+      "addr:suburb": "Sal Torrado 2",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 458m 0500-0037P-10-12"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2187815,-9.385179]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27355328",
+      "addr:housenumber": "1",
+      "addr:postcode": "48606-500",
+      "addr:suburb": "Sal Torrado 2",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0037P-10-18"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.220873,-9.379358]
+      }
+    }
+  ]
+}

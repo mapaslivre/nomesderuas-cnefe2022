@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "generator": "CSV-CNEFE2GeoJSON.lua 1.5.7 - fidelis.assis@gmail.com",
+  "source": "IBGE CNEFE + Faces de Logradouros - 2022",
+  "date": "2025-02-02T09:05:10-0300",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191402464",
+      "addr:housenumber": "34",
+      "addr:postcode": "48609-222",
+      "addr:street": "Rua Alonso Macedo",
+      "addr:suburb": "Btn",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "evangelical;pentecostal",
+      "name": "Igreja Evangélica Quadrangular",
+      "religion": "christian"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2133539,-9.4369017]
+      }
+    }
+  ]
+}

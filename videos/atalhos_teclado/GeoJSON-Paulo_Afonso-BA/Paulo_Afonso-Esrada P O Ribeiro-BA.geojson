@@ -1,0 +1,25 @@
+{
+  "type": "FeatureCollection",
+  "generator": "CSV-CNEFE2GeoJSON.lua 1.5.7 - fidelis.assis@gmail.com",
+  "source": "IBGE CNEFE + Faces de Logradouros - 2022",
+  "date": "2025-02-02T09:05:23-0300",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112583338",
+      "addr:housenumber": "1",
+      "addr:postcode": "48601-018",
+      "addr:street": "Caminho Ribeiro 1 e 2",
+      "addr:suburb": "Esrada P O Ribeiro",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-210"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.188983,-9.594946]
+      }
+    }
+  ]
+}

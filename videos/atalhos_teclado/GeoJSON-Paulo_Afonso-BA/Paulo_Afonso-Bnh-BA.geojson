@@ -1,0 +1,7113 @@
+{
+  "type": "FeatureCollection",
+  "generator": "CSV-CNEFE2GeoJSON.lua 1.5.7 - fidelis.assis@gmail.com",
+  "source": "IBGE CNEFE + Faces de Logradouros - 2022",
+  "date": "2025-02-02T09:05:09-0300",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368152",
+      "addr:housenumber": "11",
+      "addr:postcode": "48605-205",
+      "addr:street": "Avenida dos Estudantes",
+      "addr:suburb": "Bnh",
+      "addr:unit": "Casa A",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2319909,-9.3922504]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368232;191757419;191757424;191757428;191757432",
+      "addr:housenumber": "6",
+      "addr:postcode": "48605-169",
+      "addr:street": "Rua Paris",
+      "addr:suburb": "Bnh",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0084P-3-5"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2335714,-9.3937892]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216673414",
+      "addr:housenumber": "18",
+      "addr:postcode": "48605-146",
+      "addr:street": "Rua Califórnia",
+      "addr:suburb": "Bnh",
+      "addr:unit": "Casa B",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2325876,-9.3963329]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356005",
+      "addr:housenumber": "17",
+      "addr:postcode": "48605-146",
+      "addr:street": "Rua Califórnia",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2324407,-9.3961645]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356082",
+      "addr:housenumber": "9",
+      "addr:postcode": "48605-151",
+      "addr:street": "Rua Nápoles",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2332624,-9.39605]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27304493",
+      "addr:housenumber": "130 A",
+      "addr:postcode": "48605-205",
+      "addr:street": "Avenida dos Estudantes",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2317478,-9.3939757]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191757677",
+      "addr:housenumber": "18",
+      "addr:postcode": "48610-488",
+      "addr:street": "Rua Veneza",
+      "addr:suburb": "Bnh",
+      "addr:unit": "Fundos por Trás",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2325126,-9.3904436]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191757323",
+      "addr:housenumber": "1",
+      "addr:postcode": "48605-055",
+      "addr:street": "Avenida Antônio Carlos Magalhães",
+      "addr:suburb": "Bnh",
+      "building": "yes",
+      "name": "Qualivitta Home Care"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2345499,-9.3943117]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27304526",
+      "addr:housenumber": "89",
+      "addr:postcode": "48605-355",
+      "addr:street": "Rua Chile",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2309198,-9.3945798]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356057",
+      "addr:housenumber": "9",
+      "addr:postcode": "48605-146",
+      "addr:street": "Rua Califórnia",
+      "addr:suburb": "Bnh",
+      "addr:unit": "Casa A",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2335983,-9.3950204]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356096",
+      "addr:housenumber": "2",
+      "addr:postcode": "48605-055",
+      "addr:street": "Avenida Antônio Carlos Magalhães",
+      "addr:suburb": "Bnh",
+      "building": "yes",
+      "leisure": "pitch",
+      "name": "Quadra de Esporte",
+      "sport": "multi"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2338152,-9.3968306]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216673371",
+      "addr:housenumber": "19 A",
+      "addr:postcode": "48605-146",
+      "addr:street": "Rua Califórnia",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2324236,-9.3964786]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368356",
+      "addr:housenumber": "37",
+      "addr:postcode": "48605-185",
+      "addr:street": "Rua Barcelona",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2340328,-9.3920075]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368191",
+      "addr:housenumber": "32",
+      "addr:postcode": "48610-488",
+      "addr:street": "Rua Veneza",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2330485,-9.3918248]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368316",
+      "addr:housenumber": "11",
+      "addr:postcode": "48605-055",
+      "addr:street": "Avenida Antônio Carlos Magalhães",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2340744,-9.390407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356004",
+      "addr:housenumber": "18",
+      "addr:postcode": "48605-146",
+      "addr:street": "Rua Califórnia",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2324297,-9.3963667]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368377",
+      "addr:housenumber": "20",
+      "addr:postcode": "48610-488",
+      "addr:street": "Rua Veneza",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2323429,-9.3901171]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368353",
+      "addr:housenumber": "41",
+      "addr:postcode": "48605-185",
+      "addr:street": "Rua Barcelona",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2343483,-9.3926114]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191757705",
+      "addr:housenumber": "2010",
+      "addr:postcode": "48605-055",
+      "addr:street": "Avenida Antônio Carlos Magalhães",
+      "addr:suburb": "Bnh",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 44m 0500-0084P-9-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.232558,-9.387983]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27304513",
+      "addr:housenumber": "191",
+      "addr:postcode": "48605-355",
+      "addr:street": "Rua Chile",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2299577,-9.3945331]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191757620",
+      "addr:housenumber": "204",
+      "addr:postcode": "48605-185",
+      "addr:street": "Rua Barcelona",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2340568,-9.3920534]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368140",
+      "addr:housenumber": "17",
+      "addr:postcode": "48605-177",
+      "addr:street": "Rua Londres",
+      "addr:suburb": "Bnh",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0084P-2-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.232802,-9.393049]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27355981",
+      "addr:housenumber": "36",
+      "addr:postcode": "48605-205",
+      "addr:street": "Avenida dos Estudantes",
+      "addr:suburb": "Bnh",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2318324,-9.3953984]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27355979",
+      "addr:housenumber": "38",
+      "addr:postcode": "48605-169",
+      "addr:street": "Rua Paris",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2319739,-9.3949136]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "223783440-223783445",
+      "addr:flats": "101-302",
+      "addr:housenumber": "65",
+      "addr:postcode": "48605-355",
+      "addr:street": "Rua Chile",
+      "addr:suburb": "Bnh",
+      "building": "yes",
+      "building:flats": "6",
+      "building:levels": "3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2311487,-9.3945909]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368218",
+      "addr:housenumber": "15",
+      "addr:postcode": "48605-177",
+      "addr:street": "Rua Londres",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2326058,-9.39238]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27304500",
+      "addr:housenumber": "162",
+      "addr:postcode": "48605-230",
+      "addr:street": "Rua Paraguai",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2295246,-9.3941491]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191757405",
+      "addr:housenumber": "11",
+      "addr:postcode": "48605-177",
+      "addr:street": "Rua Londres",
+      "addr:suburb": "Bnh",
+      "addr:unit": "Casa E",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2329454,-9.392979]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216673324",
+      "addr:housenumber": "46",
+      "addr:postcode": "48605-169",
+      "addr:street": "Rua Paris",
+      "addr:suburb": "Bnh",
+      "addr:unit": "Casa A",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.233352,-9.3941364]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368159",
+      "addr:housenumber": "6",
+      "addr:postcode": "48605-173",
+      "addr:street": "Rua Berlim",
+      "addr:suburb": "Bnh",
+      "addr:unit": "Casa A",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2321816,-9.3933107]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368196",
+      "addr:housenumber": "29",
+      "addr:postcode": "48610-488",
+      "addr:street": "Rua Veneza",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2328156,-9.3914163]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368358",
+      "addr:housenumber": "35",
+      "addr:postcode": "48605-185",
+      "addr:street": "Rua Barcelona",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2338675,-9.39169]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191757704",
+      "addr:housenumber": "37",
+      "addr:postcode": "48605-055",
+      "addr:street": "Avenida Antônio Carlos Magalhães",
+      "addr:suburb": "Bnh",
+      "addr:unit": "Casa 1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2329229,-9.3882903]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356074",
+      "addr:housenumber": "21",
+      "addr:postcode": "48605-146",
+      "addr:street": "Rua Califórnia",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2326144,-9.3957968]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191757550",
+      "addr:housenumber": "19",
+      "addr:postcode": "48605-185",
+      "addr:street": "Rua Barcelona",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2331825,-9.389489]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27355996",
+      "addr:housenumber": "1270",
+      "addr:postcode": "48601-230",
+      "addr:street": "Avenida André Falcão",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2319456,-9.3974512]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368309",
+      "addr:housenumber": "4",
+      "addr:postcode": "48605-055",
+      "addr:street": "Avenida Antônio Carlos Magalhães",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2346991,-9.3917391]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368164",
+      "addr:housenumber": "3",
+      "addr:postcode": "48605-173",
+      "addr:street": "Rua Berlim",
+      "addr:suburb": "Bnh",
+      "addr:unit": "Casa A",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2324635,-9.3938332]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368311",
+      "addr:housenumber": "6",
+      "addr:postcode": "48605-055",
+      "addr:street": "Avenida Antônio Carlos Magalhães",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2345348,-9.3913288]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368144",
+      "addr:housenumber": "15 Frente",
+      "addr:postcode": "48605-177",
+      "addr:street": "Rua Londres",
+      "addr:suburb": "Bnh",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0084P-2-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.232658,-9.392753]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368137",
+      "addr:housenumber": "19",
+      "addr:postcode": "48605-177",
+      "addr:street": "Rua Londres",
+      "addr:suburb": "Bnh",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0084P-2-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.233171,-9.393574]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27355969",
+      "addr:housenumber": "46",
+      "addr:postcode": "48605-169",
+      "addr:street": "Rua Paris",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2334559,-9.3941426]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356072",
+      "addr:housenumber": "17",
+      "addr:postcode": "48605-146",
+      "addr:street": "Rua Califórnia",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2325809,-9.3964557]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27355999",
+      "addr:housenumber": "23",
+      "addr:postcode": "48605-146",
+      "addr:street": "Rua Califórnia",
+      "addr:suburb": "Bnh",
+      "building": "yes",
+      "name": "Escritório de Construção Civil",
+      "office": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2323806,-9.3972665]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368386",
+      "addr:housenumber": "14",
+      "addr:postcode": "48610-488",
+      "addr:street": "Rua Veneza",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2328227,-9.3911149]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27304515",
+      "addr:housenumber": "161",
+      "addr:postcode": "48605-355",
+      "addr:street": "Rua Chile",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2301778,-9.3945438]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368150",
+      "addr:housenumber": "10",
+      "addr:postcode": "48605-177",
+      "addr:street": "Rua Londres",
+      "addr:suburb": "Bnh",
+      "addr:unit": "Fundos",
+      "building": "yes",
+      "fixme": "Confirmar nome;Verificar coordenadas",
+      "name": "Construtora Parceria",
+      "note": "Sem face no bayface do IBGE 0500-0084P-2-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.23201,-9.391822]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368224",
+      "addr:housenumber": "11",
+      "addr:postcode": "48605-177",
+      "addr:street": "Rua Londres",
+      "addr:suburb": "Bnh",
+      "addr:unit": "Casa A",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.232945355833,-9.3929791616562]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "223783428",
+      "addr:housenumber": "122 D",
+      "addr:postcode": "48605-230",
+      "addr:street": "Rua Paraguai",
+      "addr:suburb": "Bnh",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2295487,-9.3936622]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368307",
+      "addr:housenumber": "2",
+      "addr:postcode": "48605-055",
+      "addr:street": "Avenida Antônio Carlos Magalhães",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2347846,-9.392215]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27304509",
+      "addr:housenumber": "158",
+      "addr:postcode": "48605-230",
+      "addr:street": "Rua Paraguai",
+      "addr:suburb": "Bnh",
+      "building": "yes",
+      "name": "Mingula"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2295326,-9.3939677]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368183",
+      "addr:housenumber": "37",
+      "addr:postcode": "48610-488",
+      "addr:street": "Rua Veneza",
+      "addr:suburb": "Bnh",
+      "addr:unit": "Casa",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2334876,-9.3926037]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356080",
+      "addr:housenumber": "8",
+      "addr:postcode": "48605-151",
+      "addr:street": "Rua Nápoles",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2332554,-9.3961965]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368365",
+      "addr:housenumber": "28",
+      "addr:postcode": "48605-185",
+      "addr:street": "Rua Barcelona",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2332304,-9.3905396]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368180",
+      "addr:housenumber": "40",
+      "addr:postcode": "48610-488",
+      "addr:street": "Rua Veneza",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2338185,-9.3931122]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27355982",
+      "addr:housenumber": "35",
+      "addr:postcode": "48605-205",
+      "addr:street": "Avenida dos Estudantes",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2318243,-9.3955671]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368149",
+      "addr:housenumber": "10",
+      "addr:postcode": "48605-177",
+      "addr:street": "Rua Londres",
+      "addr:suburb": "Bnh",
+      "building": "yes",
+      "fixme": "Confirmar nome;Verificar coordenadas",
+      "name": "Construtora Parceria",
+      "note": "Sem face no bayface do IBGE 0500-0084P-2-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.232002299776,-9.3918235613881]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216673552",
+      "addr:housenumber": "1337",
+      "addr:postcode": "48605-055",
+      "addr:street": "Avenida Antônio Carlos Magalhães",
+      "addr:suburb": "Bnh",
+      "addr:unit": "Loja A",
+      "building": "yes",
+      "craft": "hvac",
+      "name": "Refrigeração Mattos"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2335796,-9.3977464]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356094",
+      "addr:housenumber": "10",
+      "addr:postcode": "48605-151",
+      "addr:street": "Rua Nápoles",
+      "addr:suburb": "Bnh",
+      "building": "yes",
+      "healthcare": "yes",
+      "name": "Funasa"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2332656,-9.3959838]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356093",
+      "addr:housenumber": "6",
+      "addr:postcode": "48605-151",
+      "addr:street": "Rua Nápoles",
+      "addr:suburb": "Bnh",
+      "addr:unit": "Casa A",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2332417,-9.3964811]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368135",
+      "addr:housenumber": "21",
+      "addr:postcode": "48605-177",
+      "addr:street": "Rua Londres",
+      "addr:suburb": "Bnh",
+      "addr:unit": "Anexo Fundos",
+      "building": "yes",
+      "fixme": "Confirmar nome;Verificar coordenadas",
+      "name": "Panificadora Bompam",
+      "note": "Sem face no bayface do IBGE 0500-0084P-2-2",
+      "shop": "bakery"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.232888,-9.393751]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191757700",
+      "addr:housenumber": "1324",
+      "addr:postcode": "48605-055",
+      "addr:street": "Avenida Antônio Carlos Magalhães",
+      "addr:suburb": "Bnh",
+      "building": "industrial",
+      "man_made": "works",
+      "name": "Fábrica de Móvel Olho no Preço"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2329292,-9.388387]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368229",
+      "addr:housenumber": "8",
+      "addr:postcode": "48605-177",
+      "addr:street": "Rua Londres",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2332617,-9.3935054]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191757675",
+      "addr:housenumber": "18",
+      "addr:postcode": "48610-488",
+      "addr:street": "Rua Veneza",
+      "addr:suburb": "Bnh",
+      "addr:unit": "Fundos B",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.232514345971,-9.3904485000032]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356143",
+      "addr:housenumber": "9",
+      "addr:postcode": "48605-055",
+      "addr:street": "Avenida Antônio Carlos Magalhães",
+      "addr:suburb": "Bnh",
+      "building": "yes",
+      "craft": "metal_construction",
+      "description": "CNEFE 2022 Serralheria"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2335556,-9.3977896]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368403",
+      "addr:housenumber": "2",
+      "addr:postcode": "48610-488",
+      "addr:street": "Rua Veneza",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2339443,-9.3930155]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368156",
+      "addr:housenumber": "17",
+      "addr:postcode": "48605-173",
+      "addr:street": "Rua Berlim",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.232189,-9.3933239]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191757612",
+      "addr:housenumber": "101",
+      "addr:postcode": "48605-185",
+      "addr:street": "Rua Barcelona",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2341792,-9.3922877]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368409",
+      "addr:housenumber": "21",
+      "addr:postcode": "48605-055",
+      "addr:street": "Avenida Antônio Carlos Magalhães",
+      "addr:suburb": "Bnh",
+      "addr:unit": "Anexo B",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2329118,-9.3881201]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368339",
+      "addr:housenumber": "30",
+      "addr:postcode": "48605-185",
+      "addr:street": "Rua Barcelona",
+      "addr:suburb": "Bnh",
+      "addr:unit": "Casa A",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2338851,-9.3914045]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "223783429",
+      "addr:housenumber": "122 E",
+      "addr:postcode": "48605-230",
+      "addr:street": "Rua Paraguai",
+      "addr:suburb": "Bnh",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.229552207555,-9.3936629951224]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356153",
+      "addr:housenumber": "1500",
+      "addr:postcode": "48601-208",
+      "addr:street": "Avenida Apolônio Sales",
+      "addr:suburb": "Bnh",
+      "addr:unit": "Sede",
+      "building": "yes",
+      "description": "CNEFE 2022 Loja",
+      "shop": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2326425,-9.3985068]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368346",
+      "addr:housenumber": "35",
+      "addr:postcode": "48605-185",
+      "addr:street": "Rua Barcelona",
+      "addr:suburb": "Bnh",
+      "building": "yes",
+      "name": "Serralhria do Guirmo"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.234386,-9.3923492]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356081",
+      "addr:housenumber": "9",
+      "addr:postcode": "48605-151",
+      "addr:street": "Rua Nápoles",
+      "addr:suburb": "Bnh",
+      "addr:unit": "Anexo",
+      "building": "yes",
+      "name": "Estúdio Gravação"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2332675,-9.3959612]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27355995",
+      "addr:housenumber": "25",
+      "addr:postcode": "48605-205",
+      "addr:street": "Avenida dos Estudantes",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2317174,-9.3974326]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356070",
+      "addr:housenumber": "16",
+      "addr:postcode": "48605-146",
+      "addr:street": "Rua Califórnia",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2325679,-9.3966943]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27304534",
+      "addr:housenumber": "21",
+      "addr:postcode": "48605-225",
+      "addr:street": "Rua dos Expedicionários",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2314031,-9.3923235]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216673537",
+      "addr:housenumber": "1337",
+      "addr:postcode": "48601-230",
+      "addr:street": "Avenida André Falcão",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2334912,-9.3977011]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "223783425",
+      "addr:housenumber": "122 B",
+      "addr:postcode": "48605-230",
+      "addr:street": "Rua Paraguai",
+      "addr:suburb": "Bnh",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2295503,-9.3936357]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368151",
+      "addr:housenumber": "12 Casa Lado",
+      "addr:postcode": "48605-177",
+      "addr:street": "Rua Londres",
+      "addr:suburb": "Bnh",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0084P-2-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.232411,-9.392318]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191757687",
+      "addr:housenumber": "550",
+      "addr:postcode": "48605-055",
+      "addr:street": "Avenida Antônio Carlos Magalhães",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2329576,-9.388617]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368317",
+      "addr:housenumber": "12",
+      "addr:postcode": "48605-055",
+      "addr:street": "Avenida Antônio Carlos Magalhães",
+      "addr:suburb": "Bnh",
+      "addr:unit": "Anexo",
+      "building": "garage",
+      "description": "CNEFE 2022 Garagem"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.234073,-9.3904042]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368320",
+      "addr:housenumber": "14",
+      "addr:postcode": "48605-055",
+      "addr:street": "Avenida Antônio Carlos Magalhães",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2338847,-9.3900273]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27355992",
+      "addr:housenumber": "27 Frente",
+      "addr:postcode": "48605-205",
+      "addr:street": "Avenida dos Estudantes",
+      "addr:suburb": "Bnh",
+      "description": "CNEFE 2022 Depósito Vago",
+      "disused:building": "warehouse"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2317533,-9.397102]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356139",
+      "addr:housenumber": "57",
+      "addr:postcode": "48601-230",
+      "addr:street": "Avenida André Falcão",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.23276,-9.3976537]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356090",
+      "addr:housenumber": "4",
+      "addr:postcode": "48605-151",
+      "addr:street": "Rua Nápoles",
+      "addr:suburb": "Bnh",
+      "addr:unit": "Fundos 1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2331672,-9.396893]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27304492",
+      "addr:housenumber": "84",
+      "addr:postcode": "48605-205",
+      "addr:street": "Avenida dos Estudantes",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2317283,-9.3943407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191757305",
+      "addr:housenumber": "9",
+      "addr:postcode": "48605-205",
+      "addr:street": "Avenida dos Estudantes",
+      "addr:suburb": "Bnh",
+      "addr:unit": "Casa Cs Vermelha",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2319824,-9.3924452]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191757297",
+      "addr:housenumber": "22",
+      "addr:postcode": "48605-177",
+      "addr:street": "Rua Londres",
+      "addr:suburb": "Bnh",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0084P-2-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.232997,-9.393402]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191757303",
+      "addr:housenumber": "9",
+      "addr:postcode": "48605-205",
+      "addr:street": "Avenida dos Estudantes",
+      "addr:suburb": "Bnh",
+      "addr:unit": "Casa 9 do Início",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.231987187112,-9.392437822981]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356091",
+      "addr:housenumber": "4",
+      "addr:postcode": "48605-151",
+      "addr:street": "Rua Nápoles",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2332214,-9.3969034]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368139",
+      "addr:housenumber": "18",
+      "addr:postcode": "48605-177",
+      "addr:street": "Rua Londres",
+      "addr:suburb": "Bnh",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0084P-2-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.232889,-9.39333]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368321",
+      "addr:housenumber": "15",
+      "addr:postcode": "48605-055",
+      "addr:street": "Avenida Antônio Carlos Magalhães",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2337625,-9.3897765]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191757601;191757624",
+      "addr:housenumber": "38",
+      "addr:postcode": "48605-185",
+      "addr:street": "Rua Barcelona",
+      "addr:suburb": "Bnh",
+      "building": "yes",
+      "building:levels": "3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2341171,-9.3921688]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191757369",
+      "addr:housenumber": "453",
+      "addr:postcode": "48605-205",
+      "addr:street": "Avenida dos Estudantes",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2320362,-9.3912968]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368413",
+      "addr:housenumber": "60",
+      "addr:postcode": "48605-205",
+      "addr:street": "Avenida dos Estudantes",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2323138,-9.3876542]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368368",
+      "addr:housenumber": "25",
+      "addr:postcode": "48605-185",
+      "addr:street": "Rua Barcelona",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2330252,-9.3901132]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356071",
+      "addr:housenumber": "16",
+      "addr:postcode": "48605-146",
+      "addr:street": "Rua Califórnia",
+      "addr:suburb": "Bnh",
+      "addr:unit": "Box",
+      "building": "garage",
+      "description": "CNEFE 2022 Garagem"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.232559659578,-9.3966906955181]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27304528",
+      "addr:housenumber": "49 Térreo",
+      "addr:postcode": "48605-355",
+      "addr:street": "Rua Chile",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2313054,-9.3945985]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368385",
+      "addr:housenumber": "15",
+      "addr:postcode": "48610-488",
+      "addr:street": "Rua Veneza",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2327365,-9.3909637]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368380",
+      "addr:housenumber": "18",
+      "addr:postcode": "48610-488",
+      "addr:street": "Rua Veneza",
+      "addr:suburb": "Bnh",
+      "addr:unit": "Casa",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2324389,-9.3904149]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368415",
+      "addr:housenumber": "70",
+      "addr:postcode": "48605-205",
+      "addr:street": "Avenida dos Estudantes",
+      "addr:suburb": "Bnh",
+      "building": "yes",
+      "name": "Panificadora Delicias da Casa",
+      "shop": "bakery"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2322666,-9.3882334]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27304502",
+      "addr:housenumber": "26",
+      "addr:postcode": "48605-230",
+      "addr:street": "Rua Paraguai",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2295994,-9.3928245]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191757299",
+      "addr:housenumber": "11",
+      "addr:postcode": "48605-205",
+      "addr:street": "Avenida dos Estudantes",
+      "addr:suburb": "Bnh",
+      "addr:unit": "Casa C",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.232004642913,-9.3922482579953]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368354",
+      "addr:housenumber": "40",
+      "addr:postcode": "48605-185",
+      "addr:street": "Rua Barcelona",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2342539,-9.3924308]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368361",
+      "addr:housenumber": "32",
+      "addr:postcode": "48605-185",
+      "addr:street": "Rua Barcelona",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.233508,-9.3910541]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368335",
+      "addr:housenumber": "26",
+      "addr:postcode": "48605-185",
+      "addr:street": "Rua Barcelona",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2335645,-9.3908307]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368155",
+      "addr:housenumber": "9",
+      "addr:postcode": "48605-205",
+      "addr:street": "Avenida dos Estudantes",
+      "addr:suburb": "Bnh",
+      "addr:unit": "Casa A",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.23197786673,-9.3924602276867]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368331",
+      "addr:housenumber": "23",
+      "addr:postcode": "48605-185",
+      "addr:street": "Rua Barcelona",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2332695,-9.3902851]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368208",
+      "addr:housenumber": "473",
+      "addr:postcode": "48605-205",
+      "addr:street": "Avenida dos Estudantes",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2320439,-9.3911703]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356134",
+      "addr:housenumber": "43",
+      "addr:postcode": "48601-230",
+      "addr:street": "Avenida André Falcão",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2332078,-9.3976827]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27304518;27304522-27304524",
+      "addr:housenumber": "129",
+      "addr:postcode": "48605-355",
+      "addr:street": "Rua Chile",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2305883,-9.3945637]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191757719",
+      "addr:housenumber": "62",
+      "addr:postcode": "48605-205",
+      "addr:street": "Avenida dos Estudantes",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2322959,-9.3878747]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191757723",
+      "addr:housenumber": "70",
+      "addr:postcode": "48605-205",
+      "addr:street": "Avenida dos Estudantes",
+      "addr:suburb": "Bnh",
+      "amenity": "pharmacy",
+      "building": "yes",
+      "name": "Farmácia Trabalhor Centenário"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.232261,-9.3883016]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356068",
+      "addr:housenumber": "13",
+      "addr:postcode": "48605-146",
+      "addr:street": "Rua Califórnia",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2325382,-9.3972377]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368211",
+      "addr:housenumber": "486 Frente",
+      "addr:postcode": "48605-205",
+      "addr:street": "Avenida dos Estudantes",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2320533,-9.3910111]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191757727",
+      "addr:housenumber": "70",
+      "addr:postcode": "48605-205",
+      "addr:street": "Avenida dos Estudantes",
+      "addr:suburb": "Bnh",
+      "addr:unit": "Anexo Depósito",
+      "building": "yes",
+      "description": "CNEFE 2022 Sem Nome"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2322592,-9.3883245]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27304503",
+      "addr:housenumber": "122",
+      "addr:postcode": "48605-230",
+      "addr:street": "Rua Paraguai",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2295509,-9.3936263]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368384",
+      "addr:housenumber": "16",
+      "addr:postcode": "48610-488",
+      "addr:street": "Rua Veneza",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2326813,-9.3908639]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368142",
+      "addr:housenumber": "15 Frente C",
+      "addr:postcode": "48605-177",
+      "addr:street": "Rua Londres",
+      "addr:suburb": "Bnh",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0084P-2-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.232660601832,-9.3927498994432]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27371456",
+      "addr:housenumber": "600 A",
+      "addr:postcode": "48605-055",
+      "addr:street": "Avenida Antônio Carlos Magalhães",
+      "addr:suburb": "Bnh",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0095P-5-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2326221,-9.385158]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368186-27368187",
+      "addr:housenumber": "35",
+      "addr:postcode": "48610-488",
+      "addr:street": "Rua Veneza",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2333222,-9.3923091]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191757607",
+      "addr:housenumber": "301",
+      "addr:postcode": "48605-185",
+      "addr:street": "Rua Barcelona",
+      "addr:suburb": "Bnh",
+      "building": "yes",
+      "building:levels": "3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2340961,-9.3921288]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216673546",
+      "addr:housenumber": "80",
+      "addr:postcode": "48608-190",
+      "addr:street": "Rua da Vitória",
+      "addr:suburb": "Bnh",
+      "building": "yes",
+      "name": "Mercadinho Je",
+      "shop": "convenience"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2331981,-9.39802]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356159",
+      "addr:housenumber": "1560 Térreo Escritório",
+      "addr:postcode": "48601-208",
+      "addr:street": "Avenida Apolônio Sales",
+      "addr:suburb": "Bnh",
+      "building": "yes",
+      "name": "Mtm Sociedade de Advogados",
+      "office": "lawyer"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2330638,-9.3985526]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356015;27356017",
+      "addr:housenumber": "7",
+      "addr:postcode": "48605-146",
+      "addr:street": "Rua Califórnia",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2330859,-9.3948324]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191757365",
+      "addr:housenumber": "463",
+      "addr:postcode": "48605-205",
+      "addr:street": "Avenida dos Estudantes",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.23204,-9.391235]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27355985",
+      "addr:housenumber": "32",
+      "addr:postcode": "48605-205",
+      "addr:street": "Avenida dos Estudantes",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2317959,-9.39616]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356067",
+      "addr:housenumber": "20",
+      "addr:postcode": "48605-146",
+      "addr:street": "Rua Califórnia",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2326012,-9.3960834]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356083",
+      "addr:housenumber": "9",
+      "addr:postcode": "48605-151",
+      "addr:street": "Rua Nápoles",
+      "addr:suburb": "Bnh",
+      "building": "yes",
+      "craft": "hvac",
+      "name": "Oficina Refrigeração"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.233252878672,-9.3959691347967]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368230",
+      "addr:housenumber": "21",
+      "addr:postcode": "48605-177",
+      "addr:street": "Rua Londres",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2320544,-9.3914657]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368367",
+      "addr:housenumber": "26",
+      "addr:postcode": "48605-185",
+      "addr:street": "Rua Barcelona",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2330653,-9.3902254]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368322",
+      "addr:housenumber": "16",
+      "addr:postcode": "48605-055",
+      "addr:street": "Avenida Antônio Carlos Magalhães",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2337102,-9.3896513]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368414",
+      "addr:housenumber": "54",
+      "addr:postcode": "48605-205",
+      "addr:street": "Avenida dos Estudantes",
+      "addr:suburb": "Bnh",
+      "building": "yes",
+      "name": "Jadlog",
+      "office": "logistics"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2322704,-9.3881867]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356084",
+      "addr:housenumber": "9",
+      "addr:postcode": "48605-151",
+      "addr:street": "Rua Nápoles",
+      "addr:suburb": "Bnh",
+      "addr:unit": "Casa A",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2332621,-9.3960551]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368374",
+      "addr:housenumber": "22",
+      "addr:postcode": "48610-488",
+      "addr:street": "Rua Veneza",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2322777,-9.3897713]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368205;191757358",
+      "addr:housenumber": "23",
+      "addr:postcode": "48610-488",
+      "addr:street": "Rua Veneza",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2322585,-9.3903713]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356054",
+      "addr:housenumber": "7",
+      "addr:postcode": "48605-146",
+      "addr:street": "Rua Califórnia",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2330295,-9.3949945]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216673401",
+      "addr:housenumber": "5",
+      "addr:postcode": "48605-156",
+      "addr:street": "Rua Washington",
+      "addr:suburb": "Bnh",
+      "addr:unit": "Casa B",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2330271,-9.3953866]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27304489",
+      "addr:housenumber": "100 Térreo",
+      "addr:postcode": "48605-205",
+      "addr:street": "Avenida dos Estudantes",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2317315,-9.3942814]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356019",
+      "addr:housenumber": "5",
+      "addr:postcode": "48605-146",
+      "addr:street": "Rua Califórnia",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2334737,-9.3948415]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27304498",
+      "addr:housenumber": "134",
+      "addr:postcode": "48605-230",
+      "addr:street": "Rua Paraguai",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2295474,-9.3936834]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368136",
+      "addr:housenumber": "20",
+      "addr:postcode": "48605-177",
+      "addr:street": "Rua Londres",
+      "addr:suburb": "Bnh",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0084P-2-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.233025,-9.393582]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27355975",
+      "addr:housenumber": "42",
+      "addr:postcode": "48605-169",
+      "addr:street": "Rua Paris",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2326016,-9.394323]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368162",
+      "addr:housenumber": "4",
+      "addr:postcode": "48605-173",
+      "addr:street": "Rua Berlim",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2323242,-9.3935729]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "223783415",
+      "addr:housenumber": "100",
+      "addr:postcode": "48605-205",
+      "addr:street": "Avenida dos Estudantes",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2317394,-9.3941324]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368395",
+      "addr:housenumber": "7 Frente",
+      "addr:postcode": "48610-488",
+      "addr:street": "Rua Veneza",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2334624,-9.3922413]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356060",
+      "addr:housenumber": "3",
+      "addr:postcode": "48605-156",
+      "addr:street": "Rua Washington",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2335195,-9.3957296]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356058",
+      "addr:housenumber": "2",
+      "addr:postcode": "48605-156",
+      "addr:street": "Rua Washington",
+      "addr:suburb": "Bnh",
+      "addr:unit": "Casa B",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2331146,-9.3954475]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368381",
+      "addr:housenumber": "18",
+      "addr:postcode": "48610-488",
+      "addr:street": "Rua Veneza",
+      "addr:suburb": "Bnh",
+      "addr:unit": "Casa C",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.232439031624,-9.3904230963619]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27355970",
+      "addr:housenumber": "49",
+      "addr:postcode": "48605-169",
+      "addr:street": "Rua Paris",
+      "addr:suburb": "Bnh",
+      "addr:unit": "Casa A",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2338274,-9.3941028]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356065",
+      "addr:housenumber": "22",
+      "addr:postcode": "48605-146",
+      "addr:street": "Rua Califórnia",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2326813,-9.3953531]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27355984",
+      "addr:housenumber": "33",
+      "addr:postcode": "48605-205",
+      "addr:street": "Avenida dos Estudantes",
+      "addr:suburb": "Bnh",
+      "building": "yes",
+      "name": "Erel Construções E Empreendimentos LTDA"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2318091,-9.3958845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356061",
+      "addr:housenumber": "4",
+      "addr:postcode": "48605-156",
+      "addr:street": "Rua Washington",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2333787,-9.3956316]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356077",
+      "addr:housenumber": "26",
+      "addr:postcode": "48601-230",
+      "addr:street": "Avenida André Falcão",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2327849,-9.3974989]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27304509",
+      "addr:housenumber": "158",
+      "addr:postcode": "48605-230",
+      "addr:street": "Rua Paraguai",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.229517493923,-9.393958245612]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368319",
+      "addr:housenumber": "13",
+      "addr:postcode": "48605-055",
+      "addr:street": "Avenida Antônio Carlos Magalhães",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2339327,-9.3901233]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27304533",
+      "addr:housenumber": "11",
+      "addr:postcode": "48605-225",
+      "addr:street": "Rua dos Expedicionários",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.231579,-9.3923322]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27355987",
+      "addr:housenumber": "30",
+      "addr:postcode": "48605-205",
+      "addr:street": "Avenida dos Estudantes",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2317812,-9.396468]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27304536",
+      "addr:housenumber": "39",
+      "addr:postcode": "48605-225",
+      "addr:street": "Rua dos Expedicionários",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2312141,-9.3923096]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356164",
+      "addr:housenumber": "1530",
+      "addr:postcode": "48601-208",
+      "addr:street": "Avenida Apolônio Sales",
+      "addr:suburb": "Bnh",
+      "building": "yes",
+      "name": "La Graça"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2328805,-9.3985362]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191757354",
+      "addr:housenumber": "31",
+      "addr:postcode": "48610-488",
+      "addr:street": "Rua Veneza",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2329773,-9.3916999]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368195",
+      "addr:housenumber": "30",
+      "addr:postcode": "48610-488",
+      "addr:street": "Rua Veneza",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2328741,-9.3915189]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368391",
+      "addr:housenumber": "11",
+      "addr:postcode": "48610-488",
+      "addr:street": "Rua Veneza",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2330903,-9.3915843]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368217",
+      "addr:housenumber": "15 Box ao Lado",
+      "addr:postcode": "48605-177",
+      "addr:street": "Rua Londres",
+      "addr:suburb": "Bnh",
+      "building": "warehouse",
+      "description": "CNEFE 2022 Depósito Particular"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2325728,-9.3923208]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368352",
+      "addr:housenumber": "42",
+      "addr:postcode": "48605-185",
+      "addr:street": "Rua Barcelona",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2344381,-9.3927833]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368379",
+      "addr:housenumber": "18",
+      "addr:postcode": "48610-488",
+      "addr:street": "Rua Veneza",
+      "addr:suburb": "Bnh",
+      "addr:unit": "Casa B",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.232455513393,-9.390417768701]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216673326",
+      "addr:housenumber": "46 Depósito Térreo",
+      "addr:postcode": "48605-169",
+      "addr:street": "Rua Paris",
+      "addr:suburb": "Bnh",
+      "building": "warehouse",
+      "description": "CNEFE 2022 Depósito"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2333575,-9.3941368]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356160-27356163;27356165-27356167",
+      "addr:housenumber": "1530",
+      "addr:postcode": "48601-208",
+      "addr:street": "Avenida Apolônio Sales",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.232885688991,-9.3985495733878]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368401",
+      "addr:housenumber": "3",
+      "addr:postcode": "48610-488",
+      "addr:street": "Rua Veneza",
+      "addr:suburb": "Bnh",
+      "addr:unit": "Box",
+      "building": "warehouse",
+      "description": "CNEFE 2022 Depósito Particular"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2337728,-9.3927941]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368182",
+      "addr:housenumber": "37",
+      "addr:postcode": "48610-488",
+      "addr:street": "Rua Veneza",
+      "addr:suburb": "Bnh",
+      "building": "yes",
+      "name": "Retífica Paulo Afonso",
+      "service:vehicle:motor": "only",
+      "shop": "car_repair"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2334576,-9.3925502]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216673346",
+      "addr:housenumber": "37",
+      "addr:postcode": "48605-205",
+      "addr:street": "Avenida dos Estudantes",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2318451,-9.3951334]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368394",
+      "addr:housenumber": "7",
+      "addr:postcode": "48610-488",
+      "addr:street": "Rua Veneza",
+      "addr:suburb": "Bnh",
+      "addr:unit": "Fundos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.23351,-9.3922149]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368176",
+      "addr:housenumber": "44",
+      "addr:postcode": "48610-488",
+      "addr:street": "Rua Veneza",
+      "addr:suburb": "Bnh",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2342731,-9.3934564]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356076",
+      "addr:housenumber": "12",
+      "addr:postcode": "48605-146",
+      "addr:street": "Rua Califórnia",
+      "addr:suburb": "Bnh",
+      "addr:unit": "Casa B",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2325289,-9.3974091]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27304508",
+      "addr:housenumber": "64",
+      "addr:postcode": "48605-230",
+      "addr:street": "Rua Paraguai",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2295844,-9.3930722]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27355973",
+      "addr:housenumber": "43",
+      "addr:postcode": "48605-169",
+      "addr:street": "Rua Paris",
+      "addr:suburb": "Bnh",
+      "addr:unit": "Casa A",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2327797,-9.3942372]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27304529",
+      "addr:housenumber": "33",
+      "addr:postcode": "48605-355",
+      "addr:street": "Rua Chile",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2314388,-9.394605]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356218",
+      "addr:housenumber": "3",
+      "addr:postcode": "48605-055",
+      "addr:street": "Avenida Antônio Carlos Magalhães",
+      "addr:suburb": "Bnh",
+      "building": "yes",
+      "description": "CNEFE 2022 Oficina",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0040P-20-4",
+      "shop": "car_repair"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.232749,-9.399625]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356088",
+      "addr:housenumber": "1",
+      "addr:postcode": "48605-151",
+      "addr:street": "Rua Nápoles",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2331956,-9.3974817]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27355962",
+      "addr:housenumber": "49",
+      "addr:postcode": "48605-169",
+      "addr:street": "Rua Paris",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2338231,-9.3941061]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368330",
+      "addr:housenumber": "22",
+      "addr:postcode": "48605-185",
+      "addr:street": "Rua Barcelona",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2331925,-9.3901187]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27304520",
+      "addr:housenumber": "129 Casa E Térreo",
+      "addr:postcode": "48605-355",
+      "addr:street": "Rua Chile",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2305453,-9.3945616]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368382",
+      "addr:housenumber": "18",
+      "addr:postcode": "48610-488",
+      "addr:street": "Rua Veneza",
+      "addr:suburb": "Bnh",
+      "addr:unit": "Box",
+      "amenity": "pub",
+      "building": "yes",
+      "name": "Bar Giga Byte"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.232447628674,-9.3904225799755]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368383",
+      "addr:housenumber": "17",
+      "addr:postcode": "48610-488",
+      "addr:street": "Rua Veneza",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2325592,-9.3906416]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368181",
+      "addr:housenumber": "39",
+      "addr:postcode": "48610-488",
+      "addr:street": "Rua Veneza",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2336277,-9.3928532]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216673319",
+      "addr:housenumber": "50 B",
+      "addr:postcode": "48605-169",
+      "addr:street": "Rua Paris",
+      "addr:suburb": "Bnh",
+      "building": "construction",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0040P-2-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.234152,-9.394307]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27304519",
+      "addr:housenumber": "129 Casa F Térreo",
+      "addr:postcode": "48605-355",
+      "addr:street": "Rua Chile",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2305271,-9.3945608]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368235",
+      "addr:housenumber": "3",
+      "addr:postcode": "48605-169",
+      "addr:street": "Rua Paris",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2339545,-9.3940729]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356059",
+      "addr:housenumber": "1",
+      "addr:postcode": "48605-156",
+      "addr:street": "Rua Washington",
+      "addr:suburb": "Bnh",
+      "amenity": "school",
+      "building": "yes",
+      "description": "CNEFE 2022 Escola"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2338114,-9.395933]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "223783447;223783449",
+      "addr:housenumber": "3",
+      "addr:postcode": "48605-205",
+      "addr:street": "Avenida dos Estudantes",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2318282,-9.3925793]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368397",
+      "addr:housenumber": "5",
+      "addr:postcode": "48610-488",
+      "addr:street": "Rua Veneza",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2336164,-9.3925156]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368192",
+      "addr:housenumber": "31 Lado C",
+      "addr:postcode": "48610-488",
+      "addr:street": "Rua Veneza",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2330009,-9.3917414]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27355966;27355972",
+      "addr:housenumber": "44",
+      "addr:postcode": "48605-169",
+      "addr:street": "Rua Paris",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2328524,-9.3942018]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368398",
+      "addr:housenumber": "3",
+      "addr:postcode": "48610-488",
+      "addr:street": "Rua Veneza",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2338108,-9.3928618]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368340",
+      "addr:housenumber": "30",
+      "addr:postcode": "48605-185",
+      "addr:street": "Rua Barcelona",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2338963,-9.3914244]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368396",
+      "addr:housenumber": "6",
+      "addr:postcode": "48610-488",
+      "addr:street": "Rua Veneza",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2335913,-9.392471]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368376",
+      "addr:housenumber": "21",
+      "addr:postcode": "48610-488",
+      "addr:street": "Rua Veneza",
+      "addr:suburb": "Bnh",
+      "addr:unit": "Casa A",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2323163,-9.3899766]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368370",
+      "addr:housenumber": "23",
+      "addr:postcode": "48605-185",
+      "addr:street": "Rua Barcelona",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2328867,-9.3897293]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191757717",
+      "addr:housenumber": "60",
+      "addr:postcode": "48605-205",
+      "addr:street": "Avenida dos Estudantes",
+      "addr:suburb": "Bnh",
+      "addr:unit": "Anexo B",
+      "building": "yes",
+      "description": "CNEFE 2022 Borracharia",
+      "repair": "yes",
+      "shop": "tyres"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2323082,-9.3877232]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356151",
+      "addr:housenumber": "11",
+      "addr:postcode": "48605-146",
+      "addr:street": "Rua Califórnia",
+      "addr:suburb": "Bnh",
+      "building": "yes",
+      "craft": "stonemason",
+      "description": "CNEFE 2022 Marmoraria"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2324867,-9.3983027]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191757714",
+      "addr:housenumber": "8 Anexo ao Lado D 8B",
+      "addr:postcode": "48605-485",
+      "addr:street": "Rua Dom Mário Zaneta",
+      "addr:suburb": "Bnh",
+      "building": "yes",
+      "name": "Panificadora da Família",
+      "shop": "bakery"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2324944,-9.3875352]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216673320",
+      "addr:housenumber": "47 A",
+      "addr:postcode": "48605-169",
+      "addr:street": "Rua Paris",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2334859,-9.3941483]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368328",
+      "addr:housenumber": "21",
+      "addr:postcode": "48605-185",
+      "addr:street": "Rua Barcelona",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2331322,-9.3899514]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368233",
+      "addr:housenumber": "5",
+      "addr:postcode": "48605-169",
+      "addr:street": "Rua Paris",
+      "addr:suburb": "Bnh",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0084P-3-5"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.233739,-9.393894]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216673448",
+      "addr:housenumber": "8",
+      "addr:postcode": "48605-151",
+      "addr:street": "Rua Nápoles",
+      "addr:suburb": "Bnh",
+      "addr:unit": "Casa A",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2332572,-9.3961586]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368375",
+      "addr:housenumber": "21",
+      "addr:postcode": "48610-488",
+      "addr:street": "Rua Veneza",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2323036,-9.3899093]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368207",
+      "addr:housenumber": "31",
+      "addr:postcode": "48610-488",
+      "addr:street": "Rua Veneza",
+      "addr:suburb": "Bnh",
+      "addr:unit": "Fundos A",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2329436,-9.3917507]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368184",
+      "addr:housenumber": "38",
+      "addr:postcode": "48610-488",
+      "addr:street": "Rua Veneza",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.233573,-9.3927559]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368225",
+      "addr:housenumber": "10",
+      "addr:postcode": "48605-177",
+      "addr:street": "Rua Londres",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2329918,-9.3930597]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27355977",
+      "addr:housenumber": "40",
+      "addr:postcode": "48605-169",
+      "addr:street": "Rua Paris",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2321951,-9.394631]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368200",
+      "addr:housenumber": "27",
+      "addr:postcode": "48610-488",
+      "addr:street": "Rua Veneza",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2325805,-9.3910044]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368185",
+      "addr:housenumber": "36",
+      "addr:postcode": "48610-488",
+      "addr:street": "Rua Veneza",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2334205,-9.3924842]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27355988",
+      "addr:housenumber": "29",
+      "addr:postcode": "48605-205",
+      "addr:street": "Avenida dos Estudantes",
+      "addr:suburb": "Bnh",
+      "building": "yes",
+      "name": "Clínica Odontolica"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2317743,-9.396611]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368390",
+      "addr:housenumber": "11",
+      "addr:postcode": "48610-488",
+      "addr:street": "Rua Veneza",
+      "addr:suburb": "Bnh",
+      "addr:unit": "Casa A",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2330821,-9.3915699]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368402",
+      "addr:housenumber": "2",
+      "addr:postcode": "48610-488",
+      "addr:street": "Rua Veneza",
+      "addr:suburb": "Bnh",
+      "addr:unit": "Casa A",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2340219,-9.3930739]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368400",
+      "addr:housenumber": "3",
+      "addr:postcode": "48610-488",
+      "addr:street": "Rua Veneza",
+      "addr:suburb": "Bnh",
+      "addr:unit": "Casa B",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.233762020845,-9.3928022628642]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27355983",
+      "addr:housenumber": "34",
+      "addr:postcode": "48605-205",
+      "addr:street": "Avenida dos Estudantes",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2318147,-9.3957683]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216673556-216673563;216673565;216673567;216673569;216673571",
+      "addr:flats": "101-304",
+      "addr:housenumber": "101",
+      "addr:postcode": "48608-190",
+      "addr:street": "Rua da Vitória",
+      "addr:suburb": "Bnh",
+      "building": "yes",
+      "building:flats": "12",
+      "building:levels": "3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2332144,-9.3981755]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356010",
+      "addr:housenumber": "12",
+      "addr:postcode": "48605-146",
+      "addr:street": "Rua Califórnia",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2325869,-9.3951798]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216673541",
+      "addr:housenumber": "1321",
+      "addr:postcode": "48601-230",
+      "addr:street": "Avenida André Falcão",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2334674,-9.3976995]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356003",
+      "addr:housenumber": "19",
+      "addr:postcode": "48605-146",
+      "addr:street": "Rua Califórnia",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2324206,-9.3965336]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27355997",
+      "addr:housenumber": "1280",
+      "addr:postcode": "48601-230",
+      "addr:street": "Avenida André Falcão",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2320555,-9.3974574]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368193",
+      "addr:housenumber": "31",
+      "addr:postcode": "48610-488",
+      "addr:street": "Rua Veneza",
+      "addr:suburb": "Bnh",
+      "addr:unit": "Fundos B",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.232943342169,-9.3917495237789]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356157",
+      "addr:housenumber": "1550",
+      "addr:postcode": "48601-208",
+      "addr:street": "Avenida Apolônio Sales",
+      "addr:suburb": "Bnh",
+      "building": "yes",
+      "leisure": "fitness_centre",
+      "name": "Iron Gym Academia de Ginástica"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2329861,-9.3985469]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356156;216673574-216673575",
+      "addr:housenumber": "1520",
+      "addr:postcode": "48601-208",
+      "addr:street": "Avenida Apolônio Sales",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2327741,-9.3985231]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216673322",
+      "addr:housenumber": "40",
+      "addr:postcode": "48605-169",
+      "addr:street": "Rua Paris",
+      "addr:suburb": "Bnh",
+      "addr:unit": "Casa B",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2321494,-9.3946762]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216673446",
+      "addr:housenumber": "7",
+      "addr:postcode": "48605-151",
+      "addr:street": "Rua Nápoles",
+      "addr:suburb": "Bnh",
+      "addr:unit": "Casa C",
+      "building": "yes",
+      "name": "Bkr Ddgs Ramos Empreendimentos"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2332504,-9.3963]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368175",
+      "addr:housenumber": "45",
+      "addr:postcode": "48610-488",
+      "addr:street": "Rua Veneza",
+      "addr:suburb": "Bnh",
+      "addr:unit": "Casa A",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2343709,-9.3935303]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368132;191757296",
+      "addr:housenumber": "21",
+      "addr:postcode": "48605-177",
+      "addr:street": "Rua Londres",
+      "addr:suburb": "Bnh",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0084P-2-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2331925,-9.3937385]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368313",
+      "addr:housenumber": "8",
+      "addr:postcode": "48605-055",
+      "addr:street": "Avenida Antônio Carlos Magalhães",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2343592,-9.3909771]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356062",
+      "addr:housenumber": "5",
+      "addr:postcode": "48605-156",
+      "addr:street": "Rua Washington",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2331881,-9.3954988]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356220",
+      "addr:housenumber": "102",
+      "addr:postcode": "48605-055",
+      "addr:street": "Avenida Antônio Carlos Magalhães",
+      "addr:suburb": "Bnh",
+      "building": "yes",
+      "description": "CNEFE 2022 Depósito de Bebida",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0040P-20-4",
+      "shop": "beverages"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.233141,-9.399228]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368173",
+      "addr:housenumber": "46",
+      "addr:postcode": "48610-488",
+      "addr:street": "Rua Veneza",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2345443,-9.393662]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368318",
+      "addr:housenumber": "12",
+      "addr:postcode": "48605-055",
+      "addr:street": "Avenida Antônio Carlos Magalhães",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2340638,-9.3903858]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27304539",
+      "addr:housenumber": "22",
+      "addr:postcode": "48605-235",
+      "addr:street": "Rua Argélia",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2313145,-9.3925922]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356006",
+      "addr:housenumber": "16",
+      "addr:postcode": "48605-146",
+      "addr:street": "Rua Califórnia",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2324496,-9.3959982]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368143",
+      "addr:housenumber": "15",
+      "addr:postcode": "48605-177",
+      "addr:street": "Rua Londres",
+      "addr:suburb": "Bnh",
+      "addr:unit": "Fundos B",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0084P-2-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.233228,-9.393553]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368388",
+      "addr:housenumber": "13",
+      "addr:postcode": "48610-488",
+      "addr:street": "Rua Veneza",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2329578,-9.3913518]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216673405",
+      "addr:housenumber": "11",
+      "addr:postcode": "48605-156",
+      "addr:street": "Rua Washington",
+      "addr:suburb": "Bnh",
+      "addr:unit": "Casa A",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.233061,-9.3955986]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27304527",
+      "addr:housenumber": "49",
+      "addr:postcode": "48605-355",
+      "addr:street": "Rua Chile",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2312847,-9.3945975]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27304525",
+      "addr:housenumber": "115",
+      "addr:postcode": "48605-355",
+      "addr:street": "Rua Chile",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2306945,-9.3945689]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368179",
+      "addr:housenumber": "41",
+      "addr:postcode": "48610-488",
+      "addr:street": "Rua Veneza",
+      "addr:suburb": "Bnh",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2337425,-9.3930433]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356020",
+      "addr:housenumber": "4",
+      "addr:postcode": "48605-146",
+      "addr:street": "Rua Califórnia",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2335992,-9.3948468]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27355963",
+      "addr:housenumber": "48",
+      "addr:postcode": "48605-169",
+      "addr:street": "Rua Paris",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.233765,-9.3941571]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368392",
+      "addr:housenumber": "10",
+      "addr:postcode": "48610-488",
+      "addr:street": "Rua Veneza",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2332066,-9.3917883]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191757628",
+      "addr:housenumber": "303",
+      "addr:postcode": "48605-185",
+      "addr:street": "Rua Barcelona",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2340558,-9.3920515]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368220-27368221;191757399",
+      "addr:housenumber": "14",
+      "addr:postcode": "48605-177",
+      "addr:street": "Rua Londres",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.232665,-9.3924865]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356154",
+      "addr:housenumber": "1520",
+      "addr:postcode": "48601-208",
+      "addr:street": "Avenida Apolônio Sales",
+      "addr:suburb": "Bnh",
+      "addr:unit": "Sede",
+      "building": "yes",
+      "craft": "stonemason",
+      "description": "CNEFE 2022 Marmoraria"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2325971,-9.3985021]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27355991;27355993",
+      "addr:housenumber": "27",
+      "addr:postcode": "48605-205",
+      "addr:street": "Avenida dos Estudantes",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2317555,-9.3970446]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368351",
+      "addr:housenumber": "43 Frente",
+      "addr:postcode": "48605-185",
+      "addr:street": "Rua Barcelona",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2345156,-9.3929317]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216673352",
+      "addr:housenumber": "1270",
+      "addr:postcode": "48601-230",
+      "addr:street": "Avenida André Falcão",
+      "addr:suburb": "Bnh",
+      "addr:unit": "Casa A",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2318853,-9.3974478]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356086",
+      "addr:housenumber": "6",
+      "addr:postcode": "48605-151",
+      "addr:street": "Rua Nápoles",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2332342,-9.3966385]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27355964",
+      "addr:housenumber": "47 Lado Direito",
+      "addr:postcode": "48605-169",
+      "addr:street": "Rua Paris",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2334414,-9.3941422]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368404",
+      "addr:housenumber": "1",
+      "addr:postcode": "48610-488",
+      "addr:street": "Rua Veneza",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2341438,-9.3931658]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368134",
+      "addr:housenumber": "21",
+      "addr:postcode": "48605-177",
+      "addr:street": "Rua Londres",
+      "addr:suburb": "Bnh",
+      "addr:unit": "Anexo 2",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0084P-2-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.232882096225,-9.3937646857377]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368188;191757352",
+      "addr:housenumber": "34",
+      "addr:postcode": "48610-488",
+      "addr:street": "Rua Veneza",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2332148,-9.3921178]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368194",
+      "addr:housenumber": "31 Frente A",
+      "addr:postcode": "48610-488",
+      "addr:street": "Rua Veneza",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2329889,-9.3917202]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368171",
+      "addr:housenumber": "200",
+      "addr:postcode": "48605-055",
+      "addr:street": "Avenida Antônio Carlos Magalhães",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2346187,-9.3940841]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368190",
+      "addr:housenumber": "33",
+      "addr:postcode": "48610-488",
+      "addr:street": "Rua Veneza",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2331553,-9.3920121]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216673581",
+      "addr:housenumber": "1560",
+      "addr:postcode": "48601-208",
+      "addr:street": "Avenida Apolônio Sales",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2330687,-9.3985529]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27355978",
+      "addr:housenumber": "39",
+      "addr:postcode": "48605-169",
+      "addr:street": "Rua Paris",
+      "addr:suburb": "Bnh",
+      "building": "yes",
+      "name": "Jorge Auto Mecânica",
+      "shop": "car_repair"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.232004,-9.3948713]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368342",
+      "addr:housenumber": "31",
+      "addr:postcode": "48605-185",
+      "addr:street": "Rua Barcelona",
+      "addr:suburb": "Bnh",
+      "addr:unit": "Casa 31A",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2340172,-9.391641]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27355976",
+      "addr:housenumber": "41",
+      "addr:postcode": "48605-169",
+      "addr:street": "Rua Paris",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2323597,-9.39447]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191757669",
+      "addr:housenumber": "11",
+      "addr:postcode": "48610-488",
+      "addr:street": "Rua Veneza",
+      "addr:suburb": "Bnh",
+      "addr:unit": "Casa B",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.23308451648,-9.3915787114057]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368201",
+      "addr:housenumber": "26",
+      "addr:postcode": "48610-488",
+      "addr:street": "Rua Veneza",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2325121,-9.3908787]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356011",
+      "addr:housenumber": "11",
+      "addr:postcode": "48605-146",
+      "addr:street": "Rua Califórnia",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2325941,-9.395168]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368174",
+      "addr:housenumber": "45",
+      "addr:postcode": "48610-488",
+      "addr:street": "Rua Veneza",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.234452,-9.3935916]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356021",
+      "addr:housenumber": "3",
+      "addr:postcode": "48605-146",
+      "addr:street": "Rua Califórnia",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2337119,-9.3949056]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27355960",
+      "addr:housenumber": "51",
+      "addr:postcode": "48605-169",
+      "addr:street": "Rua Paris",
+      "addr:suburb": "Bnh",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0040P-2-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.234278,-9.394421]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368129",
+      "addr:housenumber": "100",
+      "addr:postcode": "48605-169",
+      "addr:street": "Rua Paris",
+      "addr:suburb": "Bnh",
+      "amenity": "school",
+      "building": "yes",
+      "name": "Escola Casa da Criança 5"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2320018,-9.3945595]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368346",
+      "addr:housenumber": "35",
+      "addr:postcode": "48605-185",
+      "addr:street": "Rua Barcelona",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.234386805029,-9.3923388430548]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27371455",
+      "addr:housenumber": "500",
+      "addr:postcode": "48605-055",
+      "addr:street": "Avenida Antônio Carlos Magalhães",
+      "addr:suburb": "Bnh",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0095P-5-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2326401,-9.3852883]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27355971",
+      "addr:housenumber": "45",
+      "addr:postcode": "48605-169",
+      "addr:street": "Rua Paris",
+      "addr:suburb": "Bnh",
+      "amenity": "school",
+      "building": "yes",
+      "name": "Colégio"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2331798,-9.3941416]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368133",
+      "addr:housenumber": "21 Térreo",
+      "addr:postcode": "48605-177",
+      "addr:street": "Rua Londres",
+      "addr:suburb": "Bnh",
+      "building": "yes",
+      "fixme": "Confirmar nome;Verificar coordenadas",
+      "name": "Panificadora Bompam",
+      "note": "Sem face no bayface do IBGE 0500-0084P-2-2",
+      "shop": "bakery"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.232879170191,-9.3937520226804]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368393",
+      "addr:housenumber": "9",
+      "addr:postcode": "48610-488",
+      "addr:street": "Rua Veneza",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2333423,-9.3920264]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368389",
+      "addr:housenumber": "12",
+      "addr:postcode": "48610-488",
+      "addr:street": "Rua Veneza",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2330484,-9.3915108]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368158;191757319",
+      "addr:housenumber": "6",
+      "addr:postcode": "48605-173",
+      "addr:street": "Rua Berlim",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2321699,-9.3932897]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27304510",
+      "addr:housenumber": "200",
+      "addr:postcode": "48605-355",
+      "addr:street": "Rua Chile",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2296205,-9.3945105]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191757701",
+      "addr:housenumber": "1324",
+      "addr:postcode": "48605-055",
+      "addr:street": "Avenida Antônio Carlos Magalhães",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2329295,-9.3883914]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368231",
+      "addr:housenumber": "7",
+      "addr:postcode": "48605-169",
+      "addr:street": "Rua Paris",
+      "addr:suburb": "Bnh",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0084P-3-5"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.233464,-9.393552]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368410",
+      "addr:housenumber": "21",
+      "addr:postcode": "48605-055",
+      "addr:street": "Avenida Antônio Carlos Magalhães",
+      "addr:suburb": "Bnh",
+      "addr:unit": "Casa A",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2329108,-9.3881045]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368237",
+      "addr:housenumber": "1",
+      "addr:postcode": "48605-169",
+      "addr:street": "Rua Paris",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2342877,-9.3943179]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27355986",
+      "addr:housenumber": "31",
+      "addr:postcode": "48605-205",
+      "addr:street": "Avenida dos Estudantes",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2317907,-9.3962694]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368236",
+      "addr:housenumber": "2",
+      "addr:postcode": "48605-169",
+      "addr:street": "Rua Paris",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2342022,-9.3942576]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368130",
+      "addr:housenumber": "1",
+      "addr:postcode": "48605-169",
+      "addr:street": "Rua Paris",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2328112,-9.3940469]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356089",
+      "addr:housenumber": "2",
+      "addr:postcode": "48605-151",
+      "addr:street": "Rua Nápoles",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2331994,-9.3973136]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368366",
+      "addr:housenumber": "27",
+      "addr:postcode": "48605-185",
+      "addr:street": "Rua Barcelona",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2331452,-9.390382]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368138",
+      "addr:housenumber": "19",
+      "addr:postcode": "48605-177",
+      "addr:street": "Rua Londres",
+      "addr:suburb": "Bnh",
+      "addr:unit": "Casa A",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0084P-2-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.23295,-9.393332]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356024",
+      "addr:housenumber": "1",
+      "addr:postcode": "48605-146",
+      "addr:street": "Rua Califórnia",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2340177,-9.3951186]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368141",
+      "addr:housenumber": "16",
+      "addr:postcode": "48605-177",
+      "addr:street": "Rua Londres",
+      "addr:suburb": "Bnh",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0084P-2-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.232749,-9.392945]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368306",
+      "addr:housenumber": "1",
+      "addr:postcode": "48605-055",
+      "addr:street": "Avenida Antônio Carlos Magalhães",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2348063,-9.3927712]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368172",
+      "addr:housenumber": "200",
+      "addr:postcode": "48605-055",
+      "addr:street": "Avenida Antônio Carlos Magalhães",
+      "addr:suburb": "Bnh",
+      "amenity": "pub",
+      "building": "yes",
+      "name": "Boteco do Bito"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2346114,-9.3941144]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216673328",
+      "addr:housenumber": "43",
+      "addr:postcode": "48605-169",
+      "addr:street": "Rua Paris",
+      "addr:suburb": "Bnh",
+      "addr:unit": "Fundos B",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2325888,-9.394394]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191757703",
+      "addr:housenumber": "37",
+      "addr:postcode": "48605-055",
+      "addr:street": "Avenida Antônio Carlos Magalhães",
+      "addr:suburb": "Bnh",
+      "addr:unit": "Anexo A",
+      "building": "yes",
+      "name": "Turbonet"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2329232,-9.3882942]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368226",
+      "addr:housenumber": "9",
+      "addr:postcode": "48605-177",
+      "addr:street": "Rua Londres",
+      "addr:suburb": "Bnh",
+      "addr:unit": "Casa B",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2330634,-9.3931839]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368357",
+      "addr:housenumber": "36",
+      "addr:postcode": "48605-185",
+      "addr:street": "Rua Barcelona",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2339209,-9.3917934]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191757316",
+      "addr:housenumber": "8",
+      "addr:postcode": "48605-173",
+      "addr:street": "Rua Berlim",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2319326,-9.3930264]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368327",
+      "addr:housenumber": "20",
+      "addr:postcode": "48605-185",
+      "addr:street": "Rua Barcelona",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2330455,-9.3897111]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356158",
+      "addr:housenumber": "1540 Térreo Cartório",
+      "addr:postcode": "48601-208",
+      "addr:street": "Avenida Apolônio Sales",
+      "addr:suburb": "Bnh",
+      "building": "yes",
+      "name": "Tabelionato de Notas e Protesto"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2328687,-9.3985348]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368362",
+      "addr:housenumber": "30",
+      "addr:postcode": "48605-185",
+      "addr:street": "Rua Barcelona",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2333989,-9.3908512]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191757301",
+      "addr:housenumber": "11",
+      "addr:postcode": "48605-205",
+      "addr:street": "Avenida dos Estudantes",
+      "addr:suburb": "Bnh",
+      "addr:unit": "Casa B",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.231986448471,-9.3922516608877]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356000",
+      "addr:housenumber": "22",
+      "addr:postcode": "48605-146",
+      "addr:street": "Rua Califórnia",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2323923,-9.3970506]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368147",
+      "addr:housenumber": "12",
+      "addr:postcode": "48605-177",
+      "addr:street": "Rua Londres",
+      "addr:suburb": "Bnh",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0084P-2-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.232384,-9.392312]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368163",
+      "addr:housenumber": "3",
+      "addr:postcode": "48605-173",
+      "addr:street": "Rua Berlim",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2324236,-9.3937586]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356087",
+      "addr:housenumber": "5",
+      "addr:postcode": "48605-151",
+      "addr:street": "Rua Nápoles",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2332291,-9.3967435]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191757639",
+      "addr:housenumber": "22",
+      "addr:postcode": "48605-185",
+      "addr:street": "Rua Barcelona",
+      "addr:suburb": "Bnh",
+      "addr:unit": "Casa A",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.232522,-9.3896145]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27304540",
+      "addr:housenumber": "16",
+      "addr:postcode": "48605-235",
+      "addr:street": "Rua Argélia",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2313183,-9.3925923]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368310",
+      "addr:housenumber": "5",
+      "addr:postcode": "48605-055",
+      "addr:street": "Avenida Antônio Carlos Magalhães",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2346167,-9.3915106]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368332",
+      "addr:housenumber": "24",
+      "addr:postcode": "48605-185",
+      "addr:street": "Rua Barcelona",
+      "addr:suburb": "Bnh",
+      "addr:unit": "Casa A",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2333452,-9.390425]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368213",
+      "addr:housenumber": "19",
+      "addr:postcode": "48605-177",
+      "addr:street": "Rua Londres",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2322295,-9.3916996]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27304511",
+      "addr:housenumber": "207",
+      "addr:postcode": "48605-355",
+      "addr:street": "Rua Chile",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.229828,-9.3945269]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191757698",
+      "addr:housenumber": "1320",
+      "addr:postcode": "48605-055",
+      "addr:street": "Avenida Antônio Carlos Magalhães",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2329311,-9.388416]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356135",
+      "addr:housenumber": "1321 Térreo",
+      "addr:postcode": "48601-230",
+      "addr:street": "Avenida André Falcão",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.233303,-9.3976889]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368363",
+      "addr:housenumber": "31",
+      "addr:postcode": "48605-185",
+      "addr:street": "Rua Barcelona",
+      "addr:suburb": "Bnh",
+      "addr:unit": "Casa F",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2335159,-9.3910655]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356018",
+      "addr:housenumber": "6",
+      "addr:postcode": "48605-146",
+      "addr:street": "Rua Califórnia",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.233343,-9.3947875]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368369",
+      "addr:housenumber": "24",
+      "addr:postcode": "48605-185",
+      "addr:street": "Rua Barcelona",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2329524,-9.3899114]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27355994",
+      "addr:housenumber": "26",
+      "addr:postcode": "48605-205",
+      "addr:street": "Avenida dos Estudantes",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2317489,-9.3972164]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27304506",
+      "addr:housenumber": "76",
+      "addr:postcode": "48605-230",
+      "addr:street": "Rua Paraguai",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2295763,-9.393206]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368359",
+      "addr:housenumber": "34",
+      "addr:postcode": "48605-185",
+      "addr:street": "Rua Barcelona",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2337244,-9.391436]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368336",
+      "addr:housenumber": "27",
+      "addr:postcode": "48605-185",
+      "addr:street": "Rua Barcelona",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2336794,-9.3910401]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27304504",
+      "addr:housenumber": "40",
+      "addr:postcode": "48605-230",
+      "addr:street": "Rua Paraguai",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2295934,-9.3929239]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356145",
+      "addr:housenumber": "45",
+      "addr:postcode": "48608-190",
+      "addr:street": "Rua da Vitória",
+      "addr:suburb": "Bnh",
+      "building": "yes",
+      "name": "Sede Gac"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2330329,-9.3981632]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368167",
+      "addr:housenumber": "1 Frente",
+      "addr:postcode": "48605-173",
+      "addr:street": "Rua Berlim",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2325518,-9.3939981]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356002",
+      "addr:housenumber": "20",
+      "addr:postcode": "48605-146",
+      "addr:street": "Rua Califórnia",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.232409,-9.3967457]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368216",
+      "addr:housenumber": "16",
+      "addr:postcode": "48605-177",
+      "addr:street": "Rua Londres",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2324892,-9.3921705]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216673579",
+      "addr:housenumber": "1560 Loja Térreo",
+      "addr:postcode": "48601-208",
+      "addr:street": "Avenida Apolônio Sales",
+      "addr:suburb": "Bnh",
+      "building": "yes",
+      "name": "Espaço Je Souto"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2330663,-9.3985528]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216673577",
+      "addr:housenumber": "1540",
+      "addr:postcode": "48601-208",
+      "addr:street": "Avenida Apolônio Sales",
+      "addr:suburb": "Bnh",
+      "addr:unit": "Loja Copiadora",
+      "building": "yes",
+      "description": "CNEFE 2022 Copiadora",
+      "shop": "copyshop"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2328778,-9.3985359]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368166",
+      "addr:housenumber": "2",
+      "addr:postcode": "48605-173",
+      "addr:street": "Rua Berlim",
+      "addr:suburb": "Bnh",
+      "addr:unit": "Fundos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2325825,-9.3939401]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216673543",
+      "addr:housenumber": "1321 Térreo C",
+      "addr:postcode": "48601-230",
+      "addr:street": "Avenida André Falcão",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.233309889054,-9.3976967969932]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27371469",
+      "addr:housenumber": "207",
+      "addr:postcode": "48605-055",
+      "addr:street": "Avenida Antônio Carlos Magalhães",
+      "addr:suburb": "Bnh",
+      "amenity": "taxi",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "name": "Mototáxi Ligou Chegou",
+      "note": "Sem dados para mover para dentro da quadra 0500-0095P-6-1",
+      "taxi_vehicle": "motorcycle"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.232739,-9.3861191]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191757577",
+      "addr:housenumber": "23",
+      "addr:postcode": "48605-185",
+      "addr:street": "Rua Barcelona",
+      "addr:suburb": "Bnh",
+      "addr:unit": "Garagem A",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2333161,-9.3903711]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368215",
+      "addr:housenumber": "17",
+      "addr:postcode": "48605-177",
+      "addr:street": "Rua Londres",
+      "addr:suburb": "Bnh",
+      "addr:unit": "Casa A",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2323549,-9.3919292]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356022",
+      "addr:housenumber": "3",
+      "addr:postcode": "48605-146",
+      "addr:street": "Rua Califórnia",
+      "addr:suburb": "Bnh",
+      "building": "yes",
+      "name": "Loja de Equipamentos",
+      "shop": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2335943,-9.3948458]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216673450",
+      "addr:housenumber": "9",
+      "addr:postcode": "48605-151",
+      "addr:street": "Rua Nápoles",
+      "addr:suburb": "Bnh",
+      "addr:unit": "Casa B",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.233278092244,-9.3960529933974]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356155",
+      "addr:housenumber": "1530 Loja Térreo",
+      "addr:postcode": "48601-208",
+      "addr:street": "Avenida Apolônio Sales",
+      "addr:suburb": "Bnh",
+      "building": "yes",
+      "name": "Priorizar Seguros"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2328201,-9.3985288]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368350",
+      "addr:housenumber": "44",
+      "addr:postcode": "48605-185",
+      "addr:street": "Rua Barcelona",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2345633,-9.3930241]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368178",
+      "addr:housenumber": "42",
+      "addr:postcode": "48610-488",
+      "addr:street": "Rua Veneza",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2339798,-9.3932348]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368154",
+      "addr:housenumber": "9",
+      "addr:postcode": "48605-205",
+      "addr:street": "Avenida dos Estudantes",
+      "addr:suburb": "Bnh",
+      "addr:unit": "Casa C",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.231990294092,-9.3924554033468]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368345",
+      "addr:housenumber": "34",
+      "addr:postcode": "48605-185",
+      "addr:street": "Rua Barcelona",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2342834,-9.3921524]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368407",
+      "addr:housenumber": "21",
+      "addr:postcode": "48605-055",
+      "addr:street": "Avenida Antônio Carlos Magalhães",
+      "addr:suburb": "Bnh",
+      "amenity": "car_wash",
+      "building": "yes",
+      "name": "Lava a jato Beira Rio"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2329085,-9.3880692]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368344",
+      "addr:housenumber": "33",
+      "addr:postcode": "48605-185",
+      "addr:street": "Rua Barcelona",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2341715,-9.3919379]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368157",
+      "addr:housenumber": "7",
+      "addr:postcode": "48605-173",
+      "addr:street": "Rua Berlim",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.232114,-9.3931882]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27304505",
+      "addr:housenumber": "14",
+      "addr:postcode": "48605-230",
+      "addr:street": "Rua Paraguai",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2296065,-9.3927076]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368312",
+      "addr:housenumber": "7",
+      "addr:postcode": "48605-055",
+      "addr:street": "Avenida Antônio Carlos Magalhães",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2344671,-9.3911931]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191757609",
+      "addr:housenumber": "102",
+      "addr:postcode": "48605-185",
+      "addr:street": "Rua Barcelona",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2341288,-9.3921912]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216673354",
+      "addr:housenumber": "1281",
+      "addr:postcode": "48601-230",
+      "addr:street": "Avenida André Falcão",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.232217,-9.3974665]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368146",
+      "addr:housenumber": "13",
+      "addr:postcode": "48605-177",
+      "addr:street": "Rua Londres",
+      "addr:suburb": "Bnh",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0084P-2-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.232394,-9.392588]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368323",
+      "addr:housenumber": "17",
+      "addr:postcode": "48605-055",
+      "addr:street": "Avenida Antônio Carlos Magalhães",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2336937,-9.389612]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368408",
+      "addr:housenumber": "21",
+      "addr:postcode": "48605-055",
+      "addr:street": "Avenida Antônio Carlos Magalhães",
+      "addr:suburb": "Bnh",
+      "addr:unit": "Casa C",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.232909845444,-9.3881052378938]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356150",
+      "addr:housenumber": "33",
+      "addr:postcode": "48608-190",
+      "addr:street": "Rua da Vitória",
+      "addr:suburb": "Bnh",
+      "building": "yes",
+      "name": "Uti Car"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2328508,-9.3981508]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356063",
+      "addr:housenumber": "5",
+      "addr:postcode": "48605-156",
+      "addr:street": "Rua Washington",
+      "addr:suburb": "Bnh",
+      "addr:unit": "Casa A",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.233016608671,-9.3953795083449]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356023",
+      "addr:housenumber": "2",
+      "addr:postcode": "48605-146",
+      "addr:street": "Rua Califórnia",
+      "addr:suburb": "Bnh",
+      "addr:unit": "Casa B",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2323731,-9.3974036]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356055",
+      "addr:housenumber": "6",
+      "addr:postcode": "48605-146",
+      "addr:street": "Rua Califórnia",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.232879,-9.395104]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368355",
+      "addr:housenumber": "39",
+      "addr:postcode": "48605-185",
+      "addr:street": "Rua Barcelona",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2341988,-9.3923253]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27304496",
+      "addr:housenumber": "86",
+      "addr:postcode": "48605-230",
+      "addr:street": "Rua Paraguai",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.229571,-9.3932936]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368227",
+      "addr:housenumber": "9",
+      "addr:postcode": "48605-177",
+      "addr:street": "Rua Londres",
+      "addr:suburb": "Bnh",
+      "addr:unit": "Casa A",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.23306432322,-9.3931898598896]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356056",
+      "addr:housenumber": "8",
+      "addr:postcode": "48605-146",
+      "addr:street": "Rua Califórnia",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.23331,-9.3949303]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191720156",
+      "addr:housenumber": "230",
+      "addr:postcode": "48605-055",
+      "addr:street": "Avenida Antônio Carlos Magalhães",
+      "addr:suburb": "Bnh",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0095P-6-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2327083,-9.3858296]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "223783424",
+      "addr:housenumber": "122 A",
+      "addr:postcode": "48605-230",
+      "addr:street": "Rua Paraguai",
+      "addr:suburb": "Bnh",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.229538028631,-9.3936325554512]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27304531",
+      "addr:housenumber": "27",
+      "addr:postcode": "48605-205",
+      "addr:street": "Avenida dos Estudantes",
+      "addr:suburb": "Bnh",
+      "addr:unit": "Casa B",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2318684,-9.392327]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368378",
+      "addr:housenumber": "19",
+      "addr:postcode": "48610-488",
+      "addr:street": "Rua Veneza",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2323929,-9.3902851]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356009",
+      "addr:housenumber": "13",
+      "addr:postcode": "48605-146",
+      "addr:street": "Rua Califórnia",
+      "addr:suburb": "Bnh",
+      "addr:unit": "Casa C",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.232474,-9.3955636]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356221",
+      "addr:housenumber": "106",
+      "addr:postcode": "48605-055",
+      "addr:street": "Avenida Antônio Carlos Magalhães",
+      "addr:suburb": "Bnh",
+      "disused": "yes",
+      "disused:building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0040P-20-4",
+      "old_name": "Estabelecimento Vago"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.233202,-9.399096]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368189",
+      "addr:housenumber": "33",
+      "addr:postcode": "48610-488",
+      "addr:street": "Rua Veneza",
+      "addr:suburb": "Bnh",
+      "addr:unit": "Casa A",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2331951,-9.3920827]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "223783427",
+      "addr:housenumber": "122 C",
+      "addr:postcode": "48605-230",
+      "addr:street": "Rua Paraguai",
+      "addr:suburb": "Bnh",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2295496,-9.3936474]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27355989",
+      "addr:housenumber": "29",
+      "addr:postcode": "48605-205",
+      "addr:street": "Avenida dos Estudantes",
+      "addr:suburb": "Bnh",
+      "building": "yes",
+      "name": "Hemolab"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2317715,-9.3966689]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191757694",
+      "addr:housenumber": "600",
+      "addr:postcode": "48605-055",
+      "addr:street": "Avenida Antônio Carlos Magalhães",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2329409,-9.3885669]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27304507",
+      "addr:housenumber": "146",
+      "addr:postcode": "48605-230",
+      "addr:street": "Rua Paraguai",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2295387,-9.3938283]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356064",
+      "addr:housenumber": "11",
+      "addr:postcode": "48605-156",
+      "addr:street": "Rua Washington",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2329738,-9.3955379]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27371468",
+      "addr:housenumber": "820",
+      "addr:postcode": "48605-055",
+      "addr:street": "Avenida Antônio Carlos Magalhães",
+      "addr:suburb": "Bnh",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0095P-6-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2327702,-9.386413]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368338",
+      "addr:housenumber": "29",
+      "addr:postcode": "48605-185",
+      "addr:street": "Rua Barcelona",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2338251,-9.3912981]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27304490",
+      "addr:housenumber": "122",
+      "addr:postcode": "48605-205",
+      "addr:street": "Avenida dos Estudantes",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2317432,-9.3940613]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356092",
+      "addr:housenumber": "3",
+      "addr:postcode": "48605-151",
+      "addr:street": "Rua Nápoles",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2332113,-9.3970957]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356069",
+      "addr:housenumber": "14",
+      "addr:postcode": "48605-146",
+      "addr:street": "Rua Califórnia",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.232549,-9.397041]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356025",
+      "addr:housenumber": "2",
+      "addr:postcode": "48605-146",
+      "addr:street": "Rua Califórnia",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2338492,-9.3949989]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27304499",
+      "addr:housenumber": "170",
+      "addr:postcode": "48605-230",
+      "addr:street": "Rua Paraguai",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2295291,-9.3940484]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191757711",
+      "addr:housenumber": "8",
+      "addr:postcode": "48605-485",
+      "addr:street": "Rua Dom Mário Zaneta",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2325617,-9.3875838]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27304497",
+      "addr:housenumber": "98",
+      "addr:postcode": "48605-230",
+      "addr:street": "Rua Paraguai",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2295636,-9.3934162]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368333",
+      "addr:housenumber": "24",
+      "addr:postcode": "48605-185",
+      "addr:street": "Rua Barcelona",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.233369,-9.390469]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191757605",
+      "addr:housenumber": "201",
+      "addr:postcode": "48605-185",
+      "addr:street": "Rua Barcelona",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2342166,-9.3923593]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356013",
+      "addr:housenumber": "9",
+      "addr:postcode": "48605-146",
+      "addr:street": "Rua Califórnia",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2327539,-9.3950008]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368223",
+      "addr:housenumber": "12",
+      "addr:postcode": "48605-177",
+      "addr:street": "Rua Londres",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2328503,-9.3928138]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27304538",
+      "addr:housenumber": "38",
+      "addr:postcode": "48605-235",
+      "addr:street": "Rua Argélia",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2311587,-9.3926111]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368202",
+      "addr:housenumber": "25",
+      "addr:postcode": "48610-488",
+      "addr:street": "Rua Veneza",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2324427,-9.3907523]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368315;191757542",
+      "addr:housenumber": "10",
+      "addr:postcode": "48605-055",
+      "addr:street": "Avenida Antônio Carlos Magalhães",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2342099,-9.3906783]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356067",
+      "addr:housenumber": "20",
+      "addr:postcode": "48605-146",
+      "addr:street": "Rua Califórnia",
+      "addr:suburb": "Bnh",
+      "building": "yes",
+      "name": "Mah Bronze"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.232592599335,-9.3960833541355]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368145",
+      "addr:housenumber": "14",
+      "addr:postcode": "48605-177",
+      "addr:street": "Rua Londres",
+      "addr:suburb": "Bnh",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "name": "Sede do Peti",
+      "note": "Sem face no bayface do IBGE 0500-0084P-2-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.232571,-9.39266]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27304494",
+      "addr:housenumber": "130",
+      "addr:postcode": "48605-205",
+      "addr:street": "Avenida dos Estudantes",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.231747,-9.3939889]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216673398",
+      "addr:housenumber": "20",
+      "addr:postcode": "48605-146",
+      "addr:street": "Rua Califórnia",
+      "addr:suburb": "Bnh",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0040P-6-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.232567,-9.39598]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368212",
+      "addr:housenumber": "20",
+      "addr:postcode": "48605-177",
+      "addr:street": "Rua Londres",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2321912,-9.3916277]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356052",
+      "addr:housenumber": "13",
+      "addr:postcode": "48605-146",
+      "addr:street": "Rua Califórnia",
+      "addr:suburb": "Bnh",
+      "addr:unit": "Casa A",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2341241,-9.3953536]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368308",
+      "addr:housenumber": "3",
+      "addr:postcode": "48605-055",
+      "addr:street": "Avenida Antônio Carlos Magalhães",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2347594,-9.3920075]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368314",
+      "addr:housenumber": "9",
+      "addr:postcode": "48605-055",
+      "addr:street": "Avenida Antônio Carlos Magalhães",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2342944,-9.3908475]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191757580",
+      "addr:housenumber": "1",
+      "addr:postcode": "48605-185",
+      "addr:street": "Rua Barcelona",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2344521,-9.3924757]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368399",
+      "addr:housenumber": "4",
+      "addr:postcode": "48610-488",
+      "addr:street": "Rua Veneza",
+      "addr:suburb": "Bnh",
+      "addr:unit": "Casa",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2337081,-9.392679]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368334",
+      "addr:housenumber": "25",
+      "addr:postcode": "48605-185",
+      "addr:street": "Rua Barcelona",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2334667,-9.3906498]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356219",
+      "addr:housenumber": "102",
+      "addr:postcode": "48605-055",
+      "addr:street": "Avenida Antônio Carlos Magalhães",
+      "addr:suburb": "Bnh",
+      "addr:unit": "Box A",
+      "building": "warehouse",
+      "description": "CNEFE 2022 Depósito",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0040P-20-4"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2331,-9.399309]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368364",
+      "addr:housenumber": "29",
+      "addr:postcode": "48605-185",
+      "addr:street": "Rua Barcelona",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2333164,-9.3906987]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368337",
+      "addr:housenumber": "28",
+      "addr:postcode": "48605-185",
+      "addr:street": "Rua Barcelona",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.233726,-9.3911226]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27304516",
+      "addr:housenumber": "145 Térreo",
+      "addr:postcode": "48605-355",
+      "addr:street": "Rua Chile",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.230381,-9.3945537]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368324",
+      "addr:housenumber": "18",
+      "addr:postcode": "48605-055",
+      "addr:street": "Avenida Antônio Carlos Magalhães",
+      "addr:suburb": "Bnh",
+      "building": "yes",
+      "healthcare": "yes",
+      "name": "Esf Senhor do Bonfim"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2336047,-9.3894006]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356073",
+      "addr:housenumber": "18",
+      "addr:postcode": "48605-146",
+      "addr:street": "Rua Califórnia",
+      "addr:suburb": "Bnh",
+      "addr:unit": "Casa A",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2325879,-9.3963266]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356050",
+      "addr:housenumber": "11",
+      "addr:postcode": "48605-146",
+      "addr:street": "Rua Califórnia",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2338977,-9.3952229]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368372",
+      "addr:housenumber": "23",
+      "addr:postcode": "48605-185",
+      "addr:street": "Rua Barcelona",
+      "addr:suburb": "Bnh",
+      "addr:unit": "Casa A",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2327075,-9.3896597]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27304521",
+      "addr:housenumber": "129 Casa D Térreo",
+      "addr:postcode": "48605-355",
+      "addr:street": "Rua Chile",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.23056,-9.3945624]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27304514",
+      "addr:housenumber": "175",
+      "addr:postcode": "48605-355",
+      "addr:street": "Rua Chile",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2299851,-9.3945345]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368153",
+      "addr:housenumber": "9",
+      "addr:postcode": "48605-205",
+      "addr:street": "Avenida dos Estudantes",
+      "addr:suburb": "Bnh",
+      "addr:unit": "Casa B",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.231990099361,-9.392443065437]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368360",
+      "addr:housenumber": "33",
+      "addr:postcode": "48605-185",
+      "addr:street": "Rua Barcelona",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2336233,-9.3912569]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216673550",
+      "addr:housenumber": "1337",
+      "addr:postcode": "48605-055",
+      "addr:street": "Avenida Antônio Carlos Magalhães",
+      "addr:suburb": "Bnh",
+      "addr:unit": "Depósito B",
+      "building": "warehouse",
+      "description": "CNEFE 2022 Depósito"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.233554,-9.3977958]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368161",
+      "addr:housenumber": "4",
+      "addr:postcode": "48605-173",
+      "addr:street": "Rua Berlim",
+      "addr:suburb": "Bnh",
+      "addr:unit": "Casa A",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2322908,-9.3935104]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368165",
+      "addr:housenumber": "2 Frente",
+      "addr:postcode": "48605-173",
+      "addr:street": "Rua Berlim",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2325343,-9.3939655]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368326",
+      "addr:housenumber": "19",
+      "addr:postcode": "48605-185",
+      "addr:street": "Rua Barcelona",
+      "addr:suburb": "Bnh",
+      "addr:unit": "Casa A",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2331762,-9.389494]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27304501",
+      "addr:housenumber": "52",
+      "addr:postcode": "48605-230",
+      "addr:street": "Rua Paraguai",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2295886,-9.3930025]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27371470",
+      "addr:housenumber": "224",
+      "addr:postcode": "48605-055",
+      "addr:street": "Avenida Antônio Carlos Magalhães",
+      "addr:suburb": "Bnh",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0095P-6-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2327222,-9.3859606]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356001",
+      "addr:housenumber": "21",
+      "addr:postcode": "48605-146",
+      "addr:street": "Rua Califórnia",
+      "addr:suburb": "Bnh",
+      "building": "yes",
+      "name": "Empresa de Locação de Máquinas"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2323939,-9.3970218]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368228",
+      "addr:housenumber": "9",
+      "addr:postcode": "48605-177",
+      "addr:street": "Rua Londres",
+      "addr:suburb": "Bnh",
+      "addr:unit": "Casa",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.233055183218,-9.3931861715482]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368219",
+      "addr:housenumber": "15",
+      "addr:postcode": "48605-177",
+      "addr:street": "Rua Londres",
+      "addr:suburb": "Bnh",
+      "addr:unit": "Casa A",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2325967,-9.3923636]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191757632",
+      "addr:housenumber": "304",
+      "addr:postcode": "48605-185",
+      "addr:street": "Rua Barcelona",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2340962,-9.3921288]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368214",
+      "addr:housenumber": "18",
+      "addr:postcode": "48605-177",
+      "addr:street": "Rua Londres",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2322843,-9.3918011]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356007",
+      "addr:housenumber": "15",
+      "addr:postcode": "48605-146",
+      "addr:street": "Rua Califórnia",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2324573,-9.3958235]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216673619",
+      "addr:housenumber": "100",
+      "addr:postcode": "48605-055",
+      "addr:street": "Avenida Antônio Carlos Magalhães",
+      "addr:suburb": "Bnh",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "name": "Escape Center",
+      "note": "Sem face no bayface do IBGE 0500-0040P-20-4"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.232956,-9.399449]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356014",
+      "addr:housenumber": "8",
+      "addr:postcode": "48605-146",
+      "addr:street": "Rua Califórnia",
+      "addr:suburb": "Bnh",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2329461,-9.394883]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356168",
+      "addr:housenumber": "13",
+      "addr:postcode": "48605-055",
+      "addr:street": "Avenida Antônio Carlos Magalhães",
+      "addr:suburb": "Bnh",
+      "building": "yes",
+      "description": "CNEFE 2022 Oficina",
+      "shop": "car_repair"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2333815,-9.3985205]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356053",
+      "addr:housenumber": "10",
+      "addr:postcode": "48605-146",
+      "addr:street": "Rua Califórnia",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2337789,-9.3951386]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27304517",
+      "addr:housenumber": "129 H",
+      "addr:postcode": "48605-355",
+      "addr:street": "Rua Chile",
+      "addr:suburb": "Bnh",
+      "addr:unit": "Anexo",
+      "building": "yes",
+      "description": "CNEFE 2022 Escritório",
+      "office": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.230447,-9.3945569]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191757667",
+      "addr:housenumber": "22",
+      "addr:postcode": "48610-488",
+      "addr:street": "Rua Veneza",
+      "addr:suburb": "Bnh",
+      "addr:unit": "Casa A",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2322606,-9.3896677]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368234",
+      "addr:housenumber": "4",
+      "addr:postcode": "48605-169",
+      "addr:street": "Rua Paris",
+      "addr:suburb": "Bnh",
+      "building": "warehouse",
+      "description": "CNEFE 2022 Depósito J Santana"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2339194,-9.3940451]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356008",
+      "addr:housenumber": "14",
+      "addr:postcode": "48605-146",
+      "addr:street": "Rua Califórnia",
+      "addr:suburb": "Bnh",
+      "addr:unit": "Casa C",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2324629,-9.3956956]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27355974",
+      "addr:housenumber": "43",
+      "addr:postcode": "48605-169",
+      "addr:street": "Rua Paris",
+      "addr:suburb": "Bnh",
+      "addr:unit": "Casa",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2326471,-9.3943007]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27304530",
+      "addr:housenumber": "15",
+      "addr:postcode": "48605-355",
+      "addr:street": "Rua Chile",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2316325,-9.3946144]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356051",
+      "addr:housenumber": "12",
+      "addr:postcode": "48605-146",
+      "addr:street": "Rua Califórnia",
+      "addr:suburb": "Bnh",
+      "addr:unit": "Casa A",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2340471,-9.395329]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356078",
+      "addr:housenumber": "7 Frente",
+      "addr:postcode": "48605-151",
+      "addr:street": "Rua Nápoles",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2332463,-9.3963866]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27355990",
+      "addr:housenumber": "28",
+      "addr:postcode": "48605-205",
+      "addr:street": "Avenida dos Estudantes",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2317625,-9.3968649]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368222",
+      "addr:housenumber": "13",
+      "addr:postcode": "48605-177",
+      "addr:street": "Rua Londres",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2327539,-9.3926462]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368160",
+      "addr:housenumber": "5",
+      "addr:postcode": "48605-173",
+      "addr:street": "Rua Berlim",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2322736,-9.3934771]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27355961",
+      "addr:housenumber": "50",
+      "addr:postcode": "48605-169",
+      "addr:street": "Rua Paris",
+      "addr:suburb": "Bnh",
+      "addr:unit": "Casa A",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0040P-2-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.234096,-9.394265]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368148",
+      "addr:housenumber": "11",
+      "addr:postcode": "48605-177",
+      "addr:street": "Rua Londres",
+      "addr:suburb": "Bnh",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0084P-2-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.23238,-9.392151]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191757539",
+      "addr:housenumber": "3",
+      "addr:postcode": "48605-055",
+      "addr:street": "Avenida Antônio Carlos Magalhães",
+      "addr:suburb": "Bnh",
+      "addr:unit": "Casa B",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2347278,-9.3918608]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356079",
+      "addr:housenumber": "7",
+      "addr:postcode": "48605-151",
+      "addr:street": "Rua Nápoles",
+      "addr:suburb": "Bnh",
+      "addr:unit": "Fundos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2331917,-9.396384]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356012",
+      "addr:housenumber": "10",
+      "addr:postcode": "48605-146",
+      "addr:street": "Rua Califórnia",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2326435,-9.3951167]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356066",
+      "addr:housenumber": "19",
+      "addr:postcode": "48605-146",
+      "addr:street": "Rua Califórnia",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2325965,-9.3961702]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368341",
+      "addr:housenumber": "30",
+      "addr:postcode": "48605-185",
+      "addr:street": "Rua Barcelona",
+      "addr:suburb": "Bnh",
+      "addr:unit": "Anexo B",
+      "building": "yes",
+      "name": "Oficina Eduardinho Veículos",
+      "shop": "car_repair"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2339361,-9.3914948]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "223783439",
+      "addr:housenumber": "145",
+      "addr:postcode": "48605-355",
+      "addr:street": "Rua Chile",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.230381106123,-9.3945536230224]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216673416;216673418;216673420;216673422;216673424;216673426;216673428;216673430;216673432;216673434;216673436;216673438",
+      "addr:flats": "101-304",
+      "addr:housenumber": "15",
+      "addr:postcode": "48605-146",
+      "addr:street": "Rua Califórnia",
+      "addr:suburb": "Bnh",
+      "building": "yes",
+      "building:flats": "12",
+      "building:levels": "3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2325575,-9.3968843]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356075",
+      "addr:housenumber": "17",
+      "addr:postcode": "48605-146",
+      "addr:street": "Rua Califórnia",
+      "addr:suburb": "Bnh",
+      "addr:unit": "Casa A",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2325741,-9.3965796]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216673348",
+      "addr:housenumber": "28",
+      "addr:postcode": "48605-205",
+      "addr:street": "Avenida dos Estudantes",
+      "addr:suburb": "Bnh",
+      "addr:unit": "Casa A",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2317641,-9.3968235]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216673403",
+      "addr:housenumber": "11",
+      "addr:postcode": "48605-055",
+      "addr:street": "Avenida Antônio Carlos Magalhães",
+      "addr:suburb": "Bnh",
+      "building": "yes",
+      "name": "Devassa Puro Malte Tropical"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2341091,-9.3957755]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216673539",
+      "addr:housenumber": "49",
+      "addr:postcode": "48601-230",
+      "addr:street": "Avenida André Falcão",
+      "addr:suburb": "Bnh",
+      "building": "yes",
+      "name": "Fisiofono"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2330803,-9.3976744]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368343",
+      "addr:housenumber": "32",
+      "addr:postcode": "48605-185",
+      "addr:street": "Rua Barcelona",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2340737,-9.3917504]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191757673",
+      "addr:housenumber": "22",
+      "addr:postcode": "48610-488",
+      "addr:street": "Rua Veneza",
+      "addr:suburb": "Bnh",
+      "addr:unit": "Casa A",
+      "building": "yes",
+      "healthcare": "yes",
+      "name": "Centro de Referência da Mulher"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2344472,-9.3933944]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368387",
+      "addr:housenumber": "13",
+      "addr:postcode": "48610-488",
+      "addr:street": "Rua Veneza",
+      "addr:suburb": "Bnh",
+      "addr:unit": "Casa",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2328965,-9.3912444]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368203",
+      "addr:housenumber": "24",
+      "addr:postcode": "48610-488",
+      "addr:street": "Rua Veneza",
+      "addr:suburb": "Bnh",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2323815,-9.390641]
+      }
+    }
+  ]
+}

@@ -1,0 +1,597 @@
+{
+  "type": "FeatureCollection",
+  "source": "IBGE CNEFE + Faces de Logradouros - 2022",
+  "generator": "CSV-CNEFE2GeoJSON.lua 1.5.7 - fidelis.assis@gmail.com",
+  "date": "2025-02-02T09:05:08-0300",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414742",
+      "addr:housenumber": "44",
+      "addr:postcode": "48619-899",
+      "addr:street": "Sítio Barinha",
+      "addr:suburb": "Barrinha",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "name": "Fazenda São João",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0214P-0-106",
+      "place": "farm"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.325304,-9.572498]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414742",
+      "addr:housenumber": "44",
+      "addr:postcode": "48619-899",
+      "addr:street": "Sítio Barinha",
+      "addr:suburb": "Barrinha",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0214P-0-106"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.32530395581,-9.5724981616562]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191732247",
+      "addr:housenumber": "112 B",
+      "addr:postcode": "48619-899",
+      "addr:street": "Sítio Barinha",
+      "addr:suburb": "Barrinha",
+      "building": "yes",
+      "description": "CNEFE 2022 Fazenda Boa Esperança",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0214P-0-106",
+      "place": "farm"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.326502,-9.591311]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191732247",
+      "addr:housenumber": "112 B",
+      "addr:postcode": "48619-899",
+      "addr:street": "Sítio Barinha",
+      "addr:suburb": "Barrinha",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0214P-0-106"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.326494295292,-9.5913125613881]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414769",
+      "addr:housenumber": "80 B",
+      "addr:postcode": "48619-899",
+      "addr:street": "Sítio Barinha",
+      "addr:suburb": "Barrinha",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "description": "CNEFE 2022 Sem Nome",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0214P-0-106"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.32631,-9.589293]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414754",
+      "addr:housenumber": "30",
+      "addr:postcode": "48619-899",
+      "addr:street": "Sítio Barinha",
+      "addr:suburb": "Barrinha",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0214P-0-106"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.335706,-9.572893]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414754",
+      "addr:housenumber": "30",
+      "addr:postcode": "48619-899",
+      "addr:street": "Sítio Barinha",
+      "addr:suburb": "Barrinha",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "name": "Fazenda Baixa da Serra",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0214P-0-106",
+      "place": "farm"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.335707746899,-9.5728979000032]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414746",
+      "addr:housenumber": "12 A",
+      "addr:postcode": "48619-899",
+      "addr:street": "Sítio Barinha",
+      "addr:suburb": "Barrinha",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "name": "Sebastião Gomes Balbino",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0214P-0-106"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.32612,-9.573728]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414761",
+      "addr:housenumber": "59",
+      "addr:postcode": "48619-899",
+      "addr:street": "Sítio Barinha",
+      "addr:suburb": "Barrinha",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "name": "Fazenda Boa Sorte",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0214P-0-106",
+      "place": "farm"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.325845,-9.585248]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191732248",
+      "addr:housenumber": "128",
+      "addr:postcode": "48619-899",
+      "addr:street": "Sítio Barinha",
+      "addr:suburb": "Barrinha",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0214P-0-106"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.326479,-9.591895]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112589106",
+      "addr:housenumber": "35",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada da Barrinha para O São José",
+      "addr:suburb": "Barrinha",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0214P-0-107"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.324261,-9.56956]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414750",
+      "addr:housenumber": "50",
+      "addr:postcode": "48619-899",
+      "addr:street": "Sítio Barinha",
+      "addr:suburb": "Barrinha",
+      "building": "yes",
+      "description": "CNEFE 2022 Fazenda Barrinha",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0214P-0-106",
+      "place": "farm"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.325078,-9.575316]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191732248",
+      "addr:housenumber": "128",
+      "addr:postcode": "48619-899",
+      "addr:street": "Sítio Barinha",
+      "addr:suburb": "Barrinha",
+      "building": "yes",
+      "description": "CNEFE 2022 Fazenda Boa Esperança",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0214P-0-106",
+      "place": "farm"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.326482509585,-9.5918957951224]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414772",
+      "addr:housenumber": "91",
+      "addr:postcode": "48619-899",
+      "addr:street": "Sítio Barinha",
+      "addr:suburb": "Barrinha",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0214P-0-106"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.326523,-9.590817]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414767",
+      "addr:housenumber": "125 A",
+      "addr:postcode": "48619-899",
+      "addr:street": "Sítio Barinha",
+      "addr:suburb": "Barrinha",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0214P-0-106"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.326073,-9.588386]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414761",
+      "addr:housenumber": "59",
+      "addr:postcode": "48619-899",
+      "addr:street": "Sítio Barinha",
+      "addr:suburb": "Barrinha",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0214P-0-106"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.325849789805,-9.585240622981]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414762",
+      "addr:housenumber": "1459",
+      "addr:postcode": "48619-899",
+      "addr:street": "Sítio Barinha",
+      "addr:suburb": "Barrinha",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0214P-0-106"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.325879,-9.585568]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414775",
+      "addr:housenumber": "132",
+      "addr:postcode": "48619-899",
+      "addr:street": "Sítio Barinha",
+      "addr:suburb": "Barrinha",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0214P-0-106"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.330232,-9.601304]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414693",
+      "addr:housenumber": "51",
+      "addr:postcode": "48619-899",
+      "addr:street": "Sítio Barinha",
+      "addr:suburb": "Barrinha",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "description": "CNEFE 2022 Fazenda Barrinha",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0214P-0-106",
+      "place": "farm"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.325233,-9.576658]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414750",
+      "addr:housenumber": "50",
+      "addr:postcode": "48619-899",
+      "addr:street": "Sítio Barinha",
+      "addr:suburb": "Barrinha",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0214P-0-106"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.325069755284,-9.5753123955181]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414772",
+      "addr:housenumber": "91",
+      "addr:postcode": "48619-899",
+      "addr:street": "Sítio Barinha",
+      "addr:suburb": "Barrinha",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "description": "CNEFE 2022 Fazenda Boa Esperança",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0214P-0-106",
+      "place": "farm"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.326536750878,-9.5908148579953]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414775",
+      "addr:housenumber": "132",
+      "addr:postcode": "48619-899",
+      "addr:street": "Sítio Barinha",
+      "addr:suburb": "Barrinha",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "name": "Fazenda Baixa Grande",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0214P-0-106",
+      "place": "farm"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.330227463965,-9.6013190276867]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414757",
+      "addr:housenumber": "78 A",
+      "addr:postcode": "48619-899",
+      "addr:street": "Sítio Barinha",
+      "addr:suburb": "Barrinha",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0214P-0-106"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.325502,-9.582677]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414774",
+      "addr:housenumber": "78",
+      "addr:postcode": "48619-899",
+      "addr:street": "Sítio Barinha",
+      "addr:suburb": "Barrinha",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0214P-0-106"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.325544,-9.583262]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112589106",
+      "addr:housenumber": "35",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada da Barrinha para O São José",
+      "addr:suburb": "Barrinha",
+      "building": "yes",
+      "description": "CNEFE 2022 Fazenda Barrinha",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0214P-0-107",
+      "place": "farm"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.324263603173,-9.5695568994432]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414770",
+      "addr:housenumber": "121",
+      "addr:postcode": "48619-899",
+      "addr:street": "Sítio Barinha",
+      "addr:suburb": "Barrinha",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0214P-0-106"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.326056,-9.588867]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414693",
+      "addr:housenumber": "51",
+      "addr:postcode": "48619-899",
+      "addr:street": "Sítio Barinha",
+      "addr:suburb": "Barrinha",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0214P-0-106"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.325218370965,-9.5766659347967]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414746",
+      "addr:housenumber": "12 A",
+      "addr:postcode": "48619-899",
+      "addr:street": "Sítio Barinha",
+      "addr:suburb": "Barrinha",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0214P-0-106"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.326120131694,-9.5737361963619]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414758",
+      "addr:housenumber": "10 A",
+      "addr:postcode": "48619-899",
+      "addr:street": "Sítio Barinha",
+      "addr:suburb": "Barrinha",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0214P-0-106"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.331747,-9.574403]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414769",
+      "addr:housenumber": "80 B",
+      "addr:postcode": "48619-899",
+      "addr:street": "Sítio Barinha",
+      "addr:suburb": "Barrinha",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0214P-0-106"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.32629488531,-9.589283545612]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112589126",
+      "addr:housenumber": "10 B",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada da Barrinha para O São José",
+      "addr:suburb": "Barrinha",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0214P-0-107"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.326374,-9.58985]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414765",
+      "addr:housenumber": "120 B",
+      "addr:postcode": "48619-899",
+      "addr:street": "Sítio Barinha",
+      "addr:suburb": "Barrinha",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0214P-0-106"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.324622,-9.565811]
+      }
+    }
+  ]
+}

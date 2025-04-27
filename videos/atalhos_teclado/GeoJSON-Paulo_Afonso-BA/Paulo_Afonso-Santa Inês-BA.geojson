@@ -1,0 +1,1522 @@
+{
+  "type": "FeatureCollection",
+  "source": "IBGE CNEFE + Faces de Logradouros - 2022",
+  "generator": "CSV-CNEFE2GeoJSON.lua 1.5.7 - fidelis.assis@gmail.com",
+  "date": "2025-02-02T09:05:33-0300",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191887704",
+      "addr:housenumber": "78",
+      "addr:postcode": "48610-200",
+      "addr:suburb": "Santa Inês",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0164P-13-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2375283,-9.4379987]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191887521",
+      "addr:housenumber": "28",
+      "addr:postcode": "48610-200",
+      "addr:street": "Estrada Para Vila Matias",
+      "addr:suburb": "Santa Inês",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0164P-13-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2317682,-9.4369224]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469354",
+      "addr:housenumber": "710",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Santa Inês",
+      "addr:suburb": "Santa Inês",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0164P-15-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.229697,-9.444166]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191887910",
+      "addr:housenumber": "295",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Vazão Santa Inês",
+      "addr:suburb": "Santa Inês",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0164P-20-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.228838,-9.44284]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469333",
+      "addr:housenumber": "555",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Santa Inês",
+      "addr:suburb": "Santa Inês",
+      "building": "construction",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0164P-15-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.228518,-9.443416]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191887619",
+      "addr:housenumber": "68",
+      "addr:postcode": "48610-200",
+      "addr:suburb": "Santa Inês",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0164P-13-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.238359,-9.434167]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191887636",
+      "addr:housenumber": "58",
+      "addr:postcode": "48610-200",
+      "addr:suburb": "Santa Inês",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0164P-13-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.237385,-9.437742]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191887696",
+      "addr:housenumber": "69",
+      "addr:postcode": "48610-200",
+      "addr:suburb": "Santa Inês",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0164P-13-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.23835,-9.434244]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191887527",
+      "addr:housenumber": "19",
+      "addr:postcode": "48610-200",
+      "addr:street": "Estrada Para Vila Matias",
+      "addr:suburb": "Santa Inês",
+      "building": "construction",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0164P-13-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2297036,-9.4345861]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191887547",
+      "addr:housenumber": "100",
+      "addr:postcode": "48610-200",
+      "addr:street": "Estrada Para Vila Matias",
+      "addr:suburb": "Santa Inês",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "name": "Pequena Borracharia",
+      "note": "Sem dados para mover para dentro da quadra 0500-0164P-13-1",
+      "repair": "yes",
+      "shop": "tyres"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2308797,-9.4359162]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191887239",
+      "addr:housenumber": "26",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Pituaçu",
+      "addr:suburb": "Santa Inês",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0164P-7-5"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.229281,-9.444233]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469404",
+      "addr:housenumber": "162",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Santa Inês",
+      "addr:suburb": "Santa Inês",
+      "building": "construction",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0164P-1-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.226978,-9.442187]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191887243",
+      "addr:housenumber": "95",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Pituaçu",
+      "addr:suburb": "Santa Inês",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0164P-7-5"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.229258,-9.444343]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191887077",
+      "addr:housenumber": "260",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Santa Inês",
+      "addr:suburb": "Santa Inês",
+      "building": "yes",
+      "description": "CNEFE 2022 Oficina",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0164P-1-2",
+      "shop": "car_repair"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.226389,-9.441791]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191887734",
+      "addr:housenumber": "10",
+      "addr:postcode": "48610-200",
+      "addr:suburb": "Santa Inês",
+      "fixme": "Confirmar nome;Verificar coordenadas",
+      "landuse": "farmyard;orchard",
+      "name": "Chácara",
+      "note": "Sem dados para mover para dentro da quadra 0500-0164P-13-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2383204,-9.4347458]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191887574",
+      "addr:housenumber": "50",
+      "addr:postcode": "48610-200",
+      "addr:street": "Estrada Para Vila Matias",
+      "addr:suburb": "Santa Inês",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0164P-13-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2333735,-9.4414228]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191887594",
+      "addr:housenumber": "31",
+      "addr:postcode": "48610-200",
+      "addr:street": "Estrada Para Vila Matias",
+      "addr:suburb": "Santa Inês",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "name": "Indústria de Modas Clara Arruda",
+      "note": "Sem dados para mover para dentro da quadra 0500-0164P-13-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2322782,-9.4375041]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469334",
+      "addr:housenumber": "286 Casa Frente",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Santa Inês",
+      "addr:suburb": "Santa Inês",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0164P-1-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.226486,-9.441859]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191887046",
+      "addr:housenumber": "38",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rodovia BA-210",
+      "addr:suburb": "Santa Inês",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0164P-1-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2249953,-9.4381922]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469403",
+      "addr:housenumber": "34",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Santa Inês",
+      "addr:suburb": "Santa Inês",
+      "building": "construction",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0164P-1-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.227243,-9.442389]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469388",
+      "addr:housenumber": "800",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Santa Inês",
+      "addr:suburb": "Santa Inês",
+      "addr:unit": "Entrada",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0164P-15-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.230632,-9.444838]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191887185",
+      "addr:housenumber": "906",
+      "addr:postcode": "48610-200",
+      "addr:suburb": "Santa Inês",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0164P-2-5"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.229914,-9.444896]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469338",
+      "addr:housenumber": "322",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Santa Inês",
+      "addr:suburb": "Santa Inês",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0164P-1-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.226799,-9.442093]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469337",
+      "addr:housenumber": "314",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Santa Inês",
+      "addr:suburb": "Santa Inês",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0164P-1-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.226608,-9.441946]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191887537",
+      "addr:housenumber": "37",
+      "addr:postcode": "48610-200",
+      "addr:street": "Estrada Para Vila Matias",
+      "addr:suburb": "Santa Inês",
+      "addr:unit": "Bloco 2",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0164P-13-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.230638,-9.4356428]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469336",
+      "addr:housenumber": "300",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Santa Inês",
+      "addr:suburb": "Santa Inês",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0164P-1-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.226538,-9.441937]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469350",
+      "addr:housenumber": "907",
+      "addr:postcode": "48610-200",
+      "addr:suburb": "Santa Inês",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0164P-10-5"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.230095,-9.444937]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191887524;191887532",
+      "addr:housenumber": "17",
+      "addr:postcode": "48610-200",
+      "addr:street": "Estrada Para Vila Matias",
+      "addr:suburb": "Santa Inês",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0164P-13-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2296021,-9.4344713]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469330",
+      "addr:housenumber": "210",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Santa Inês",
+      "addr:suburb": "Santa Inês",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0164P-1-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.225929,-9.441476]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469339",
+      "addr:housenumber": "67",
+      "addr:postcode": "48610-200",
+      "addr:suburb": "Santa Inês",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0164P-15-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.230518,-9.444314]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191887601",
+      "addr:housenumber": "30",
+      "addr:postcode": "48610-200",
+      "addr:street": "Estrada Para Vila Matias",
+      "addr:suburb": "Santa Inês",
+      "building": "construction",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0164P-13-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2320298,-9.4372208]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469374",
+      "addr:housenumber": "7",
+      "addr:postcode": "48610-200",
+      "addr:suburb": "Santa Inês",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0164P-15-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.230934,-9.444342]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191887753",
+      "addr:housenumber": "7",
+      "addr:postcode": "48610-200",
+      "addr:street": "Estrada Para Vila Matias",
+      "addr:suburb": "Santa Inês",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0164P-14-4"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.232753,-9.438361]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191887572",
+      "addr:housenumber": "40",
+      "addr:postcode": "48610-200",
+      "addr:street": "Estrada Para Vila Matias",
+      "addr:suburb": "Santa Inês",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0164P-13-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2330208,-9.4386352]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469331",
+      "addr:housenumber": "541",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Santa Inês",
+      "addr:suburb": "Santa Inês",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0164P-15-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.228542,-9.443426]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191887749",
+      "addr:housenumber": "79",
+      "addr:postcode": "48610-200",
+      "addr:suburb": "Santa Inês",
+      "addr:unit": "Casa 2",
+      "fixme": "Verificar coordenadas",
+      "landuse": "farmyard;orchard",
+      "name": "Chácara Luz do Sol",
+      "note": "Muito afastado da face: 61m 0500-0164P-13-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.23809,-9.43795]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191887708",
+      "addr:housenumber": "79",
+      "addr:postcode": "48610-200",
+      "addr:suburb": "Santa Inês",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0164P-13-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2375121,-9.4381628]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191887726",
+      "addr:housenumber": "72",
+      "addr:postcode": "48610-200",
+      "addr:suburb": "Santa Inês",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "name": "Quinta do Lago",
+      "note": "Sem dados para mover para dentro da quadra 0500-0164P-13-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2384203,-9.4344344]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191887515",
+      "addr:housenumber": "43",
+      "addr:postcode": "48610-200",
+      "addr:street": "Estrada Para Vila Matias",
+      "addr:suburb": "Santa Inês",
+      "fixme": "Verificar coordenadas",
+      "landuse": "farmyard;orchard",
+      "name": "Chácara São Francisco",
+      "note": "Sem dados para mover para dentro da quadra 0500-0164P-13-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2328584,-9.4402673]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469411",
+      "addr:housenumber": "36",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Santa Inês",
+      "addr:suburb": "Santa Inês",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0164P-1-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.227532,-9.44259]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191887555",
+      "addr:housenumber": "101",
+      "addr:postcode": "48610-200",
+      "addr:street": "Estrada Para Vila Matias",
+      "addr:suburb": "Santa Inês",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0164P-13-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2310519,-9.4361109]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191887711",
+      "addr:housenumber": "202",
+      "addr:postcode": "48610-200",
+      "addr:suburb": "Santa Inês",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0164P-13-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.237577,-9.437593]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469402",
+      "addr:housenumber": "330",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Santa Inês",
+      "addr:suburb": "Santa Inês",
+      "building": "construction",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0164P-1-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.226906,-9.442138]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469389",
+      "addr:housenumber": "810",
+      "addr:postcode": "48610-200",
+      "addr:suburb": "Santa Inês",
+      "addr:unit": "Entrada",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0164P-10-5"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.229594,-9.444814]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191887669",
+      "addr:housenumber": "123",
+      "addr:postcode": "48610-200",
+      "addr:suburb": "Santa Inês",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0164P-13-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.237887,-9.435756]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469327",
+      "addr:housenumber": "523",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Santa Inês",
+      "addr:suburb": "Santa Inês",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "name": "Paraíso do Bebe",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0164P-15-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.228468,-9.443346]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469335",
+      "addr:housenumber": "525",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Santa Inês",
+      "addr:suburb": "Santa Inês",
+      "addr:unit": "Casa Fundos",
+      "building": "construction",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0164P-15-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.228481,-9.443346]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191887693",
+      "addr:housenumber": "1",
+      "addr:postcode": "48610-200",
+      "addr:suburb": "Santa Inês",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0164P-13-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.236671,-9.44049]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191887667",
+      "addr:housenumber": "61",
+      "addr:postcode": "48610-200",
+      "addr:suburb": "Santa Inês",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0164P-13-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.237541,-9.436621]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191887793",
+      "addr:housenumber": "560",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Santa Inês",
+      "addr:suburb": "Santa Inês",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0164P-15-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.228849,-9.443602]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191887606",
+      "addr:housenumber": "37",
+      "addr:postcode": "48610-200",
+      "addr:street": "Estrada Para Vila Matias",
+      "addr:suburb": "Santa Inês",
+      "addr:unit": "Bloco 1",
+      "building": "construction",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0164P-13-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.230637955828,-9.4356429616562]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469332",
+      "addr:housenumber": "234",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Santa Inês",
+      "addr:suburb": "Santa Inês",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0164P-1-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.226057,-9.441573]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469390",
+      "addr:housenumber": "790",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Santa Inês",
+      "addr:suburb": "Santa Inês",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0164P-15-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.230534,-9.444793]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191887749",
+      "addr:housenumber": "79",
+      "addr:postcode": "48610-200",
+      "addr:suburb": "Santa Inês",
+      "addr:unit": "Casa 2",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 61m 0500-0164P-13-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.238082298748,-9.4379515613881]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469352",
+      "addr:housenumber": "61",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Santa Inês",
+      "addr:suburb": "Santa Inês",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0164P-15-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.229722,-9.444188]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191887689",
+      "addr:housenumber": "67",
+      "addr:postcode": "48610-200",
+      "addr:suburb": "Santa Inês",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0164P-13-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.238326,-9.434304]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191887724",
+      "addr:housenumber": "73",
+      "addr:postcode": "48610-200",
+      "addr:suburb": "Santa Inês",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "name": "Canto da Coruja",
+      "note": "Sem dados para mover para dentro da quadra 0500-0164P-13-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2382701,-9.4349024]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191887714",
+      "addr:housenumber": "51",
+      "addr:postcode": "48610-200",
+      "addr:suburb": "Santa Inês",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0164P-13-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2376742,-9.4367848]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191887655",
+      "addr:housenumber": "150",
+      "addr:postcode": "48610-200",
+      "addr:suburb": "Santa Inês",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0164P-13-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.237375,-9.438437]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469329",
+      "addr:housenumber": "152",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Santa Inês",
+      "addr:suburb": "Santa Inês",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0164P-1-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.225495,-9.441216]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191887563",
+      "addr:housenumber": "29",
+      "addr:postcode": "48610-200",
+      "addr:street": "Estrada Para Vila Matias",
+      "addr:suburb": "Santa Inês",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0164P-13-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.231846,-9.4370112]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191887645",
+      "addr:housenumber": "103",
+      "addr:postcode": "48610-200",
+      "addr:suburb": "Santa Inês",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0164P-13-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.236789,-9.438443]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191887727",
+      "addr:housenumber": "80",
+      "addr:postcode": "48610-200",
+      "addr:suburb": "Santa Inês",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0164P-13-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2384868,-9.4342271]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191887787",
+      "addr:housenumber": "539",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Santa Inês",
+      "addr:suburb": "Santa Inês",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0164P-15-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.228703,-9.443497]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191887685",
+      "addr:housenumber": "59",
+      "addr:postcode": "48610-200",
+      "addr:suburb": "Santa Inês",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0164P-13-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.23737,-9.437703]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191887716",
+      "addr:housenumber": "46",
+      "addr:postcode": "48610-200",
+      "addr:suburb": "Santa Inês",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "name": "Rio Sol",
+      "note": "Sem dados para mover para dentro da quadra 0500-0164P-13-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2377083,-9.4366536]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191887628",
+      "addr:housenumber": "112",
+      "addr:postcode": "48610-200",
+      "addr:suburb": "Santa Inês",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0164P-13-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.238225,-9.434671]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191887611",
+      "addr:housenumber": "530",
+      "addr:postcode": "48610-200",
+      "addr:suburb": "Santa Inês",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0164P-13-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.23701,-9.440509]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191887727",
+      "addr:housenumber": "80",
+      "addr:postcode": "48610-200",
+      "addr:suburb": "Santa Inês",
+      "fixme": "Confirmar nome;Verificar coordenadas",
+      "landuse": "farmyard;orchard",
+      "name": "Chácara",
+      "note": "Sem dados para mover para dentro da quadra 0500-0164P-13-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.238488546192,-9.4342320000032]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469351",
+      "addr:housenumber": "25",
+      "addr:postcode": "48610-200",
+      "addr:suburb": "Santa Inês",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0164P-10-5"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.229275,-9.444708]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469392",
+      "addr:housenumber": "348",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Santa Inês",
+      "addr:suburb": "Santa Inês",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0164P-1-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.227888,-9.442954]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191887542",
+      "addr:housenumber": "24",
+      "addr:postcode": "48610-200",
+      "addr:street": "Estrada Para Vila Matias",
+      "addr:suburb": "Santa Inês",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0164P-13-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.230814,-9.4358419]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191887623",
+      "addr:housenumber": "66",
+      "addr:postcode": "48610-200",
+      "addr:suburb": "Santa Inês",
+      "building": "construction",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0164P-13-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.238319,-9.434392]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191887719",
+      "addr:housenumber": "42",
+      "addr:postcode": "48610-200",
+      "addr:suburb": "Santa Inês",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "name": "Sol Lazer e Eventos",
+      "note": "Sem dados para mover para dentro da quadra 0500-0164P-13-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2379175,-9.4360015]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191887783",
+      "addr:housenumber": "540",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Santa Inês",
+      "addr:suburb": "Santa Inês",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0164P-15-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.228664,-9.443436]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469353",
+      "addr:housenumber": "10",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Santa Inês",
+      "addr:suburb": "Santa Inês",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0164P-15-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.229756,-9.444196]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191887075",
+      "addr:housenumber": "342",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Santa Inês",
+      "addr:suburb": "Santa Inês",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0164P-1-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.22763,-9.442714]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469400",
+      "addr:housenumber": "322",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Santa Inês",
+      "addr:suburb": "Santa Inês",
+      "addr:unit": "Atrás da 322",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0164P-1-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.22679,-9.442085]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191887233",
+      "addr:housenumber": "10",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Pituaçu",
+      "addr:suburb": "Santa Inês",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0164P-7-5"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.229366,-9.444187]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191887790",
+      "addr:housenumber": "550",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Santa Inês",
+      "addr:suburb": "Santa Inês",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0164P-15-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.228746,-9.443572]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469328",
+      "addr:housenumber": "192",
+      "addr:postcode": "48610-200",
+      "addr:street": "Rua Santa Inês",
+      "addr:suburb": "Santa Inês",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0164P-1-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.225832,-9.441396]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469387",
+      "addr:housenumber": "8",
+      "addr:postcode": "48610-200",
+      "addr:suburb": "Santa Inês",
+      "building": "construction",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0164P-15-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.230885,-9.44425]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191887568;191887578;191887583;191887589",
+      "addr:housenumber": "31",
+      "addr:postcode": "48610-200",
+      "addr:street": "Estrada Para Vila Matias",
+      "addr:suburb": "Santa Inês",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0164P-13-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2327353,-9.4380246]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191887560",
+      "addr:housenumber": "110",
+      "addr:postcode": "48610-200",
+      "addr:street": "Estrada Para Vila Matias",
+      "addr:suburb": "Santa Inês",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0164P-13-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2315018,-9.4366197]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191887179",
+      "addr:housenumber": "740",
+      "addr:postcode": "48610-200",
+      "addr:suburb": "Santa Inês",
+      "building": "construction",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0164P-2-5"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.229565,-9.444752]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191887174",
+      "addr:housenumber": "694",
+      "addr:postcode": "48610-200",
+      "addr:suburb": "Santa Inês",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0164P-2-5"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.229228,-9.444603]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191887650;191887691",
+      "addr:housenumber": "54",
+      "addr:postcode": "48610-200",
+      "addr:suburb": "Santa Inês",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0164P-13-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2373285,-9.43887]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27469391",
+      "addr:housenumber": "830",
+      "addr:postcode": "48610-200",
+      "addr:suburb": "Santa Inês",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0164P-10-5"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.22977,-9.444853]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191887632",
+      "addr:housenumber": "100",
+      "addr:postcode": "48610-200",
+      "addr:suburb": "Santa Inês",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0164P-13-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.237516,-9.437074]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191887718",
+      "addr:housenumber": "10 B",
+      "addr:postcode": "48610-200",
+      "addr:suburb": "Santa Inês",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0164P-13-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2378471,-9.4362207]
+      }
+    }
+  ]
+}

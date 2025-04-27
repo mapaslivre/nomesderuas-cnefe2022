@@ -1,0 +1,324 @@
+{
+  "type": "FeatureCollection",
+  "generator": "CSV-CNEFE2GeoJSON.lua 1.5.7 - fidelis.assis@gmail.com",
+  "source": "IBGE CNEFE + Faces de Logradouros - 2022",
+  "date": "2025-02-02T09:05:32-0300",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411692",
+      "addr:housenumber": "12",
+      "addr:postcode": "48601-018",
+      "addr:street": "Caminho Ribeiro 1 e 2",
+      "addr:suburb": "Ribeiro",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-127"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.167045,-9.580757]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411683",
+      "addr:housenumber": "5",
+      "addr:postcode": "48601-018",
+      "addr:street": "Povoado Ribeiro",
+      "addr:suburb": "Ribeiro",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-126"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.18046,-9.583733]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112580412",
+      "addr:housenumber": "400156",
+      "addr:postcode": "48601-018",
+      "addr:street": "Povoado Ribeiro",
+      "addr:suburb": "Ribeiro",
+      "addr:unit": "Cisterna",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-126"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.167043,-9.58075]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112580402",
+      "addr:housenumber": "54",
+      "addr:postcode": "48601-018",
+      "addr:street": "Povoado Ribeiro",
+      "addr:suburb": "Ribeiro",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-126"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.17494,-9.581767]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192023283",
+      "addr:housenumber": "667",
+      "addr:postcode": "48610-488",
+      "addr:street": "Caminho Ribeiro 1 e 2",
+      "addr:suburb": "Ribeiro",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-128"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.219742,-9.578009]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411688",
+      "addr:housenumber": "25",
+      "addr:postcode": "48601-018",
+      "addr:street": "Povoado Ribeiro",
+      "addr:suburb": "Ribeiro",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "pentecostal",
+      "fixme": "Verificar coordenadas",
+      "name": "Assembleia de Deus",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-126",
+      "religion": "christian"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.167291,-9.5809]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112580382",
+      "addr:housenumber": "63",
+      "addr:postcode": "48601-018",
+      "addr:street": "Margens Rodovia BR-110",
+      "addr:suburb": "Ribeiro",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-150"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.221978,-9.669154]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192023279",
+      "addr:housenumber": "52",
+      "addr:postcode": "48610-488",
+      "addr:street": "Caminho Ribeiro 1 e 2",
+      "addr:suburb": "Ribeiro",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "name": "Fazenda",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-128",
+      "place": "farm"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.166444,-9.58244]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192023295",
+      "addr:housenumber": "4",
+      "addr:postcode": "48610-488",
+      "addr:street": "Povoado Ribeiro",
+      "addr:suburb": "Ribeiro",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-129"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.180544,-9.583762]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192023299",
+      "addr:housenumber": "88",
+      "addr:postcode": "48610-488",
+      "addr:street": "Povoado Ribeiro",
+      "addr:suburb": "Ribeiro",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-129"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.199813,-9.579357]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112580394",
+      "addr:housenumber": "85",
+      "addr:postcode": "48601-018",
+      "addr:street": "Povoado Ribeiro",
+      "addr:suburb": "Ribeiro",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-126"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.180121,-9.583731]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192023287",
+      "addr:housenumber": "63",
+      "addr:postcode": "48610-488",
+      "addr:street": "Povoado Ribeiro",
+      "addr:suburb": "Ribeiro",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-129"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.171771,-9.582364]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411685",
+      "addr:housenumber": "86",
+      "addr:postcode": "48601-016",
+      "addr:street": "Povoado Ribeiro",
+      "addr:suburb": "Ribeiro",
+      "amenity": "school",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "name": "Escola Municipal Agemiro Ribeiro dos Santos",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-130"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.180429,-9.583743]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112582989",
+      "addr:housenumber": "87",
+      "addr:postcode": "48601-018",
+      "addr:street": "Povoado Ribeiro",
+      "addr:suburb": "Ribeiro",
+      "building": "construction",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-126"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.185419,-9.586163]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411690",
+      "addr:housenumber": "88",
+      "addr:postcode": "48601-018",
+      "addr:street": "Caminho Ribeiro 1 e 2",
+      "addr:suburb": "Ribeiro",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-127"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.167041,-9.582746]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411691",
+      "addr:housenumber": "400155",
+      "addr:postcode": "48601-018",
+      "addr:street": "Caminho Ribeiro 1 e 2",
+      "addr:suburb": "Ribeiro",
+      "addr:unit": "Cisterns",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-127"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.167029,-9.58153]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192023291",
+      "addr:housenumber": "52",
+      "addr:postcode": "48610-488",
+      "addr:street": "Povoado Ribeiro",
+      "addr:suburb": "Ribeiro",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-129"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.176161,-9.583538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112580421",
+      "addr:housenumber": "9",
+      "addr:postcode": "48601-018",
+      "addr:street": "Estrada do Tara",
+      "addr:suburb": "Ribeiro",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-125"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.149074,-9.584227]
+      }
+    }
+  ]
+}

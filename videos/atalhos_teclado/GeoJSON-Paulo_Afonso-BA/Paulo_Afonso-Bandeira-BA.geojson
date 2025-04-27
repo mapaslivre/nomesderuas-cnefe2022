@@ -1,0 +1,278 @@
+{
+  "type": "FeatureCollection",
+  "generator": "CSV-CNEFE2GeoJSON.lua 1.5.7 - fidelis.assis@gmail.com",
+  "source": "IBGE CNEFE + Faces de Logradouros - 2022",
+  "date": "2025-02-02T09:05:08-0300",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191399808",
+      "addr:housenumber": "205",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Bandeira",
+      "addr:suburb": "Bandeira",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0123P-0-72"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.32473,-9.655619]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112585631",
+      "addr:housenumber": "191",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Baixa Funda",
+      "addr:suburb": "Bandeira",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0123P-0-76"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.320119,-9.65587]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415001",
+      "addr:housenumber": "172",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Bandeira",
+      "addr:suburb": "Bandeira",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0123P-0-72"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.32384,-9.657703]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112585644",
+      "addr:housenumber": "168",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Bandeira",
+      "addr:suburb": "Bandeira",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0123P-0-72"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.323915,-9.659622]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112585581",
+      "addr:housenumber": "171",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada do Sítio do Lúcio para Cana Brava",
+      "addr:suburb": "Bandeira",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0123P-0-75"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.323845,-9.65852]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191399788",
+      "addr:housenumber": "202",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Bandeira",
+      "addr:suburb": "Bandeira",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0123P-0-72"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.324011,-9.653683]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415003",
+      "addr:housenumber": "170",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Bandeira",
+      "addr:suburb": "Bandeira",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0123P-0-72"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.323759,-9.659174]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191399817",
+      "addr:housenumber": "204",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Bandeira",
+      "addr:suburb": "Bandeira",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0123P-0-72"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.325166,-9.655864]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415004",
+      "addr:housenumber": "169",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Bandeira",
+      "addr:suburb": "Bandeira",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0123P-0-72"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.323752,-9.659083]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112585563",
+      "addr:housenumber": "197",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Bandeira",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0123P-0-73"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.324205,-9.653226]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191399793",
+      "addr:housenumber": "203",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Bandeira",
+      "addr:suburb": "Bandeira",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0123P-0-72"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.323922,-9.654203]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414996",
+      "addr:housenumber": "4",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Bandeira",
+      "addr:suburb": "Bandeira",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0123P-0-72"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.324128,-9.653121]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112585336",
+      "addr:housenumber": "29",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Bandeira",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0123P-0-73"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.323999,-9.660622]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414998",
+      "addr:housenumber": "197",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Bandeira",
+      "addr:suburb": "Bandeira",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0123P-0-72"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.324181,-9.653218]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191399833",
+      "addr:housenumber": "208",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Bandeira",
+      "addr:suburb": "Bandeira",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0123P-0-72"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.323909,-9.65853]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414999",
+      "addr:housenumber": "201",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Bandeira",
+      "addr:suburb": "Bandeira",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0123P-0-72"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.324089,-9.653339]
+      }
+    }
+  ]
+}

@@ -1,0 +1,1059 @@
+{
+  "type": "FeatureCollection",
+  "source": "IBGE CNEFE + Faces de Logradouros - 2022",
+  "generator": "CSV-CNEFE2GeoJSON.lua 1.5.7 - fidelis.assis@gmail.com",
+  "date": "2025-02-02T09:05:27-0300",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27419595",
+      "addr:housenumber": "249",
+      "addr:postcode": "48611-254",
+      "addr:street": "Rua Fonte Nova",
+      "addr:suburb": "Marina França",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2040395,-9.4450009]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27419624",
+      "addr:housenumber": "569",
+      "addr:postcode": "48605-824",
+      "addr:street": "Rua Morumbi",
+      "addr:suburb": "Marina França",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2045658,-9.4448617]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "223728110;223728113",
+      "addr:housenumber": "22",
+      "addr:postcode": "48601-248",
+      "addr:suburb": "Marina França",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 50m 0500-0219P-8-8"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2058505,-9.4500705]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "223728063",
+      "addr:housenumber": "40",
+      "addr:postcode": "48611-258",
+      "addr:street": "Rua Maracanã",
+      "addr:suburb": "Marina França",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2037786,-9.4448883]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27419584",
+      "addr:housenumber": "218",
+      "addr:postcode": "48611-258",
+      "addr:street": "Rua Maracanã",
+      "addr:suburb": "Marina França",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2039061,-9.4446269]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27419605",
+      "addr:housenumber": "10",
+      "addr:postcode": "48603-528",
+      "addr:street": "Rua Beira Rio",
+      "addr:suburb": "Marina França",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.204559,-9.4443604]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27419634",
+      "addr:housenumber": "314",
+      "addr:postcode": "48611-258",
+      "addr:street": "Rua Maracanã",
+      "addr:suburb": "Marina França",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2034277,-9.4456391]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27419609",
+      "addr:housenumber": "190",
+      "addr:postcode": "48611-254",
+      "addr:street": "Rua Fonte Nova",
+      "addr:suburb": "Marina França",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2043051,-9.4448262]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27419604",
+      "addr:housenumber": "157",
+      "addr:postcode": "48611-254",
+      "addr:street": "Rua Fonte Nova",
+      "addr:suburb": "Marina França",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.204447,-9.4442915]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27419578",
+      "addr:housenumber": "156",
+      "addr:postcode": "48611-258",
+      "addr:street": "Rua Maracanã",
+      "addr:suburb": "Marina França",
+      "building": "yes",
+      "name": "Mercadinho Brasil",
+      "shop": "convenience"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2040968,-9.4441364]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "223728070",
+      "addr:housenumber": "281",
+      "addr:postcode": "48611-254",
+      "addr:street": "Rua Fonte Nova",
+      "addr:suburb": "Marina França",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2038797,-9.4453162]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27419594",
+      "addr:housenumber": "257",
+      "addr:postcode": "48611-254",
+      "addr:street": "Rua Fonte Nova",
+      "addr:suburb": "Marina França",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2039978,-9.4450832]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27419635",
+      "addr:housenumber": "50",
+      "addr:postcode": "48611-258",
+      "addr:street": "Rua Maracanã",
+      "addr:suburb": "Marina França",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2033953,-9.4457031]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27419599",
+      "addr:housenumber": "207",
+      "addr:postcode": "48611-254",
+      "addr:street": "Rua Fonte Nova",
+      "addr:suburb": "Marina França",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2041772,-9.4447291]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27419580",
+      "addr:housenumber": "176",
+      "addr:postcode": "48611-258",
+      "addr:street": "Rua Maracanã",
+      "addr:suburb": "Marina França",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2040493,-9.4443334]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27419622",
+      "addr:housenumber": "589",
+      "addr:postcode": "48605-824",
+      "addr:street": "Rua Morumbi",
+      "addr:suburb": "Marina França",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2045157,-9.4449515]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27419625",
+      "addr:housenumber": "559",
+      "addr:postcode": "48605-824",
+      "addr:street": "Rua Morumbi",
+      "addr:suburb": "Marina França",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2046272,-9.4447518]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "223728094",
+      "addr:housenumber": "589",
+      "addr:postcode": "48605-824",
+      "addr:street": "Rua Morumbi",
+      "addr:suburb": "Marina França",
+      "addr:unit": "Casa A",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2045149,-9.4449529]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27419578",
+      "addr:housenumber": "156",
+      "addr:postcode": "48611-258",
+      "addr:street": "Rua Maracanã",
+      "addr:suburb": "Marina França",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.204096755827,-9.4441365616562]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27419636",
+      "addr:housenumber": "321",
+      "addr:postcode": "48611-258",
+      "addr:street": "Rua Maracanã",
+      "addr:suburb": "Marina França",
+      "building": "yes",
+      "description": "CNEFE 2022 Borracharia",
+      "repair": "yes",
+      "shop": "tyres"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.203401,-9.445692]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27419615",
+      "addr:housenumber": "240",
+      "addr:postcode": "48611-254",
+      "addr:street": "Rua Fonte Nova",
+      "addr:suburb": "Marina França",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2042061,-9.4450237]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27419598",
+      "addr:housenumber": "217",
+      "addr:postcode": "48611-254",
+      "addr:street": "Rua Fonte Nova",
+      "addr:suburb": "Marina França",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2041421,-9.4447984]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27419582",
+      "addr:housenumber": "198",
+      "addr:postcode": "48611-258",
+      "addr:street": "Rua Maracanã",
+      "addr:suburb": "Marina França",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2039458,-9.4445455]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "223728103",
+      "addr:housenumber": "300",
+      "addr:postcode": "48611-258",
+      "addr:street": "Rua Maracanã",
+      "addr:suburb": "Marina França",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2034652,-9.4455653]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27419642",
+      "addr:housenumber": "331",
+      "addr:postcode": "48611-258",
+      "addr:street": "Rua Maracanã",
+      "addr:suburb": "Marina França",
+      "addr:unit": "Casa 19",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2032483,-9.4459933]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "223728064",
+      "addr:housenumber": "264",
+      "addr:postcode": "48611-258",
+      "addr:street": "Rua Maracanã",
+      "addr:suburb": "Marina França",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2037202,-9.4450079]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27419602",
+      "addr:housenumber": "177",
+      "addr:postcode": "48611-254",
+      "addr:street": "Rua Fonte Nova",
+      "addr:suburb": "Marina França",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2043262,-9.444435]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27419579",
+      "addr:housenumber": "166",
+      "addr:postcode": "48611-258",
+      "addr:street": "Rua Maracanã",
+      "addr:suburb": "Marina França",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2040924,-9.4442452]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27419614",
+      "addr:housenumber": "228",
+      "addr:postcode": "48611-254",
+      "addr:street": "Rua Fonte Nova",
+      "addr:suburb": "Marina França",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2042614,-9.4449134]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27419590",
+      "addr:housenumber": "280",
+      "addr:postcode": "48611-258",
+      "addr:street": "Rua Maracanã",
+      "addr:suburb": "Marina França",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2036559,-9.4451397]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "223728093",
+      "addr:housenumber": "651",
+      "addr:postcode": "48605-824",
+      "addr:street": "Rua Morumbi",
+      "addr:suburb": "Marina França",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2043247,-9.4452935]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27419586",
+      "addr:housenumber": "238",
+      "addr:postcode": "48611-258",
+      "addr:street": "Rua Maracanã",
+      "addr:suburb": "Marina França",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2038213,-9.4448007]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27419616",
+      "addr:housenumber": "250",
+      "addr:postcode": "48611-254",
+      "addr:street": "Rua Fonte Nova",
+      "addr:suburb": "Marina França",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.204171,-9.4450937]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "223728065",
+      "addr:housenumber": "292",
+      "addr:postcode": "48611-258",
+      "addr:street": "Rua Maracanã",
+      "addr:suburb": "Marina França",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "pentecostal",
+      "name": "Congregação Cristã do Brasil",
+      "religion": "christian"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2035913,-9.4452601]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27419623",
+      "addr:housenumber": "581",
+      "addr:postcode": "48605-824",
+      "addr:street": "Rua Morumbi",
+      "addr:suburb": "Marina França",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2045375,-9.4449125]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27419621",
+      "addr:housenumber": "601",
+      "addr:postcode": "48605-824",
+      "addr:street": "Rua Morumbi",
+      "addr:suburb": "Marina França",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2044537,-9.4450625]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27419608",
+      "addr:housenumber": "178",
+      "addr:postcode": "48611-254",
+      "addr:street": "Rua Fonte Nova",
+      "addr:suburb": "Marina França",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2044424,-9.4445524]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27419620",
+      "addr:housenumber": "611",
+      "addr:postcode": "48605-824",
+      "addr:street": "Rua Morumbi",
+      "addr:suburb": "Marina França",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2044142,-9.4451332]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27419612",
+      "addr:housenumber": "208",
+      "addr:postcode": "48611-254",
+      "addr:street": "Rua Fonte Nova",
+      "addr:suburb": "Marina França",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2042125,-9.4450109]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27419588",
+      "addr:housenumber": "258",
+      "addr:postcode": "48611-258",
+      "addr:street": "Rua Maracanã",
+      "addr:suburb": "Marina França",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2037398,-9.4449678]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27419592",
+      "addr:housenumber": "279",
+      "addr:postcode": "48611-254",
+      "addr:street": "Rua Fonte Nova",
+      "addr:suburb": "Marina França",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2038862,-9.4453034]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27419596",
+      "addr:housenumber": "239",
+      "addr:postcode": "48611-254",
+      "addr:street": "Rua Fonte Nova",
+      "addr:suburb": "Marina França",
+      "building": "yes",
+      "name": "Quitanda e Mercearia",
+      "shop": "convenience;greengrocer"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2040649,-9.4449508]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27419581",
+      "addr:housenumber": "188",
+      "addr:postcode": "48611-258",
+      "addr:street": "Rua Maracanã",
+      "addr:suburb": "Marina França",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2040153,-9.4444032]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27419610",
+      "addr:housenumber": "9",
+      "addr:postcode": "48611-254",
+      "addr:street": "Rua Fonte Nova",
+      "addr:suburb": "Marina França",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2042921,-9.4448522]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27419607",
+      "addr:housenumber": "166",
+      "addr:postcode": "48611-254",
+      "addr:street": "Rua Fonte Nova",
+      "addr:suburb": "Marina França",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2044885,-9.4444604]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27419591",
+      "addr:housenumber": "288",
+      "addr:postcode": "48611-258",
+      "addr:street": "Rua Maracanã",
+      "addr:suburb": "Marina França",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.203627,-9.4451989]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27419633",
+      "addr:housenumber": "290",
+      "addr:postcode": "48611-258",
+      "addr:street": "Rua Maracanã",
+      "addr:suburb": "Marina França",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2034577,-9.4455801]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27419643",
+      "addr:housenumber": "323",
+      "addr:postcode": "48611-258",
+      "addr:street": "Rua Maracanã",
+      "addr:suburb": "Marina França",
+      "addr:unit": "Casa",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2033714,-9.4457504]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27419619",
+      "addr:housenumber": "621",
+      "addr:postcode": "48605-824",
+      "addr:street": "Rua Morumbi",
+      "addr:suburb": "Marina França",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2043558,-9.4452378]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27419639",
+      "addr:housenumber": "324",
+      "addr:postcode": "48611-258",
+      "addr:street": "Rua Maracanã",
+      "addr:suburb": "Marina França",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2032586,-9.445973]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27419589",
+      "addr:housenumber": "270",
+      "addr:postcode": "48611-258",
+      "addr:street": "Rua Maracanã",
+      "addr:suburb": "Marina França",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2036856,-9.4450789]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27419611",
+      "addr:housenumber": "198",
+      "addr:postcode": "48611-254",
+      "addr:street": "Rua Fonte Nova",
+      "addr:suburb": "Marina França",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2043927,-9.4446515]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27419601",
+      "addr:housenumber": "189",
+      "addr:postcode": "48611-254",
+      "addr:street": "Rua Fonte Nova",
+      "addr:suburb": "Marina França",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2042348,-9.4446154]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27419617",
+      "addr:housenumber": "260",
+      "addr:postcode": "48611-254",
+      "addr:street": "Rua Fonte Nova",
+      "addr:suburb": "Marina França",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.204133,-9.4451697]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27419597",
+      "addr:housenumber": "227",
+      "addr:postcode": "48611-254",
+      "addr:street": "Rua Fonte Nova",
+      "addr:suburb": "Marina França",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.204097,-9.4448875]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "223728100",
+      "addr:housenumber": "312",
+      "addr:postcode": "48611-258",
+      "addr:street": "Rua Maracanã",
+      "addr:suburb": "Marina França",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2034096,-9.445675]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27419587",
+      "addr:housenumber": "248",
+      "addr:postcode": "48611-258",
+      "addr:street": "Rua Maracanã",
+      "addr:suburb": "Marina França",
+      "addr:unit": "Casa A",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.203745,-9.4449572]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27419585",
+      "addr:housenumber": "230",
+      "addr:postcode": "48611-258",
+      "addr:street": "Rua Maracanã",
+      "addr:suburb": "Marina França",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2038515,-9.4447389]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27419603",
+      "addr:housenumber": "165",
+      "addr:postcode": "48611-254",
+      "addr:street": "Rua Fonte Nova",
+      "addr:suburb": "Marina França",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2043534,-9.4443813]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27419583",
+      "addr:housenumber": "206",
+      "addr:postcode": "48611-258",
+      "addr:street": "Rua Maracanã",
+      "addr:suburb": "Marina França",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2039089,-9.4446211]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27419627",
+      "addr:housenumber": "551",
+      "addr:postcode": "48605-824",
+      "addr:street": "Rua Morumbi",
+      "addr:suburb": "Marina França",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2046966,-9.4446275]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27419606",
+      "addr:housenumber": "158",
+      "addr:postcode": "48611-254",
+      "addr:street": "Rua Fonte Nova",
+      "addr:suburb": "Marina França",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2045113,-9.4443615]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27419626",
+      "addr:housenumber": "555",
+      "addr:postcode": "48605-824",
+      "addr:street": "Rua Morumbi",
+      "addr:suburb": "Marina França",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2046755,-9.4446652]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27419600",
+      "addr:housenumber": "197",
+      "addr:postcode": "48611-254",
+      "addr:street": "Rua Fonte Nova",
+      "addr:suburb": "Marina França",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.204195,-9.444694]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "223728115",
+      "addr:housenumber": "16",
+      "addr:postcode": "48601-248",
+      "addr:suburb": "Marina França",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 58m 0500-0219P-8-8"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.205537,-9.450085]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27419640",
+      "addr:housenumber": "333",
+      "addr:postcode": "48611-258",
+      "addr:street": "Rua Maracanã",
+      "addr:suburb": "Marina França",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2032369,-9.4460159]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "223728105",
+      "addr:housenumber": "28",
+      "addr:postcode": "48601-248",
+      "addr:suburb": "Marina França",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2065672,-9.4502444]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27419596",
+      "addr:housenumber": "239",
+      "addr:postcode": "48611-254",
+      "addr:street": "Rua Fonte Nova",
+      "addr:suburb": "Marina França",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.204057198591,-9.4449523613881]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27419593",
+      "addr:housenumber": "267",
+      "addr:postcode": "48611-254",
+      "addr:street": "Rua Fonte Nova",
+      "addr:suburb": "Marina França",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2039381,-9.445201]
+      }
+    }
+  ]
+}

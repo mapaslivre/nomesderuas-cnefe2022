@@ -1,0 +1,7091 @@
+{
+  "type": "FeatureCollection",
+  "generator": "CSV-CNEFE2GeoJSON.lua 1.5.7 - fidelis.assis@gmail.com",
+  "source": "IBGE CNEFE + Faces de Logradouros - 2022",
+  "date": "2025-02-02T09:05:23-0300",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27366981;27366986",
+      "addr:housenumber": "10",
+      "addr:postcode": "48603-816",
+      "addr:street": "Rua Cachoeira",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2527095,-9.3956433]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27366938",
+      "addr:housenumber": "10",
+      "addr:postcode": "48601-036",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2537678,-9.3937566]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191396276",
+      "addr:housenumber": "33",
+      "addr:postcode": "48601-036",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2543679,-9.3937136]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367262",
+      "addr:housenumber": "64",
+      "addr:postcode": "48603-808",
+      "addr:street": "Rua Metódio Nunes Magalhães",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "36",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2514336,-9.3961269]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191396930",
+      "addr:housenumber": "350",
+      "addr:postcode": "48603-820",
+      "addr:street": "Travessa Adauto Floriano dos Santos",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "5",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2535171,-9.3937864]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27366968",
+      "addr:housenumber": "1",
+      "addr:postcode": "48603-808",
+      "addr:street": "Rua Adauto Floriano dos Santos",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "construction",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0078P-1-56"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.25443,-9.394146]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367144",
+      "addr:housenumber": "365",
+      "addr:postcode": "48603-820",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "18",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2532646,-9.3937609]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27366922",
+      "addr:housenumber": "19",
+      "addr:postcode": "48619-899",
+      "addr:street": "Rua do Britador",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "19",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2543757,-9.3932949]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191396520",
+      "addr:housenumber": "16",
+      "addr:postcode": "48603-816",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "16 1",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2550722,-9.3920681]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27366970",
+      "addr:housenumber": "19 A",
+      "addr:postcode": "48603-820",
+      "addr:street": "Rua Florisvaldo Bispo dos Santos",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2527692,-9.3941179]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367260",
+      "addr:housenumber": "59",
+      "addr:postcode": "48603-808",
+      "addr:street": "Rua Metódio Nunes Magalhães",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes",
+      "name": "A Serva He"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2509094,-9.3952952]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27366993;27366996",
+      "addr:housenumber": "396",
+      "addr:postcode": "48603-816",
+      "addr:street": "Rua Botafogo",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.253202,-9.395598]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367116",
+      "addr:housenumber": "7",
+      "addr:postcode": "48603-820",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2532663,-9.3939262]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191396865",
+      "addr:housenumber": "21",
+      "addr:postcode": "48603-820",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "14",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2538304,-9.3938926]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367223",
+      "addr:housenumber": "1",
+      "addr:postcode": "48603-814",
+      "addr:street": "Rua Ministro Dílson Funaro",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2522511,-9.3959717]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27366994",
+      "addr:housenumber": "396",
+      "addr:postcode": "48603-816",
+      "addr:street": "Rua Botafogo",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "Fundos",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 49m 0500-0078P-1-27"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.253055,-9.39524]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367172",
+      "addr:housenumber": "361",
+      "addr:postcode": "48603-814",
+      "addr:street": "Rua Ministro Dílson Funaro",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2515918,-9.3950041]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367282;191397344",
+      "addr:housenumber": "553",
+      "addr:postcode": "48603-812",
+      "addr:street": "Rua da Amizade",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2510459,-9.3952401]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191397362",
+      "addr:housenumber": "20",
+      "addr:postcode": "48603-818",
+      "addr:street": "Rua Botafogo",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2517805,-9.3964507]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367238",
+      "addr:housenumber": "31",
+      "addr:postcode": "48603-814",
+      "addr:street": "Rua Ministro Dílson Funaro",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "1 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2515515,-9.3952118]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191396415",
+      "addr:housenumber": "64",
+      "addr:postcode": "48603-816",
+      "addr:street": "Rua Botafogo",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "Casa 2",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2529224,-9.3957065]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27366953",
+      "addr:housenumber": "44",
+      "addr:postcode": "48603-820",
+      "addr:street": "Travessa Adauto Floriano dos Santos",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "1 1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2546817,-9.3942373]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191396514",
+      "addr:housenumber": "12",
+      "addr:postcode": "48603-816",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "15 1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2550652,-9.3920329]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191397282",
+      "addr:housenumber": "2",
+      "addr:postcode": "48603-808",
+      "addr:street": "Rua Metódio Nunes Magalhães",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2509753,-9.3953998]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191397294",
+      "addr:housenumber": "32",
+      "addr:postcode": "48603-808",
+      "addr:street": "Rua Metódio Nunes Magalhães",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2511947,-9.3957479]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367080",
+      "addr:housenumber": "35",
+      "addr:postcode": "48603-810",
+      "addr:street": "Rua Metódio Nunes Magalhães",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2506396,-9.3951591]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27366902",
+      "addr:housenumber": "43",
+      "addr:postcode": "48601-014",
+      "addr:street": "Rua Manoel Severino Vila Nova",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "4",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.255199,-9.3919433]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367025",
+      "addr:housenumber": "420",
+      "addr:postcode": "48603-818",
+      "addr:street": "Travessa Botafogo",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2538919,-9.3953464]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367268",
+      "addr:housenumber": "42",
+      "addr:postcode": "48603-818",
+      "addr:street": "Rua Botafogo",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "Fundos Fundos",
+      "amenity": "fast_food",
+      "building": "yes",
+      "description": "CNEFE 2022 Lanchonete"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2518283,-9.3962101]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367253",
+      "addr:housenumber": "32",
+      "addr:postcode": "48603-808",
+      "addr:street": "Rua Metódio Nunes Magalhães",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "32 4",
+      "building": "warehouse",
+      "description": "CNEFE 2022 Depósito"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2512621,-9.3958547]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191397288",
+      "addr:housenumber": "17",
+      "addr:postcode": "48603-808",
+      "addr:street": "Rua Metódio Nunes Magalhães",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2511112,-9.3956154]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367210",
+      "addr:housenumber": "30",
+      "addr:postcode": "48603-812",
+      "addr:street": "Rua da Amizade",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2514276,-9.3953949]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367065",
+      "addr:housenumber": "95",
+      "addr:postcode": "48603-816",
+      "addr:street": "Rua Botafogo",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "6",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2528963,-9.3958821]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367248",
+      "addr:housenumber": "30",
+      "addr:postcode": "48603-808",
+      "addr:street": "Rua Metódio Nunes Magalhães",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "23",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2508224,-9.3951572]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27366942",
+      "addr:housenumber": "26",
+      "addr:postcode": "48601-036",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "26",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2539052,-9.3937414]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191396953",
+      "addr:housenumber": "22",
+      "addr:postcode": "48603-820",
+      "addr:street": "Travessa Adauto Floriano dos Santos",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.253414,-9.3936553]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27366918",
+      "addr:housenumber": "17",
+      "addr:postcode": "48619-899",
+      "addr:street": "Rua do Britador",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "warehouse",
+      "description": "CNEFE 2022 Depósito"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2545005,-9.392517]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27366900",
+      "addr:housenumber": "97",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "5",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2552602,-9.3917877]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191397059",
+      "addr:housenumber": "17",
+      "addr:postcode": "48603-814",
+      "addr:street": "Rua Ministro Dílson Funaro",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes",
+      "name": "Maria Sapeka Moda Infantil"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2521582,-9.3956011]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27366910",
+      "addr:housenumber": "8",
+      "addr:postcode": "48601-014",
+      "addr:street": "Rua Manoel Severino Vila Nova",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2550209,-9.3916991]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367059",
+      "addr:housenumber": "70",
+      "addr:postcode": "48603-818",
+      "addr:street": "Rua Botafogo",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2521613,-9.3962848]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367115",
+      "addr:housenumber": "61",
+      "addr:postcode": "48603-820",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "6",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2533042,-9.3938945]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27366984",
+      "addr:housenumber": "6 Frente",
+      "addr:postcode": "48603-816",
+      "addr:street": "Rua Cachoeira",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2526138,-9.3955231]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367229",
+      "addr:housenumber": "18",
+      "addr:postcode": "48603-814",
+      "addr:street": "Rua Ministro Dílson Funaro",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "7",
+      "building": "yes",
+      "name": "Designer Sobrancelhas"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2518976,-9.3955725]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191396885",
+      "addr:housenumber": "9",
+      "addr:postcode": "48603-820",
+      "addr:street": "Travessa Adauto Floriano dos Santos",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.253968,-9.394105]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191396324",
+      "addr:housenumber": "11",
+      "addr:postcode": "48603-820",
+      "addr:street": "Travessa Adauto Floriano dos Santos",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2546548,-9.3940837]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367308",
+      "addr:housenumber": "20",
+      "addr:postcode": "48601-016",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "17",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2529461,-9.3959994]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191397314",
+      "addr:housenumber": "3 A",
+      "addr:postcode": "48603-818",
+      "addr:street": "Rua Botafogo",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2519197,-9.3962235]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27366990",
+      "addr:housenumber": "126",
+      "addr:postcode": "48603-816",
+      "addr:street": "Rua Botafogo",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2529381,-9.3957004]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191396652",
+      "addr:housenumber": "5",
+      "addr:postcode": "48601-016",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2543978,-9.394617]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367217",
+      "addr:housenumber": "150",
+      "addr:postcode": "48603-812",
+      "addr:street": "Rua da Amizade",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "40",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2516242,-9.3955899]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367306",
+      "addr:housenumber": "100",
+      "addr:postcode": "48603-818",
+      "addr:street": "Rua Botafogo",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2523952,-9.3961259]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367236",
+      "addr:housenumber": "41",
+      "addr:postcode": "48603-814",
+      "addr:street": "Rua Ministro Dílson Funaro",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "15",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2516383,-9.395302]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27366921",
+      "addr:housenumber": "1",
+      "addr:postcode": "48619-899",
+      "addr:street": "Rua do Britador",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2544536,-9.3931858]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367240;191397218",
+      "addr:housenumber": "61",
+      "addr:postcode": "48603-814",
+      "addr:street": "Rua Ministro Dílson Funaro",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2518058,-9.3954762]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367060",
+      "addr:housenumber": "60",
+      "addr:postcode": "48603-818",
+      "addr:street": "Rua Botafogo",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "4",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2520627,-9.3963355]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191396525",
+      "addr:housenumber": "6",
+      "addr:postcode": "48603-810",
+      "addr:street": "Rua Metódio Nunes Magalhães",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2547693,-9.3931529]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367158",
+      "addr:housenumber": "60 23 2 Frente",
+      "addr:postcode": "48603-814",
+      "addr:street": "Rua Ministro Dílson Funaro",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes",
+      "description": "CNEFE 2022 Mercadinho",
+      "shop": "convenience"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2523179,-9.3957806]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367195",
+      "addr:housenumber": "46",
+      "addr:postcode": "48603-816",
+      "addr:street": "Rua Cachoeira",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2518417,-9.3949689]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191397148",
+      "addr:housenumber": "557",
+      "addr:postcode": "48603-812",
+      "addr:street": "Rua da Amizade",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2515529,-9.3955192]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367186",
+      "addr:housenumber": "98",
+      "addr:postcode": "48603-816",
+      "addr:street": "Rua Cachoeira",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "warehouse",
+      "description": "CNEFE 2022 Depósito"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2518603,-9.394987]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27366926",
+      "addr:housenumber": "98",
+      "addr:postcode": "48619-899",
+      "addr:street": "Rua do Britador",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "11",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2539173,-9.393311]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27366929",
+      "addr:housenumber": "190",
+      "addr:postcode": "48619-899",
+      "addr:street": "Rua do Britador",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "14",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2537518,-9.3933497]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367143;27367147",
+      "addr:housenumber": "364",
+      "addr:postcode": "48603-820",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "16",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.253175,-9.3938236]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191396961",
+      "addr:housenumber": "360",
+      "addr:postcode": "48603-820",
+      "addr:street": "Travessa Adauto Floriano dos Santos",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "23",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2533903,-9.3936224]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191397228",
+      "addr:housenumber": "67",
+      "addr:postcode": "48603-814",
+      "addr:street": "Rua Ministro Dílson Funaro",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2517703,-9.3954393]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367134",
+      "addr:housenumber": "9",
+      "addr:postcode": "48603-820",
+      "addr:street": "Rua Adauto Floriano dos Santos",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "9 2",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2528702,-9.3938288]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367156",
+      "addr:housenumber": "29",
+      "addr:postcode": "48603-814",
+      "addr:street": "Rua Ministro Dílson Funaro",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2518565,-9.395284]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367295",
+      "addr:housenumber": "26",
+      "addr:postcode": "48603-820",
+      "addr:street": "Travessa Botafogo",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "44",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2546778,-9.3932551]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191397305",
+      "addr:housenumber": "10 A",
+      "addr:postcode": "48603-808",
+      "addr:street": "Rua Metódio Nunes Magalhães",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2511722,-9.3957122]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367206",
+      "addr:housenumber": "63",
+      "addr:postcode": "48603-812",
+      "addr:street": "Rua da Amizade",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2512236,-9.3951926]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367150",
+      "addr:housenumber": "17",
+      "addr:postcode": "48603-814",
+      "addr:street": "Rua Ministro Dílson Funaro",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes",
+      "name": "Maria Sapeka"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2521452,-9.3955892]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191396638",
+      "addr:housenumber": "14",
+      "addr:postcode": "48601-018",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2547626,-9.393959]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367040",
+      "addr:housenumber": "59",
+      "addr:postcode": "48603-808",
+      "addr:street": "Rua Adauto Floriano dos Santos",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "17",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0078P-1-56"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.253249,-9.394235]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367090",
+      "addr:housenumber": "130",
+      "addr:postcode": "48603-816",
+      "addr:street": "Rua Botafogo",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "12",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2526107,-9.396033]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191396245",
+      "addr:housenumber": "1",
+      "addr:postcode": "48619-899",
+      "addr:street": "Rua do Britador",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0078P-1-15"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.254379,-9.393211]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367162",
+      "addr:housenumber": "13",
+      "addr:postcode": "48603-814",
+      "addr:street": "Rua Ministro Dílson Funaro",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.252055,-9.395494]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367091",
+      "addr:housenumber": "13",
+      "addr:postcode": "48603-810",
+      "addr:street": "Rua Metódio Nunes Magalhães",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2511968,-9.396079]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191396372",
+      "addr:housenumber": "66",
+      "addr:postcode": "48603-820",
+      "addr:street": "Rua Florisvaldo Bispo dos Santos",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "50",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2524107,-9.3951906]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27366928",
+      "addr:housenumber": "13",
+      "addr:postcode": "48619-899",
+      "addr:street": "Rua do Britador",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2537542,-9.3933491]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367192",
+      "addr:housenumber": "47",
+      "addr:postcode": "48603-816",
+      "addr:street": "Rua Cachoeira",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.251807,-9.394935]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367066",
+      "addr:housenumber": "150",
+      "addr:postcode": "48603-816",
+      "addr:street": "Rua Botafogo",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "8",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.252842,-9.3959106]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27366969",
+      "addr:housenumber": "26",
+      "addr:postcode": "48603-820",
+      "addr:street": "Rua Florisvaldo Bispo dos Santos",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2527554,-9.39416]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27366989",
+      "addr:housenumber": "54",
+      "addr:postcode": "48603-816",
+      "addr:street": "Rua Cachoeira",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "garage",
+      "description": "CNEFE 2022 Garagem"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2525746,-9.395472]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367043",
+      "addr:housenumber": "15",
+      "addr:postcode": "48601-016",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2526492,-9.3961215]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27366979",
+      "addr:housenumber": "41",
+      "addr:postcode": "48603-820",
+      "addr:street": "Rua Florisvaldo Bispo dos Santos",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.252608,-9.3948623]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27366974",
+      "addr:housenumber": "29",
+      "addr:postcode": "48603-820",
+      "addr:street": "Rua Florisvaldo Bispo dos Santos",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2526758,-9.3944252]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191396364",
+      "addr:housenumber": "68",
+      "addr:postcode": "48603-820",
+      "addr:street": "Rua Florisvaldo Bispo dos Santos",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2524916,-9.3951093]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191396551",
+      "addr:housenumber": "13",
+      "addr:postcode": "48603-810",
+      "addr:street": "Rua Metódio Nunes Magalhães",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2548651,-9.3935423]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27366978",
+      "addr:housenumber": "1",
+      "addr:postcode": "48603-820",
+      "addr:street": "Rua Florisvaldo Bispo dos Santos",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2526459,-9.3946501]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27366998",
+      "addr:housenumber": "392",
+      "addr:postcode": "48603-816",
+      "addr:street": "Rua Botafogo",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2532601,-9.3955754]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27366973;191396360",
+      "addr:housenumber": "20",
+      "addr:postcode": "48603-820",
+      "addr:street": "Rua Florisvaldo Bispo dos Santos",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2526383,-9.3946922]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367070",
+      "addr:housenumber": "110",
+      "addr:postcode": "48603-810",
+      "addr:street": "Rua Metódio Nunes Magalhães",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "10",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2512912,-9.3962255]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367140",
+      "addr:housenumber": "6",
+      "addr:postcode": "48603-820",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "14",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2530287,-9.3940366]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367227;191397248",
+      "addr:housenumber": "18",
+      "addr:postcode": "48603-814",
+      "addr:street": "Rua Ministro Dílson Funaro",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.251744,-9.3954119]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367159",
+      "addr:housenumber": "96",
+      "addr:postcode": "48603-814",
+      "addr:street": "Rua Ministro Dílson Funaro",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2521548,-9.395598]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367258",
+      "addr:housenumber": "96",
+      "addr:postcode": "48603-808",
+      "addr:street": "Rua Metódio Nunes Magalhães",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "32",
+      "building": "yes",
+      "name": "Cleilson Motos",
+      "shop": "motorcycle"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2512136,-9.3957777]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367178",
+      "addr:housenumber": "31",
+      "addr:postcode": "48603-816",
+      "addr:street": "Rua Cachoeira",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2524123,-9.3955093]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367123",
+      "addr:housenumber": "360",
+      "addr:postcode": "48603-820",
+      "addr:street": "Travessa Adauto Floriano dos Santos",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "21",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2534724,-9.3937026]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367087",
+      "addr:housenumber": "8",
+      "addr:postcode": "48603-810",
+      "addr:street": "Rua Metódio Nunes Magalhães",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2512067,-9.3960944]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191396576;191396585",
+      "addr:housenumber": "20",
+      "addr:postcode": "48603-810",
+      "addr:street": "Rua Metódio Nunes Magalhães",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2549201,-9.3940957]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367131",
+      "addr:housenumber": "5",
+      "addr:postcode": "48603-820",
+      "addr:street": "Rua Adauto Floriano dos Santos",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2529578,-9.3935944]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191396322",
+      "addr:housenumber": "10",
+      "addr:postcode": "48603-820",
+      "addr:street": "Travessa Adauto Floriano dos Santos",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2544349,-9.394087]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367089;191396433",
+      "addr:housenumber": "23",
+      "addr:postcode": "48603-810",
+      "addr:street": "Rua Metódio Nunes Magalhães",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2509564,-9.3957055]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367095",
+      "addr:housenumber": "61",
+      "addr:postcode": "48603-810",
+      "addr:street": "Rua Metódio Nunes Magalhães",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "61B",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2511242,-9.3959662]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191396356",
+      "addr:housenumber": "44",
+      "addr:postcode": "48603-820",
+      "addr:street": "Rua Florisvaldo Bispo dos Santos",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2524835,-9.395118]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367049",
+      "addr:housenumber": "23",
+      "addr:postcode": "48603-808",
+      "addr:street": "Rua Adauto Floriano dos Santos",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "construction",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0078P-1-56"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.252937,-9.394193]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367145",
+      "addr:housenumber": "369",
+      "addr:postcode": "48603-820",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "19",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2532502,-9.393815]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27366988",
+      "addr:housenumber": "4",
+      "addr:postcode": "48603-816",
+      "addr:street": "Rua Cachoeira",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.252682,-9.3956113]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367149",
+      "addr:housenumber": "99",
+      "addr:postcode": "48603-808",
+      "addr:street": "Rua Adauto Floriano dos Santos",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2515817,-9.3947847]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367168",
+      "addr:housenumber": "22",
+      "addr:postcode": "48603-814",
+      "addr:street": "Rua Ministro Dílson Funaro",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2522605,-9.3957071]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367303",
+      "addr:housenumber": "80",
+      "addr:postcode": "48603-818",
+      "addr:street": "Rua Botafogo",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "2",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.252214,-9.3962577]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27366967",
+      "addr:housenumber": "191",
+      "addr:postcode": "48603-808",
+      "addr:street": "Rua Adauto Floriano dos Santos",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "2",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0078P-1-56"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.254292,-9.394176]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367294",
+      "addr:housenumber": "26",
+      "addr:postcode": "48603-820",
+      "addr:street": "Travessa Botafogo",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "43",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2546846,-9.3933039]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191396485",
+      "addr:housenumber": "34",
+      "addr:postcode": "48603-810",
+      "addr:street": "Rua Metódio Nunes Magalhães",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 50m 0500-0078P-1-39"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.251144,-9.395039]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367212",
+      "addr:housenumber": "39",
+      "addr:postcode": "48603-812",
+      "addr:street": "Rua da Amizade",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2515741,-9.3955403]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27366925",
+      "addr:housenumber": "102",
+      "addr:postcode": "48619-899",
+      "addr:street": "Rua do Britador",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "10",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2540751,-9.3933164]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191396647",
+      "addr:housenumber": "4",
+      "addr:postcode": "48601-016",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2544609,-9.3945953]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27366982",
+      "addr:housenumber": "34",
+      "addr:postcode": "48603-816",
+      "addr:street": "Rua Cachoeira",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2524784,-9.3953694]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191396286",
+      "addr:housenumber": "37",
+      "addr:postcode": "48601-036",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2546124,-9.3937061]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367022",
+      "addr:housenumber": "400",
+      "addr:postcode": "48603-818",
+      "addr:street": "Travessa Botafogo",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2536507,-9.3954704]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191396369",
+      "addr:housenumber": "51",
+      "addr:postcode": "48603-820",
+      "addr:street": "Rua Florisvaldo Bispo dos Santos",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2523529,-9.3952227]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27366972",
+      "addr:housenumber": "3",
+      "addr:postcode": "48603-808",
+      "addr:street": "Rua Adauto Floriano dos Santos",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "2",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0078P-1-56"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.254216,-9.394136]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191396351",
+      "addr:housenumber": "43",
+      "addr:postcode": "48603-820",
+      "addr:street": "Rua Florisvaldo Bispo dos Santos",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2524664,-9.395104]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191396457",
+      "addr:housenumber": "100",
+      "addr:postcode": "48603-810",
+      "addr:street": "Rua Metódio Nunes Magalhães",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.251221,-9.3961166]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367071",
+      "addr:housenumber": "11",
+      "addr:postcode": "48603-810",
+      "addr:street": "Rua Metódio Nunes Magalhães",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2512887,-9.3962216]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367062",
+      "addr:housenumber": "130",
+      "addr:postcode": "48603-810",
+      "addr:street": "Rua Metódio Nunes Magalhães",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "6",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2514061,-9.396404]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367193",
+      "addr:housenumber": "69",
+      "addr:postcode": "48603-816",
+      "addr:street": "Rua Cachoeira",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2516406,-9.3947465]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191396182",
+      "addr:housenumber": "6",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2552829,-9.3918209]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191396699",
+      "addr:housenumber": "9",
+      "addr:postcode": "48601-036",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0078P-1-53"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.254111,-9.394917]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191396186",
+      "addr:housenumber": "15",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2552616,-9.3917898]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367205",
+      "addr:housenumber": "18",
+      "addr:postcode": "48603-812",
+      "addr:street": "Rua da Amizade",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "27",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2510193,-9.3949963]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27366936",
+      "addr:housenumber": "25",
+      "addr:postcode": "48601-016",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "19",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2535701,-9.3936675]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27366961",
+      "addr:housenumber": "340",
+      "addr:postcode": "48603-808",
+      "addr:street": "Rua Adauto Floriano dos Santos",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "7",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0078P-1-56"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.253859,-9.394187]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191396896",
+      "addr:housenumber": "36",
+      "addr:postcode": "48603-820",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "11 1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2540286,-9.3938965]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367136",
+      "addr:housenumber": "361",
+      "addr:postcode": "48603-820",
+      "addr:street": "Rua Adauto Floriano dos Santos",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "10",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2528092,-9.3939477]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27366955",
+      "addr:housenumber": "191",
+      "addr:postcode": "48603-808",
+      "addr:street": "Rua Adauto Floriano dos Santos",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "3",
+      "building": "construction",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0078P-1-56"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.254291955833,-9.3941761616562]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27366954",
+      "addr:housenumber": "43",
+      "addr:postcode": "48603-820",
+      "addr:street": "Travessa Adauto Floriano dos Santos",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "2",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2546558,-9.394236]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367129",
+      "addr:housenumber": "70",
+      "addr:postcode": "48603-820",
+      "addr:street": "Rua Adauto Floriano dos Santos",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "4",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2531302,-9.3935248]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191396243",
+      "addr:housenumber": "8",
+      "addr:postcode": "48619-899",
+      "addr:street": "Rua do Britador",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "22",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2544842,-9.393011]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191396642",
+      "addr:housenumber": "8",
+      "addr:postcode": "48601-016",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2548382,-9.3945121]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27366934",
+      "addr:housenumber": "105",
+      "addr:postcode": "48601-016",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "17",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2534835,-9.3934864]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27366944",
+      "addr:housenumber": "29",
+      "addr:postcode": "48601-036",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2540004,-9.3937309]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367198",
+      "addr:housenumber": "24",
+      "addr:postcode": "48603-808",
+      "addr:street": "Rua Adauto Floriano dos Santos",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2511328,-9.3949414]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367117-27367118",
+      "addr:housenumber": "8",
+      "addr:postcode": "48603-820",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2532432,-9.3938705]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367141",
+      "addr:housenumber": "7",
+      "addr:postcode": "48603-820",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "14 1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2530762,-9.3939635]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191396304",
+      "addr:housenumber": "21",
+      "addr:postcode": "48601-016",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2543644,-9.3938636]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27366919",
+      "addr:housenumber": "46",
+      "addr:postcode": "48601-036",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2545076,-9.3931778]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191397284",
+      "addr:housenumber": "180",
+      "addr:postcode": "48603-808",
+      "addr:street": "Rua Metódio Nunes Magalhães",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2510536,-9.3955241]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367110",
+      "addr:housenumber": "41",
+      "addr:postcode": "48603-820",
+      "addr:street": "Travessa Adauto Floriano dos Santos",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2535041,-9.394151]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367153",
+      "addr:housenumber": "20",
+      "addr:postcode": "48603-814",
+      "addr:street": "Rua Ministro Dílson Funaro",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "2 2",
+      "building": "warehouse",
+      "description": "CNEFE 2022 Galpão"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2521087,-9.3955518]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191396300",
+      "addr:housenumber": "20",
+      "addr:postcode": "48601-016",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2544679,-9.3938595]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367305",
+      "addr:housenumber": "20",
+      "addr:postcode": "48603-818",
+      "addr:street": "Rua Botafogo",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "9",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2516665,-9.3964875]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27366937",
+      "addr:housenumber": "371",
+      "addr:postcode": "48601-016",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "20",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2535762,-9.3936802]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367127",
+      "addr:housenumber": "81",
+      "addr:postcode": "48603-820",
+      "addr:street": "Rua Adauto Floriano dos Santos",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2531809,-9.3935047]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367244",
+      "addr:housenumber": "71",
+      "addr:postcode": "48603-814",
+      "addr:street": "Rua Ministro Dílson Funaro",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "9",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2519044,-9.3955785]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367086",
+      "addr:housenumber": "1",
+      "addr:postcode": "48603-810",
+      "addr:street": "Rua Metódio Nunes Magalhães",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes",
+      "healthcare": "yes",
+      "name": "Esf Siriema"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2516315,-9.3967541]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191396557",
+      "addr:housenumber": "21",
+      "addr:postcode": "48603-810",
+      "addr:street": "Rua Metódio Nunes Magalhães",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "16",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2548928,-9.3938213]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191397010",
+      "addr:housenumber": "364",
+      "addr:postcode": "48603-820",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "16 1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2531406,-9.3938643]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27366927",
+      "addr:housenumber": "12",
+      "addr:postcode": "48619-899",
+      "addr:street": "Rua do Britador",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "12 1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2538699,-9.3933221]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27366941",
+      "addr:housenumber": "20",
+      "addr:postcode": "48601-036",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "24",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2537863,-9.3937544]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367135",
+      "addr:housenumber": "49",
+      "addr:postcode": "48603-808",
+      "addr:street": "Rua Adauto Floriano dos Santos",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "2",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0078P-1-56"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.254234,-9.394182]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367200",
+      "addr:housenumber": "10",
+      "addr:postcode": "48603-808",
+      "addr:street": "Rua Adauto Floriano dos Santos",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2509336,-9.3949653]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367276",
+      "addr:housenumber": "77",
+      "addr:postcode": "48603-812",
+      "addr:street": "Rua da Amizade",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "6",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2517436,-9.395937]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367272",
+      "addr:housenumber": "19",
+      "addr:postcode": "48603-812",
+      "addr:street": "Rua da Amizade",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2519146,-9.3961078]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27366959",
+      "addr:housenumber": "24",
+      "addr:postcode": "48603-808",
+      "addr:street": "Rua Adauto Floriano dos Santos",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "24",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0078P-1-56"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.253745,-9.39424]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191397301",
+      "addr:housenumber": "70",
+      "addr:postcode": "48603-808",
+      "addr:street": "Rua Metódio Nunes Magalhães",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.251394,-9.3960639]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367105",
+      "addr:housenumber": "45",
+      "addr:postcode": "48603-808",
+      "addr:street": "Rua Adauto Floriano dos Santos",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "3 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0078P-1-56"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.254251,-9.394151]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367058",
+      "addr:housenumber": "9",
+      "addr:postcode": "48603-808",
+      "addr:street": "Rua Adauto Floriano dos Santos",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0078P-1-56"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.253711,-9.394202]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191396957",
+      "addr:housenumber": "22",
+      "addr:postcode": "48603-820",
+      "addr:street": "Travessa Adauto Floriano dos Santos",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "22 1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2533971,-9.3936363]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367103",
+      "addr:housenumber": "161",
+      "addr:postcode": "48603-820",
+      "addr:street": "Travessa Adauto Floriano dos Santos",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2538805,-9.3941165]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367191",
+      "addr:housenumber": "52",
+      "addr:postcode": "48603-816",
+      "addr:street": "Rua Cachoeira",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2521574,-9.395274]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191396279",
+      "addr:housenumber": "35",
+      "addr:postcode": "48601-036",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2544301,-9.3937117]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191396412",
+      "addr:housenumber": "395",
+      "addr:postcode": "48603-816",
+      "addr:street": "Rua Botafogo",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "68",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2533061,-9.3955576]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367126",
+      "addr:housenumber": "91",
+      "addr:postcode": "48603-820",
+      "addr:street": "Rua Adauto Floriano dos Santos",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2532228,-9.3934881]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367101",
+      "addr:housenumber": "343",
+      "addr:postcode": "48603-820",
+      "addr:street": "Travessa Adauto Floriano dos Santos",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2537042,-9.3939701]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27366985",
+      "addr:housenumber": "6 A",
+      "addr:postcode": "48603-816",
+      "addr:street": "Rua Cachoeira",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "Lado",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2525616,-9.395457]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191396291",
+      "addr:housenumber": "16",
+      "addr:postcode": "48601-016",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.254675,-9.3938512]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367124",
+      "addr:housenumber": "101",
+      "addr:postcode": "48603-820",
+      "addr:street": "Rua Adauto Floriano dos Santos",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2533146,-9.393411]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367163",
+      "addr:housenumber": "14",
+      "addr:postcode": "48603-814",
+      "addr:street": "Rua Ministro Dílson Funaro",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "warehouse",
+      "description": "CNEFE 2022 Depósito"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2521348,-9.3955794]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191397213",
+      "addr:housenumber": "27",
+      "addr:postcode": "48603-814",
+      "addr:street": "Rua Ministro Dílson Funaro",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2518714,-9.3955453]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191397052",
+      "addr:housenumber": "89",
+      "addr:postcode": "48603-814",
+      "addr:street": "Rua Ministro Dílson Funaro",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2519243,-9.3953557]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191396428",
+      "addr:housenumber": "33",
+      "addr:postcode": "48603-810",
+      "addr:street": "Rua Metódio Nunes Magalhães",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2508522,-9.3955429]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191396704",
+      "addr:housenumber": "2",
+      "addr:postcode": "48609-048",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "construction",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0078P-1-54"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.254194,-9.39515]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27366943",
+      "addr:housenumber": "38",
+      "addr:postcode": "48601-036",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "27",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2539196,-9.3937399]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191396311",
+      "addr:housenumber": "3",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.254173,-9.3939684]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27366946",
+      "addr:housenumber": "31",
+      "addr:postcode": "48601-036",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2541902,-9.393719]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367160",
+      "addr:housenumber": "31",
+      "addr:postcode": "48603-814",
+      "addr:street": "Rua Ministro Dílson Funaro",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2523696,-9.3958467]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191396289",
+      "addr:housenumber": "42",
+      "addr:postcode": "48601-016",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "23",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2542783,-9.3938671]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367249",
+      "addr:housenumber": "24",
+      "addr:postcode": "48603-808",
+      "addr:street": "Rua Metódio Nunes Magalhães",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2508953,-9.3952729]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367000;191396410",
+      "addr:housenumber": "27",
+      "addr:postcode": "48603-816",
+      "addr:street": "Rua Botafogo",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2530489,-9.3956574]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367113",
+      "addr:housenumber": "51",
+      "addr:postcode": "48603-820",
+      "addr:street": "Travessa Adauto Floriano dos Santos",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2535439,-9.3940238]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367130",
+      "addr:housenumber": "6",
+      "addr:postcode": "48603-820",
+      "addr:street": "Rua Adauto Floriano dos Santos",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "4 2",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.252965,-9.3936205]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367082",
+      "addr:housenumber": "11",
+      "addr:postcode": "48603-810",
+      "addr:street": "Rua Metódio Nunes Magalhães",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "2 1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2510282,-9.3958172]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191396228",
+      "addr:housenumber": "13",
+      "addr:postcode": "48601-248",
+      "addr:street": "Rua Manoel Severino Vila Nova",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2548716,-9.3916988]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191397014",
+      "addr:housenumber": "364",
+      "addr:postcode": "48603-820",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "16 2",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2532337,-9.3938055]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27366949",
+      "addr:housenumber": "5",
+      "addr:postcode": "48603-820",
+      "addr:street": "Travessa Adauto Floriano dos Santos",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2541484,-9.3941249]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191396715",
+      "addr:housenumber": "380",
+      "addr:postcode": "48603-808",
+      "addr:street": "Rua Adauto Floriano dos Santos",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "4",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0078P-1-56"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.254145,-9.394148]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191397259",
+      "addr:housenumber": "91",
+      "addr:postcode": "48603-808",
+      "addr:street": "Rua Adauto Floriano dos Santos",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.250837,-9.3950584]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367139",
+      "addr:housenumber": "13",
+      "addr:postcode": "48603-820",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2530056,-9.3940722]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367048",
+      "addr:housenumber": "28",
+      "addr:postcode": "48603-808",
+      "addr:street": "Rua Adauto Floriano dos Santos",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "16",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0078P-1-56"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.253321,-9.394173]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27366966",
+      "addr:housenumber": "60",
+      "addr:postcode": "48603-808",
+      "addr:street": "Rua Adauto Floriano dos Santos",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "18",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0078P-1-56"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.253228,-9.394249]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191396531",
+      "addr:housenumber": "7",
+      "addr:postcode": "48603-810",
+      "addr:street": "Rua Metódio Nunes Magalhães",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes",
+      "name": "Associação",
+      "office": "association"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2548239,-9.393228]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367119",
+      "addr:housenumber": "1",
+      "addr:postcode": "48603-820",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2531247,-9.3941205]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191397077",
+      "addr:housenumber": "11",
+      "addr:postcode": "48603-812",
+      "addr:street": "Travessa Botafogo",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "Travessa Botafogo",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2526144,-9.3958408]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27366924;191396257",
+      "addr:housenumber": "7",
+      "addr:postcode": "48619-899",
+      "addr:street": "Rua do Britador",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "7 1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2540647,-9.3933158]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367203",
+      "addr:housenumber": "13",
+      "addr:postcode": "48603-812",
+      "addr:street": "Rua da Amizade",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2511432,-9.3951128]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27366962-27366963",
+      "addr:housenumber": "27",
+      "addr:postcode": "48603-808",
+      "addr:street": "Rua Adauto Floriano dos Santos",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0078P-1-56"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2538945,-9.394191]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367174",
+      "addr:housenumber": "28",
+      "addr:postcode": "48603-812",
+      "addr:street": "Travessa Botafogo",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2525142,-9.3959015]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191396687",
+      "addr:housenumber": "7",
+      "addr:postcode": "48601-036",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0078P-1-53"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.254092,-9.394805]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367092",
+      "addr:housenumber": "100",
+      "addr:postcode": "48603-810",
+      "addr:street": "Rua Metódio Nunes Magalhães",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "15",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2511913,-9.3960704]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27366965;27366971",
+      "addr:housenumber": "25",
+      "addr:postcode": "48603-808",
+      "addr:street": "Rua Adauto Floriano dos Santos",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "4 2",
+      "building": "construction",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0078P-1-56"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.254033,-9.3941545]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191396888",
+      "addr:housenumber": "10",
+      "addr:postcode": "48603-820",
+      "addr:street": "Travessa Adauto Floriano dos Santos",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.253987,-9.3941062]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191396282",
+      "addr:housenumber": "36",
+      "addr:postcode": "48601-036",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2545203,-9.3937089]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367132",
+      "addr:housenumber": "28",
+      "addr:postcode": "48603-820",
+      "addr:street": "Rua Adauto Floriano dos Santos",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "9 1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2528913,-9.3937783]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367078",
+      "addr:housenumber": "1086",
+      "addr:postcode": "48603-816",
+      "addr:street": "Rua Botafogo",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "11",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2526337,-9.3960183]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191396422",
+      "addr:housenumber": "27",
+      "addr:postcode": "48603-810",
+      "addr:street": "Rua Metódio Nunes Magalhães",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2508291,-9.3955038]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367237",
+      "addr:housenumber": "21",
+      "addr:postcode": "48603-814",
+      "addr:street": "Rua Ministro Dílson Funaro",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2520539,-9.3957316]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27366906",
+      "addr:housenumber": "7",
+      "addr:postcode": "48601-014",
+      "addr:street": "Rua Manoel Severino Vila Nova",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2550325,-9.391715]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367097",
+      "addr:housenumber": "22",
+      "addr:postcode": "48603-810",
+      "addr:street": "Rua Metódio Nunes Magalhães",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "24",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2509896,-9.3957572]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367041",
+      "addr:housenumber": "129",
+      "addr:postcode": "48603-816",
+      "addr:street": "Rua Botafogo",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2524931,-9.3960592]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27366899",
+      "addr:housenumber": "4",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "2",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2551412,-9.3916144]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367068",
+      "addr:housenumber": "205",
+      "addr:postcode": "48603-810",
+      "addr:street": "Rua Metódio Nunes Magalhães",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2512986,-9.396237]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191396223",
+      "addr:housenumber": "12",
+      "addr:postcode": "48601-248",
+      "addr:street": "Rua Manoel Severino Vila Nova",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2548631,-9.3917003]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27366931",
+      "addr:housenumber": "111",
+      "addr:postcode": "48619-899",
+      "addr:street": "Rua do Britador",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2535576,-9.3933951]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191397347",
+      "addr:housenumber": "10",
+      "addr:postcode": "48603-812",
+      "addr:street": "Rua da Amizade",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "14",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2512763,-9.3954702]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191396859",
+      "addr:housenumber": "108",
+      "addr:postcode": "48603-820",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "15",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2538675,-9.3938889]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27366960",
+      "addr:housenumber": "339",
+      "addr:postcode": "48603-808",
+      "addr:street": "Rua Adauto Floriano dos Santos",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "8",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0078P-1-56"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.253782,-9.394211]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191396507",
+      "addr:housenumber": "3",
+      "addr:postcode": "48603-816",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "15",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2550342,-9.3919456]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367111",
+      "addr:housenumber": "366",
+      "addr:postcode": "48603-820",
+      "addr:street": "Travessa Adauto Floriano dos Santos",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2535372,-9.3939993]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367277",
+      "addr:housenumber": "78",
+      "addr:postcode": "48603-812",
+      "addr:street": "Rua da Amizade",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "5",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2517716,-9.395965]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367152",
+      "addr:housenumber": "363",
+      "addr:postcode": "48603-814",
+      "addr:street": "Rua Ministro Dílson Funaro",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2515396,-9.3949488]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367053",
+      "addr:housenumber": "5",
+      "addr:postcode": "48601-016",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0078P-1-61"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.25454,-9.394447]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367075",
+      "addr:housenumber": "14",
+      "addr:postcode": "48603-810",
+      "addr:street": "Rua Metódio Nunes Magalhães",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "16",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2511847,-9.3960602]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367069",
+      "addr:housenumber": "140",
+      "addr:postcode": "48603-816",
+      "addr:street": "Rua Botafogo",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "9",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2527936,-9.3959354]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367187",
+      "addr:housenumber": "43",
+      "addr:postcode": "48603-816",
+      "addr:street": "Rua Cachoeira",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2521028,-9.3952238]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191396982",
+      "addr:housenumber": "9",
+      "addr:postcode": "48603-820",
+      "addr:street": "Rua Adauto Floriano dos Santos",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "9 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2528448,-9.393907]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367161",
+      "addr:housenumber": "16",
+      "addr:postcode": "48603-814",
+      "addr:street": "Rua Ministro Dílson Funaro",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2523567,-9.3958302]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27366932",
+      "addr:housenumber": "22",
+      "addr:postcode": "48619-899",
+      "addr:street": "Rua do Britador",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "6",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2541389,-9.3933207]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367245",
+      "addr:housenumber": "26",
+      "addr:postcode": "48603-808",
+      "addr:street": "Rua Adauto Floriano dos Santos",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "22",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2507849,-9.3950754]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191397072",
+      "addr:housenumber": "20",
+      "addr:postcode": "48603-814",
+      "addr:street": "Rua Ministro Dílson Funaro",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "20 2",
+      "building": "yes",
+      "description": "CNEFE 2022 Sem Nome"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2521431,-9.3955881]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191397153",
+      "addr:housenumber": "38 A",
+      "addr:postcode": "48603-812",
+      "addr:street": "Rua da Amizade",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2517886,-9.395753]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367247",
+      "addr:housenumber": "4",
+      "addr:postcode": "48603-808",
+      "addr:street": "Rua Metódio Nunes Magalhães",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "22 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2508199,-9.3951532]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367031;191397055",
+      "addr:housenumber": "12",
+      "addr:postcode": "48603-814",
+      "addr:street": "Rua Ministro Dílson Funaro",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2519883,-9.3954235]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191396384",
+      "addr:housenumber": "32",
+      "addr:postcode": "48603-816",
+      "addr:street": "Rua Cachoeira",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2524336,-9.3953227]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27366945",
+      "addr:housenumber": "30",
+      "addr:postcode": "48601-036",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2540609,-9.3937243]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367213",
+      "addr:housenumber": "36",
+      "addr:postcode": "48603-812",
+      "addr:street": "Rua da Amizade",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "36A",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2513958,-9.3953635]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367125",
+      "addr:housenumber": "91",
+      "addr:postcode": "48603-820",
+      "addr:street": "Rua Adauto Floriano dos Santos",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "2",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2531837,-9.3935036]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367261",
+      "addr:housenumber": "4",
+      "addr:postcode": "48603-808",
+      "addr:street": "Rua Metódio Nunes Magalhães",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "22 4",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2508015,-9.3951305]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367231",
+      "addr:housenumber": "41",
+      "addr:postcode": "48603-814",
+      "addr:street": "Rua Ministro Dílson Funaro",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "16",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2516406,-9.3953044]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367142",
+      "addr:housenumber": "4",
+      "addr:postcode": "48603-820",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2531871,-9.3938551]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191396268",
+      "addr:housenumber": "777",
+      "addr:postcode": "48601-016",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "21",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2536053,-9.3937412]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367107",
+      "addr:housenumber": "10",
+      "addr:postcode": "48603-820",
+      "addr:street": "Travessa Adauto Floriano dos Santos",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2532621,-9.3941579]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191397340",
+      "addr:housenumber": "556",
+      "addr:postcode": "48603-812",
+      "addr:street": "Rua da Amizade",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2513223,-9.3955162]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191397256",
+      "addr:housenumber": "26",
+      "addr:postcode": "48603-808",
+      "addr:street": "Rua Adauto Floriano dos Santos",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2508384,-9.3950506]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27366991",
+      "addr:housenumber": "26",
+      "addr:postcode": "48603-816",
+      "addr:street": "Rua Botafogo",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2531492,-9.3956185]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367182",
+      "addr:housenumber": "37",
+      "addr:postcode": "48603-816",
+      "addr:street": "Rua Cachoeira",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2522184,-9.3953309]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367171",
+      "addr:housenumber": "20",
+      "addr:postcode": "48603-814",
+      "addr:street": "Rua Ministro Dílson Funaro",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "20 1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2522644,-9.3957121]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27366935",
+      "addr:housenumber": "375",
+      "addr:postcode": "48601-016",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "18",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2535284,-9.3935803]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367045;191396724",
+      "addr:housenumber": "15",
+      "addr:postcode": "48603-808",
+      "addr:street": "Rua Adauto Floriano dos Santos",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0078P-1-56"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.253425,-9.3942605]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367267",
+      "addr:housenumber": "41",
+      "addr:postcode": "48603-818",
+      "addr:street": "Rua Botafogo",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "Fundos",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2517161,-9.3962659]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367028",
+      "addr:housenumber": "13",
+      "addr:postcode": "48603-814",
+      "addr:street": "Rua Ministro Dílson Funaro",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2513776,-9.3948353]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367264",
+      "addr:housenumber": "58",
+      "addr:postcode": "48603-808",
+      "addr:street": "Rua Metódio Nunes Magalhães",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "24",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2508832,-9.3952537]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367023",
+      "addr:housenumber": "22",
+      "addr:postcode": "48603-808",
+      "addr:street": "Rua Adauto Floriano dos Santos",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0078P-1-56"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.253073,-9.394208]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367278",
+      "addr:housenumber": "555 B",
+      "addr:postcode": "48603-812",
+      "addr:street": "Rua da Amizade",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "Fundos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2513072,-9.3955779]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191396657",
+      "addr:housenumber": "9",
+      "addr:postcode": "48609-048",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "9 2",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2543047,-9.3947486]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191396176",
+      "addr:housenumber": "2",
+      "addr:postcode": "48601-248",
+      "addr:street": "Rua Manoel Severino Vila Nova",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2551527,-9.3914099]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191397367",
+      "addr:housenumber": "39",
+      "addr:postcode": "48603-820",
+      "addr:street": "Travessa Botafogo",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2547234,-9.3935814]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367024;191397205",
+      "addr:housenumber": "23",
+      "addr:postcode": "48603-814",
+      "addr:street": "Rua Ministro Dílson Funaro",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2521372,-9.3958211]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27366956",
+      "addr:housenumber": "14",
+      "addr:postcode": "48603-808",
+      "addr:street": "Rua Adauto Floriano dos Santos",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0078P-1-56"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.253475,-9.394286]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191397371",
+      "addr:housenumber": "42",
+      "addr:postcode": "48603-820",
+      "addr:street": "Travessa Botafogo",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2547064,-9.3934596]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367108",
+      "addr:housenumber": "47",
+      "addr:postcode": "48603-820",
+      "addr:street": "Travessa Adauto Floriano dos Santos",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "13",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2532494,-9.3941581]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367246",
+      "addr:housenumber": "22",
+      "addr:postcode": "48603-808",
+      "addr:street": "Rua Adauto Floriano dos Santos",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.250784,-9.3950761]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27366940",
+      "addr:housenumber": "25",
+      "addr:postcode": "48601-036",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2539092,-9.393741]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27366957",
+      "addr:housenumber": "290",
+      "addr:postcode": "48603-808",
+      "addr:street": "Rua Adauto Floriano dos Santos",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "13",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0078P-1-56"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.253526,-9.394218]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191396753",
+      "addr:housenumber": "16",
+      "addr:postcode": "48601-016",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "2",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0078P-1-58"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.254955,-9.39222]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191397297",
+      "addr:housenumber": "13",
+      "addr:postcode": "48603-808",
+      "addr:street": "Rua Metódio Nunes Magalhães",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2512299,-9.3958036]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367281",
+      "addr:housenumber": "16",
+      "addr:postcode": "48603-812",
+      "addr:street": "Rua da Amizade",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2511482,-9.3953423]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367235",
+      "addr:housenumber": "7",
+      "addr:postcode": "48603-814",
+      "addr:street": "Rua Ministro Dílson Funaro",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "18 1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2514714,-9.3951285]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367151",
+      "addr:housenumber": "21",
+      "addr:postcode": "48603-814",
+      "addr:street": "Rua Ministro Dílson Funaro",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2522596,-9.395706]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191397224",
+      "addr:housenumber": "11",
+      "addr:postcode": "48603-814",
+      "addr:street": "Rua Ministro Dílson Funaro",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2518088,-9.3954792]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367002",
+      "addr:housenumber": "17",
+      "addr:postcode": "48601-016",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2529338,-9.396004]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27366997",
+      "addr:housenumber": "42",
+      "addr:postcode": "48601-016",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "B 19",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2532264,-9.3958169]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367242",
+      "addr:housenumber": "41",
+      "addr:postcode": "48603-814",
+      "addr:street": "Rua Ministro Dílson Funaro",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "41A 16",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2516107,-9.3952734]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367301",
+      "addr:housenumber": "61",
+      "addr:postcode": "48603-808",
+      "addr:street": "Rua Adauto Floriano dos Santos",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0078P-1-56"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.25315,-9.394311]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191396631;191396635",
+      "addr:housenumber": "25",
+      "addr:postcode": "48601-018",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2547905,-9.3940718]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367173",
+      "addr:housenumber": "27",
+      "addr:postcode": "48603-812",
+      "addr:street": "Travessa Botafogo",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2524649,-9.3959529]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367167;27367169",
+      "addr:housenumber": "24",
+      "addr:postcode": "48603-814",
+      "addr:street": "Rua Ministro Dílson Funaro",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2522574,-9.3957032]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191396564",
+      "addr:housenumber": "17",
+      "addr:postcode": "48603-810",
+      "addr:street": "Rua Metódio Nunes Magalhães",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "17",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2548985,-9.3938789]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191397235",
+      "addr:housenumber": "17",
+      "addr:postcode": "48603-814",
+      "addr:street": "Rua Ministro Dílson Funaro",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2515707,-9.3952318]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367181",
+      "addr:housenumber": "36",
+      "addr:postcode": "48603-816",
+      "addr:street": "Rua Cachoeira",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2522899,-9.3953967]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27366913",
+      "addr:housenumber": "11",
+      "addr:postcode": "48601-248",
+      "addr:street": "Rua Manoel Severino Vila Nova",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2549297,-9.3916766]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27366914",
+      "addr:housenumber": "10",
+      "addr:postcode": "48601-248",
+      "addr:street": "Rua Manoel Severino Vila Nova",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2549367,-9.3916596]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191396308",
+      "addr:housenumber": "37",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2541192,-9.393831]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367073",
+      "addr:housenumber": "102 1 Frente",
+      "addr:postcode": "48603-810",
+      "addr:street": "Rua Metódio Nunes Magalhães",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2515787,-9.3966721]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191396174",
+      "addr:housenumber": "1",
+      "addr:postcode": "48601-248",
+      "addr:street": "Rua Manoel Severino Vila Nova",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2551493,-9.3914236]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367035",
+      "addr:housenumber": "114",
+      "addr:postcode": "48603-816",
+      "addr:street": "Rua Botafogo",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2532201,-9.39576]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367102;191396881",
+      "addr:housenumber": "441",
+      "addr:postcode": "48603-820",
+      "addr:street": "Travessa Adauto Floriano dos Santos",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2538347,-9.3941225]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367202",
+      "addr:housenumber": "12",
+      "addr:postcode": "48603-812",
+      "addr:street": "Rua da Amizade",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2511206,-9.3950905]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27366992",
+      "addr:housenumber": "125",
+      "addr:postcode": "48603-816",
+      "addr:street": "Rua Botafogo",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2529124,-9.3957104]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367122",
+      "addr:housenumber": "157",
+      "addr:postcode": "48603-820",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2530614,-9.3941538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191396545",
+      "addr:housenumber": "11",
+      "addr:postcode": "48603-810",
+      "addr:street": "Rua Metódio Nunes Magalhães",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2548648,-9.3935397]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191397143",
+      "addr:housenumber": "13 B",
+      "addr:postcode": "48603-812",
+      "addr:street": "Rua da Amizade",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2514937,-9.3954606]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191397350",
+      "addr:housenumber": "15",
+      "addr:postcode": "48603-812",
+      "addr:street": "Rua da Amizade",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "22B",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2512278,-9.3954218]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367072",
+      "addr:housenumber": "125",
+      "addr:postcode": "48603-810",
+      "addr:street": "Rua Metódio Nunes Magalhães",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "7",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2513779,-9.3963601]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367224",
+      "addr:housenumber": "71",
+      "addr:postcode": "48603-814",
+      "addr:street": "Rua Ministro Dílson Funaro",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "8 1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2518956,-9.3955695]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367208",
+      "addr:housenumber": "5",
+      "addr:postcode": "48603-812",
+      "addr:street": "Rua da Amizade",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2512943,-9.3952628]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191396388",
+      "addr:housenumber": "3",
+      "addr:postcode": "48603-816",
+      "addr:street": "Rua Cachoeira",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.252779,-9.3957278]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367297",
+      "addr:housenumber": "14",
+      "addr:postcode": "48603-816",
+      "addr:street": "Rua Botafogo",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2525577,-9.3960556]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367034",
+      "addr:housenumber": "60",
+      "addr:postcode": "48603-814",
+      "addr:street": "Rua Ministro Dílson Funaro",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "23 1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2522196,-9.3956621]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367207",
+      "addr:housenumber": "18",
+      "addr:postcode": "48603-812",
+      "addr:street": "Rua da Amizade",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "28",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2510547,-9.3950251]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367056",
+      "addr:housenumber": "555",
+      "addr:postcode": "48603-812",
+      "addr:street": "Rua da Amizade",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2512708,-9.3954647]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367216",
+      "addr:housenumber": "38",
+      "addr:postcode": "48603-812",
+      "addr:street": "Rua da Amizade",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2520339,-9.3959964]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367027",
+      "addr:housenumber": "100",
+      "addr:postcode": "48603-812",
+      "addr:street": "Rua da Amizade",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "20",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2510217,-9.3952159]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191397337",
+      "addr:housenumber": "5",
+      "addr:postcode": "48603-812",
+      "addr:street": "Rua da Amizade",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.251698,-9.3958915]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27366980",
+      "addr:housenumber": "42",
+      "addr:postcode": "48603-820",
+      "addr:street": "Rua Florisvaldo Bispo dos Santos",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2525547,-9.395047]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367021",
+      "addr:housenumber": "67",
+      "addr:postcode": "48603-814",
+      "addr:street": "Rua Ministro Dílson Funaro",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "12",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2517445,-9.3954124]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191396318",
+      "addr:housenumber": "433",
+      "addr:postcode": "48603-820",
+      "addr:street": "Travessa Adauto Floriano dos Santos",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "7 Casa A",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2542741,-9.3940894]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367051",
+      "addr:housenumber": "10",
+      "addr:postcode": "48603-812",
+      "addr:street": "Rua da Amizade",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2514984,-9.3956921]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367176",
+      "addr:housenumber": "78",
+      "addr:postcode": "48603-816",
+      "addr:street": "Rua Cachoeira",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "29",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2525663,-9.3956904]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367155",
+      "addr:housenumber": "66",
+      "addr:postcode": "48603-814",
+      "addr:street": "Rua Ministro Dílson Funaro",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2518183,-9.3952436]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27366916",
+      "addr:housenumber": "18",
+      "addr:postcode": "48619-899",
+      "addr:street": "Rua do Britador",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "18",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2544955,-9.3928175]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367273",
+      "addr:housenumber": "2",
+      "addr:postcode": "48603-812",
+      "addr:street": "Rua da Amizade",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2519147,-9.3961079]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191397208",
+      "addr:housenumber": "19 B",
+      "addr:postcode": "48603-814",
+      "addr:street": "Rua Ministro Dílson Funaro",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2521327,-9.3958152]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191396626",
+      "addr:housenumber": "18",
+      "addr:postcode": "48601-018",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "13",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2547884,-9.3940681]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367109",
+      "addr:housenumber": "45",
+      "addr:postcode": "48603-820",
+      "addr:street": "Travessa Adauto Floriano dos Santos",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "14",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2533431,-9.3941561]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191396734",
+      "addr:housenumber": "16",
+      "addr:postcode": "48601-016",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0078P-1-57"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.255043,-9.392113]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27366995",
+      "addr:housenumber": "396",
+      "addr:postcode": "48603-816",
+      "addr:street": "Rua Botafogo",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "71",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.253505,-9.3954863]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367112",
+      "addr:housenumber": "335",
+      "addr:postcode": "48603-820",
+      "addr:street": "Travessa Adauto Floriano dos Santos",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.253524,-9.3939514]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367044",
+      "addr:housenumber": "16",
+      "addr:postcode": "48601-016",
+      "addr:suburb": "Dernival Oliveira",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "pentecostal",
+      "name": "Assembleia de Deus Boa Nova",
+      "religion": "christian"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2528056,-9.3960572]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367254",
+      "addr:housenumber": "25",
+      "addr:postcode": "48603-808",
+      "addr:street": "Rua Metódio Nunes Magalhães",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.250971,-9.395393]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367265",
+      "addr:housenumber": "67",
+      "addr:postcode": "48603-808",
+      "addr:street": "Rua Metódio Nunes Magalhães",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2515602,-9.3963277]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367285",
+      "addr:housenumber": "20",
+      "addr:postcode": "48603-812",
+      "addr:street": "Rua da Amizade",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2510116,-9.3952059]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191397063",
+      "addr:housenumber": "14 A",
+      "addr:postcode": "48603-814",
+      "addr:street": "Rua Ministro Dílson Funaro",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2521418,-9.3955867]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191396331",
+      "addr:housenumber": "20",
+      "addr:postcode": "48603-820",
+      "addr:street": "Travessa Adauto Floriano dos Santos",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "12",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2546577,-9.3940836]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367256",
+      "addr:housenumber": "96 A",
+      "addr:postcode": "48603-808",
+      "addr:street": "Rua Metódio Nunes Magalhães",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2512351,-9.3958119]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191396908",
+      "addr:housenumber": "16",
+      "addr:postcode": "48603-820",
+      "addr:street": "Travessa Adauto Floriano dos Santos",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2535318,-9.3941492]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367001;191396407",
+      "addr:housenumber": "28",
+      "addr:postcode": "48603-816",
+      "addr:street": "Rua Botafogo",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2529462,-9.3956973]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367073",
+      "addr:housenumber": "102 1 Frente",
+      "addr:postcode": "48603-810",
+      "addr:street": "Rua Metódio Nunes Magalhães",
+      "addr:suburb": "Dernival Oliveira",
+      "amenity": "pub",
+      "building": "yes",
+      "name": "Bar da Neide"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.251570999668,-9.3966736613881]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191397068",
+      "addr:housenumber": "60",
+      "addr:postcode": "48603-814",
+      "addr:street": "Rua Ministro Dílson Funaro",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes",
+      "name": "Mercadinho Ferreira",
+      "shop": "convenience"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2523311,-9.3957974]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191396121",
+      "addr:housenumber": "39",
+      "addr:postcode": "48603-826",
+      "addr:street": "Rua Adauto Floriano dos Santos",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2505968,-9.395145]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191397232",
+      "addr:housenumber": "57",
+      "addr:postcode": "48603-814",
+      "addr:street": "Rua Ministro Dílson Funaro",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2517513,-9.3954195]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191397342",
+      "addr:housenumber": "17",
+      "addr:postcode": "48603-812",
+      "addr:street": "Rua da Amizade",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2511327,-9.3953268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367061;191396448",
+      "addr:housenumber": "68",
+      "addr:postcode": "48603-810",
+      "addr:street": "Rua Metódio Nunes Magalhães",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2513636,-9.396338]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367243",
+      "addr:housenumber": "42",
+      "addr:postcode": "48603-814",
+      "addr:street": "Rua Ministro Dílson Funaro",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2513912,-9.3950451]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367218",
+      "addr:housenumber": "36",
+      "addr:postcode": "48603-812",
+      "addr:street": "Rua da Amizade",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2518825,-9.3958462]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367228",
+      "addr:housenumber": "85",
+      "addr:postcode": "48603-814",
+      "addr:street": "Rua Ministro Dílson Funaro",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2520102,-9.3956869]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191396948",
+      "addr:housenumber": "361",
+      "addr:postcode": "48603-820",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "6",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2533673,-9.3938656]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27366983",
+      "addr:housenumber": "75",
+      "addr:postcode": "48603-816",
+      "addr:street": "Rua Cachoeira",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2526918,-9.3956219]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367266",
+      "addr:housenumber": "40",
+      "addr:postcode": "48603-808",
+      "addr:street": "Rua Metódio Nunes Magalhães",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2515756,-9.3963896]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191397291",
+      "addr:housenumber": "10",
+      "addr:postcode": "48603-808",
+      "addr:street": "Rua Metódio Nunes Magalhães",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2511669,-9.3957038]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367199",
+      "addr:housenumber": "25",
+      "addr:postcode": "48603-808",
+      "addr:street": "Rua Adauto Floriano dos Santos",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2509694,-9.3949137]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191396990",
+      "addr:housenumber": "52",
+      "addr:postcode": "48603-820",
+      "addr:street": "Travessa Adauto Floriano dos Santos",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "12",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.252894,-9.3940003]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367271",
+      "addr:housenumber": "25",
+      "addr:postcode": "48603-812",
+      "addr:street": "Rua da Amizade",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2520076,-9.3961622]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367183",
+      "addr:housenumber": "40",
+      "addr:postcode": "48603-816",
+      "addr:street": "Rua Cachoeira",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2520821,-9.3952048]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367154",
+      "addr:housenumber": "68",
+      "addr:postcode": "48603-814",
+      "addr:street": "Rua Ministro Dílson Funaro",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2517291,-9.3951492]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27366976",
+      "addr:housenumber": "32",
+      "addr:postcode": "48603-820",
+      "addr:street": "Rua Florisvaldo Bispo dos Santos",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.25267,-9.3944526]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367283",
+      "addr:housenumber": "549",
+      "addr:postcode": "48603-812",
+      "addr:street": "Rua da Amizade",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2510752,-9.3952694]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191396475",
+      "addr:housenumber": "29",
+      "addr:postcode": "48603-810",
+      "addr:street": "Rua Metódio Nunes Magalhães",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2508995,-9.3956162]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27366923",
+      "addr:housenumber": "150",
+      "addr:postcode": "48619-899",
+      "addr:street": "Rua do Britador",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "5",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2542413,-9.3933289]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191396919",
+      "addr:housenumber": "330",
+      "addr:postcode": "48603-820",
+      "addr:street": "Travessa Adauto Floriano dos Santos",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2535114,-9.3939054]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191397244",
+      "addr:housenumber": "27 B",
+      "addr:postcode": "48603-814",
+      "addr:street": "Rua Ministro Dílson Funaro",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2519002,-9.3955752]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27366952",
+      "addr:housenumber": "1",
+      "addr:postcode": "48603-820",
+      "addr:street": "Travessa Adauto Floriano dos Santos",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2547501,-9.3942285]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27366904",
+      "addr:housenumber": "5",
+      "addr:postcode": "48601-014",
+      "addr:street": "Rua Manoel Severino Vila Nova",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2551226,-9.3918385]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191397300",
+      "addr:housenumber": "33",
+      "addr:postcode": "48603-808",
+      "addr:street": "Rua Metódio Nunes Magalhães",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2513124,-9.3959345]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191396179",
+      "addr:housenumber": "3",
+      "addr:postcode": "48601-248",
+      "addr:street": "Rua Manoel Severino Vila Nova",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.255059,-9.3915401]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367274",
+      "addr:housenumber": "75",
+      "addr:postcode": "48603-812",
+      "addr:street": "Rua da Amizade",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2517911,-9.3959844]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191397139",
+      "addr:housenumber": "37",
+      "addr:postcode": "48603-812",
+      "addr:street": "Rua da Amizade",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2514637,-9.3954307]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367067",
+      "addr:housenumber": "9",
+      "addr:postcode": "48603-810",
+      "addr:street": "Rua Metódio Nunes Magalhães",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2513235,-9.3962757]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191396438",
+      "addr:housenumber": "61 B",
+      "addr:postcode": "48603-810",
+      "addr:street": "Rua Metódio Nunes Magalhães",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2511075,-9.3959403]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367189",
+      "addr:housenumber": "65",
+      "addr:postcode": "48603-816",
+      "addr:street": "Rua Cachoeira",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2517957,-9.3949239]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367036;27367039",
+      "addr:housenumber": "30",
+      "addr:postcode": "48603-816",
+      "addr:street": "Rua Botafogo",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2531543,-9.3957834]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367304",
+      "addr:housenumber": "5",
+      "addr:postcode": "48603-818",
+      "addr:street": "Rua Botafogo",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2519776,-9.3963792]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367241",
+      "addr:housenumber": "5",
+      "addr:postcode": "48603-814",
+      "addr:street": "Rua Ministro Dílson Funaro",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2514186,-9.3950737]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367033",
+      "addr:housenumber": "410",
+      "addr:postcode": "48603-818",
+      "addr:street": "Travessa Botafogo",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2536686,-9.3954519]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367179-27367180;27367185",
+      "addr:housenumber": "35",
+      "addr:postcode": "48603-816",
+      "addr:street": "Rua Cachoeira",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2522868,-9.3953938]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191397164",
+      "addr:housenumber": "98",
+      "addr:postcode": "48603-818",
+      "addr:street": "Rua Botafogo",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2521694,-9.3961076]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367063",
+      "addr:housenumber": "2",
+      "addr:postcode": "48603-810",
+      "addr:street": "Rua Metódio Nunes Magalhães",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2515729,-9.3966631]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27366948",
+      "addr:housenumber": "35 2 Frente",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2541716,-9.3939325]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367226",
+      "addr:housenumber": "61",
+      "addr:postcode": "48603-814",
+      "addr:street": "Rua Ministro Dílson Funaro",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes",
+      "name": "Cardoso"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2518964,-9.3955695]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367177",
+      "addr:housenumber": "31",
+      "addr:postcode": "48603-816",
+      "addr:street": "Rua Cachoeira",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "31 1",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2524041,-9.3955017]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27366939",
+      "addr:housenumber": "14",
+      "addr:postcode": "48601-036",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "23",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2536736,-9.3937682]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191397311",
+      "addr:housenumber": "42",
+      "addr:postcode": "48603-818",
+      "addr:street": "Rua Botafogo",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2517618,-9.3963032]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367188",
+      "addr:housenumber": "52",
+      "addr:postcode": "48603-816",
+      "addr:street": "Rua Cachoeira",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "50",
+      "building": "yes",
+      "name": "Padaria do Betão",
+      "shop": "bakery"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2517228,-9.3948526]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367146",
+      "addr:housenumber": "20",
+      "addr:postcode": "48603-820",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes",
+      "description": "CNEFE 2022 Sem Nome"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2532558,-9.3938141]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367269",
+      "addr:housenumber": "3",
+      "addr:postcode": "48603-818",
+      "addr:street": "Rua Botafogo",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2518238,-9.3962713]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191396591",
+      "addr:housenumber": "21",
+      "addr:postcode": "48603-810",
+      "addr:street": "Rua Metódio Nunes Magalhães",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2549394,-9.3942909]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367214",
+      "addr:housenumber": "63",
+      "addr:postcode": "48603-812",
+      "addr:street": "Rua da Amizade",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "32",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.251214,-9.3951831]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367076",
+      "addr:housenumber": "8888",
+      "addr:postcode": "48603-816",
+      "addr:street": "Rua Botafogo",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "10",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2527454,-9.3959601]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191396313",
+      "addr:housenumber": "31",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2541738,-9.3939917]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27366975",
+      "addr:housenumber": "53",
+      "addr:postcode": "48603-820",
+      "addr:street": "Rua Florisvaldo Bispo dos Santos",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2527042,-9.3943297]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27366917",
+      "addr:housenumber": "16",
+      "addr:postcode": "48619-899",
+      "addr:street": "Rua do Britador",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "19",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2544961,-9.3927284]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367100",
+      "addr:housenumber": "341",
+      "addr:postcode": "48603-820",
+      "addr:street": "Travessa Adauto Floriano dos Santos",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "2",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2536549,-9.3939231]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367083",
+      "addr:housenumber": "36",
+      "addr:postcode": "48603-810",
+      "addr:street": "Rua Metódio Nunes Magalhães",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2506441,-9.3951974]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367106",
+      "addr:housenumber": "36",
+      "addr:postcode": "48603-820",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "11",
+      "amenity": "pub",
+      "building": "yes",
+      "name": "Bar das Duas Irmãs"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2540137,-9.3939292]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367259",
+      "addr:housenumber": "62",
+      "addr:postcode": "48603-808",
+      "addr:street": "Rua Metódio Nunes Magalhães",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2513022,-9.3959184]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367096",
+      "addr:housenumber": "15",
+      "addr:postcode": "48603-810",
+      "addr:street": "Rua Metódio Nunes Magalhães",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "13",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2512006,-9.3960849]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367196",
+      "addr:housenumber": "39",
+      "addr:postcode": "48603-816",
+      "addr:street": "Rua Cachoeira",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2520956,-9.3952171]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367026",
+      "addr:housenumber": "25",
+      "addr:postcode": "48603-814",
+      "addr:street": "Rua Ministro Dílson Funaro",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "2",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2521507,-9.3958399]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367232",
+      "addr:housenumber": "61",
+      "addr:postcode": "48603-814",
+      "addr:street": "Rua Ministro Dílson Funaro",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "11",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.251883,-9.3955558]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191396760",
+      "addr:housenumber": "16",
+      "addr:postcode": "48601-016",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "3",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0078P-1-58"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.255054,-9.392347]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27366905",
+      "addr:housenumber": "211",
+      "addr:postcode": "48601-014",
+      "addr:street": "Rua Manoel Severino Vila Nova",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2550879,-9.3917909]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367081",
+      "addr:housenumber": "9",
+      "addr:postcode": "48603-810",
+      "addr:street": "Rua Metódio Nunes Magalhães",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "Ong",
+      "building": "yes",
+      "description": "CNEFE 2022 Ong",
+      "office": "ngo"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2507666,-9.3954003]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191396294",
+      "addr:housenumber": "17",
+      "addr:postcode": "48601-016",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.254627,-9.3938532]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367079",
+      "addr:housenumber": "9",
+      "addr:postcode": "48603-810",
+      "addr:street": "Rua Metódio Nunes Magalhães",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes",
+      "description": "CNEFE 2022 Ong",
+      "office": "ngo"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2507737,-9.395412]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191396258",
+      "addr:housenumber": "111",
+      "addr:postcode": "48619-899",
+      "addr:street": "Rua do Britador",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "Casa A",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2535899,-9.3933875]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367270",
+      "addr:housenumber": "43",
+      "addr:postcode": "48603-818",
+      "addr:street": "Rua Botafogo",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2519318,-9.3962217]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27366912",
+      "addr:housenumber": "19",
+      "addr:postcode": "48601-248",
+      "addr:street": "Rua Manoel Severino Vila Nova",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2549584,-9.3916087]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191396744",
+      "addr:housenumber": "16",
+      "addr:postcode": "48601-016",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0078P-1-57"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.255021,-9.392132]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367064",
+      "addr:housenumber": "10",
+      "addr:postcode": "48603-810",
+      "addr:street": "Rua Metódio Nunes Magalhães",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2510616,-9.395869]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191396320",
+      "addr:housenumber": "9",
+      "addr:postcode": "48603-820",
+      "addr:street": "Travessa Adauto Floriano dos Santos",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2543708,-9.394088]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367286",
+      "addr:housenumber": "5",
+      "addr:postcode": "48603-812",
+      "addr:street": "Rua da Amizade",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "6 1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.251715,-9.3959085]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367296",
+      "addr:housenumber": "15",
+      "addr:postcode": "48603-820",
+      "addr:street": "Travessa Botafogo",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "45",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2546917,-9.3931807]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191396994",
+      "addr:housenumber": "13",
+      "addr:postcode": "48603-820",
+      "addr:street": "Travessa Adauto Floriano dos Santos",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "13",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2530075,-9.3941143]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191396621",
+      "addr:housenumber": "15",
+      "addr:postcode": "48603-810",
+      "addr:street": "Rua Metódio Nunes Magalhães",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2548875,-9.3937681]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367057",
+      "addr:housenumber": "15",
+      "addr:postcode": "48603-812",
+      "addr:street": "Rua da Amizade",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2512173,-9.3954113]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367037",
+      "addr:housenumber": "96",
+      "addr:postcode": "48603-816",
+      "addr:street": "Rua Botafogo",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "5",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2529426,-9.3958583]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191397303",
+      "addr:housenumber": "68",
+      "addr:postcode": "48603-808",
+      "addr:street": "Rua Metódio Nunes Magalhães",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2515255,-9.3962727]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367263",
+      "addr:housenumber": "75",
+      "addr:postcode": "48603-808",
+      "addr:street": "Rua Metódio Nunes Magalhães",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "34",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2513763,-9.3960359]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27366999",
+      "addr:housenumber": "69",
+      "addr:postcode": "48603-816",
+      "addr:street": "Rua Botafogo",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2534157,-9.395515]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367280",
+      "addr:housenumber": "97",
+      "addr:postcode": "48603-812",
+      "addr:street": "Rua da Amizade",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.251673,-9.3958665]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367088",
+      "addr:housenumber": "37",
+      "addr:postcode": "48603-810",
+      "addr:street": "Rua Metódio Nunes Magalhães",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2506397,-9.3951779]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367038",
+      "addr:housenumber": "25",
+      "addr:postcode": "48603-816",
+      "addr:street": "Rua Botafogo",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2528448,-9.3959091]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367166",
+      "addr:housenumber": "26",
+      "addr:postcode": "48603-814",
+      "addr:street": "Rua Ministro Dílson Funaro",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2524216,-9.3959319]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27366950",
+      "addr:housenumber": "443",
+      "addr:postcode": "48603-820",
+      "addr:street": "Travessa Adauto Floriano dos Santos",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "6",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2542136,-9.3940903]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27366987",
+      "addr:housenumber": "72",
+      "addr:postcode": "48603-816",
+      "addr:street": "Rua Cachoeira",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2525308,-9.3954249]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191396925",
+      "addr:housenumber": "4",
+      "addr:postcode": "48603-820",
+      "addr:street": "Travessa Adauto Floriano dos Santos",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2535072,-9.393818]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27366930",
+      "addr:housenumber": "20",
+      "addr:postcode": "48619-899",
+      "addr:street": "Rua do Britador",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "4",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.254349,-9.3933175]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191397158",
+      "addr:housenumber": "90",
+      "addr:postcode": "48603-812",
+      "addr:street": "Rua da Amizade",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2518593,-9.3958231]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367190",
+      "addr:housenumber": "63",
+      "addr:postcode": "48603-816",
+      "addr:street": "Rua Cachoeira",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2517523,-9.3948815]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367104",
+      "addr:housenumber": "9",
+      "addr:postcode": "48603-820",
+      "addr:street": "Travessa Adauto Floriano dos Santos",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "8",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2538911,-9.3941151]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367099",
+      "addr:housenumber": "135",
+      "addr:postcode": "48603-810",
+      "addr:street": "Rua Metódio Nunes Magalhães",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "5",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.251437,-9.3964519]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367164",
+      "addr:housenumber": "15",
+      "addr:postcode": "48603-814",
+      "addr:street": "Rua Ministro Dílson Funaro",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2514709,-9.3948913]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367204",
+      "addr:housenumber": "64",
+      "addr:postcode": "48603-812",
+      "addr:street": "Rua da Amizade",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2512029,-9.3951721]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367165",
+      "addr:housenumber": "17",
+      "addr:postcode": "48603-814",
+      "addr:street": "Rua Ministro Dílson Funaro",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2520899,-9.3955309]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367055",
+      "addr:housenumber": "3",
+      "addr:postcode": "48601-016",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0078P-1-61"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.254546,-9.39432]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367284",
+      "addr:housenumber": "15",
+      "addr:postcode": "48603-812",
+      "addr:street": "Rua da Amizade",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "8",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2515895,-9.3957831]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191396238",
+      "addr:housenumber": "20",
+      "addr:postcode": "48619-899",
+      "addr:street": "Rua do Britador",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "20",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2544961,-9.3927266]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191396248",
+      "addr:housenumber": "23",
+      "addr:postcode": "48601-014",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2546162,-9.3930376]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367148",
+      "addr:housenumber": "54",
+      "addr:postcode": "48603-808",
+      "addr:street": "Rua Adauto Floriano dos Santos",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2515293,-9.3948001]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367170",
+      "addr:housenumber": "238",
+      "addr:postcode": "48603-814",
+      "addr:street": "Rua Ministro Dílson Funaro",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2524073,-9.3958949]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367221",
+      "addr:housenumber": "97",
+      "addr:postcode": "48603-818",
+      "addr:street": "Rua Botafogo",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "49",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2522102,-9.3960742]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367275",
+      "addr:housenumber": "65",
+      "addr:postcode": "48603-812",
+      "addr:street": "Rua da Amizade",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "4",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2518391,-9.3960324]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27366951",
+      "addr:housenumber": "8",
+      "addr:postcode": "48603-820",
+      "addr:street": "Travessa Adauto Floriano dos Santos",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2543433,-9.3940884]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191397048",
+      "addr:housenumber": "64",
+      "addr:postcode": "48603-814",
+      "addr:street": "Rua Ministro Dílson Funaro",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2516633,-9.3950797]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191396492;191396500",
+      "addr:housenumber": "25",
+      "addr:postcode": "48603-816",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "14",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2549451,-9.3918256]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367233-27367234",
+      "addr:housenumber": "30",
+      "addr:postcode": "48603-814",
+      "addr:street": "Rua Ministro Dílson Funaro",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "14",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2516728,-9.3953379]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367133",
+      "addr:housenumber": "6",
+      "addr:postcode": "48603-820",
+      "addr:street": "Rua Adauto Floriano dos Santos",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2529362,-9.3936823]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367255",
+      "addr:housenumber": "180",
+      "addr:postcode": "48603-808",
+      "addr:street": "Rua Metódio Nunes Magalhães",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "27",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2510763,-9.3955599]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191397286",
+      "addr:housenumber": "28",
+      "addr:postcode": "48603-808",
+      "addr:street": "Rua Metódio Nunes Magalhães",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2510866,-9.3955763]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191396873",
+      "addr:housenumber": "342",
+      "addr:postcode": "48603-820",
+      "addr:street": "Travessa Adauto Floriano dos Santos",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2536711,-9.3939377]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367219",
+      "addr:housenumber": "4",
+      "addr:postcode": "48603-812",
+      "addr:street": "Rua da Amizade",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "41",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2516673,-9.3956327]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27366977",
+      "addr:housenumber": "31",
+      "addr:postcode": "48603-820",
+      "addr:street": "Rua Florisvaldo Bispo dos Santos",
+      "addr:suburb": "Dernival Oliveira",
+      "amenity": "pub",
+      "building": "yes",
+      "name": "Bar Encontro dos Amigos"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2525987,-9.3945404]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367098",
+      "addr:housenumber": "28",
+      "addr:postcode": "48603-810",
+      "addr:street": "Rua Metódio Nunes Magalhães",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2508304,-9.395507]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367211",
+      "addr:housenumber": "6",
+      "addr:postcode": "48603-812",
+      "addr:street": "Rua da Amizade",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "35",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2513706,-9.3953384]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367225;191397239",
+      "addr:housenumber": "7",
+      "addr:postcode": "48603-814",
+      "addr:street": "Rua Ministro Dílson Funaro",
+      "addr:suburb": "Dernival Oliveira",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2514679,-9.3951249]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367209",
+      "addr:housenumber": "8",
+      "addr:postcode": "48603-812",
+      "addr:street": "Rua da Amizade",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "33",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2512466,-9.3952154]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27367220",
+      "addr:housenumber": "112",
+      "addr:postcode": "48603-812",
+      "addr:street": "Rua da Amizade",
+      "addr:suburb": "Dernival Oliveira",
+      "addr:unit": "46",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2519359,-9.3958992]
+      }
+    }
+  ]
+}

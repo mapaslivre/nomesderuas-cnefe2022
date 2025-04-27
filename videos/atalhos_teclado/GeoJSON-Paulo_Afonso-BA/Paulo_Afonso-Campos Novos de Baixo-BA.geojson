@@ -1,0 +1,42 @@
+{
+  "type": "FeatureCollection",
+  "source": "IBGE CNEFE + Faces de Logradouros - 2022",
+  "generator": "CSV-CNEFE2GeoJSON.lua 1.5.7 - fidelis.assis@gmail.com",
+  "date": "2025-02-02T09:05:13-0300",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192029445",
+      "addr:housenumber": "139 B",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Campos Novos de Baixo",
+      "addr:suburb": "Campos Novos de Baixo",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0177P-0-9"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.319759,-9.449711]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192029442",
+      "addr:housenumber": "139 A",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Campos Novos de Baixo",
+      "addr:suburb": "Campos Novos de Baixo",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0177P-0-9"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.319686,-9.449566]
+      }
+    }
+  ]
+}

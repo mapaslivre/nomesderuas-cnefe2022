@@ -1,0 +1,95 @@
+{
+  "type": "FeatureCollection",
+  "source": "IBGE CNEFE + Faces de Logradouros - 2022",
+  "generator": "CSV-CNEFE2GeoJSON.lua 1.5.7 - fidelis.assis@gmail.com",
+  "date": "2025-02-02T09:05:33-0300",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112588062",
+      "addr:housenumber": "2",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada do Povoado Sabina",
+      "addr:suburb": "Sabina",
+      "addr:unit": "Fundos",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0114P-0-25"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.330956,-9.436758]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413311",
+      "addr:housenumber": "107",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada do Povoado Sabina",
+      "addr:suburb": "Sabina",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0114P-0-25"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.33092,-9.436798]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413312",
+      "addr:housenumber": "102",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada do Povoado Sabina",
+      "addr:suburb": "Sabina",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0114P-0-25"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.331298,-9.436679]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413313",
+      "addr:housenumber": "109",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada do Povoado Sabina",
+      "addr:suburb": "Sabina",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0114P-0-25"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.331018,-9.436769]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112588055",
+      "addr:housenumber": "1",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada do Povoado Sabina",
+      "addr:suburb": "Sabina",
+      "addr:unit": "Fundos",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0114P-0-25"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.330925,-9.436776]
+      }
+    }
+  ]
+}

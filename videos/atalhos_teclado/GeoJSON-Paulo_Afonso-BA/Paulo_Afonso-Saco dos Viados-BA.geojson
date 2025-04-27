@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "generator": "CSV-CNEFE2GeoJSON.lua 1.5.7 - fidelis.assis@gmail.com",
+  "source": "IBGE CNEFE + Faces de Logradouros - 2022",
+  "date": "2025-02-02T09:05:33-0300",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112590453",
+      "addr:housenumber": "10 A",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada do Povoado Matinha ao Saco dos Viados",
+      "addr:suburb": "Saco dos Viados",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "name": "Fazenda Boa Sorte",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0241P-0-89",
+      "place": "farm"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.23651,-9.609009]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112590453",
+      "addr:housenumber": "10 A",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada do Povoado Matinha ao Saco dos Viados",
+      "addr:suburb": "Saco dos Viados",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0241P-0-89"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.236509955805,-9.6090091616562]
+      }
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "type": "FeatureCollection",
+  "generator": "CSV-CNEFE2GeoJSON.lua 1.5.7 - fidelis.assis@gmail.com",
+  "source": "IBGE CNEFE + Faces de Logradouros - 2022",
+  "date": "2025-02-02T09:05:33-0300",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112588514",
+      "addr:housenumber": "12",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Santo Antônio",
+      "addr:suburb": "Santo Antônio",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0214P-0-111"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.349491,-9.604232]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112588645",
+      "addr:housenumber": "112",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Serrote",
+      "addr:suburb": "Santo Antônio",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0214P-0-113"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.377975,-9.576867]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414784",
+      "addr:housenumber": "16",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Santo Antônio",
+      "addr:suburb": "Santo Antônio",
+      "addr:unit": "Fundos Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0214P-0-111"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.346568,-9.597071]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112585314",
+      "addr:housenumber": "20 A",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada de Santo Antônio para Oserrote",
+      "addr:suburb": "Santo Antônio",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0214P-0-110"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.348359,-9.605624]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112585314",
+      "addr:housenumber": "20 A",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada de Santo Antônio para Oserrote",
+      "addr:suburb": "Santo Antônio",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "name": "Fazenda Mandacaru",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0214P-0-110",
+      "place": "farm"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.348358955806,-9.6056241616562]
+      }
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "type": "FeatureCollection",
+  "generator": "CSV-CNEFE2GeoJSON.lua 1.5.7 - fidelis.assis@gmail.com",
+  "source": "IBGE CNEFE + Faces de Logradouros - 2022",
+  "date": "2025-02-02T09:05:33-0300",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191542017",
+      "addr:housenumber": "15",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada do Juá",
+      "addr:suburb": "Serra do Padre",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0114P-0-21"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.31774,-9.415451]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112588004",
+      "addr:housenumber": "3",
+      "addr:postcode": "48619-899",
+      "addr:street": "Serra Padre Serra do Padre",
+      "addr:suburb": "Serra do Padre",
+      "addr:unit": "Fundos",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0114P-0-23"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.312916,-9.423933]
+      }
+    }
+  ]
+}

@@ -1,0 +1,3939 @@
+{
+  "type": "FeatureCollection",
+  "generator": "CSV-CNEFE2GeoJSON.lua 1.5.7 - fidelis.assis@gmail.com",
+  "source": "IBGE CNEFE + Faces de Logradouros - 2022",
+  "date": "2025-02-02T09:05:29-0300",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422423",
+      "addr:housenumber": "32",
+      "addr:postcode": "48604-510",
+      "addr:street": "Rua Blumenau",
+      "addr:suburb": "Pedra Comprida",
+      "addr:unit": "Fundos",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2423448,-9.3778078]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216763384",
+      "addr:housenumber": "19",
+      "addr:postcode": "48604-506",
+      "addr:street": "Travessa Boa Sorte",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2407696,-9.3790168]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216763528",
+      "addr:housenumber": "67",
+      "addr:postcode": "48604-516",
+      "addr:street": "Rua Érico Veríssimo",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2417343,-9.3765235]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216763464",
+      "addr:housenumber": "16 B",
+      "addr:postcode": "48604-510",
+      "addr:street": "Rua Blumenau",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2419645,-9.3778804]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216763188",
+      "addr:housenumber": "185",
+      "addr:postcode": "48604-506",
+      "addr:street": "Travessa Boa Sorte",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2419222,-9.3791866]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216763810",
+      "addr:housenumber": "45",
+      "addr:postcode": "48604-510",
+      "addr:street": "Travessa Blumenau",
+      "addr:suburb": "Pedra Comprida",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2418837,-9.3771633]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216763255",
+      "addr:housenumber": "156",
+      "addr:postcode": "48604-700",
+      "addr:street": "Rua Pedra Comprida",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.241305,-9.3792849]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216763119",
+      "addr:housenumber": "175",
+      "addr:postcode": "48604-506",
+      "addr:street": "Travessa Boa Sorte",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2418622,-9.3790877]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422390",
+      "addr:housenumber": "18",
+      "addr:postcode": "48604-504",
+      "addr:street": "Rua Boa Sorte",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.240626,-9.379253]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422418",
+      "addr:housenumber": "12",
+      "addr:postcode": "48604-510",
+      "addr:street": "Rua Blumenau",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2418406,-9.3779236]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216763373",
+      "addr:housenumber": "280",
+      "addr:postcode": "48604-500",
+      "addr:street": "Avenida Moxotó",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes",
+      "name": "Cec Modas",
+      "shop": "clothes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2404903,-9.3791205]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216763490",
+      "addr:housenumber": "90",
+      "addr:postcode": "48604-530",
+      "addr:street": "Rua Anápolis",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2417852,-9.3759967]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216763104",
+      "addr:housenumber": "17",
+      "addr:postcode": "48604-504",
+      "addr:street": "Rua Boa Sorte",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2414444,-9.3795014]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216763173",
+      "addr:housenumber": "182",
+      "addr:postcode": "48604-506",
+      "addr:street": "Travessa Boa Sorte",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2419289,-9.3790827]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216763486",
+      "addr:housenumber": "39",
+      "addr:postcode": "48604-510",
+      "addr:street": "Rua Blumenau",
+      "addr:suburb": "Pedra Comprida",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2424165,-9.3777637]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422296",
+      "addr:housenumber": "3",
+      "addr:postcode": "48604-500",
+      "addr:street": "Avenida Pedra Comprida",
+      "addr:suburb": "Pedra Comprida",
+      "addr:unit": "Casa C",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2404271,-9.3806375]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216763388",
+      "addr:housenumber": "8",
+      "addr:postcode": "48604-506",
+      "addr:street": "Travessa Boa Sorte",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2407493,-9.3789886]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422405",
+      "addr:housenumber": "262",
+      "addr:postcode": "48604-500",
+      "addr:street": "Avenida Moxotó",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2405217,-9.3790087]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216762690",
+      "addr:housenumber": "92",
+      "addr:postcode": "48604-510",
+      "addr:street": "Estrada Pedra Comprida",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2438243,-9.3765068]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422444",
+      "addr:housenumber": "37",
+      "addr:postcode": "48604-512",
+      "addr:street": "Rua Eldorado",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2422647,-9.3764726]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216763698",
+      "addr:housenumber": "133",
+      "addr:postcode": "48604-530",
+      "addr:street": "Rua Anápolis",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2433051,-9.3755386]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216763703",
+      "addr:housenumber": "1",
+      "addr:postcode": "48604-530",
+      "addr:street": "Rua Anápolis",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes",
+      "name": "Panificadora e Mercearia",
+      "shop": "bakery;convenience"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2433558,-9.3755117]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216763814",
+      "addr:housenumber": "91",
+      "addr:postcode": "48604-518",
+      "addr:street": "Rua Natividade",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2413322,-9.376469]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216762942",
+      "addr:housenumber": "74",
+      "addr:postcode": "48604-510",
+      "addr:street": "Travessa Blumenau",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0152P-1-12"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.241282,-9.377811]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216763340",
+      "addr:housenumber": "25 A",
+      "addr:postcode": "48604-700",
+      "addr:street": "Rua Pedra Comprida",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2454768,-9.3788228]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422401",
+      "addr:housenumber": "232 A",
+      "addr:postcode": "48604-500",
+      "addr:street": "Avenida Moxotó",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes",
+      "name": "Ótica Lacunas",
+      "shop": "optician"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2405533,-9.37877]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422480",
+      "addr:housenumber": "65",
+      "addr:postcode": "48604-530",
+      "addr:street": "Rua Anápolis",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2415632,-9.3760759]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422453",
+      "addr:housenumber": "40",
+      "addr:postcode": "48604-518",
+      "addr:street": "Rua Natividade",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2413875,-9.3766047]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422385",
+      "addr:housenumber": "30",
+      "addr:postcode": "48604-501",
+      "addr:street": "Rua Inajá",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2406963,-9.3804326]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422306",
+      "addr:housenumber": "10",
+      "addr:postcode": "48604-500",
+      "addr:street": "Avenida Pedra Comprida",
+      "addr:suburb": "Pedra Comprida",
+      "addr:unit": "Fundos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2407721,-9.3807666]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422328",
+      "addr:housenumber": "86",
+      "addr:postcode": "48604-510",
+      "addr:street": "Estrada Pedra Comprida",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes",
+      "name": "Venda em Desuso",
+      "shop": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2453616,-9.3774267]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422442",
+      "addr:housenumber": "46",
+      "addr:postcode": "48604-512",
+      "addr:street": "Rua Eldorado",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2422445,-9.3764773]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216763637",
+      "addr:housenumber": "35 A",
+      "addr:postcode": "48604-512",
+      "addr:street": "Rua Eldorado",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2423554,-9.3764517]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216763627",
+      "addr:housenumber": "35 C",
+      "addr:postcode": "48604-512",
+      "addr:street": "Rua Eldorado",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2423944,-9.3764447]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422386",
+      "addr:housenumber": "28 A4",
+      "addr:postcode": "48604-501",
+      "addr:street": "Rua Inajá",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0152P-1-11"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.241032,-9.380178]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216763345",
+      "addr:housenumber": "25",
+      "addr:postcode": "48604-700",
+      "addr:street": "Rua Pedra Comprida",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2454405,-9.3787558]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216763688",
+      "addr:housenumber": "39",
+      "addr:postcode": "48604-531",
+      "addr:street": "Travessa Blumenau",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2422564,-9.3775396]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216763513",
+      "addr:housenumber": "16",
+      "addr:postcode": "48604-516",
+      "addr:street": "Rua Érico Veríssimo",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.241821,-9.3768923]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422440",
+      "addr:housenumber": "39",
+      "addr:postcode": "48604-531",
+      "addr:street": "Rua Jundiaí",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0152P-3-30"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2432209,-9.3760151]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216763780",
+      "addr:housenumber": "10",
+      "addr:postcode": "48604-512",
+      "addr:street": "Rua Eldorado",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0152P-3-35"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2423878,-9.3765387]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422417",
+      "addr:housenumber": "68",
+      "addr:postcode": "48604-510",
+      "addr:street": "Rua Blumenau",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2417516,-9.3779016]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216762953",
+      "addr:housenumber": "215",
+      "addr:postcode": "48604-510",
+      "addr:street": "Travessa Blumenau",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0152P-1-12"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.241286,-9.377467]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422388",
+      "addr:housenumber": "25",
+      "addr:postcode": "48604-501",
+      "addr:street": "Rua Inajá",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2405566,-9.3804978]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216763027",
+      "addr:housenumber": "91",
+      "addr:postcode": "48604-531",
+      "addr:street": "Rua Jundiaí",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2437136,-9.3760522]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216763575",
+      "addr:housenumber": "18",
+      "addr:postcode": "48604-500",
+      "addr:street": "Avenida Moxotó",
+      "addr:suburb": "Pedra Comprida",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2407879,-9.3768278]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422387",
+      "addr:housenumber": "28 A2",
+      "addr:postcode": "48604-501",
+      "addr:street": "Rua Inajá",
+      "addr:suburb": "Pedra Comprida",
+      "addr:unit": "Fundos",
+      "building": "warehouse",
+      "description": "CNEFE 2022 Depósito",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0152P-1-11"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.241031955835,-9.3801781616562]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216763161",
+      "addr:housenumber": "179",
+      "addr:postcode": "48604-506",
+      "addr:street": "Travessa Boa Sorte",
+      "addr:suburb": "Pedra Comprida",
+      "addr:unit": "1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0152P-1-39"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.242106,-9.378861]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216763088",
+      "addr:housenumber": "15",
+      "addr:postcode": "48604-504",
+      "addr:street": "Rua Boa Sorte",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2411486,-9.3794103]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216763519",
+      "addr:housenumber": "97",
+      "addr:postcode": "48604-516",
+      "addr:street": "Rua Érico Veríssimo",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2418028,-9.3768388]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216763846",
+      "addr:housenumber": "25",
+      "addr:postcode": "48604-530",
+      "addr:street": "Rua Anápolis",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2411782,-9.3763032]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422446",
+      "addr:housenumber": "3 A",
+      "addr:postcode": "48604-512",
+      "addr:street": "Rua Eldorado",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2420375,-9.376534]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216762521",
+      "addr:housenumber": "3 C",
+      "addr:postcode": "48604-500",
+      "addr:street": "Avenida Pedra Comprida",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.240447,-9.3806485]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422402",
+      "addr:housenumber": "238",
+      "addr:postcode": "48604-500",
+      "addr:street": "Avenida Moxotó",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes",
+      "description": "CNEFE 2022 Venda de Produtos Alimentícios",
+      "shop": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2405617,-9.3788446]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216763642",
+      "addr:housenumber": "35",
+      "addr:postcode": "48604-512",
+      "addr:street": "Rua Eldorado",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2425966,-9.3764406]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216763647",
+      "addr:housenumber": "10",
+      "addr:postcode": "48604-512",
+      "addr:street": "Travessa Blumenau",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0152P-3-8"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2422672,-9.3773962]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216763657",
+      "addr:housenumber": "56",
+      "addr:postcode": "48604-518",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2415502,-9.3769526]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216762447",
+      "addr:housenumber": "12",
+      "addr:postcode": "48604-500",
+      "addr:street": "Avenida Pedra Comprida",
+      "addr:suburb": "Pedra Comprida",
+      "addr:unit": "Casa 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2408016,-9.3808448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216763585",
+      "addr:housenumber": "20 A",
+      "addr:postcode": "48604-500",
+      "addr:street": "Avenida Moxotó",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2408077,-9.3769619]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422410",
+      "addr:housenumber": "7 A",
+      "addr:postcode": "48604-510",
+      "addr:street": "Rua Blumenau",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2409278,-9.3784425]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216762406",
+      "addr:housenumber": "5",
+      "addr:postcode": "48604-500",
+      "addr:street": "Avenida Pedra Comprida",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2406169,-9.3807426]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216763066",
+      "addr:housenumber": "28",
+      "addr:postcode": "48604-510",
+      "addr:street": "Rua Blumenau",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0152P-1-22"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2425981,-9.377479]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422413;216763450",
+      "addr:housenumber": "6",
+      "addr:postcode": "48604-510",
+      "addr:street": "Rua Blumenau",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2412718,-9.3781686]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216763021",
+      "addr:housenumber": "2",
+      "addr:postcode": "48604-531",
+      "addr:street": "Rua Jundiaí",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2442535,-9.3756249]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216763744",
+      "addr:housenumber": "101",
+      "addr:postcode": "48604-531",
+      "addr:street": "Rua Jundiaí",
+      "addr:suburb": "Pedra Comprida",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2437824,-9.3760047]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422482",
+      "addr:housenumber": "33",
+      "addr:postcode": "48604-530",
+      "addr:street": "Rua Anápolis",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2414367,-9.3761715]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216762509",
+      "addr:housenumber": "3",
+      "addr:postcode": "48604-500",
+      "addr:street": "Avenida Pedra Comprida",
+      "addr:suburb": "Pedra Comprida",
+      "addr:unit": "Casa A",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2404263,-9.380637]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216763446",
+      "addr:housenumber": "18",
+      "addr:postcode": "48604-510",
+      "addr:street": "Rua Blumenau",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2410921,-9.3783799]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216763673",
+      "addr:housenumber": "61",
+      "addr:postcode": "48604-518",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2412894,-9.3769475]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216763056",
+      "addr:housenumber": "33",
+      "addr:postcode": "48604-510",
+      "addr:street": "Rua Blumenau",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0152P-1-22"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2425691,-9.3775814]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422408",
+      "addr:housenumber": "282",
+      "addr:postcode": "48604-500",
+      "addr:street": "Avenida Moxotó",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.240482600058,-9.3791220613881]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216763459",
+      "addr:housenumber": "15",
+      "addr:postcode": "48604-510",
+      "addr:street": "Rua Blumenau",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2417364,-9.3779063]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422438",
+      "addr:housenumber": "13",
+      "addr:postcode": "48604-531",
+      "addr:street": "Rua Jundiaí",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0152P-3-30"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2431333,-9.3760388]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422433",
+      "addr:housenumber": "32",
+      "addr:postcode": "48604-531",
+      "addr:street": "Rua Jundiaí",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2430017,-9.3757851]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216762957",
+      "addr:housenumber": "59",
+      "addr:postcode": "48604-510",
+      "addr:street": "Travessa Blumenau",
+      "addr:suburb": "Pedra Comprida",
+      "building": "construction",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0152P-1-12"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.241275,-9.37704]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216763767",
+      "addr:housenumber": "51",
+      "addr:postcode": "48604-514",
+      "addr:street": "Rua Guarapari",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0152P-3-34"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.242212,-9.37676]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216762516",
+      "addr:housenumber": "3",
+      "addr:postcode": "48604-500",
+      "addr:street": "Avenida Pedra Comprida",
+      "addr:suburb": "Pedra Comprida",
+      "addr:unit": "Casa B",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.240428045921,-9.3806419000032]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422376",
+      "addr:housenumber": "390",
+      "addr:postcode": "48604-500",
+      "addr:street": "Avenida Moxotó",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2402957,-9.3800017]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216763753",
+      "addr:housenumber": "25",
+      "addr:postcode": "48604-508",
+      "addr:street": "Rua Canudos",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0152P-3-32"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.242598,-9.376689]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216762534",
+      "addr:housenumber": "42",
+      "addr:postcode": "48604-500",
+      "addr:street": "Estrada do Sítio Pedra Comprida",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2451759,-9.3826449]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216762657;216762679",
+      "addr:housenumber": "80",
+      "addr:postcode": "48604-510",
+      "addr:street": "Estrada Pedra Comprida",
+      "addr:suburb": "Pedra Comprida",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2455901,-9.3777763]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422416",
+      "addr:housenumber": "8",
+      "addr:postcode": "48604-510",
+      "addr:street": "Rua Blumenau",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.24159,-9.3779679]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216763632",
+      "addr:housenumber": "35 B",
+      "addr:postcode": "48604-512",
+      "addr:street": "Rua Eldorado",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2424223,-9.3764404]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216763015",
+      "addr:housenumber": "8",
+      "addr:postcode": "48604-531",
+      "addr:street": "Rua Jundiaí",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2442409,-9.3756248]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422435",
+      "addr:housenumber": "25",
+      "addr:postcode": "48604-531",
+      "addr:street": "Rua Jundiaí",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2431415,-9.3758374]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422329",
+      "addr:housenumber": "88",
+      "addr:postcode": "48604-510",
+      "addr:street": "Estrada Pedra Comprida",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2448796,-9.3773059]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216763740",
+      "addr:housenumber": "111",
+      "addr:postcode": "48604-531",
+      "addr:street": "Rua Jundiaí",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.243797,-9.3759961]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216763044",
+      "addr:housenumber": "180",
+      "addr:postcode": "48604-531",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.243996,-9.3762035]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216762607",
+      "addr:housenumber": "58",
+      "addr:postcode": "48604-500",
+      "addr:street": "Estrada do Sítio Pedra Comprida",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2451286,-9.3810252]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216762601",
+      "addr:housenumber": "55",
+      "addr:postcode": "48604-500",
+      "addr:street": "Estrada do Sítio Pedra Comprida",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2451264,-9.3810425]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216763763",
+      "addr:housenumber": "50",
+      "addr:postcode": "48604-514",
+      "addr:street": "Rua Guarapari",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0152P-3-34"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.242182,-9.376626]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422456",
+      "addr:housenumber": "2",
+      "addr:postcode": "48604-518",
+      "addr:street": "Rua Natividade",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2411503,-9.3766561]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216762552",
+      "addr:housenumber": "48",
+      "addr:postcode": "48604-500",
+      "addr:street": "Estrada do Sítio Pedra Comprida",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2454117,-9.3820177]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216762595",
+      "addr:housenumber": "54",
+      "addr:postcode": "48604-500",
+      "addr:street": "Estrada do Sítio Pedra Comprida",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2452371,-9.3811702]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216763474",
+      "addr:housenumber": "16",
+      "addr:postcode": "48604-510",
+      "addr:street": "Rua Blumenau",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2421539,-9.3779217]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216763061",
+      "addr:housenumber": "141",
+      "addr:postcode": "48604-510",
+      "addr:street": "Rua Blumenau",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0152P-1-22"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2425902,-9.3775078]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216763129",
+      "addr:housenumber": "177",
+      "addr:postcode": "48604-506",
+      "addr:street": "Travessa Boa Sorte",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0152P-1-38"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.242027,-9.378914]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422392",
+      "addr:housenumber": "12",
+      "addr:postcode": "48604-504",
+      "addr:street": "Rua Boa Sorte",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2407892,-9.3792832]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216762540",
+      "addr:housenumber": "12",
+      "addr:postcode": "48604-500",
+      "addr:street": "Estrada do Sítio Pedra Comprida",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2453452,-9.3822178]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216763708",
+      "addr:housenumber": "1",
+      "addr:postcode": "48604-530",
+      "addr:street": "Rua Anápolis",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2433869,-9.375491]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216762618",
+      "addr:housenumber": "47",
+      "addr:postcode": "48604-500",
+      "addr:street": "Estrada do Sítio Pedra Comprida",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2453849,-9.3820995]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216762966",
+      "addr:housenumber": "86",
+      "addr:postcode": "48604-510",
+      "addr:street": "Travessa Blumenau",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0152P-1-12"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.241299,-9.377742]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422301",
+      "addr:housenumber": "8",
+      "addr:postcode": "48604-500",
+      "addr:street": "Avenida Pedra Comprida",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2406945,-9.3807855]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216763114",
+      "addr:housenumber": "173",
+      "addr:postcode": "48604-506",
+      "addr:street": "Travessa Boa Sorte",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2417813,-9.3791719]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216762498",
+      "addr:housenumber": "8",
+      "addr:postcode": "48604-500",
+      "addr:street": "Avenida Pedra Comprida",
+      "addr:suburb": "Pedra Comprida",
+      "addr:unit": "Fundos 3",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2407527,-9.3807559]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422479",
+      "addr:housenumber": "3",
+      "addr:postcode": "48604-518",
+      "addr:street": "Rua Natividade",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2414246,-9.3764467]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216763748",
+      "addr:housenumber": "44",
+      "addr:postcode": "48604-508",
+      "addr:street": "Rua Canudos",
+      "addr:suburb": "Pedra Comprida",
+      "building": "construction",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0152P-3-32"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.242541,-9.37653]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216762488",
+      "addr:housenumber": "4",
+      "addr:postcode": "48604-500",
+      "addr:street": "Avenida Pedra Comprida",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2442791,-9.3826721]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216763772",
+      "addr:housenumber": "52",
+      "addr:postcode": "48604-514",
+      "addr:street": "Rua Guarapari",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0152P-3-34"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.242247,-9.376775]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216763135",
+      "addr:housenumber": "178",
+      "addr:postcode": "48604-506",
+      "addr:street": "Travessa Boa Sorte",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0152P-1-38"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.242231,-9.378758]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216763536",
+      "addr:housenumber": "6 A",
+      "addr:postcode": "48604-518",
+      "addr:street": "Rua Natividade",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes",
+      "name": "Oficina Johnny Meck"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.241561,-9.3765671]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216763070",
+      "addr:housenumber": "4",
+      "addr:postcode": "48604-510",
+      "addr:street": "Rua Blumenau",
+      "addr:suburb": "Pedra Comprida",
+      "building": "construction",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0152P-1-22"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2426214,-9.3773906]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216763731",
+      "addr:housenumber": "107",
+      "addr:postcode": "48604-530",
+      "addr:street": "Rua Anápolis",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2437194,-9.3754614]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216763399",
+      "addr:housenumber": "21",
+      "addr:postcode": "48604-506",
+      "addr:street": "Travessa Boa Sorte",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes",
+      "name": "Fundo Padaria",
+      "shop": "bakery"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2407259,-9.3789561]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216763540",
+      "addr:housenumber": "30",
+      "addr:postcode": "48604-518",
+      "addr:street": "Rua Natividade",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.241457,-9.3765896]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422473",
+      "addr:housenumber": "23 B",
+      "addr:postcode": "48604-500",
+      "addr:street": "Avenida Moxotó",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2407575,-9.3781451]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216763454",
+      "addr:housenumber": "21",
+      "addr:postcode": "48604-510",
+      "addr:street": "Rua Blumenau",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2418469,-9.3779105]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216763273",
+      "addr:housenumber": "157",
+      "addr:postcode": "48604-700",
+      "addr:street": "Rua Pedra Comprida",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2413009,-9.3792939]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216762559",
+      "addr:housenumber": "49",
+      "addr:postcode": "48604-500",
+      "addr:street": "Estrada do Sítio Pedra Comprida",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2454226,-9.3819794]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216763009",
+      "addr:housenumber": "6",
+      "addr:postcode": "48604-530",
+      "addr:street": "Rua Anápolis",
+      "addr:suburb": "Pedra Comprida",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "pentecostal",
+      "name": "Igreja Evangélica Assembleia de Deus",
+      "religion": "christian"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2439997,-9.3753792]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216763784",
+      "addr:housenumber": "58",
+      "addr:postcode": "48604-512",
+      "addr:street": "Rua Eldorado",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0152P-3-35"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2419379,-9.3766582]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216762997",
+      "addr:housenumber": "3",
+      "addr:postcode": "48604-530",
+      "addr:street": "Rua Anápolis",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2443512,-9.3753575]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422455",
+      "addr:housenumber": "52",
+      "addr:postcode": "48604-518",
+      "addr:street": "Rua Natividade",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2415168,-9.3765767]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216763536",
+      "addr:housenumber": "6 A",
+      "addr:postcode": "48604-518",
+      "addr:street": "Rua Natividade",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.241564507382,-9.3765678951224]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422454",
+      "addr:housenumber": "64",
+      "addr:postcode": "48604-518",
+      "addr:street": "Rua Natividade",
+      "addr:suburb": "Pedra Comprida",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.241079,-9.3766721]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216763306",
+      "addr:housenumber": "25",
+      "addr:postcode": "48604-700",
+      "addr:street": "Rua Pedra Comprida",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0152P-1-52"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2441918,-9.3756981]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216763816",
+      "addr:housenumber": "10",
+      "addr:postcode": "48604-518",
+      "addr:street": "Rua Natividade",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2411722,-9.3765077]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216763613",
+      "addr:housenumber": "188 A",
+      "addr:postcode": "48604-500",
+      "addr:street": "Avenida Moxotó",
+      "addr:suburb": "Pedra Comprida",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2406894,-9.3784075]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216762431",
+      "addr:housenumber": "20",
+      "addr:postcode": "48604-500",
+      "addr:street": "Avenida Pedra Comprida",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2411321,-9.3810161]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422472",
+      "addr:housenumber": "23 A",
+      "addr:postcode": "48604-500",
+      "addr:street": "Avenida Moxotó",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2407634,-9.3781225]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216763652",
+      "addr:housenumber": "11",
+      "addr:postcode": "48604-512",
+      "addr:street": "Travessa Blumenau",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0152P-3-8"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2422901,-9.3774232]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216762673",
+      "addr:housenumber": "83",
+      "addr:postcode": "48604-510",
+      "addr:street": "Estrada Pedra Comprida",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2456334,-9.3776422]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216763760",
+      "addr:housenumber": "40",
+      "addr:postcode": "48604-512",
+      "addr:street": "Travessa Blumenau",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2420436,-9.3775214]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216763777",
+      "addr:housenumber": "55",
+      "addr:postcode": "48604-514",
+      "addr:street": "Rua Guarapari",
+      "addr:suburb": "Pedra Comprida",
+      "building": "construction",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0152P-3-34"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.242194,-9.376757]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216763752",
+      "addr:housenumber": "39",
+      "addr:postcode": "48604-508",
+      "addr:street": "Rua Canudos",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0152P-3-32"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.242602786894,-9.376681622981]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216763084",
+      "addr:housenumber": "150",
+      "addr:postcode": "48604-506",
+      "addr:street": "Travessa Boa Sorte",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2412863,-9.3789115]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216763075",
+      "addr:housenumber": "28 A",
+      "addr:postcode": "48604-510",
+      "addr:street": "Rua Blumenau",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0152P-1-22"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2425939,-9.3774946]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216762394;216762463",
+      "addr:housenumber": "2",
+      "addr:postcode": "48604-500",
+      "addr:street": "Avenida Pedra Comprida",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2403544,-9.3805972]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216763581",
+      "addr:housenumber": "20",
+      "addr:postcode": "48604-500",
+      "addr:street": "Avenida Moxotó",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.240762,-9.3768429]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422481",
+      "addr:housenumber": "140",
+      "addr:postcode": "48604-530",
+      "addr:street": "Rua Anápolis",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.24132,-9.376231]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216762937",
+      "addr:housenumber": "28 A3",
+      "addr:postcode": "48604-501",
+      "addr:street": "Rua Inajá",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2406373,-9.3804799]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422467",
+      "addr:housenumber": "94",
+      "addr:postcode": "48604-500",
+      "addr:street": "Avenida Moxotó",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2408499,-9.3776767]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216763589",
+      "addr:housenumber": "20 B",
+      "addr:postcode": "48604-500",
+      "addr:street": "Avenida Moxotó",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2408074,-9.3769595]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216763357",
+      "addr:housenumber": "390",
+      "addr:postcode": "48604-700",
+      "addr:street": "Rua Pedra Comprida",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2454792,-9.3786471]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422422",
+      "addr:housenumber": "32",
+      "addr:postcode": "48604-510",
+      "addr:street": "Rua Blumenau",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.242369,-9.377826]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422485",
+      "addr:housenumber": "15",
+      "addr:postcode": "48604-530",
+      "addr:street": "Rua Anápolis",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2410325,-9.3763775]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216763200",
+      "addr:housenumber": "34",
+      "addr:postcode": "48604-504",
+      "addr:street": "Rua Boa Sorte",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2417717,-9.379597]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422475",
+      "addr:housenumber": "178",
+      "addr:postcode": "48604-500",
+      "addr:street": "Avenida Moxotó",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2407036,-9.378352]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422465",
+      "addr:housenumber": "68",
+      "addr:postcode": "48604-500",
+      "addr:street": "Avenida Moxotó",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2408549,-9.3773642]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216763109",
+      "addr:housenumber": "171",
+      "addr:postcode": "48604-506",
+      "addr:street": "Travessa Boa Sorte",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2416701,-9.3793487]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216763493",
+      "addr:housenumber": "28",
+      "addr:postcode": "48604-530",
+      "addr:street": "Rua Anápolis",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2425133,-9.375722]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422439",
+      "addr:housenumber": "29",
+      "addr:postcode": "48604-531",
+      "addr:street": "Rua Jundiaí",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0152P-3-30"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2431826,-9.3760256]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216763212",
+      "addr:housenumber": "36",
+      "addr:postcode": "48604-504",
+      "addr:street": "Rua Boa Sorte",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2419213,-9.3796188]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422415",
+      "addr:housenumber": "7",
+      "addr:postcode": "48604-510",
+      "addr:street": "Rua Blumenau",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2414601,-9.3780279]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216763728",
+      "addr:housenumber": "23",
+      "addr:postcode": "48604-530",
+      "addr:street": "Rua Anápolis",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2435133,-9.3754763]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216763803",
+      "addr:housenumber": "29",
+      "addr:postcode": "48604-516",
+      "addr:street": "Rua Érico Veríssimo",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0152P-3-36"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2419592,-9.3770159]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422464",
+      "addr:housenumber": "50",
+      "addr:postcode": "48604-500",
+      "addr:street": "Avenida Moxotó",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2408538,-9.3773378]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422432",
+      "addr:housenumber": "23",
+      "addr:postcode": "48604-531",
+      "addr:street": "Rua Jundiaí",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2430143,-9.375861]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216762435",
+      "addr:housenumber": "12",
+      "addr:postcode": "48604-500",
+      "addr:street": "Avenida Pedra Comprida",
+      "addr:suburb": "Pedra Comprida",
+      "addr:unit": "Casa 2",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.240793359955,-9.3808411955181]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422381",
+      "addr:housenumber": "430",
+      "addr:postcode": "48604-500",
+      "addr:street": "Avenida Moxotó",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.240286,-9.3803595]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216763233",
+      "addr:housenumber": "192",
+      "addr:postcode": "48604-504",
+      "addr:street": "Rua Boa Sorte",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2422473,-9.3794458]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422474",
+      "addr:housenumber": "166",
+      "addr:postcode": "48604-500",
+      "addr:street": "Avenida Moxotó",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes",
+      "name": "Ame Motos Oficina Mecânica",
+      "shop": "motorcycle_repair"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2407246,-9.3782712]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216763034",
+      "addr:housenumber": "4",
+      "addr:postcode": "48604-531",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2438211,-9.3764059]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216762425",
+      "addr:housenumber": "16",
+      "addr:postcode": "48604-500",
+      "addr:street": "Avenida Pedra Comprida",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 44m 0500-0152P-1-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.241111,-9.380619]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216763328",
+      "addr:housenumber": "8",
+      "addr:postcode": "48604-700",
+      "addr:street": "Rua Pedra Comprida",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2455894,-9.3796523]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216762411",
+      "addr:housenumber": "12",
+      "addr:postcode": "48604-500",
+      "addr:street": "Avenida Pedra Comprida",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2408815,-9.380889]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216763050",
+      "addr:housenumber": "81",
+      "addr:postcode": "48604-510",
+      "addr:street": "Rua Blumenau",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "name": "Vivo",
+      "note": "Sem dados para mover para dentro da quadra 0500-0152P-1-21",
+      "shop": "telecommunication"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2434953,-9.375964]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422406",
+      "addr:housenumber": "272",
+      "addr:postcode": "48604-500",
+      "addr:street": "Avenida Moxotó",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2405046,-9.3790695]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216763296",
+      "addr:housenumber": "11",
+      "addr:postcode": "48604-700",
+      "addr:street": "Rua Pedra Comprida",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "name": "Oficina do Gil",
+      "note": "Sem dados para mover para dentro da quadra 0500-0152P-1-52",
+      "shop": "car_repair"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2443681,-9.3757959]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216763604",
+      "addr:housenumber": "108 A",
+      "addr:postcode": "48604-500",
+      "addr:street": "Avenida Moxotó",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2408401,-9.3777521]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422437",
+      "addr:housenumber": "8",
+      "addr:postcode": "48604-533",
+      "addr:street": "Rua Avaí",
+      "addr:suburb": "Pedra Comprida",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2434005,-9.3757923]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216763267",
+      "addr:housenumber": "10",
+      "addr:postcode": "48604-700",
+      "addr:street": "Rua Pedra Comprida",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2413958,-9.3790882]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422447",
+      "addr:housenumber": "32",
+      "addr:postcode": "48604-512",
+      "addr:street": "Rua Eldorado",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2419621,-9.376559]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422470",
+      "addr:housenumber": "140",
+      "addr:postcode": "48604-500",
+      "addr:street": "Avenida Moxotó",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.240795,-9.3780025]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422457",
+      "addr:housenumber": "50",
+      "addr:postcode": "48604-518",
+      "addr:street": "Rua Natividade",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2413212,-9.376619]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422366",
+      "addr:housenumber": "164",
+      "addr:postcode": "48604-506",
+      "addr:street": "Travessa Boa Sorte",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.241433,-9.3793176]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216762991",
+      "addr:housenumber": "1",
+      "addr:postcode": "48604-530",
+      "addr:street": "Rua Anápolis",
+      "addr:suburb": "Pedra Comprida",
+      "amenity": "fast_food;pub",
+      "building": "yes",
+      "name": "Boteco e Hamburgueria da Vila"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2447689,-9.3752938]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422379",
+      "addr:housenumber": "408",
+      "addr:postcode": "48604-500",
+      "addr:street": "Avenida Moxotó",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2402843,-9.3801203]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422377",
+      "addr:housenumber": "400",
+      "addr:postcode": "48604-500",
+      "addr:street": "Avenida Moxotó",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2402865,-9.3800745]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216763003",
+      "addr:housenumber": "21",
+      "addr:postcode": "48604-530",
+      "addr:street": "Rua Anápolis",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2442008,-9.3753773]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422404",
+      "addr:housenumber": "260",
+      "addr:postcode": "48604-500",
+      "addr:street": "Avenida Moxotó",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2405419,-9.3789369]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422409",
+      "addr:housenumber": "5",
+      "addr:postcode": "48604-510",
+      "addr:street": "Rua Blumenau",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2407739,-9.378458]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422468",
+      "addr:housenumber": "108",
+      "addr:postcode": "48604-500",
+      "addr:street": "Avenida Moxotó",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2408532,-9.3776465]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216762503",
+      "addr:housenumber": "8",
+      "addr:postcode": "48604-500",
+      "addr:street": "Avenida Pedra Comprida",
+      "addr:suburb": "Pedra Comprida",
+      "addr:unit": "Fundos 4",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.240766442457,-9.3807537579953]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216763392",
+      "addr:housenumber": "21",
+      "addr:postcode": "48604-506",
+      "addr:street": "Travessa Boa Sorte",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2406986,-9.3789181]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216763003",
+      "addr:housenumber": "21",
+      "addr:postcode": "48604-530",
+      "addr:street": "Rua Anápolis",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes",
+      "name": "Bonbonnière Conomico",
+      "shop": "confectionery"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.244196266954,-9.3753923276867]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216763716",
+      "addr:housenumber": "27",
+      "addr:postcode": "48604-531",
+      "addr:street": "Rua Jundiaí",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2431442,-9.3758537]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422383",
+      "addr:housenumber": "442",
+      "addr:postcode": "48604-501",
+      "addr:street": "Rua Inajá",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2404961,-9.3803676]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422380",
+      "addr:housenumber": "414",
+      "addr:postcode": "48604-500",
+      "addr:street": "Avenida Moxotó",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2402867,-9.3803294]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216763842",
+      "addr:housenumber": "8",
+      "addr:postcode": "48604-530",
+      "addr:street": "Rua Anápolis",
+      "addr:suburb": "Pedra Comprida",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2408757,-9.3764534]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216763350",
+      "addr:housenumber": "23 A",
+      "addr:postcode": "48604-700",
+      "addr:street": "Rua Pedra Comprida",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2454779,-9.3787707]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422458",
+      "addr:housenumber": "8",
+      "addr:postcode": "48604-500",
+      "addr:street": "Avenida Moxotó",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2407592,-9.3767063]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216763044",
+      "addr:housenumber": "180",
+      "addr:postcode": "48604-531",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes",
+      "hairdresser": "barber",
+      "name": "Biel Barbeiro",
+      "shop": "hairdresser"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.243998601708,-9.3762003994432]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422476",
+      "addr:housenumber": "188",
+      "addr:postcode": "48604-500",
+      "addr:street": "Avenida Moxotó",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2406922,-9.3783967]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216763182",
+      "addr:housenumber": "184",
+      "addr:postcode": "48604-506",
+      "addr:street": "Travessa Boa Sorte",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2419278,-9.3791105]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216763822",
+      "addr:housenumber": "14",
+      "addr:postcode": "48604-516",
+      "addr:street": "Rua Érico Veríssimo",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2416208,-9.3762315]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216763507",
+      "addr:housenumber": "18",
+      "addr:postcode": "48604-516",
+      "addr:street": "Rua Érico Veríssimo",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2418526,-9.376985]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422402",
+      "addr:housenumber": "238",
+      "addr:postcode": "48604-500",
+      "addr:street": "Avenida Moxotó",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.240547079394,-9.3788525347967]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422391",
+      "addr:housenumber": "14 B",
+      "addr:postcode": "48604-504",
+      "addr:street": "Rua Boa Sorte",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2408721,-9.3792735]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422375",
+      "addr:housenumber": "360",
+      "addr:postcode": "48604-500",
+      "addr:street": "Avenida Moxotó",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.240327,-9.3798203]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422460;27422462",
+      "addr:housenumber": "42",
+      "addr:postcode": "48604-500",
+      "addr:street": "Avenida Moxotó",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2408115,-9.3769923]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422436",
+      "addr:housenumber": "100",
+      "addr:postcode": "48604-530",
+      "addr:street": "Rua Anápolis",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2428336,-9.375634]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216763524",
+      "addr:housenumber": "69",
+      "addr:postcode": "48604-516",
+      "addr:street": "Rua Érico Veríssimo",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2417465,-9.3766698]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216763194",
+      "addr:housenumber": "186",
+      "addr:postcode": "48604-506",
+      "addr:street": "Travessa Boa Sorte",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2419077,-9.3792112]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216763750",
+      "addr:housenumber": "33",
+      "addr:postcode": "48604-508",
+      "addr:street": "Rua Canudos",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0152P-3-32"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.242582,-9.376632]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216763600",
+      "addr:housenumber": "30",
+      "addr:postcode": "48604-500",
+      "addr:street": "Avenida Moxotó",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2408298,-9.3771369]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422471",
+      "addr:housenumber": "23",
+      "addr:postcode": "48604-500",
+      "addr:street": "Avenida Moxotó",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.240757631619,-9.3781532963619]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216763665",
+      "addr:housenumber": "62",
+      "addr:postcode": "48604-518",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2413411,-9.3769683]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422466",
+      "addr:housenumber": "82",
+      "addr:postcode": "48604-500",
+      "addr:street": "Avenida Moxotó",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2408586,-9.3774501]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216763799",
+      "addr:housenumber": "62",
+      "addr:postcode": "48604-516",
+      "addr:street": "Rua Érico Veríssimo",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0152P-3-36"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2419437,-9.3769521]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216762977",
+      "addr:housenumber": "12",
+      "addr:postcode": "48604-510",
+      "addr:street": "Rua Blumenau",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2447158,-9.3754311]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422304",
+      "addr:housenumber": "8",
+      "addr:postcode": "48604-500",
+      "addr:street": "Avenida Pedra Comprida",
+      "addr:suburb": "Pedra Comprida",
+      "addr:unit": "Fundos Casa 2",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2407597,-9.3807597]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216763661",
+      "addr:housenumber": "58",
+      "addr:postcode": "48604-518",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2414709,-9.3770246]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216762662",
+      "addr:housenumber": "81",
+      "addr:postcode": "48604-510",
+      "addr:street": "Estrada Pedra Comprida",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2455504,-9.3778961]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216763807",
+      "addr:housenumber": "63",
+      "addr:postcode": "48604-516",
+      "addr:street": "Rua Érico Veríssimo",
+      "addr:suburb": "Pedra Comprida",
+      "building": "construction",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0152P-3-36"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2419589,-9.3770039]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216763825",
+      "addr:housenumber": "65 B",
+      "addr:postcode": "48604-516",
+      "addr:street": "Rua Érico Veríssimo",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2416372,-9.3762775]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422484",
+      "addr:housenumber": "10",
+      "addr:postcode": "48604-530",
+      "addr:street": "Rua Anápolis",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2409458,-9.3764206]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216763819",
+      "addr:housenumber": "9",
+      "addr:postcode": "48604-518",
+      "addr:street": "Rua Natividade",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2411824,-9.3765055]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422334;216762684",
+      "addr:housenumber": "77",
+      "addr:postcode": "48604-510",
+      "addr:street": "Estrada Pedra Comprida",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 50m 0500-0152P-1-4"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.244927,-9.3777035]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216763795",
+      "addr:housenumber": "106",
+      "addr:postcode": "48604-516",
+      "addr:street": "Rua Érico Veríssimo",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0152P-3-36"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.241914,-9.3768526]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216762652",
+      "addr:housenumber": "79",
+      "addr:postcode": "48604-510",
+      "addr:street": "Estrada Pedra Comprida",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2455265,-9.3779619]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216762972",
+      "addr:housenumber": "82",
+      "addr:postcode": "48604-510",
+      "addr:street": "Travessa Blumenau",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0152P-1-12"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.24131,-9.377813]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216763469",
+      "addr:housenumber": "17",
+      "addr:postcode": "48604-510",
+      "addr:street": "Rua Blumenau",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2420885,-9.3779009]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422459",
+      "addr:housenumber": "18",
+      "addr:postcode": "48604-500",
+      "addr:street": "Avenida Moxotó",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes",
+      "name": "Venda de Protos Alimentícios",
+      "shop": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.240788,-9.3768282]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216763155",
+      "addr:housenumber": "179",
+      "addr:postcode": "48604-506",
+      "addr:street": "Travessa Boa Sorte",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0152P-1-38"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.242243,-9.378756]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216763279",
+      "addr:housenumber": "195",
+      "addr:postcode": "48604-700",
+      "addr:street": "Rua Pedra Comprida",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2423856,-9.378877]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216763095",
+      "addr:housenumber": "165",
+      "addr:postcode": "48604-506",
+      "addr:street": "Travessa Boa Sorte",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2415066,-9.379156]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216763726",
+      "addr:housenumber": "91",
+      "addr:postcode": "48604-530",
+      "addr:street": "Rua Anápolis",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2435103,-9.3754754]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216763379",
+      "addr:housenumber": "18",
+      "addr:postcode": "48604-506",
+      "addr:street": "Travessa Boa Sorte",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2408083,-9.3790706]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422403",
+      "addr:housenumber": "244",
+      "addr:postcode": "48604-500",
+      "addr:street": "Avenida Moxotó",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2405514,-9.378903]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216763167",
+      "addr:housenumber": "181",
+      "addr:postcode": "48604-506",
+      "addr:street": "Travessa Boa Sorte",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2419329,-9.3790636]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216762696",
+      "addr:housenumber": "93",
+      "addr:postcode": "48604-510",
+      "addr:street": "Estrada Pedra Comprida",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2438322,-9.3765386]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422368",
+      "addr:housenumber": "158",
+      "addr:postcode": "48604-700",
+      "addr:street": "Rua Pedra Comprida",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2413249,-9.3792419]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216763756",
+      "addr:housenumber": "47",
+      "addr:postcode": "48604-508",
+      "addr:street": "Rua Canudos",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0152P-3-32"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.242579,-9.376644]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422483",
+      "addr:housenumber": "5",
+      "addr:postcode": "48604-530",
+      "addr:street": "Rua Anápolis",
+      "addr:suburb": "Pedra Comprida",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2410806,-9.3763529]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422485",
+      "addr:housenumber": "15",
+      "addr:postcode": "48604-530",
+      "addr:street": "Rua Anápolis",
+      "addr:suburb": "Pedra Comprida",
+      "amenity": "pub",
+      "building": "yes",
+      "description": "CNEFE 2022 Bar"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.241017394689,-9.376368045612]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216763721",
+      "addr:housenumber": "34",
+      "addr:postcode": "48604-533",
+      "addr:street": "Rua Avaí",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2434045,-9.3758309]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216762483",
+      "addr:housenumber": "36",
+      "addr:postcode": "48604-500",
+      "addr:street": "Avenida Pedra Comprida",
+      "addr:suburb": "Pedra Comprida",
+      "addr:unit": "Sítio 4",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 112m 0500-0152P-1-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.24426,-9.381587]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422374",
+      "addr:housenumber": "300",
+      "addr:postcode": "48604-500",
+      "addr:street": "Avenida Moxotó",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2403486,-9.3797177]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216763828",
+      "addr:housenumber": "65 C",
+      "addr:postcode": "48604-516",
+      "addr:street": "Rua Érico Veríssimo",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2416619,-9.3763465]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216763791",
+      "addr:housenumber": "15",
+      "addr:postcode": "48604-516",
+      "addr:street": "Rua Érico Veríssimo",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0152P-3-36"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2418953,-9.3767903]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422303",
+      "addr:housenumber": "8",
+      "addr:postcode": "48604-500",
+      "addr:street": "Avenida Pedra Comprida",
+      "addr:suburb": "Pedra Comprida",
+      "addr:unit": "Fundos Casa 1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.24077631293,-9.380762568701]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422390",
+      "addr:housenumber": "18",
+      "addr:postcode": "48604-504",
+      "addr:street": "Rua Boa Sorte",
+      "addr:suburb": "Pedra Comprida",
+      "amenity": "fast_food",
+      "building": "yes",
+      "description": "CNEFE 2022 Lanchonete"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.240631188702,-9.3792663733878]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422441",
+      "addr:housenumber": "60",
+      "addr:postcode": "48604-516",
+      "addr:street": "Rua Érico Veríssimo",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2418008,-9.3764346]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216763039",
+      "addr:housenumber": "117",
+      "addr:postcode": "48604-531",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2439566,-9.3762382]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216763124",
+      "addr:housenumber": "176",
+      "addr:postcode": "48604-506",
+      "addr:street": "Travessa Boa Sorte",
+      "addr:suburb": "Pedra Comprida",
+      "building": "construction",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0152P-1-38"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.242002,-9.378929]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216762948",
+      "addr:housenumber": "313",
+      "addr:postcode": "48604-510",
+      "addr:street": "Travessa Blumenau",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0152P-1-12"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.241285,-9.377497]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422469",
+      "addr:housenumber": "122",
+      "addr:postcode": "48604-500",
+      "addr:street": "Avenida Moxotó",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2408192,-9.3779145]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216763480",
+      "addr:housenumber": "37",
+      "addr:postcode": "48604-510",
+      "addr:street": "Rua Blumenau",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2424252,-9.3777522]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216762924",
+      "addr:housenumber": "390 A",
+      "addr:postcode": "48604-500",
+      "addr:street": "Avenida Moxotó",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes",
+      "name": "Mercadinho Peg Pag",
+      "shop": "convenience"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.240304428412,-9.3800093799755]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216763850",
+      "addr:housenumber": "35",
+      "addr:postcode": "48604-530",
+      "addr:street": "Rua Anápolis",
+      "addr:suburb": "Pedra Comprida",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2412012,-9.3762915]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422305;216762469",
+      "addr:housenumber": "10",
+      "addr:postcode": "48604-500",
+      "addr:street": "Avenida Pedra Comprida",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2407607,-9.3808221]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422448",
+      "addr:housenumber": "31",
+      "addr:postcode": "48604-512",
+      "addr:street": "Rua Eldorado",
+      "addr:suburb": "Pedra Comprida",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2418593,-9.3766432]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216762421",
+      "addr:housenumber": "12",
+      "addr:postcode": "48604-500",
+      "addr:street": "Avenida Pedra Comprida",
+      "addr:suburb": "Pedra Comprida",
+      "addr:unit": "Casa 4",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2407767,-9.380831]
+      }
+    }
+  ]
+}

@@ -1,0 +1,836 @@
+{
+  "type": "FeatureCollection",
+  "source": "IBGE CNEFE + Faces de Logradouros - 2022",
+  "generator": "CSV-CNEFE2GeoJSON.lua 1.5.7 - fidelis.assis@gmail.com",
+  "date": "2025-02-02T09:05:37-0300",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191729878",
+      "addr:housenumber": "70",
+      "addr:postcode": "48619-899",
+      "addr:street": "Caminho Tigre Após Bar e Entrada 1",
+      "addr:suburb": "Tigre",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0185P-0-21"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.235199,-9.481985]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470179",
+      "addr:housenumber": "1",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Tigre",
+      "addr:suburb": "Tigre",
+      "building": "yes",
+      "description": "CNEFE 2022 Sem Nome",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0168P-0-33"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.242365,-9.454055]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191729826",
+      "addr:housenumber": "241",
+      "addr:postcode": "48601-248",
+      "addr:street": "Caminho A Direita da Entrada 1 Tigre",
+      "addr:suburb": "Tigre",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 1009m 0500-0185P-0-20"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.248661,-9.482944]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191729622",
+      "addr:housenumber": "80",
+      "addr:postcode": "48601-248",
+      "addr:street": "Caminho A Direita da Entrada 1 Tigre",
+      "addr:suburb": "Tigre",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0185P-0-20"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.237043,-9.488069]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413621",
+      "addr:housenumber": "13",
+      "addr:postcode": "48601-248",
+      "addr:street": "Caminho A Direita da Entrada 1 Tigre",
+      "addr:suburb": "Tigre",
+      "addr:unit": "Fundos Casa 2",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0185P-0-20"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.254164,-9.488825]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191729675",
+      "addr:housenumber": "352",
+      "addr:postcode": "48601-248",
+      "addr:street": "Caminho A Direita da Entrada 1 Tigre",
+      "addr:suburb": "Tigre",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0185P-0-20"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.251373,-9.485362]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191730004",
+      "addr:housenumber": "10",
+      "addr:postcode": "48619-899",
+      "addr:street": "Entrada 2 Caminho Tigre Vila Matias",
+      "addr:suburb": "Tigre",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0185P-0-22"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.242459,-9.478512]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413625",
+      "addr:housenumber": "20",
+      "addr:postcode": "48601-248",
+      "addr:street": "Caminho A Direita da Entrada 1 Tigre",
+      "addr:suburb": "Tigre",
+      "addr:unit": "Fundos Casa 5",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0185P-0-20"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.25509,-9.490343]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191729597",
+      "addr:housenumber": "77",
+      "addr:postcode": "48601-248",
+      "addr:street": "Caminho A Direita da Entrada 1 Tigre",
+      "addr:suburb": "Tigre",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 669m 0500-0185P-0-20"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2347,-9.484868]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191729792",
+      "addr:housenumber": "3",
+      "addr:postcode": "48601-248",
+      "addr:street": "Caminho A Direita da Entrada 1 Tigre",
+      "addr:suburb": "Tigre",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "name": "Oficina do César",
+      "note": "Muito afastado da face: 838m 0500-0185P-0-20",
+      "shop": "car_repair"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.250481,-9.484867]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191729770",
+      "addr:housenumber": "25",
+      "addr:postcode": "48601-248",
+      "addr:street": "Caminho A Direita da Entrada 1 Tigre",
+      "addr:suburb": "Tigre",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0185P-0-20"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.252424,-9.488233]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191729732",
+      "addr:housenumber": "200",
+      "addr:postcode": "48601-248",
+      "addr:street": "Caminho A Direita da Entrada 1 Tigre",
+      "addr:suburb": "Tigre",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 1210m 0500-0185P-0-20"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.250167,-9.49264]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470187",
+      "addr:housenumber": "13",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Tigre",
+      "addr:suburb": "Tigre",
+      "addr:unit": "Fundos",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0168P-0-33"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.257823,-9.460572]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191729588",
+      "addr:housenumber": "71",
+      "addr:postcode": "48601-248",
+      "addr:street": "Caminho A Direita da Entrada 1 Tigre",
+      "addr:suburb": "Tigre",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0185P-0-20"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.23189,-9.479051]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191729802",
+      "addr:housenumber": "6",
+      "addr:postcode": "48601-248",
+      "addr:street": "Caminho A Direita da Entrada 1 Tigre",
+      "addr:suburb": "Tigre",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 802m 0500-0185P-0-20"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.250161,-9.484724]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191729958",
+      "addr:housenumber": "83",
+      "addr:postcode": "48619-899",
+      "addr:street": "Entrada 2 Caminho Tigre Vila Matias",
+      "addr:suburb": "Tigre",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2400482,-9.4743093]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191730000",
+      "addr:housenumber": "6",
+      "addr:postcode": "48619-899",
+      "addr:street": "Entrada 2 Caminho Tigre Vila Matias",
+      "addr:suburb": "Tigre",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 377m 0500-0185P-0-22"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.239683,-9.47099]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413609",
+      "addr:housenumber": "450",
+      "addr:postcode": "48619-899",
+      "addr:street": "Caminho Para Povoado Tigre",
+      "addr:suburb": "Tigre",
+      "addr:unit": "B Coelb Casa 27",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0115P-0-66"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.249413,-9.495269]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191729610",
+      "addr:housenumber": "79",
+      "addr:postcode": "48601-248",
+      "addr:street": "Caminho A Direita da Entrada 1 Tigre",
+      "addr:suburb": "Tigre",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0185P-0-20"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.236387,-9.487141]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191729586",
+      "addr:housenumber": "100",
+      "addr:postcode": "48601-248",
+      "addr:street": "Caminho A Direita da Entrada 1 Tigre",
+      "addr:suburb": "Tigre",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0185P-0-20"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.232057,-9.479123]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191729694",
+      "addr:housenumber": "15",
+      "addr:postcode": "48601-248",
+      "addr:street": "Caminho A Direita da Entrada 1 Tigre",
+      "addr:suburb": "Tigre",
+      "addr:unit": "Casa 1",
+      "building": "construction",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0185P-0-20"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.25619,-9.492192]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191729630",
+      "addr:housenumber": "35",
+      "addr:postcode": "48601-248",
+      "addr:street": "Caminho A Direita da Entrada 1 Tigre",
+      "addr:suburb": "Tigre",
+      "addr:unit": "Casa A",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 355m 0500-0185P-0-20"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.237655,-9.488807]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191729357",
+      "addr:housenumber": "102",
+      "addr:postcode": "48619-899",
+      "addr:street": "Caminho do Povoado Tigre",
+      "addr:suburb": "Tigre",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0185P-0-14"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.242588,-9.483294]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191729795",
+      "addr:housenumber": "4",
+      "addr:postcode": "48601-248",
+      "addr:street": "Caminho A Direita da Entrada 1 Tigre",
+      "addr:suburb": "Tigre",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 836m 0500-0185P-0-20"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.250462,-9.484919]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191729925",
+      "addr:housenumber": "20",
+      "addr:postcode": "48619-899",
+      "addr:street": "Entrada 2 Caminho Tigre Vila Matias",
+      "addr:suburb": "Tigre",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 428m 0500-0185P-0-22"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.241324,-9.47811]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191729713",
+      "addr:housenumber": "8",
+      "addr:postcode": "48601-248",
+      "addr:street": "Caminho A Direita da Entrada 1 Tigre",
+      "addr:suburb": "Tigre",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0185P-0-20"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.252431,-9.489822]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191729363",
+      "addr:housenumber": "196",
+      "addr:postcode": "48619-899",
+      "addr:street": "Caminho do Povoado Tigre",
+      "addr:suburb": "Tigre",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0185P-0-14"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.242148,-9.483388]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191729856",
+      "addr:housenumber": "253",
+      "addr:postcode": "48601-248",
+      "addr:street": "Caminho A Direita da Entrada 1 Tigre",
+      "addr:suburb": "Tigre",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 669m 0500-0185P-0-20"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.248882,-9.485287]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470179",
+      "addr:housenumber": "1",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Tigre",
+      "addr:suburb": "Tigre",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0168P-0-33"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.242364955826,-9.4540551616562]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191729707",
+      "addr:housenumber": "2",
+      "addr:postcode": "48601-248",
+      "addr:street": "Caminho A Direita da Entrada 1 Tigre",
+      "addr:suburb": "Tigre",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0185P-0-20"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.252824,-9.489697]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191729649;191729729",
+      "addr:housenumber": "5",
+      "addr:postcode": "48601-248",
+      "addr:street": "Caminho A Direita da Entrada 1 Tigre",
+      "addr:suburb": "Tigre",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0185P-0-20"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.250154,-9.4902255]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191729678",
+      "addr:housenumber": "12",
+      "addr:postcode": "48601-248",
+      "addr:street": "Caminho A Direita da Entrada 1 Tigre",
+      "addr:suburb": "Tigre",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 1208m 0500-0185P-0-20"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.251293,-9.485529]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191729591",
+      "addr:housenumber": "73",
+      "addr:postcode": "48601-248",
+      "addr:street": "Caminho A Direita da Entrada 1 Tigre",
+      "addr:suburb": "Tigre",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 1069m 0500-0185P-0-20"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.232736,-9.481048]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191729641",
+      "addr:housenumber": "100",
+      "addr:postcode": "48601-248",
+      "addr:street": "Caminho A Direita da Entrada 1 Tigre",
+      "addr:suburb": "Tigre",
+      "addr:unit": "Casa A",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0185P-0-20"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.250008,-9.488706]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191729607",
+      "addr:housenumber": "78",
+      "addr:postcode": "48601-248",
+      "addr:street": "Caminho A Direita da Entrada 1 Tigre",
+      "addr:suburb": "Tigre",
+      "addr:unit": "Casa A",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0185P-0-20"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.236145,-9.486841]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191729952",
+      "addr:housenumber": "83",
+      "addr:postcode": "48619-899",
+      "addr:street": "Entrada 2 Caminho Tigre Vila Matias",
+      "addr:suburb": "Tigre",
+      "amenity": "school",
+      "building": "yes",
+      "name": "Escola Esp Esperança Francisco de Assis"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2410232,-9.4741936]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191729941",
+      "addr:housenumber": "86",
+      "addr:postcode": "48619-899",
+      "addr:street": "Entrada 2 Caminho Tigre Vila Matias",
+      "addr:suburb": "Tigre",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 246m 0500-0185P-0-22"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.241201,-9.476464]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470183",
+      "addr:housenumber": "2",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Tigre",
+      "addr:suburb": "Tigre",
+      "addr:unit": "Fundos",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0168P-0-33"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.251,-9.465803]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191729680",
+      "addr:housenumber": "351",
+      "addr:postcode": "48601-248",
+      "addr:street": "Caminho A Direita da Entrada 1 Tigre",
+      "addr:suburb": "Tigre",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0185P-0-20"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.251344,-9.485447]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191729584",
+      "addr:housenumber": "1",
+      "addr:postcode": "48601-248",
+      "addr:street": "Caminho A Direita da Entrada 1 Tigre",
+      "addr:suburb": "Tigre",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 1321m 0500-0185P-0-20"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.231811,-9.478651]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191729768",
+      "addr:housenumber": "20",
+      "addr:postcode": "48601-248",
+      "addr:street": "Caminho A Direita da Entrada 1 Tigre",
+      "addr:suburb": "Tigre",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0185P-0-20"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.251485,-9.489437]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27470182",
+      "addr:housenumber": "4",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Tigre",
+      "addr:suburb": "Tigre",
+      "addr:unit": "Fundos",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0168P-0-33"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.251833,-9.465257]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191729947",
+      "addr:housenumber": "700",
+      "addr:postcode": "48619-899",
+      "addr:street": "Entrada 2 Caminho Tigre Vila Matias",
+      "addr:suburb": "Tigre",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 199m 0500-0185P-0-22"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.24122,-9.476026]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191729593;191729736",
+      "addr:housenumber": "75",
+      "addr:postcode": "48601-248",
+      "addr:street": "Caminho A Direita da Entrada 1 Tigre",
+      "addr:suburb": "Tigre",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 56m 0500-0185P-0-20"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2417345,-9.488121]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191729967",
+      "addr:housenumber": "82",
+      "addr:postcode": "48619-899",
+      "addr:street": "Entrada 2 Caminho Tigre Vila Matias",
+      "addr:suburb": "Tigre",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0185P-0-22"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.238324,-9.470124]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191729700;191729779",
+      "addr:housenumber": "10",
+      "addr:postcode": "48601-248",
+      "addr:street": "Caminho A Direita da Entrada 1 Tigre",
+      "addr:suburb": "Tigre",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0185P-0-20"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.25185,-9.4878545]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413620",
+      "addr:housenumber": "12",
+      "addr:postcode": "48601-248",
+      "addr:street": "Caminho A Direita da Entrada 1 Tigre",
+      "addr:suburb": "Tigre",
+      "addr:unit": "Fundos Casa 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0185P-0-20"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.252247,-9.486546]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191729604",
+      "addr:housenumber": "78",
+      "addr:postcode": "48601-248",
+      "addr:street": "Caminho A Direita da Entrada 1 Tigre",
+      "addr:suburb": "Tigre",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0185P-0-20"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.235688,-9.486217]
+      }
+    }
+  ]
+}

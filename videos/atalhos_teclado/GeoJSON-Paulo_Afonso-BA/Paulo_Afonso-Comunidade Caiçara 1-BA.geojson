@@ -1,0 +1,1521 @@
+{
+  "type": "FeatureCollection",
+  "generator": "CSV-CNEFE2GeoJSON.lua 1.5.7 - fidelis.assis@gmail.com",
+  "source": "IBGE CNEFE + Faces de Logradouros - 2022",
+  "date": "2025-02-02T09:05:23-0300",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194563183",
+      "addr:housenumber": "65",
+      "addr:postcode": "48619-899",
+      "addr:street": "Avenida Estrada Boa Esperança",
+      "addr:suburb": "Comunidade Caiçara 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0189P-2-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2825919,-9.4377228]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194563154",
+      "addr:housenumber": "1",
+      "addr:postcode": "48619-899",
+      "addr:street": "Avenida Estrada Boa Esperança",
+      "addr:suburb": "Comunidade Caiçara 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 51m 0500-0189P-2-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.283086,-9.436017]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194563264",
+      "addr:housenumber": "18",
+      "addr:postcode": "48619-899",
+      "addr:street": "Avenida Estrada Boa Esperança",
+      "addr:suburb": "Comunidade Caiçara 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0189P-2-16"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.285887,-9.4381945]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194562911",
+      "addr:housenumber": "12",
+      "addr:postcode": "48619-899",
+      "addr:street": "Avenida Estrada Boa Esperança",
+      "addr:suburb": "Comunidade Caiçara 1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2932933,-9.4449931]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194563158",
+      "addr:housenumber": "2",
+      "addr:postcode": "48619-899",
+      "addr:street": "Avenida Estrada Boa Esperança",
+      "addr:suburb": "Comunidade Caiçara 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0189P-2-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2825256,-9.4359924]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194563058",
+      "addr:housenumber": "21",
+      "addr:postcode": "48619-899",
+      "addr:street": "Avenida Estrada Boa Esperança",
+      "addr:suburb": "Comunidade Caiçara 1",
+      "addr:unit": "2230402",
+      "building": "yes",
+      "description": "CNEFE 2022 Não Informado"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2789932,-9.4378663]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194563177",
+      "addr:housenumber": "55",
+      "addr:postcode": "48619-899",
+      "addr:street": "Avenida Estrada Boa Esperança",
+      "addr:suburb": "Comunidade Caiçara 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0189P-2-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2825038,-9.4372164]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194563258",
+      "addr:housenumber": "20",
+      "addr:postcode": "48619-899",
+      "addr:street": "Avenida Estrada Boa Esperança",
+      "addr:suburb": "Comunidade Caiçara 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0189P-2-15"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.28531,-9.438113]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194562903",
+      "addr:housenumber": "8",
+      "addr:postcode": "48619-899",
+      "addr:street": "Avenida Estrada Boa Esperança",
+      "addr:suburb": "Comunidade Caiçara 1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2927833,-9.444455]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194563369",
+      "addr:housenumber": "2",
+      "addr:postcode": "48619-899",
+      "addr:street": "Avenida Estrada Boa Esperança",
+      "addr:suburb": "Comunidade Caiçara 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0189P-2-43"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2928499,-9.439046]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194563078",
+      "addr:housenumber": "21",
+      "addr:postcode": "48619-899",
+      "addr:street": "Avenida Estrada Boa Esperança",
+      "addr:suburb": "Comunidade Caiçara 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "name": "Fazenda Élcio da Uva",
+      "note": "Sem dados para mover para dentro da quadra 0500-0189P-1-23",
+      "place": "farm"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2775111,-9.4375589]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194563024",
+      "addr:housenumber": "14",
+      "addr:postcode": "48601-016",
+      "addr:street": "Avenida Estrada Boa Esperança",
+      "addr:suburb": "Comunidade Caiçara 1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.282386,-9.4386902]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194563014",
+      "addr:housenumber": "10",
+      "addr:postcode": "48603-100",
+      "addr:street": "Avenida Estrada Boa Esperança",
+      "addr:suburb": "Comunidade Caiçara 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0189P-1-12"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.290502,-9.443274]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194563246",
+      "addr:housenumber": "110",
+      "addr:postcode": "48619-899",
+      "addr:street": "Avenida Estrada Boa Esperança",
+      "addr:suburb": "Comunidade Caiçara 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 98m 0500-0189P-2-11"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.284797,-9.436962]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194563068",
+      "addr:housenumber": "10",
+      "addr:postcode": "48619-899",
+      "addr:street": "Avenida Estrada Boa Esperança",
+      "addr:suburb": "Comunidade Caiçara 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0189P-1-23"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2728599,-9.4364234]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194563035",
+      "addr:housenumber": "33",
+      "addr:postcode": "48601-248",
+      "addr:street": "Avenida Estrada Boa Esperança",
+      "addr:suburb": "Comunidade Caiçara 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0189P-1-17"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2810772,-9.4392451]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194562954",
+      "addr:housenumber": "2",
+      "addr:postcode": "48601-248",
+      "addr:street": "Avenida Estrada Boa Esperança",
+      "addr:suburb": "Comunidade Caiçara 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0189P-1-7"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2885601,-9.4420107]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194562964",
+      "addr:housenumber": "31",
+      "addr:postcode": "48601-248",
+      "addr:street": "Avenida Estrada Boa Esperança",
+      "addr:suburb": "Comunidade Caiçara 1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2860162,-9.4392402]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194563110",
+      "addr:housenumber": "6",
+      "addr:postcode": "48619-899",
+      "addr:street": "Avenida Estrada Boa Esperança",
+      "addr:suburb": "Comunidade Caiçara 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0189P-2-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2826218,-9.4378322]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194563321",
+      "addr:housenumber": "60",
+      "addr:postcode": "48619-899",
+      "addr:street": "Avenida Estrada Boa Esperança",
+      "addr:suburb": "Comunidade Caiçara 1",
+      "addr:unit": "A60",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0189P-2-25"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2923039,-9.4354431]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194562890",
+      "addr:housenumber": "65",
+      "addr:postcode": "48619-899",
+      "addr:street": "Avenida Estrada Boa Esperança",
+      "addr:suburb": "Comunidade Caiçara 1",
+      "addr:unit": "Fundos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2917367,-9.4437696]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194562906",
+      "addr:housenumber": "511",
+      "addr:postcode": "48619-899",
+      "addr:street": "Avenida Estrada Boa Esperança",
+      "addr:suburb": "Comunidade Caiçara 1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2929778,-9.4446177]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194562878",
+      "addr:housenumber": "20",
+      "addr:postcode": "48619-899",
+      "addr:street": "Avenida Estrada Boa Esperança",
+      "addr:suburb": "Comunidade Caiçara 1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2904194,-9.4432368]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194563083",
+      "addr:housenumber": "10",
+      "addr:postcode": "48619-899",
+      "addr:street": "Avenida Estrada Boa Esperança",
+      "addr:suburb": "Comunidade Caiçara 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0189P-2-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2802443,-9.4380381]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194563367",
+      "addr:housenumber": "16",
+      "addr:postcode": "48619-899",
+      "addr:street": "Avenida Estrada Boa Esperança",
+      "addr:suburb": "Comunidade Caiçara 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0189P-2-39"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2961453,-9.438082]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194562959",
+      "addr:housenumber": "6",
+      "addr:postcode": "48601-248",
+      "addr:street": "Avenida Estrada Boa Esperança",
+      "addr:suburb": "Comunidade Caiçara 1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2855335,-9.439204]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194562971",
+      "addr:housenumber": "10",
+      "addr:postcode": "48601-248",
+      "addr:street": "Avenida Estrada Boa Esperança",
+      "addr:suburb": "Comunidade Caiçara 1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2837466,-9.439697]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194563127",
+      "addr:housenumber": "25",
+      "addr:postcode": "48619-899",
+      "addr:street": "Avenida Estrada Boa Esperança",
+      "addr:suburb": "Comunidade Caiçara 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0189P-2-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2826486,-9.4378774]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194562940",
+      "addr:housenumber": "41",
+      "addr:postcode": "48601-248",
+      "addr:street": "Avenida Estrada Boa Esperança",
+      "addr:suburb": "Comunidade Caiçara 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0189P-1-7"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.285999,-9.438253]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194563049",
+      "addr:housenumber": "20",
+      "addr:postcode": "48619-899",
+      "addr:street": "Avenida Estrada Boa Esperança",
+      "addr:suburb": "Comunidade Caiçara 1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2811008,-9.4383536]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194563141",
+      "addr:housenumber": "18",
+      "addr:postcode": "48619-899",
+      "addr:street": "Avenida Estrada Boa Esperança",
+      "addr:suburb": "Comunidade Caiçara 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0189P-2-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2824831,-9.4373537]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194563051",
+      "addr:housenumber": "3",
+      "addr:postcode": "48619-899",
+      "addr:street": "Avenida Estrada Boa Esperança",
+      "addr:suburb": "Comunidade Caiçara 1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.280975,-9.4383239]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194563229",
+      "addr:housenumber": "19",
+      "addr:postcode": "48619-899",
+      "addr:street": "Avenida Estrada Boa Esperança",
+      "addr:suburb": "Comunidade Caiçara 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0189P-2-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2825109,-9.4373192]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194563285",
+      "addr:housenumber": "61",
+      "addr:postcode": "48619-899",
+      "addr:street": "Avenida Estrada Boa Esperança",
+      "addr:suburb": "Comunidade Caiçara 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 42m 0500-0189P-2-18"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.28664,-9.43884]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194562930",
+      "addr:housenumber": "3",
+      "addr:postcode": "48601-248",
+      "addr:street": "Avenida Estrada Boa Esperança",
+      "addr:suburb": "Comunidade Caiçara 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0189P-1-7"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.284214,-9.438035]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194562900",
+      "addr:housenumber": "10",
+      "addr:postcode": "48619-899",
+      "addr:street": "Avenida Estrada Boa Esperança",
+      "addr:suburb": "Comunidade Caiçara 1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2925263,-9.4442564]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194563150;194563201",
+      "addr:housenumber": "10",
+      "addr:postcode": "48619-899",
+      "addr:street": "Avenida Estrada Boa Esperança",
+      "addr:suburb": "Comunidade Caiçara 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 66m 0500-0189P-2-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.283111,-9.4372285]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194563102",
+      "addr:housenumber": "8",
+      "addr:postcode": "48619-899",
+      "addr:street": "Avenida Estrada Boa Esperança",
+      "addr:suburb": "Comunidade Caiçara 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "healthcare": "yes",
+      "name": "Posto de Apoio Caiçara 1",
+      "note": "Muito afastado da face: 48m 0500-0189P-2-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.280142,-9.437587]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194563022",
+      "addr:housenumber": "15",
+      "addr:postcode": "48601-016",
+      "addr:street": "Avenida Estrada Boa Esperança",
+      "addr:suburb": "Comunidade Caiçara 1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2822631,-9.4386475]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194563026",
+      "addr:housenumber": "12",
+      "addr:postcode": "48601-016",
+      "addr:street": "Avenida Estrada Boa Esperança",
+      "addr:suburb": "Comunidade Caiçara 1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2827501,-9.4388275]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194563046",
+      "abandoned:amenity": "telephone",
+      "abandoned:building": "yes",
+      "addr:housenumber": "15",
+      "addr:postcode": "48619-899",
+      "addr:street": "Avenida Estrada Boa Esperança",
+      "addr:suburb": "Comunidade Caiçara 1",
+      "old_name": "Posto Telefônico Abandonado"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2808064,-9.4382838]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194563042",
+      "addr:housenumber": "67",
+      "addr:postcode": "48619-899",
+      "addr:street": "Avenida Estrada Boa Esperança",
+      "addr:suburb": "Comunidade Caiçara 1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2808387,-9.4382915]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194563054",
+      "addr:housenumber": "8",
+      "addr:postcode": "48619-899",
+      "addr:street": "Avenida Estrada Boa Esperança",
+      "addr:suburb": "Comunidade Caiçara 1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2814385,-9.4384207]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194562960",
+      "addr:housenumber": "32",
+      "addr:postcode": "48601-248",
+      "addr:street": "Avenida Estrada Boa Esperança",
+      "addr:suburb": "Comunidade Caiçara 1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2855,-9.4392]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194563115",
+      "addr:housenumber": "16",
+      "addr:postcode": "48619-899",
+      "addr:street": "Avenida Estrada Boa Esperança",
+      "addr:suburb": "Comunidade Caiçara 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0189P-2-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2825029,-9.4375878]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194563211",
+      "addr:housenumber": "14",
+      "addr:postcode": "48619-899",
+      "addr:street": "Avenida Estrada Boa Esperança",
+      "addr:suburb": "Comunidade Caiçara 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 80m 0500-0189P-2-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.28323,-9.437088]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194563317",
+      "addr:housenumber": "70",
+      "addr:postcode": "48619-899",
+      "addr:street": "Avenida Estrada Boa Esperança",
+      "addr:suburb": "Comunidade Caiçara 1",
+      "addr:unit": "A70",
+      "building": "yes",
+      "description": "CNEFE 2022 Não Tem",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0189P-2-25"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2915449,-9.4334322]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194563261",
+      "addr:housenumber": "46",
+      "addr:postcode": "48619-899",
+      "addr:street": "Avenida Estrada Boa Esperança",
+      "addr:suburb": "Comunidade Caiçara 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0189P-2-16"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.285858,-9.438027]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194563375",
+      "addr:housenumber": "14",
+      "addr:postcode": "48619-899",
+      "addr:street": "Avenida Estrada Boa Esperança",
+      "addr:suburb": "Comunidade Caiçara 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0189P-2-45"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2934824,-9.4400402]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194562872;194562909",
+      "addr:housenumber": "5",
+      "addr:postcode": "48619-899",
+      "addr:street": "Avenida Estrada Boa Esperança",
+      "addr:suburb": "Comunidade Caiçara 1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2897941,-9.4428977]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194562893",
+      "addr:housenumber": "8",
+      "addr:postcode": "48619-899",
+      "addr:street": "Avenida Estrada Boa Esperança",
+      "addr:suburb": "Comunidade Caiçara 1",
+      "addr:unit": "Fundos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2921782,-9.4440164]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194563289",
+      "addr:housenumber": "57",
+      "addr:postcode": "48619-899",
+      "addr:street": "Avenida Estrada Boa Esperança",
+      "addr:suburb": "Comunidade Caiçara 1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2865002,-9.4391499]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194563302",
+      "addr:housenumber": "45",
+      "addr:postcode": "48619-899",
+      "addr:street": "Avenida Estrada Boa Esperança",
+      "addr:suburb": "Comunidade Caiçara 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 42m 0500-0189P-2-19"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.288234,-9.438891]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194563243",
+      "addr:housenumber": "20",
+      "addr:postcode": "48619-899",
+      "addr:street": "Avenida Estrada Boa Esperança",
+      "addr:suburb": "Comunidade Caiçara 1",
+      "addr:unit": "Fundos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2840942,-9.4384221]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194562875",
+      "addr:housenumber": "146",
+      "addr:postcode": "48619-899",
+      "addr:street": "Avenida Estrada Boa Esperança",
+      "addr:suburb": "Comunidade Caiçara 1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2889626,-9.4421927]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194562881",
+      "addr:housenumber": "1",
+      "addr:postcode": "48619-899",
+      "addr:street": "Avenida Estrada Boa Esperança",
+      "addr:suburb": "Comunidade Caiçara 1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2907145,-9.4433747]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194563066",
+      "addr:housenumber": "2134",
+      "addr:postcode": "48619-899",
+      "addr:street": "Avenida Estrada Boa Esperança",
+      "addr:suburb": "Comunidade Caiçara 1",
+      "building": "construction",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0189P-1-23"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2700815,-9.4361027]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194563255",
+      "addr:housenumber": "14",
+      "addr:postcode": "48619-899",
+      "addr:street": "Avenida Estrada Boa Esperança",
+      "addr:suburb": "Comunidade Caiçara 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0189P-2-12"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2845065,-9.438975]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194563089",
+      "addr:housenumber": "121",
+      "addr:postcode": "48619-899",
+      "addr:street": "Avenida Estrada Boa Esperança",
+      "addr:suburb": "Comunidade Caiçara 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0189P-2-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2826619,-9.4387077]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194563118",
+      "addr:housenumber": "15",
+      "addr:postcode": "48619-899",
+      "addr:street": "Avenida Estrada Boa Esperança",
+      "addr:suburb": "Comunidade Caiçara 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0189P-2-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2825202,-9.4376597]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194562957",
+      "addr:housenumber": "57",
+      "addr:postcode": "48601-248",
+      "addr:street": "Avenida Estrada Boa Esperança",
+      "addr:suburb": "Comunidade Caiçara 1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2858803,-9.4392328]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194563374",
+      "addr:housenumber": "6",
+      "addr:postcode": "48619-899",
+      "addr:street": "Avenida Estrada Boa Esperança",
+      "addr:suburb": "Comunidade Caiçara 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0189P-2-45"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2931794,-9.4399932]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194563166;194563215;194563235",
+      "addr:housenumber": "13",
+      "addr:postcode": "48619-899",
+      "addr:street": "Avenida Estrada Boa Esperança",
+      "addr:suburb": "Comunidade Caiçara 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 74m 0500-0189P-2-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2831823,-9.4372873]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194563012",
+      "addr:housenumber": "259",
+      "addr:postcode": "48603-100",
+      "addr:street": "Avenida Estrada Boa Esperança",
+      "addr:suburb": "Comunidade Caiçara 1",
+      "building": "construction",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 632m 0500-0189P-1-12"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.288903,-9.442192]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194563122",
+      "addr:housenumber": "14",
+      "addr:postcode": "48619-899",
+      "addr:street": "Avenida Estrada Boa Esperança",
+      "addr:suburb": "Comunidade Caiçara 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 52m 0500-0189P-2-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.282227,-9.438094]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194562887",
+      "addr:housenumber": "64",
+      "addr:postcode": "48619-899",
+      "addr:street": "Avenida Estrada Boa Esperança",
+      "addr:suburb": "Comunidade Caiçara 1",
+      "addr:unit": "Fundos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2917167,-9.4437573]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194562869",
+      "addr:housenumber": "24",
+      "addr:postcode": "48619-899",
+      "addr:street": "Avenida Estrada Boa Esperança",
+      "addr:suburb": "Comunidade Caiçara 1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2872589,-9.4396279]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194563355",
+      "addr:housenumber": "160",
+      "addr:postcode": "48619-899",
+      "addr:street": "Avenida Estrada Boa Esperança",
+      "addr:suburb": "Comunidade Caiçara 1",
+      "addr:unit": "A160",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "name": "Lote 12",
+      "note": "Fora da área de projeção da face 0500-0189P-2-32",
+      "place": "plot"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.297602,-9.438247]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194562991",
+      "addr:housenumber": "340298",
+      "addr:postcode": "48601-248",
+      "addr:street": "Avenida Estrada Boa Esperança",
+      "addr:suburb": "Comunidade Caiçara 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0189P-1-9"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.28367,-9.438552]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194563010",
+      "addr:housenumber": "7",
+      "addr:postcode": "48603-100",
+      "addr:street": "Avenida Estrada Boa Esperança",
+      "addr:suburb": "Comunidade Caiçara 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0189P-1-12"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.282628,-9.436332]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194563321",
+      "addr:housenumber": "60",
+      "addr:postcode": "48619-899",
+      "addr:street": "Avenida Estrada Boa Esperança",
+      "addr:suburb": "Comunidade Caiçara 1",
+      "addr:unit": "A60",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "name": "Não Estava Registrado",
+      "note": "Sem dados para mover para dentro da quadra 0500-0189P-2-25"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.292303855828,-9.4354432616562]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194562950",
+      "addr:housenumber": "58",
+      "addr:postcode": "48601-248",
+      "addr:street": "Avenida Estrada Boa Esperança",
+      "addr:suburb": "Comunidade Caiçara 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0189P-1-7"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.286097,-9.439048]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194563371",
+      "addr:housenumber": "2",
+      "addr:postcode": "48619-899",
+      "addr:street": "Avenida Estrada Boa Esperança",
+      "addr:suburb": "Comunidade Caiçara 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0189P-2-45"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2928649,-9.4399683]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194563220",
+      "addr:housenumber": "12",
+      "addr:postcode": "48619-899",
+      "addr:street": "Avenida Estrada Boa Esperança",
+      "addr:suburb": "Comunidade Caiçara 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 53m 0500-0189P-2-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.282971,-9.436547]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194563180",
+      "addr:housenumber": "35",
+      "addr:postcode": "48619-899",
+      "addr:street": "Avenida Estrada Boa Esperança",
+      "addr:suburb": "Comunidade Caiçara 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0189P-2-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2824965,-9.4371088]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194563016",
+      "addr:housenumber": "1",
+      "addr:postcode": "48603-100",
+      "addr:street": "Avenida Estrada Boa Esperança",
+      "addr:suburb": "Comunidade Caiçara 1",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "name": "Congregação Crsta do Brasil",
+      "note": "Fora da área de projeção da face 0500-0189P-1-12"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.29091,-9.443455]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194563137",
+      "addr:housenumber": "53",
+      "addr:postcode": "48619-899",
+      "addr:street": "Avenida Estrada Boa Esperança",
+      "addr:suburb": "Comunidade Caiçara 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0189P-2-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2824554,-9.4366844]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194563223",
+      "addr:housenumber": "67",
+      "addr:postcode": "48619-899",
+      "addr:street": "Avenida Estrada Boa Esperança",
+      "addr:suburb": "Comunidade Caiçara 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0189P-2-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.282784,-9.4380618]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194562914",
+      "addr:housenumber": "13",
+      "addr:postcode": "48619-899",
+      "addr:street": "Avenida Estrada Boa Esperança",
+      "addr:suburb": "Comunidade Caiçara 1",
+      "addr:unit": "Fundos",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 50m 0500-0189P-1-5"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.295575,-9.448771]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194563018",
+      "addr:housenumber": "98",
+      "addr:postcode": "48609-234",
+      "addr:street": "Avenida Estrada Boa Esperança",
+      "addr:suburb": "Comunidade Caiçara 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0189P-1-13"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2831594,-9.4394005]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194562952",
+      "addr:housenumber": "4",
+      "addr:postcode": "48601-248",
+      "addr:street": "Avenida Estrada Boa Esperança",
+      "addr:suburb": "Comunidade Caiçara 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0189P-1-7"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2885718,-9.4420179]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194562984",
+      "addr:housenumber": "1286",
+      "addr:postcode": "48601-248",
+      "addr:street": "Avenida Estrada Boa Esperança",
+      "addr:suburb": "Comunidade Caiçara 1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2838353,-9.4390398]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194563306",
+      "addr:housenumber": "65",
+      "addr:postcode": "48619-899",
+      "addr:street": "Avenida Estrada Boa Esperança",
+      "addr:suburb": "Comunidade Caiçara 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 49m 0500-0189P-2-19"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.288559,-9.438793]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194562923",
+      "addr:housenumber": "1295",
+      "addr:postcode": "48619-899",
+      "addr:street": "Avenida Estrada Boa Esperança",
+      "addr:suburb": "Comunidade Caiçara 1",
+      "addr:unit": "Caixa de Medidor",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2962299,-9.4491514]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194562884",
+      "addr:housenumber": "31",
+      "addr:postcode": "48619-899",
+      "addr:street": "Avenida Estrada Boa Esperança",
+      "addr:suburb": "Comunidade Caiçara 1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2908459,-9.4434331]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194562956",
+      "addr:housenumber": "5",
+      "addr:postcode": "48601-248",
+      "addr:street": "Avenida Estrada Boa Esperança",
+      "addr:suburb": "Comunidade Caiçara 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0189P-1-7"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.291236,-9.4436986]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194562974",
+      "addr:housenumber": "9",
+      "addr:postcode": "48601-248",
+      "addr:street": "Avenida Estrada Boa Esperança",
+      "addr:suburb": "Comunidade Caiçara 1",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2837921,-9.4394869]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194563094",
+      "addr:housenumber": "1",
+      "addr:postcode": "48619-899",
+      "addr:street": "Avenida Estrada Boa Esperança",
+      "addr:suburb": "Comunidade Caiçara 1",
+      "amenity": "pub",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "name": "Bar de Maurício",
+      "note": "Sem dados para mover para dentro da quadra 0500-0189P-2-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2830524,-9.4387976]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194563252",
+      "addr:housenumber": "3",
+      "addr:postcode": "48619-899",
+      "addr:street": "Avenida Estrada Boa Esperança",
+      "addr:suburb": "Comunidade Caiçara 1",
+      "amenity": "restaurant",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "name": "Restaurante Pai e Filha",
+      "note": "Sem dados para mover para dentro da quadra 0500-0189P-2-12"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2849176,-9.4390291]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194563282",
+      "addr:housenumber": "60",
+      "addr:postcode": "48619-899",
+      "addr:street": "Avenida Estrada Boa Esperança",
+      "addr:suburb": "Comunidade Caiçara 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 47m 0500-0189P-2-18"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.286471,-9.438767]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194563367",
+      "addr:housenumber": "16",
+      "addr:postcode": "48619-899",
+      "addr:street": "Avenida Estrada Boa Esperança",
+      "addr:suburb": "Comunidade Caiçara 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "name": "Lote 14",
+      "note": "Sem dados para mover para dentro da quadra 0500-0189P-2-39",
+      "place": "plot"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.296137598745,-9.4380835613881]
+      }
+    }
+  ]
+}

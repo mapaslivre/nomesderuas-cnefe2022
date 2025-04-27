@@ -1,0 +1,26 @@
+{
+  "type": "FeatureCollection",
+  "generator": "CSV-CNEFE2GeoJSON.lua 1.5.7 - fidelis.assis@gmail.com",
+  "source": "IBGE CNEFE + Faces de Logradouros - 2022",
+  "date": "2025-02-02T09:05:14-0300",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413919",
+      "addr:housenumber": "293202",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Casa de Pedra",
+      "addr:suburb": "Casa de Pedra Antiga",
+      "addr:unit": "Número Cisterna",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0117P-0-76"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.273842,-9.610745]
+      }
+    }
+  ]
+}

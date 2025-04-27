@@ -1,0 +1,340 @@
+{
+  "type": "FeatureCollection",
+  "generator": "CSV-CNEFE2GeoJSON.lua 1.5.7 - fidelis.assis@gmail.com",
+  "source": "IBGE CNEFE + Faces de Logradouros - 2022",
+  "date": "2025-02-02T09:05:07-0300",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216762736",
+      "addr:housenumber": "30",
+      "addr:postcode": "48604-510",
+      "addr:street": "Rua Blumenau",
+      "addr:suburb": "Assentamento Moxotó",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2428984,-9.3772003]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422337",
+      "addr:housenumber": "96",
+      "addr:postcode": "48604-510",
+      "addr:street": "Rua Blumenau",
+      "addr:suburb": "Assentamento Moxotó",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2432391,-9.3769698]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216762768",
+      "addr:housenumber": "121",
+      "addr:postcode": "48604-510",
+      "addr:street": "Rua Blumenau",
+      "addr:suburb": "Assentamento Moxotó",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2413367,-9.3783154]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422346",
+      "addr:housenumber": "20",
+      "addr:postcode": "48604-510",
+      "addr:street": "Rua Blumenau",
+      "addr:suburb": "Assentamento Moxotó",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2411828,-9.378483]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422342",
+      "addr:housenumber": "10",
+      "addr:postcode": "48604-510",
+      "addr:street": "Rua Blumenau",
+      "addr:suburb": "Assentamento Moxotó",
+      "addr:unit": "Casa",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2422588,-9.3780546]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422336",
+      "addr:housenumber": "100",
+      "addr:postcode": "48604-510",
+      "addr:street": "Rua Blumenau",
+      "addr:suburb": "Assentamento Moxotó",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2433064,-9.3769245]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422341",
+      "addr:housenumber": "10 Frente",
+      "addr:postcode": "48604-510",
+      "addr:street": "Rua Blumenau",
+      "addr:suburb": "Assentamento Moxotó",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2421757,-9.3780188]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216762755",
+      "addr:housenumber": "118",
+      "addr:postcode": "48604-510",
+      "addr:street": "Rua Blumenau",
+      "addr:suburb": "Assentamento Moxotó",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2416075,-9.3781041]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216762741",
+      "addr:housenumber": "108",
+      "addr:postcode": "48604-510",
+      "addr:street": "Rua Blumenau",
+      "addr:suburb": "Assentamento Moxotó",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2426782,-9.3775188]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216762773",
+      "addr:housenumber": "9 A",
+      "addr:postcode": "48604-510",
+      "addr:street": "Rua Blumenau",
+      "addr:suburb": "Assentamento Moxotó",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2410768,-9.3785389]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216762777",
+      "addr:housenumber": "3",
+      "addr:postcode": "48604-510",
+      "addr:street": "Rua Blumenau",
+      "addr:suburb": "Assentamento Moxotó",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2409853,-9.3785732]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216762731",
+      "addr:housenumber": "102",
+      "addr:postcode": "48604-510",
+      "addr:street": "Rua Blumenau",
+      "addr:suburb": "Assentamento Moxotó",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2430756,-9.3770798]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422348",
+      "addr:housenumber": "3 A",
+      "addr:postcode": "48604-510",
+      "addr:street": "Rua Blumenau",
+      "addr:suburb": "Assentamento Moxotó",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2426434,-9.3776746]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422349",
+      "addr:housenumber": "4 B",
+      "addr:postcode": "48604-510",
+      "addr:street": "Rua Blumenau",
+      "addr:suburb": "Assentamento Moxotó",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2408955,-9.3785954]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422340",
+      "addr:housenumber": "10 Lado",
+      "addr:postcode": "48604-510",
+      "addr:street": "Rua Blumenau",
+      "addr:suburb": "Assentamento Moxotó",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.242258755835,-9.3780547616562]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216762751",
+      "addr:housenumber": "51",
+      "addr:postcode": "48604-510",
+      "addr:street": "Rua Blumenau",
+      "addr:suburb": "Assentamento Moxotó",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2423852,-9.3780017]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422350",
+      "addr:housenumber": "2",
+      "addr:postcode": "48604-510",
+      "addr:street": "Rua Blumenau",
+      "addr:suburb": "Assentamento Moxotó",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2408483,-9.3786013]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216762782",
+      "addr:housenumber": "1",
+      "addr:postcode": "48604-510",
+      "addr:street": "Rua Blumenau",
+      "addr:suburb": "Assentamento Moxotó",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2407385,-9.3786058]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216762746",
+      "addr:housenumber": "52 Casa Frente",
+      "addr:postcode": "48604-510",
+      "addr:street": "Rua Blumenau",
+      "addr:suburb": "Assentamento Moxotó",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2425667,-9.3778243]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216762759",
+      "addr:housenumber": "118",
+      "addr:postcode": "48604-510",
+      "addr:street": "Rua Blumenau",
+      "addr:suburb": "Assentamento Moxotó",
+      "addr:unit": "Casa B",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2416214,-9.3780983]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216762763",
+      "addr:housenumber": "9",
+      "addr:postcode": "48604-510",
+      "addr:street": "Rua Blumenau",
+      "addr:suburb": "Assentamento Moxotó",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2413991,-9.3781808]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422345",
+      "addr:housenumber": "13",
+      "addr:postcode": "48604-510",
+      "addr:street": "Rua Blumenau",
+      "addr:suburb": "Assentamento Moxotó",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2418119,-9.3780239]
+      }
+    }
+  ]
+}

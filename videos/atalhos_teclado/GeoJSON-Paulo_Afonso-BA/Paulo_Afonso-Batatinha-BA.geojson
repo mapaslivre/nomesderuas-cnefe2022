@@ -1,0 +1,1102 @@
+{
+  "type": "FeatureCollection",
+  "generator": "CSV-CNEFE2GeoJSON.lua 1.5.7 - fidelis.assis@gmail.com",
+  "source": "IBGE CNEFE + Faces de Logradouros - 2022",
+  "date": "2025-02-02T09:05:08-0300",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414682",
+      "addr:housenumber": "3",
+      "addr:postcode": "48619-899",
+      "addr:street": "Sítio Batatinha",
+      "addr:suburb": "Batatinha",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0214P-0-91"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.331918,-9.559644]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112588627",
+      "addr:housenumber": "65",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Serrote",
+      "addr:suburb": "Batatinha",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0214P-0-100"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.340864,-9.555377]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414653",
+      "addr:housenumber": "104",
+      "addr:postcode": "48619-899",
+      "addr:street": "Sítio Batatinha",
+      "addr:suburb": "Batatinha",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0214P-0-91"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.332485,-9.557244]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112583532",
+      "addr:housenumber": "69",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Batatinha Alagadiço",
+      "addr:suburb": "Batatinha",
+      "building": "yes",
+      "fixme": "Confirmar nome;Verificar coordenadas",
+      "name": "Fazenda Batatinha",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0214P-0-99",
+      "place": "farm"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.340437,-9.554118]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414663",
+      "addr:housenumber": "23",
+      "addr:postcode": "48619-899",
+      "addr:street": "Sítio Batatinha",
+      "addr:suburb": "Batatinha",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0214P-0-91"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.331026,-9.560358]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112588564",
+      "addr:housenumber": "29",
+      "addr:postcode": "48619-899",
+      "addr:street": "Sítio Batatinha",
+      "addr:suburb": "Batatinha",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0214P-0-91"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.329872,-9.559374]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112584278",
+      "addr:housenumber": "76 Lado Direito",
+      "addr:postcode": "48619-899",
+      "addr:street": "Sítio Batatinha",
+      "addr:suburb": "Batatinha",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0214P-0-91"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.345856,-9.55467]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414651",
+      "addr:housenumber": "49",
+      "addr:postcode": "48619-899",
+      "addr:street": "Sítio Batatinha",
+      "addr:suburb": "Batatinha",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0214P-0-91"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.331985,-9.557205]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112584363",
+      "addr:housenumber": "80",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Batatinha Serrote",
+      "addr:suburb": "Batatinha",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0214P-0-102"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.363764,-9.557983]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414703",
+      "addr:housenumber": "85",
+      "addr:postcode": "48619-899",
+      "addr:street": "Sítio Batatinha",
+      "addr:suburb": "Batatinha",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0214P-0-91"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.361763,-9.557761]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414702",
+      "addr:housenumber": "101",
+      "addr:postcode": "48619-899",
+      "addr:street": "Sítio Batatinha",
+      "addr:suburb": "Batatinha",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0214P-0-91"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.334352,-9.55666]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191732117",
+      "addr:housenumber": "25",
+      "addr:postcode": "48619-899",
+      "addr:street": "Sítio Batatinha",
+      "addr:suburb": "Batatinha",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0214P-0-91"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.331144,-9.560185]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414654",
+      "addr:housenumber": "50",
+      "addr:postcode": "48619-899",
+      "addr:street": "Sítio Batatinha",
+      "addr:suburb": "Batatinha",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0214P-0-91"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.331885,-9.557312]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191732105",
+      "addr:housenumber": "47",
+      "addr:postcode": "48619-899",
+      "addr:street": "Sítio Batatinha",
+      "addr:suburb": "Batatinha",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "name": "Fazenda Nossa Senhora Aparecida",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0214P-0-91",
+      "place": "farm"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.332378,-9.55775]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112583532",
+      "addr:housenumber": "69",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Batatinha Alagadiço",
+      "addr:suburb": "Batatinha",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0214P-0-99"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.340436955813,-9.5541181616562]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191732105",
+      "addr:housenumber": "47",
+      "addr:postcode": "48619-899",
+      "addr:street": "Sítio Batatinha",
+      "addr:suburb": "Batatinha",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0214P-0-91"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.332370296053,-9.5577515613881]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414673",
+      "addr:housenumber": "24",
+      "addr:postcode": "48619-899",
+      "addr:street": "Sítio Batatinha",
+      "addr:suburb": "Batatinha",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0214P-0-91"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.331112,-9.560284]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414659",
+      "addr:housenumber": "27",
+      "addr:postcode": "48619-899",
+      "addr:street": "Sítio Batatinha",
+      "addr:suburb": "Batatinha",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0214P-0-91"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.331226,-9.560082]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414686",
+      "addr:housenumber": "1",
+      "addr:postcode": "48619-899",
+      "addr:street": "Sítio Batatinha",
+      "addr:suburb": "Batatinha",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0214P-0-91"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.342636,-9.552124]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112584313",
+      "addr:housenumber": "71 Lado Direito",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Batatinha Serrote",
+      "addr:suburb": "Batatinha",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0214P-0-102"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.342586,-9.555157]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414683",
+      "addr:housenumber": "19",
+      "addr:postcode": "48619-899",
+      "addr:street": "Sítio Batatinha",
+      "addr:suburb": "Batatinha",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0214P-0-91"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.331028,-9.560723]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112583519",
+      "addr:housenumber": "70 Lado Direito",
+      "addr:postcode": "48619-899",
+      "addr:street": "Sítio Batatinha",
+      "addr:suburb": "Batatinha",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "name": "Fazenda Boa Esperança",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0214P-0-91",
+      "place": "farm"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.34426,-9.555352]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414681",
+      "addr:housenumber": "16",
+      "addr:postcode": "48619-899",
+      "addr:street": "Sítio Batatinha",
+      "addr:suburb": "Batatinha",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0214P-0-91"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.331315,-9.561955]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414666",
+      "addr:housenumber": "22",
+      "addr:postcode": "48619-899",
+      "addr:street": "Sítio Batatinha",
+      "addr:suburb": "Batatinha",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0214P-0-91"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.330986,-9.560395]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414653",
+      "addr:housenumber": "104",
+      "addr:postcode": "48619-899",
+      "addr:street": "Sítio Batatinha",
+      "addr:suburb": "Batatinha",
+      "addr:unit": "Casa",
+      "fixme": "Verificar coordenadas",
+      "landuse": "farmyard;orchard",
+      "name": "Sítio Bela Vista",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0214P-0-91"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.332486746819,-9.5572489000032]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414694",
+      "addr:housenumber": "50 A",
+      "addr:postcode": "48619-899",
+      "addr:street": "Sítio Batatinha",
+      "addr:suburb": "Batatinha",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0214P-0-91"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.342306,-9.555478]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414660",
+      "addr:housenumber": "12",
+      "addr:postcode": "48619-899",
+      "addr:street": "Sítio Batatinha",
+      "addr:suburb": "Batatinha",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0214P-0-91"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.371576,-9.510074]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414680",
+      "addr:housenumber": "32",
+      "addr:postcode": "48619-899",
+      "addr:street": "Sítio Batatinha",
+      "addr:suburb": "Batatinha",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0214P-0-91"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.330439,-9.559493]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112589135",
+      "addr:housenumber": "33",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada da Batatinha para Barrinha",
+      "addr:suburb": "Batatinha",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0214P-0-101"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.330388,-9.559481]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112584370",
+      "addr:housenumber": "91",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Batatinha Serrote",
+      "addr:suburb": "Batatinha",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0214P-0-102"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.336088,-9.556314]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112583519;112588555",
+      "addr:housenumber": "70 Lado Direito",
+      "addr:postcode": "48619-899",
+      "addr:street": "Sítio Batatinha",
+      "addr:suburb": "Batatinha",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0214P-0-91"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.342256,-9.5546145]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112588637",
+      "addr:housenumber": "72",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Serrote",
+      "addr:suburb": "Batatinha",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0214P-0-100"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.345092,-9.555381]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112583524",
+      "addr:housenumber": "56",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Batatinha Alagadiço",
+      "addr:suburb": "Batatinha",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0214P-0-99"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.336375,-9.555734]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191732112",
+      "addr:housenumber": "42",
+      "addr:postcode": "48619-899",
+      "addr:street": "Sítio Batatinha",
+      "addr:suburb": "Batatinha",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "name": "Igreja sem Nome",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0214P-0-91"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.331077,-9.559156]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414679",
+      "addr:housenumber": "35",
+      "addr:postcode": "48619-899",
+      "addr:street": "Sítio Batatinha",
+      "addr:suburb": "Batatinha",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0214P-0-91"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.330027,-9.559404]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112588555",
+      "addr:housenumber": "70 Lado Direito",
+      "addr:postcode": "48619-899",
+      "addr:street": "Sítio Batatinha",
+      "addr:suburb": "Batatinha",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "name": "Roça do Daniel",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0214P-0-91"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.340252,-9.553877]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414655",
+      "addr:housenumber": "2",
+      "addr:postcode": "48619-899",
+      "addr:street": "Sítio Batatinha",
+      "addr:suburb": "Batatinha",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0214P-0-91"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.33274,-9.55943]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112588539",
+      "addr:housenumber": "31",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada da Batatinha para Barrinha",
+      "addr:suburb": "Batatinha",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0214P-0-101"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.326708,-9.560113]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414667",
+      "addr:housenumber": "8",
+      "addr:postcode": "48619-899",
+      "addr:street": "Sítio Batatinha",
+      "addr:suburb": "Batatinha",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "name": "Mercearia Santa Clara",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0214P-0-91",
+      "shop": "convenience"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.331441,-9.559994]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414652",
+      "addr:housenumber": "102",
+      "addr:postcode": "48619-899",
+      "addr:street": "Sítio Batatinha",
+      "addr:suburb": "Batatinha",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0214P-0-91"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.332982,-9.556839]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414685",
+      "addr:housenumber": "83",
+      "addr:postcode": "48619-899",
+      "addr:street": "Sítio Batatinha",
+      "addr:suburb": "Batatinha",
+      "addr:unit": "Casa",
+      "building": "warehouse",
+      "description": "CNEFE 2022 Depósito",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0214P-0-91"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.362387,-9.557893]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414701",
+      "addr:housenumber": "35 B",
+      "addr:postcode": "48619-899",
+      "addr:street": "Sítio Batatinha",
+      "addr:suburb": "Batatinha",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0214P-0-91"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.356184,-9.559358]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414676",
+      "addr:housenumber": "38",
+      "addr:postcode": "48619-899",
+      "addr:street": "Sítio Batatinha",
+      "addr:suburb": "Batatinha",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0214P-0-91"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.329337,-9.559168]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414667",
+      "addr:housenumber": "8",
+      "addr:postcode": "48619-899",
+      "addr:street": "Sítio Batatinha",
+      "addr:suburb": "Batatinha",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0214P-0-91"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.331444509255,-9.5599947951224]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414688",
+      "addr:housenumber": "84",
+      "addr:postcode": "48619-899",
+      "addr:street": "Sítio Batatinha",
+      "addr:suburb": "Batatinha",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0214P-0-91"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.362265,-9.557859]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112588531",
+      "addr:housenumber": "15",
+      "addr:postcode": "48619-899",
+      "addr:street": "Sítio Batatinha",
+      "addr:suburb": "Batatinha",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0214P-0-91"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.331291,-9.561528]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112589157",
+      "addr:housenumber": "42",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada da Batatinha para Barrinha",
+      "addr:suburb": "Batatinha",
+      "building": "yes",
+      "fixme": "Confirmar nome;Verificar coordenadas",
+      "name": "Fazenda Batatinha",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0214P-0-101",
+      "place": "farm"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.330223,-9.557978]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112588627",
+      "addr:housenumber": "65",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Serrote",
+      "addr:suburb": "Batatinha",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "name": "Fazenda São Domingo",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0214P-0-100",
+      "place": "farm"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.340868789384,-9.555369622981]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191732110",
+      "addr:housenumber": "5",
+      "addr:postcode": "48619-899",
+      "addr:street": "Sítio Batatinha",
+      "addr:suburb": "Batatinha",
+      "disused:amenity": "pub",
+      "disused:building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0214P-0-91",
+      "old_name": "Bar do Beto Fechado"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.331761,-9.559285]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414678",
+      "addr:housenumber": "81",
+      "addr:postcode": "48619-899",
+      "addr:street": "Sítio Batatinha",
+      "addr:suburb": "Batatinha",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0214P-0-91"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.331409,-9.560152]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112584363",
+      "addr:housenumber": "80",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Batatinha Serrote",
+      "addr:suburb": "Batatinha",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "name": "Fazenda Lima",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0214P-0-102",
+      "place": "farm"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.363755755704,-9.5579793955181]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414652",
+      "addr:housenumber": "102",
+      "addr:postcode": "48619-899",
+      "addr:street": "Sítio Batatinha",
+      "addr:suburb": "Batatinha",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "name": "Fazenda Padre Cícero",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0214P-0-91",
+      "place": "farm"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.332995749503,-9.5568368579953]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112589157",
+      "addr:housenumber": "42",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada da Batatinha para Barrinha",
+      "addr:suburb": "Batatinha",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0214P-0-101"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.330218464544,-9.5579930276867]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414682",
+      "addr:housenumber": "3",
+      "addr:postcode": "48619-899",
+      "addr:street": "Sítio Batatinha",
+      "addr:suburb": "Batatinha",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "name": "Fazenda Boa Vista",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0214P-0-91",
+      "place": "farm"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.331920603097,-9.5596408994432]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112584349",
+      "addr:housenumber": "15 A",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Batatinha Serrote",
+      "addr:suburb": "Batatinha",
+      "addr:unit": "Lado Direito",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0214P-0-102"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.349323,-9.554051]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414649",
+      "addr:housenumber": "45",
+      "addr:postcode": "48619-899",
+      "addr:street": "Sítio Batatinha",
+      "addr:suburb": "Batatinha",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0214P-0-91"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.33154,-9.556235]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414662",
+      "addr:housenumber": "26",
+      "addr:postcode": "48619-899",
+      "addr:street": "Sítio Batatinha",
+      "addr:suburb": "Batatinha",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0214P-0-91"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.331144,-9.560153]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414690",
+      "addr:housenumber": "250 C",
+      "addr:postcode": "48619-899",
+      "addr:street": "Sítio Batatinha",
+      "addr:suburb": "Batatinha",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0214P-0-91"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.356846,-9.544478]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414661;27414674",
+      "addr:housenumber": "21",
+      "addr:postcode": "48619-899",
+      "addr:street": "Sítio Batatinha",
+      "addr:suburb": "Batatinha",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0214P-0-91"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3309705,-9.56059]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112584263",
+      "addr:housenumber": "82 Lado Direito",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Batatinha Serrote",
+      "addr:suburb": "Batatinha",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0214P-0-102"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.362553,-9.557925]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414675",
+      "addr:housenumber": "31",
+      "addr:postcode": "48619-899",
+      "addr:street": "Sítio Batatinha",
+      "addr:suburb": "Batatinha",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0214P-0-91"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.330887,-9.559767]
+      }
+    }
+  ]
+}

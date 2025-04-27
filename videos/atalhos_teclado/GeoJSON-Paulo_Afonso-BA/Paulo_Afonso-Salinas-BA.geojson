@@ -1,0 +1,152 @@
+{
+  "type": "FeatureCollection",
+  "source": "IBGE CNEFE + Faces de Logradouros - 2022",
+  "generator": "CSV-CNEFE2GeoJSON.lua 1.5.7 - fidelis.assis@gmail.com",
+  "date": "2025-02-02T09:05:33-0300",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413516",
+      "addr:housenumber": "300",
+      "addr:postcode": "48619-899",
+      "addr:street": "Entrada do Caminho Arasta PE ao Tigre",
+      "addr:suburb": "Salinas",
+      "addr:unit": "B Coelb Casa 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0115P-0-63"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.274141,-9.508514]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413521",
+      "addr:housenumber": "80",
+      "addr:postcode": "48619-899",
+      "addr:street": "Entrada do Caminho Arasta PE ao Tigre",
+      "addr:suburb": "Salinas",
+      "addr:unit": "Casa 7",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0115P-0-63"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.272997,-9.506946]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413523",
+      "addr:housenumber": "500",
+      "addr:postcode": "48619-899",
+      "addr:street": "Entrada do Caminho Arasta PE ao Tigre",
+      "addr:suburb": "Salinas",
+      "addr:unit": "Casa 8",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0115P-0-63"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.270977,-9.506456]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "109752486",
+      "addr:housenumber": "350",
+      "addr:postcode": "48619-899",
+      "addr:street": "Entrada do Caminho Arasta PE ao Tigre",
+      "addr:suburb": "Salinas",
+      "addr:unit": "B Coelb",
+      "building": "stable",
+      "fixme": "Verificar coordenadas",
+      "name": "Baia para Cavalos",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0115P-0-63"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.273824,-9.508811]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191889029",
+      "addr:housenumber": "7",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Salinas",
+      "addr:suburb": "Salinas",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0168P-0-38"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.274808,-9.505012]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413517",
+      "addr:housenumber": "190",
+      "addr:postcode": "48619-899",
+      "addr:street": "Entrada do Caminho Arasta PE ao Tigre",
+      "addr:suburb": "Salinas",
+      "addr:unit": "C Coelb Casa 2",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0115P-0-63"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.274067,-9.508594]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413526",
+      "addr:housenumber": "20",
+      "addr:postcode": "48619-899",
+      "addr:street": "Caminho Para Povoado Tigre",
+      "addr:suburb": "Salinas",
+      "addr:unit": "Casa 3",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0115P-0-65"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.274065,-9.50538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "109752486",
+      "addr:housenumber": "350",
+      "addr:postcode": "48619-899",
+      "addr:street": "Entrada do Caminho Arasta PE ao Tigre",
+      "addr:suburb": "Salinas",
+      "addr:unit": "B Coelb",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0115P-0-63"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.273823955818,-9.5088111616562]
+      }
+    }
+  ]
+}

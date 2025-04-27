@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection",
+  "source": "IBGE CNEFE + Faces de Logradouros - 2022",
+  "generator": "CSV-CNEFE2GeoJSON.lua 1.5.7 - fidelis.assis@gmail.com",
+  "date": "2025-02-02T09:05:06-0300",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "29553457",
+      "addr:housenumber": "178738",
+      "addr:postcode": "48601-248",
+      "addr:street": "Estrada Santa Cruz aos Algodões",
+      "addr:suburb": "Algodões",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0199P-0-26"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.271265,-9.685448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "29553457",
+      "addr:housenumber": "178738",
+      "addr:postcode": "48601-248",
+      "addr:street": "Estrada Santa Cruz aos Algodões",
+      "addr:suburb": "Algodões",
+      "crop": "corn",
+      "fixme": "Verificar coordenadas",
+      "landuse": "farmland",
+      "name": "Plantação de Milho",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0199P-0-26"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.271264955795,-9.6854481616562]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "29553290",
+      "addr:housenumber": "47",
+      "addr:postcode": "48601-248",
+      "addr:street": "Fazenda Algodões",
+      "addr:suburb": "Algodões",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0198P-0-74"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.284263,-9.682221]
+      }
+    }
+  ]
+}

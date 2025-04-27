@@ -1,0 +1,3106 @@
+{
+  "type": "FeatureCollection",
+  "generator": "CSV-CNEFE2GeoJSON.lua 1.5.7 - fidelis.assis@gmail.com",
+  "source": "IBGE CNEFE + Faces de Logradouros - 2022",
+  "date": "2025-02-02T09:05:34-0300",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191546834",
+      "addr:housenumber": "112",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Sítio do Lúcio",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0190P-3-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3211244,-9.6496884]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191546858",
+      "addr:housenumber": "118",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Sítio do Lúcio",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0190P-3-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3221793,-9.6492294]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415714",
+      "addr:housenumber": "95",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Sítio do Lúcio",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0217P-0-106"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.322767,-9.636919]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191546937",
+      "addr:housenumber": "36",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Sítio do Lúcio",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 173m 0500-0190P-4-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.310519,-9.64894]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415694",
+      "addr:housenumber": "21",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Sítio do Lúcio",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3112357,-9.6474686]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414968",
+      "addr:housenumber": "13",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Sítio do Lúcio",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0123P-0-77"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.320107,-9.655883]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415676",
+      "addr:housenumber": "57",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Sítio do Lúcio",
+      "addr:suburb": "Sítio do Lúcio",
+      "amenity": "pub",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "name": "Bar da Quadra",
+      "note": "Sem dados para mover para dentro da quadra 0500-0190P-1-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3156207,-9.6474492]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191547098",
+      "addr:housenumber": "237",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada do Campo de Futebol",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0190P-6-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.327999,-9.647379]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112590288",
+      "addr:housenumber": "83",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0217P-0-112"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.320666,-9.641488]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194564971",
+      "addr:housenumber": "12",
+      "addr:postcode": "48610-488",
+      "addr:street": "Povoado Sítio do Lúcio",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0217P-0-124"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.350538,-9.651335]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191546825",
+      "addr:housenumber": "111",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Sítio do Lúcio",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0190P-3-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3196783,-9.6491817]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415719",
+      "addr:housenumber": "183",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Sítio do Lúcio",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3218749,-9.6494654]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415689",
+      "addr:housenumber": "39",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Sítio do Lúcio",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0190P-4-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.31112,-9.649835]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191547037",
+      "addr:housenumber": "13",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Sítio do Lúcio",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3152195,-9.6475387]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415718",
+      "addr:housenumber": "185",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Sítio do Lúcio",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.321557,-9.6496038]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191546759",
+      "addr:housenumber": "80",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Para A Cascalheira",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3198848,-9.6463889]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415743",
+      "addr:housenumber": "131",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Sítio do Lúcio",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0190P-3-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3240663,-9.6483959]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191547282",
+      "addr:housenumber": "3",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Areia Fofa para as Placas",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0190P-7-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.330479,-9.64721]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191547144",
+      "addr:housenumber": "251",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Sítio do Lúcio",
+      "addr:suburb": "Sítio do Lúcio",
+      "landuse": "farmyard;orchard",
+      "name": "Associação de Moradores do Sítio do Lúcio",
+      "office": "association"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3256606,-9.6477564]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191547183",
+      "addr:housenumber": "263",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Sítio do Lúcio",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3244184,-9.6483386]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191547187",
+      "addr:housenumber": "268",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Sítio do Lúcio",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3236998,-9.648663]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191547148",
+      "addr:housenumber": "252",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Sítio do Lúcio",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3255677,-9.647811]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191547360",
+      "addr:housenumber": "279",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Sítio do Lúcio",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0190P-10-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.328687,-9.644552]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415697",
+      "addr:housenumber": "9",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Sítio do Lúcio",
+      "addr:suburb": "Sítio do Lúcio",
+      "amenity": "pub",
+      "building": "yes",
+      "name": "Bar de Adriana"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3154584,-9.64754]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415706",
+      "addr:housenumber": "106",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Para A Cascalheira",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0190P-3-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3204801,-9.6459413]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191547423",
+      "addr:housenumber": "246",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Sítio do Lúcio",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "warehouse",
+      "description": "CNEFE 2022 Depósito"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3278144,-9.6450847]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191546863",
+      "addr:housenumber": "120",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Sítio do Lúcio",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0190P-3-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3225667,-9.6490597]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191547106",
+      "addr:housenumber": "245",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada do Campo de Futebol",
+      "addr:suburb": "Sítio do Lúcio",
+      "amenity": "pub",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "name": "Bar de João",
+      "note": "Sem dados para mover para dentro da quadra 0500-0190P-6-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3279023,-9.6455306]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415709",
+      "addr:housenumber": "107",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Para A Cascalheira",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0190P-3-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3203984,-9.6460668]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191546815",
+      "addr:housenumber": "110",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Sítio do Lúcio",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0190P-3-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3193334,-9.6477669]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191546889",
+      "addr:housenumber": "144",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Sítio do Lúcio",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0190P-3-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3271266,-9.6462531]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415740",
+      "addr:housenumber": "267",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Sítio do Lúcio",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3237371,-9.6486465]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415687",
+      "addr:housenumber": "72",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Sítio do Lúcio",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.318815,-9.647082]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415741",
+      "addr:housenumber": "128",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Sítio do Lúcio",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0190P-3-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3237197,-9.6485514]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194564974",
+      "addr:housenumber": "14",
+      "addr:postcode": "48610-488",
+      "addr:street": "Povoado Sítio do Lúcio",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0217P-0-124"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.350533,-9.651321]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191547106",
+      "addr:housenumber": "245",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada do Campo de Futebol",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0190P-6-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.327902255801,-9.6455307616562]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191546875",
+      "addr:housenumber": "141",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Sítio do Lúcio",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0190P-3-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3258728,-9.647512]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415674",
+      "addr:housenumber": "50",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Sítio do Lúcio",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0190P-1-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3141721,-9.6474375]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415752",
+      "addr:housenumber": "148",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Sítio do Lúcio",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0217P-0-106"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.33264,-9.640646]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191547374",
+      "addr:housenumber": "228",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Areia Fofa para as Placas",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3296877,-9.6463253]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194564819",
+      "addr:housenumber": "102",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Sítio do Lúcio",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0217P-0-106"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.321461,-9.640537]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415753",
+      "addr:housenumber": "147",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Sítio do Lúcio",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0217P-0-106"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.332612,-9.640533]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191546717",
+      "addr:housenumber": "69",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Sítio do Lúcio",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3176426,-9.6472237]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191547053",
+      "addr:housenumber": "18",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Sítio do Lúcio",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3123854,-9.6474926]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415769",
+      "addr:housenumber": "510",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Sítio do Lúcio",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0217P-0-106"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.354899,-9.651307]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191546753",
+      "addr:housenumber": "79",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Para A Cascalheira",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3197987,-9.646459]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191546988",
+      "addr:housenumber": "173",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Para O Bandeira",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0190P-5-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.323381,-9.6500725]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191546701",
+      "addr:housenumber": "54",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Sítio do Lúcio",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0190P-1-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.314925,-9.6474507]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415739",
+      "addr:housenumber": "265",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Sítio do Lúcio",
+      "addr:suburb": "Sítio do Lúcio",
+      "amenity": "clinic",
+      "building": "yes",
+      "name": "Clínica de Auto em Geral"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3240626,-9.6485016]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191547163",
+      "addr:housenumber": "255",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Sítio do Lúcio",
+      "addr:suburb": "Sítio do Lúcio",
+      "addr:unit": "Fundos",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 46m 0500-0190P-6-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.325521,-9.648247]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191546972",
+      "addr:housenumber": "31",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Sítio do Lúcio",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 62m 0500-0190P-4-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.30982,-9.647764]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191547336",
+      "addr:housenumber": "219",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Areia Fofa para as Placas",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0190P-8-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3314654,-9.6474229]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415686",
+      "addr:housenumber": "71",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Sítio do Lúcio",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3185302,-9.6470283]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415682",
+      "addr:housenumber": "59",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Sítio do Lúcio",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0190P-1-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3167647,-9.6473985]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415669",
+      "addr:housenumber": "45",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Sítio do Lúcio",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0190P-1-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3129069,-9.647388]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194564853",
+      "addr:housenumber": "98",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Sítio do Lúcio",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0217P-0-106"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.325366,-9.634313]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415672",
+      "addr:housenumber": "48",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Sítio do Lúcio",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0190P-1-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3137815,-9.6474267]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191546869",
+      "addr:housenumber": "136",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Sítio do Lúcio",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0190P-3-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.324787,-9.6480743]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191547232",
+      "addr:housenumber": "222",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Areia Fofa para as Placas",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0190P-7-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3309976,-9.647115]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415727",
+      "addr:housenumber": "119",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Sítio do Lúcio",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0190P-3-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.322389,-9.6491376]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191547029",
+      "addr:housenumber": "12",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Sítio do Lúcio",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3153948,-9.6475388]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415744",
+      "addr:housenumber": "262",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Sítio do Lúcio",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3246635,-9.6482311]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415755;194564816",
+      "addr:housenumber": "166",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Sítio do Lúcio",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0217P-0-106"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3350145,-9.640395]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191547406",
+      "addr:housenumber": "235",
+      "addr:postcode": "48619-899",
+      "addr:street": "Viela Para Propriedades Particulares 3",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3288921,-9.6461412]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191546957",
+      "addr:housenumber": "33",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Sítio do Lúcio",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 100m 0500-0190P-4-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.310059,-9.648199]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415696",
+      "addr:housenumber": "2",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Sítio do Lúcio",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.31579,-9.6475451]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194564822",
+      "addr:housenumber": "100",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Sítio do Lúcio",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0217P-0-106"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.32278,-9.638607]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415733",
+      "addr:housenumber": "123",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Sítio do Lúcio",
+      "addr:suburb": "Sítio do Lúcio",
+      "amenity": "pub",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "name": "Bar de Tulaca",
+      "note": "Sem dados para mover para dentro da quadra 0500-0190P-3-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3229234,-9.6489035]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415723",
+      "addr:housenumber": "182",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Sítio do Lúcio",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3219352,-9.649439]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415705",
+      "addr:housenumber": "85",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Para A Cascalheira",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3205775,-9.645436]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415745",
+      "addr:housenumber": "133",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Sítio do Lúcio",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0190P-3-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3245418,-9.6481818]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191547416",
+      "addr:housenumber": "240",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Areia Fofa para as Placas",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0190P-12-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3284872,-9.6454715]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415731",
+      "addr:housenumber": "187",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Sítio do Lúcio",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3213029,-9.6497132]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191546964",
+      "addr:housenumber": "32",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Sítio do Lúcio",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 84m 0500-0190P-4-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.309966,-9.648032]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191547153",
+      "addr:housenumber": "253",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Sítio do Lúcio",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3254964,-9.6478531]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191547391",
+      "addr:housenumber": "231",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Areia Fofa para as Placas",
+      "addr:suburb": "Sítio do Lúcio",
+      "addr:unit": "Casa 1",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 46m 0500-0190P-11-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.329141,-9.646398]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191547305",
+      "addr:housenumber": "227",
+      "addr:postcode": "48619-899",
+      "addr:street": "Viela Para Propriedades Particulares 2",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0190P-7-4"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3298177,-9.6470197]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415677",
+      "addr:housenumber": "52",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Sítio do Lúcio",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0190P-1-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.314631,-9.6474456]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415701",
+      "addr:housenumber": "108",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Para A Cascalheira",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0190P-3-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3196744,-9.6466962]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191547138",
+      "addr:housenumber": "850",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Sítio do Lúcio",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3266225,-9.6469521]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191547431",
+      "addr:housenumber": "238",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Sítio do Lúcio",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3277455,-9.6452631]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191546945",
+      "addr:housenumber": "35",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Sítio do Lúcio",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 165m 0500-0190P-4-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.310382,-9.648854]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415751",
+      "addr:housenumber": "51",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Sítio do Lúcio",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0217P-0-106"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.329382,-9.643346]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415711",
+      "addr:housenumber": "90",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Sítio do Lúcio",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0217P-0-106"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.320363,-9.641305]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194564856",
+      "addr:housenumber": "40",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Sítio do Lúcio",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0217P-0-106"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.31494,-9.637435]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415713",
+      "addr:housenumber": "93",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Sítio do Lúcio",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0217P-0-106"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.321892,-9.640004]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191547435",
+      "addr:housenumber": "241",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada do Campo de Futebol",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3280666,-9.6456125]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194564851",
+      "addr:housenumber": "97",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Sítio do Lúcio",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0217P-0-106"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.325015,-9.634482]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415754",
+      "addr:housenumber": "20",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Sítio do Lúcio",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0217P-0-106"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.334567,-9.640396]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191547380",
+      "addr:housenumber": "230",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Areia Fofa para as Placas",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3295932,-9.6462634]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415737",
+      "addr:housenumber": "127",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Sítio do Lúcio",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0190P-3-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3235901,-9.6486087]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415725-27415726",
+      "addr:housenumber": "178",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Sítio do Lúcio",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3224353,-9.6492199]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194564862",
+      "addr:housenumber": "245",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Sítio do Lúcio",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0217P-0-106"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.314021,-9.634246]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191546931",
+      "addr:housenumber": "37",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Sítio do Lúcio",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 212m 0500-0190P-4-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.310591,-9.649302]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415728",
+      "addr:housenumber": "180",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Sítio do Lúcio",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3222085,-9.6493193]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415676",
+      "addr:housenumber": "57",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Sítio do Lúcio",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0190P-1-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.315612994012,-9.6474507613881]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191546759",
+      "addr:housenumber": "80",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Para A Cascalheira",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes",
+      "description": "CNEFE 2022 Loja de Roupas",
+      "shop": "clothes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.319886547279,-9.6463938000032]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415724",
+      "addr:housenumber": "181",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Sítio do Lúcio",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3220652,-9.6493821]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415747",
+      "addr:housenumber": "132",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Sítio do Lúcio",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0190P-3-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3243116,-9.6482828]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194564843",
+      "addr:housenumber": "284",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Sítio do Lúcio",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0217P-0-106"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.35553,-9.651289]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194564943",
+      "addr:housenumber": "20",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Baixa da Onça",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0217P-0-116"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.301691,-9.622762]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191546882",
+      "addr:housenumber": "143",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Sítio do Lúcio",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0190P-3-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3270899,-9.6462997]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415702",
+      "addr:housenumber": "87",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Para A Cascalheira",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3205215,-9.6444652]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415757",
+      "addr:housenumber": "50",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Sítio do Lúcio",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0217P-0-106"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3374,-9.640331]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191547158",
+      "addr:housenumber": "254",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Sítio do Lúcio",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "warehouse",
+      "description": "CNEFE 2022 Depósito"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3253515,-9.6479254]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415680",
+      "addr:housenumber": "62",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Sítio do Lúcio",
+      "addr:suburb": "Sítio do Lúcio",
+      "amenity": "school",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "name": "Escola Municipal 15 de Novembro",
+      "note": "Sem dados para mover para dentro da quadra 0500-0190P-1-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3163611,-9.6474435]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415671",
+      "addr:housenumber": "47",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Sítio do Lúcio",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0190P-1-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3137367,-9.6474226]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191547060",
+      "addr:housenumber": "15",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Sítio do Lúcio",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3135958,-9.6475038]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191546724",
+      "addr:housenumber": "73",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Sítio do Lúcio",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3190234,-9.6471438]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191547120",
+      "addr:housenumber": "247",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Sítio do Lúcio",
+      "addr:suburb": "Sítio do Lúcio",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "catholic",
+      "name": "Igreja Católica Santo Expedito",
+      "religion": "christian"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3272268,-9.6462784]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191546951",
+      "addr:housenumber": "34",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Sítio do Lúcio",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 152m 0500-0190P-4-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.310285,-9.648719]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191546767",
+      "addr:housenumber": "82",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Para A Cascalheira",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3204084,-9.6458793]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415738",
+      "addr:housenumber": "266",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Sítio do Lúcio",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3238472,-9.6485978]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191547439",
+      "addr:housenumber": "237",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada do Campo de Futebol",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0190P-12-4"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.328257,-9.647284]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194564890",
+      "addr:housenumber": "65",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Bogo de Cima",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0217P-0-113"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.313516,-9.642855]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194564840",
+      "addr:housenumber": "285",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Sítio do Lúcio",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0217P-0-106"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.355947,-9.651132]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415729",
+      "addr:housenumber": "60",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Sítio do Lúcio",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3226267,-9.6491361]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191546920",
+      "addr:housenumber": "40",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Sítio do Lúcio",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0190P-4-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.311173,-9.650245]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415675",
+      "addr:housenumber": "51",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Sítio do Lúcio",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0190P-1-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3143524,-9.6474407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415736",
+      "addr:housenumber": "125",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Sítio do Lúcio",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0190P-3-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3233972,-9.648694]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191547216",
+      "addr:housenumber": "221",
+      "addr:postcode": "48619-899",
+      "addr:street": "Viela Para Propriedades Particulares 1",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0190P-7-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.331101,-9.6476212]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191547224",
+      "addr:housenumber": "220",
+      "addr:postcode": "48619-899",
+      "addr:street": "Viela Para Propriedades Particulares 1",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0190P-7-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.331144,-9.648404]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191546790",
+      "addr:housenumber": "103",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Para A Cascalheira",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0190P-3-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3206822,-9.6453034]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415742",
+      "addr:housenumber": "130",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Sítio do Lúcio",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0190P-3-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3239257,-9.6484603]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112590238",
+      "addr:housenumber": "155",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0217P-0-107"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.343668,-9.636889]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415673",
+      "addr:housenumber": "49",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Sítio do Lúcio",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0190P-1-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3139376,-9.6474334]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191546748",
+      "addr:housenumber": "75",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Para A Cascalheira",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3194883,-9.6467278]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415749",
+      "addr:housenumber": "139",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Sítio do Lúcio",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0190P-3-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3256127,-9.6476755]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415748",
+      "addr:housenumber": "138",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Sítio do Lúcio",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0190P-3-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3256264,-9.6476681]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191547299",
+      "addr:housenumber": "226",
+      "addr:postcode": "48619-899",
+      "addr:street": "Viela Para Propriedades Particulares 2",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0190P-7-4"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3299944,-9.6470177]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415720",
+      "addr:housenumber": "184",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Sítio do Lúcio",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3216685,-9.6495552]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112590304",
+      "addr:housenumber": "54",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Baixa da Onça",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0217P-0-116"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.306632,-9.645987]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415704",
+      "addr:housenumber": "81",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Para A Cascalheira",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3201718,-9.6461527]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191546925",
+      "addr:housenumber": "38",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Sítio do Lúcio",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0190P-4-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.310717,-9.649555]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191546914",
+      "addr:housenumber": "41",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Sítio do Lúcio",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0190P-4-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.311304,-9.650642]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191547348",
+      "addr:housenumber": "273",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Sítio do Lúcio",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0190P-10-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.331831,-9.643465]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415717",
+      "addr:housenumber": "186",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Sítio do Lúcio",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3214428,-9.6496529]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191547176",
+      "addr:housenumber": "258",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Sítio do Lúcio",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3251656,-9.6480103]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191546909",
+      "addr:housenumber": "30",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Sítio do Lúcio",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0190P-4-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3098505,-9.647183]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415678",
+      "addr:housenumber": "53",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Sítio do Lúcio",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0190P-1-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3147516,-9.6474478]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415668",
+      "addr:housenumber": "43",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Sítio do Lúcio",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0190P-1-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.312715,-9.6473964]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415707",
+      "addr:housenumber": "104",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Para A Cascalheira",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0190P-3-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3206623,-9.6455696]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415690",
+      "addr:housenumber": "25",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Sítio do Lúcio",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0190P-4-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3107399,-9.6473968]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191546847",
+      "addr:housenumber": "32",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Sítio do Lúcio",
+      "addr:suburb": "Sítio do Lúcio",
+      "amenity": "pub",
+      "building": "yes",
+      "description": "CNEFE 2022 Bar",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0190P-3-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.321724,-9.6494288]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415759",
+      "addr:housenumber": "1",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Sítio do Lúcio",
+      "addr:suburb": "Sítio do Lúcio",
+      "addr:unit": "Fundos",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0217P-0-106"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.342275,-9.639422]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191547076",
+      "addr:housenumber": "25",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Sítio do Lúcio",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3130591,-9.6474735]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415693",
+      "addr:housenumber": "20",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Sítio do Lúcio",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3116241,-9.6474767]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191547354",
+      "addr:housenumber": "278",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Sítio do Lúcio",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0190P-10-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.329196,-9.644063]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415733",
+      "addr:housenumber": "123",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Sítio do Lúcio",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0190P-3-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.322926910177,-9.6489042951224]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415685",
+      "addr:housenumber": "70",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Sítio do Lúcio",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3183821,-9.6470526]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415744",
+      "addr:housenumber": "262",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Sítio do Lúcio",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "warehouse",
+      "description": "CNEFE 2022 Depósito"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.324668290697,-9.648223722981]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191547193",
+      "addr:housenumber": "269",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Sítio do Lúcio",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3234549,-9.6487713]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415722",
+      "addr:housenumber": "44",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Sítio do Lúcio",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0190P-3-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3218508,-9.6493733]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191546797",
+      "addr:housenumber": "105",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Para A Cascalheira",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0190P-3-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3205923,-9.6457639]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191547402",
+      "addr:housenumber": "233",
+      "addr:postcode": "48619-899",
+      "addr:street": "Viela Para Propriedades Particulares 3",
+      "addr:suburb": "Sítio do Lúcio",
+      "addr:unit": "Casa 2",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3289172,-9.6461322]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191547288",
+      "addr:housenumber": "225",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Areia Fofa para as Placas",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0190P-7-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.330323,-9.647203]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415684",
+      "addr:housenumber": "68",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada ao Norte Após A Quadra de Esportes",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0190P-2-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3172188,-9.6469193]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191547168",
+      "addr:housenumber": "256",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Sítio do Lúcio",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes",
+      "name": "Mercadinho Ferreira",
+      "shop": "convenience"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3252817,-9.6479571]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191547324",
+      "addr:housenumber": "217",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Areia Fofa para as Placas",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0190P-8-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.332498,-9.6480764]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415708",
+      "addr:housenumber": "83",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Para A Cascalheira",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.320542,-9.6456677]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415698",
+      "addr:housenumber": "109",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Para A Cascalheira",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0190P-3-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3194199,-9.6469367]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191546903",
+      "addr:housenumber": "28",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Sítio do Lúcio",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0190P-4-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3102005,-9.6473044]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191547247",
+      "addr:housenumber": "223",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Areia Fofa para as Placas",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0190P-7-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3308868,-9.6470415]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194564828",
+      "addr:housenumber": "1140",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Sítio do Lúcio",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0217P-0-106"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.357307,-9.651005]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415683",
+      "addr:housenumber": "67",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada ao Norte Após A Quadra de Esportes",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0190P-2-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3169776,-9.6466113]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415750",
+      "addr:housenumber": "140",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Sítio do Lúcio",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0190P-3-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.325778,-9.6475745]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112590695",
+      "addr:housenumber": "95",
+      "addr:postcode": "48601-248",
+      "addr:street": "Estrada do Sítio do Lúcio para Serra Branca",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0217P-0-111"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.322769,-9.636899]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191547293",
+      "addr:housenumber": "2271",
+      "addr:postcode": "48619-899",
+      "addr:street": "Viela Para Propriedades Particulares 2",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0190P-7-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3297918,-9.6469297]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191547275",
+      "addr:housenumber": "224",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Areia Fofa para as Placas",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0190P-7-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.330543,-9.647172]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191547318",
+      "addr:housenumber": "140",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada em Propriedade Particular 2",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0190P-8-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3326179,-9.649316]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191546780",
+      "addr:housenumber": "88",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Para A Cascalheira",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3204983,-9.6440251]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191547397",
+      "addr:housenumber": "232",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Areia Fofa para as Placas",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3290626,-9.6459162]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415692",
+      "addr:housenumber": "27",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Sítio do Lúcio",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0190P-4-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3103348,-9.6473353]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415730",
+      "addr:housenumber": "175",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Sítio do Lúcio",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3227739,-9.6490716]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191547084",
+      "addr:housenumber": "24",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Particular ao Sul Sentido Lagoa Grande",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0190P-5-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.311373,-9.64849]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191547044",
+      "addr:housenumber": "14",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Sítio do Lúcio",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3138512,-9.6475258]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415732",
+      "addr:housenumber": "59",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Sítio do Lúcio",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3226564,-9.6491231]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191547386",
+      "addr:housenumber": "231",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Areia Fofa para as Placas",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.329487,-9.6461939]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415688",
+      "addr:housenumber": "62",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Sítio do Lúcio",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0217P-0-106"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.30857,-9.646406]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191546739",
+      "addr:housenumber": "74",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Para A Cascalheira",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3193466,-9.6468772]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112590167",
+      "addr:housenumber": "300",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0217P-0-107"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.312381,-9.625634]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415721",
+      "addr:housenumber": "7",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Sítio do Lúcio",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0190P-3-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.321626,-9.6494716]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415741",
+      "addr:housenumber": "128",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Sítio do Lúcio",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "warehouse",
+      "description": "CNEFE 2022 Depósito",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0190P-3-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.323711453499,-9.6485477955181]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415746",
+      "addr:housenumber": "134",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Sítio do Lúcio",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0190P-3-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3247252,-9.6481014]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415679",
+      "addr:housenumber": "56",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Sítio do Lúcio",
+      "addr:suburb": "Sítio do Lúcio",
+      "amenity": "clinic",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "healthcare": "yes",
+      "name": "Posto de Saúde da Família",
+      "note": "Sem dados para mover para dentro da quadra 0500-0190P-1-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.315112,-9.647447]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191546773",
+      "addr:housenumber": "78",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Para A Cascalheira",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3198066,-9.6464533]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191547411",
+      "addr:housenumber": "236",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Areia Fofa para as Placas",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0190P-12-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.328492,-9.645476]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191547069",
+      "addr:housenumber": "16",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Sítio do Lúcio",
+      "addr:suburb": "Sítio do Lúcio",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3132946,-9.6474689]
+      }
+    }
+  ]
+}

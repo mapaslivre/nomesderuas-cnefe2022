@@ -1,0 +1,1267 @@
+{
+  "type": "FeatureCollection",
+  "generator": "CSV-CNEFE2GeoJSON.lua 1.5.7 - fidelis.assis@gmail.com",
+  "source": "IBGE CNEFE + Faces de Logradouros - 2022",
+  "date": "2025-02-02T09:05:08-0300",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194564693",
+      "addr:housenumber": "17",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Barro Vermelho",
+      "addr:suburb": "Barro Vermelho",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0217P-0-91"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.282176,-9.629514]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415630",
+      "addr:housenumber": "59",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Barro Vermelho",
+      "addr:suburb": "Barro Vermelho",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2812789,-9.633975]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194564713",
+      "addr:housenumber": "25 Z",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Barro Vermelho",
+      "addr:suburb": "Barro Vermelho",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0217P-0-91"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.282815,-9.648746]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194564707",
+      "addr:housenumber": "143",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Barro Vermelho",
+      "addr:suburb": "Barro Vermelho",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0217P-0-91"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.281714,-9.646913]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415596",
+      "addr:housenumber": "31",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Barro Vermelho",
+      "addr:suburb": "Barro Vermelho",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2831404,-9.6407738]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415624",
+      "addr:housenumber": "66",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Barro Vermelho",
+      "addr:suburb": "Barro Vermelho",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2819543,-9.6353792]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194564736",
+      "addr:housenumber": "24",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Barro Vermelho",
+      "addr:suburb": "Barro Vermelho",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0217P-0-91"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.281183,-9.628564]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194564738",
+      "addr:housenumber": "26",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Barro Vermelho",
+      "addr:suburb": "Barro Vermelho",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0217P-0-91"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.281027,-9.628689]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191549320",
+      "addr:housenumber": "62",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Barro Vermelho",
+      "addr:suburb": "Barro Vermelho",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 46m 0500-0218P-1-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.281788,-9.63421]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194564664",
+      "addr:housenumber": "44",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Barro Vermelho",
+      "addr:suburb": "Barro Vermelho",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0217P-0-91"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.281863,-9.630384]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191549349",
+      "addr:housenumber": "75",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Barro Vermelho",
+      "addr:suburb": "Barro Vermelho",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.282411,-9.6362877]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191549368",
+      "addr:housenumber": "118",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Barro Vermelho",
+      "addr:suburb": "Barro Vermelho",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.282435,-9.6382582]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194564705",
+      "addr:housenumber": "94",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Barro Vermelho",
+      "addr:suburb": "Barro Vermelho",
+      "addr:unit": "Fundos",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0217P-0-91"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.281324,-9.643905]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112589249",
+      "addr:housenumber": "139",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Para São José",
+      "addr:suburb": "Barro Vermelho",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0217P-0-95"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.282167,-9.650081]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415611",
+      "addr:housenumber": "300",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Barro Vermelho",
+      "addr:suburb": "Barro Vermelho",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2826792,-9.6376808]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415616",
+      "addr:housenumber": "22",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Barro Vermelho",
+      "addr:suburb": "Barro Vermelho",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2821119,-9.6360315]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194564691",
+      "addr:housenumber": "15",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Barro Vermelho",
+      "addr:suburb": "Barro Vermelho",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0217P-0-91"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.28205,-9.629635]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415604",
+      "addr:housenumber": "84",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Barro Vermelho",
+      "addr:suburb": "Barro Vermelho",
+      "addr:unit": "Fundos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2829711,-9.6392886]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415623",
+      "addr:housenumber": "67",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Barro Vermelho",
+      "addr:suburb": "Barro Vermelho",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2820768,-9.6356223]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415621",
+      "addr:housenumber": "20",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Barro Vermelho",
+      "addr:suburb": "Barro Vermelho",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2822587,-9.6359923]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191549345",
+      "addr:housenumber": "65",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Barro Vermelho",
+      "addr:suburb": "Barro Vermelho",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2818076,-9.6350971]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415589",
+      "addr:housenumber": "128",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Barro Vermelho",
+      "addr:suburb": "Barro Vermelho",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2832889,-9.6417465]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415613",
+      "addr:housenumber": "86",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Barro Vermelho",
+      "addr:suburb": "Barro Vermelho",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2830449,-9.6397364]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194564698",
+      "addr:housenumber": "20",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Barro Vermelho",
+      "addr:suburb": "Barro Vermelho",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0217P-0-91"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.282251,-9.629637]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194564710",
+      "addr:housenumber": "155 B",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Barro Vermelho",
+      "addr:suburb": "Barro Vermelho",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0217P-0-91"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.282501,-9.648229]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415631",
+      "addr:housenumber": "58",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Barro Vermelho",
+      "addr:suburb": "Barro Vermelho",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "description": "CNEFE 2022 Igreja"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2812348,-9.633881]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415633",
+      "addr:housenumber": "33",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Barro Vermelho",
+      "addr:suburb": "Barro Vermelho",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0218P-2-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2809258,-9.6333986]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194564695",
+      "addr:housenumber": "19",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Barro Vermelho",
+      "addr:suburb": "Barro Vermelho",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0217P-0-91"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.282221,-9.62955]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194564666",
+      "addr:housenumber": "12",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Barro Vermelho",
+      "addr:suburb": "Barro Vermelho",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0217P-0-91"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.281867,-9.630391]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415595;27415626",
+      "addr:housenumber": "100",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Barro Vermelho",
+      "addr:suburb": "Barro Vermelho",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2824467,-9.6380828]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415619",
+      "addr:housenumber": "127",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Barro Vermelho",
+      "addr:suburb": "Barro Vermelho",
+      "amenity": "school",
+      "building": "yes",
+      "name": "Escola Municipal Dom Pedro I"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2823888,-9.6365777]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415601",
+      "addr:housenumber": "105",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Barro Vermelho",
+      "addr:suburb": "Barro Vermelho",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2829593,-9.640073]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194564657",
+      "addr:housenumber": "52",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Barro Vermelho",
+      "addr:suburb": "Barro Vermelho",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0217P-0-91"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.28035,-9.631561]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415617",
+      "addr:housenumber": "130",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Barro Vermelho",
+      "addr:suburb": "Barro Vermelho",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2824827,-9.6368173]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415598",
+      "addr:housenumber": "104",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Barro Vermelho",
+      "addr:suburb": "Barro Vermelho",
+      "amenity": "pub",
+      "building": "yes",
+      "name": "Bar do Cinho"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2829484,-9.639998]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415629",
+      "addr:housenumber": "11",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Barro Vermelho",
+      "addr:suburb": "Barro Vermelho",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2813167,-9.6340556]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194564678",
+      "addr:housenumber": "50",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Barro Vermelho",
+      "addr:suburb": "Barro Vermelho",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0217P-0-91"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.281686,-9.6307]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194564670",
+      "addr:housenumber": "47",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Barro Vermelho",
+      "addr:suburb": "Barro Vermelho",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0217P-0-91"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.281868,-9.630612]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191549353",
+      "addr:housenumber": "81",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Barro Vermelho",
+      "addr:suburb": "Barro Vermelho",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2826894,-9.638676]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194564683",
+      "addr:housenumber": "5",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Barro Vermelho",
+      "addr:suburb": "Barro Vermelho",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0217P-0-91"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.28129,-9.630317]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194564962",
+      "addr:housenumber": "5",
+      "addr:postcode": "48610-488",
+      "addr:street": "Povoado Barro Vermelho",
+      "addr:suburb": "Barro Vermelho",
+      "building": "warehouse",
+      "description": "CNEFE 2022 Depósito de Raça",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0217P-0-123"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.291479,-9.636313]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194564675",
+      "addr:housenumber": "49",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Barro Vermelho",
+      "addr:suburb": "Barro Vermelho",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0217P-0-91"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.281728,-9.6307]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415618",
+      "addr:housenumber": "77",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Barro Vermelho",
+      "addr:suburb": "Barro Vermelho",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2826282,-9.6367834]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415603",
+      "addr:housenumber": "107",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Barro Vermelho",
+      "addr:suburb": "Barro Vermelho",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2828656,-9.6396422]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415632",
+      "addr:housenumber": "55",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Barro Vermelho",
+      "addr:suburb": "Barro Vermelho",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2807799,-9.6328918]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415627",
+      "addr:housenumber": "3",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada A Sudeste Após A Quadra de Esportes",
+      "addr:suburb": "Barro Vermelho",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2808757,-9.6351827]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415610",
+      "addr:housenumber": "115",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Barro Vermelho",
+      "addr:suburb": "Barro Vermelho",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2825001,-9.6386033]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191549357",
+      "addr:housenumber": "163",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Barro Vermelho",
+      "addr:suburb": "Barro Vermelho",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2831184,-9.6401446]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194564961",
+      "addr:housenumber": "3",
+      "addr:postcode": "48610-488",
+      "addr:street": "Povoado Barro Vermelho",
+      "addr:suburb": "Barro Vermelho",
+      "building": "warehouse",
+      "description": "CNEFE 2022 Depósito de Ração",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0217P-0-123"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.287887,-9.638941]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194564745",
+      "addr:housenumber": "230 B",
+      "addr:postcode": "48601-014",
+      "addr:street": "Povoado Barro Vermelho",
+      "addr:suburb": "Barro Vermelho",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0217P-0-92"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.281909,-9.647837]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194564968",
+      "addr:housenumber": "12",
+      "addr:postcode": "48610-488",
+      "addr:street": "Povoado Barro Vermelho",
+      "addr:suburb": "Barro Vermelho",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0217P-0-123"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.285511,-9.637691]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194564680",
+      "addr:housenumber": "51",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Barro Vermelho",
+      "addr:suburb": "Barro Vermelho",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0217P-0-91"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.281424,-9.630621]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415586",
+      "addr:housenumber": "131",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Barro Vermelho",
+      "addr:suburb": "Barro Vermelho",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2834154,-9.6422524]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194564703",
+      "addr:housenumber": "78 A",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Barro Vermelho",
+      "addr:suburb": "Barro Vermelho",
+      "building": "construction",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0217P-0-91"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.281999,-9.629886]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415600",
+      "addr:housenumber": "106",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Barro Vermelho",
+      "addr:suburb": "Barro Vermelho",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2829095,-9.6398087]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194564749",
+      "addr:housenumber": "22",
+      "addr:postcode": "48601-026",
+      "addr:street": "Povoado Barro Vermelho",
+      "addr:suburb": "Barro Vermelho",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0217P-0-93"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.282095,-9.629792]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194564959",
+      "addr:housenumber": "2",
+      "addr:postcode": "48610-488",
+      "addr:street": "Povoado Barro Vermelho",
+      "addr:suburb": "Barro Vermelho",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0217P-0-123"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.28786,-9.638931]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194564689",
+      "addr:housenumber": "79 B",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Barro Vermelho",
+      "addr:suburb": "Barro Vermelho",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0217P-0-91"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.282039,-9.62975]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194564741",
+      "addr:housenumber": "18",
+      "addr:postcode": "48601-014",
+      "addr:street": "Povoado Barro Vermelho",
+      "addr:suburb": "Barro Vermelho",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0217P-0-92"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.282249,-9.629492]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112589260",
+      "addr:housenumber": "3",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Para São José",
+      "addr:suburb": "Barro Vermelho",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0217P-0-95"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.28173,-9.647229]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415602",
+      "addr:housenumber": "85",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Barro Vermelho",
+      "addr:suburb": "Barro Vermelho",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2830168,-9.6396304]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415620",
+      "addr:housenumber": "15",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Barro Vermelho",
+      "addr:suburb": "Barro Vermelho",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2825832,-9.6366486]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191549372",
+      "addr:housenumber": "119",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Barro Vermelho",
+      "addr:suburb": "Barro Vermelho",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2824907,-9.6378642]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194564701",
+      "addr:housenumber": "21",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Barro Vermelho",
+      "addr:suburb": "Barro Vermelho",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0217P-0-91"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.282195,-9.629659]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415622",
+      "addr:housenumber": "72",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Barro Vermelho",
+      "addr:suburb": "Barro Vermelho",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2822167,-9.6359036]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194564668",
+      "addr:housenumber": "46",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Barro Vermelho",
+      "addr:suburb": "Barro Vermelho",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0217P-0-91"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.281844,-9.630619]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415599",
+      "addr:housenumber": "3",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Barro Vermelho",
+      "addr:suburb": "Barro Vermelho",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0218P-2-2"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2812393,-9.634112]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415588",
+      "addr:housenumber": "129",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Barro Vermelho",
+      "addr:suburb": "Barro Vermelho",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2833891,-9.6420239]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415594",
+      "addr:housenumber": "101",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Barro Vermelho",
+      "addr:suburb": "Barro Vermelho",
+      "building": "warehouse",
+      "description": "CNEFE 2022 Depósito de Máquinas Agrícolas"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2830075,-9.6410892]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415587",
+      "addr:housenumber": "4",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Para Casa de Dona Rosália",
+      "addr:suburb": "Barro Vermelho",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2838527,-9.6421444]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194564964",
+      "addr:housenumber": "6",
+      "addr:postcode": "48610-488",
+      "addr:street": "Povoado Barro Vermelho",
+      "addr:suburb": "Barro Vermelho",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0217P-0-123"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.294007,-9.638556]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415605",
+      "addr:housenumber": "109",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Barro Vermelho",
+      "addr:suburb": "Barro Vermelho",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2828016,-9.6394254]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194564966",
+      "addr:housenumber": "8",
+      "addr:postcode": "48610-488",
+      "addr:street": "Povoado Barro Vermelho",
+      "addr:suburb": "Barro Vermelho",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0217P-0-123"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.296759,-9.629698]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415615",
+      "addr:housenumber": "23",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Barro Vermelho",
+      "addr:suburb": "Barro Vermelho",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2826811,-9.6370338]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194564957",
+      "addr:housenumber": "1",
+      "addr:postcode": "48610-488",
+      "addr:street": "Povoado Barro Vermelho",
+      "addr:suburb": "Barro Vermelho",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0217P-0-123"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.287819,-9.638897]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "194564672",
+      "addr:housenumber": "48",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Barro Vermelho",
+      "addr:suburb": "Barro Vermelho",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0217P-0-91"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.28177,-9.630705]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191549368",
+      "addr:housenumber": "118",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Barro Vermelho",
+      "addr:suburb": "Barro Vermelho",
+      "building": "yes",
+      "name": "Mercado da Nega",
+      "shop": "supermarket"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.282434955802,-9.6382583616562]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27415597",
+      "addr:housenumber": "90",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Principal do Barro Vermelho",
+      "addr:suburb": "Barro Vermelho",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2831283,-9.6404596]
+      }
+    }
+  ]
+}

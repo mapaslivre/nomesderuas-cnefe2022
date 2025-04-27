@@ -1,0 +1,403 @@
+{
+  "type": "FeatureCollection",
+  "generator": "CSV-CNEFE2GeoJSON.lua 1.5.7 - fidelis.assis@gmail.com",
+  "source": "IBGE CNEFE + Faces de Logradouros - 2022",
+  "date": "2025-02-02T09:05:40-0300",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413913",
+      "addr:housenumber": "89",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Casa de Pedra",
+      "addr:suburb": "Vilinha da Casa de Pedra",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2669492,-9.613859]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413889",
+      "addr:housenumber": "293203",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Casa de Pedra",
+      "addr:suburb": "Vilinha da Casa de Pedra",
+      "addr:unit": "P1 Mc",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0242P-0-8"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2651879,-9.6135125]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413908",
+      "addr:housenumber": "35",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Casa de Pedra",
+      "addr:suburb": "Vilinha da Casa de Pedra",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2656741,-9.6140157]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413906",
+      "addr:housenumber": "87",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Casa de Pedra",
+      "addr:suburb": "Vilinha da Casa de Pedra",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2672126,-9.6138248]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413892",
+      "addr:housenumber": "46",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Casa de Pedra",
+      "addr:suburb": "Vilinha da Casa de Pedra",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0242P-0-8"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2653248,-9.6134656]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413910",
+      "addr:housenumber": "100",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Casa de Pedra",
+      "addr:suburb": "Vilinha da Casa de Pedra",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2654854,-9.614047]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413893",
+      "addr:housenumber": "47",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Casa de Pedra",
+      "addr:suburb": "Vilinha da Casa de Pedra",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0242P-0-8"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2655506,-9.6133915]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413914",
+      "addr:housenumber": "97",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Casa de Pedra",
+      "addr:suburb": "Vilinha da Casa de Pedra",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.265846,-9.613997]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413895",
+      "addr:housenumber": "49",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Casa de Pedra",
+      "addr:suburb": "Vilinha da Casa de Pedra",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0242P-0-8"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2657601,-9.6133244]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413911",
+      "addr:housenumber": "93",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Casa de Pedra",
+      "addr:suburb": "Vilinha da Casa de Pedra",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.266645,-9.6138985]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191746020",
+      "addr:housenumber": "51",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Casa de Pedra",
+      "addr:suburb": "Vilinha da Casa de Pedra",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0242P-0-8"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2660714,-9.6132472]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413888",
+      "addr:housenumber": "293210",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Casa de Pedra",
+      "addr:suburb": "Vilinha da Casa de Pedra",
+      "addr:unit": "P1 Mc",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0242P-0-8"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2649985,-9.6135553]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191746058",
+      "addr:housenumber": "30",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Casa de Pedra",
+      "addr:suburb": "Vilinha da Casa de Pedra",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0242P-3-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2653361,-9.6147481]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413890",
+      "addr:housenumber": "45",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Casa de Pedra",
+      "addr:suburb": "Vilinha da Casa de Pedra",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0242P-0-8"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2651483,-9.6135214]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191746061",
+      "addr:housenumber": "29",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Casa de Pedra",
+      "addr:suburb": "Vilinha da Casa de Pedra",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0242P-3-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2654244,-9.6149242]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413897",
+      "addr:housenumber": "52",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Casa de Pedra",
+      "addr:suburb": "Vilinha da Casa de Pedra",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0242P-0-8"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2660526,-9.6132515]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413901",
+      "addr:housenumber": "59",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Casa de Pedra",
+      "addr:suburb": "Vilinha da Casa de Pedra",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0242P-0-8"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2668672,-9.613016]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413896",
+      "addr:housenumber": "50",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Casa de Pedra",
+      "addr:suburb": "Vilinha da Casa de Pedra",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0242P-0-8"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2658251,-9.613308]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413907",
+      "addr:housenumber": "98",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Casa de Pedra",
+      "addr:suburb": "Vilinha da Casa de Pedra",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2658089,-9.6140011]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413899",
+      "addr:housenumber": "56",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Casa de Pedra",
+      "addr:suburb": "Vilinha da Casa de Pedra",
+      "building": "yes",
+      "description": "CNEFE 2022 Sem Nome",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0242P-0-8"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2665612,-9.613111]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413902",
+      "addr:housenumber": "22",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Casa de Pedra",
+      "addr:suburb": "Vilinha da Casa de Pedra",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0242P-0-8"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2671196,-9.6131905]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413915",
+      "addr:housenumber": "96",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Casa de Pedra",
+      "addr:suburb": "Vilinha da Casa de Pedra",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2662393,-9.6139538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191746026",
+      "addr:housenumber": "67",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Casa de Pedra",
+      "addr:suburb": "Vilinha da Casa de Pedra",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0242P-0-8"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2672253,-9.613619]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413894",
+      "addr:housenumber": "48",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Casa de Pedra",
+      "addr:suburb": "Vilinha da Casa de Pedra",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0242P-0-8"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2656028,-9.6133748]
+      }
+    }
+  ]
+}

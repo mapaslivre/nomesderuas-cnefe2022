@@ -1,0 +1,1517 @@
+{
+  "type": "FeatureCollection",
+  "generator": "CSV-CNEFE2GeoJSON.lua 1.5.7 - fidelis.assis@gmail.com",
+  "source": "IBGE CNEFE + Faces de Logradouros - 2022",
+  "date": "2025-02-02T09:05:08-0300",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191766297",
+      "addr:housenumber": "30 B",
+      "addr:postcode": "48610-400",
+      "addr:street": "Bairro Balança",
+      "addr:suburb": "Balança de Caminhões",
+      "building": "construction",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0191P-15-16"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.260621,-9.382514]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191766353",
+      "addr:housenumber": "54",
+      "addr:postcode": "48610-400",
+      "addr:street": "Bairro Balança",
+      "addr:suburb": "Balança de Caminhões",
+      "building": "construction",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0191P-15-21"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.261677,-9.380479]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191766377",
+      "addr:housenumber": "165 A",
+      "addr:postcode": "48610-400",
+      "addr:street": "Bairro Balança",
+      "addr:suburb": "Balança de Caminhões",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0191P-15-22"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.261882,-9.380036]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191766358",
+      "addr:housenumber": "12",
+      "addr:postcode": "48610-400",
+      "addr:street": "Bairro Balança",
+      "addr:suburb": "Balança de Caminhões",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "name": "JA Construções",
+      "note": "Sem face no bayface do IBGE 0500-0191P-15-21"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.262088,-9.380857]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191766366",
+      "addr:housenumber": "74",
+      "addr:postcode": "48610-400",
+      "addr:street": "Bairro Balança",
+      "addr:suburb": "Balança de Caminhões",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0191P-15-22"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.26143,-9.379682]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191766452",
+      "addr:housenumber": "18",
+      "addr:postcode": "48610-400",
+      "addr:street": "Bairro Balança",
+      "addr:suburb": "Balança de Caminhões",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0191P-15-26"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.249866,-9.373384]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191766292",
+      "addr:housenumber": "16",
+      "addr:postcode": "48610-400",
+      "addr:street": "Bairro Balança",
+      "addr:suburb": "Balança de Caminhões",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0191P-15-16"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.260989,-9.383079]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191766328",
+      "addr:housenumber": "6",
+      "addr:postcode": "48610-400",
+      "addr:street": "Bairro Balança",
+      "addr:suburb": "Balança de Caminhões",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0191P-15-19"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.262363,-9.381799]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191766381",
+      "addr:housenumber": "1",
+      "addr:postcode": "48610-400",
+      "addr:street": "Bairro Balança",
+      "addr:suburb": "Balança de Caminhões",
+      "building": "construction",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0191P-15-23"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.263034,-9.380117]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191766351",
+      "addr:housenumber": "7",
+      "addr:postcode": "48610-400",
+      "addr:street": "Bairro Balança",
+      "addr:suburb": "Balança de Caminhões",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0191P-15-21"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.261951,-9.380262]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191766289",
+      "addr:housenumber": "12",
+      "addr:postcode": "48610-400",
+      "addr:street": "Bairro Balança",
+      "addr:suburb": "Balança de Caminhões",
+      "building": "construction",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0191P-15-16"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.261244,-9.382431]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191766302",
+      "addr:housenumber": "18",
+      "addr:postcode": "48610-400",
+      "addr:street": "Bairro Balança",
+      "addr:suburb": "Balança de Caminhões",
+      "building": "construction",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0191P-15-17"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.261319,-9.381763]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191766343",
+      "addr:housenumber": "7",
+      "addr:postcode": "48610-400",
+      "addr:street": "Bairro Balança",
+      "addr:suburb": "Balança de Caminhões",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0191P-15-20"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.26232,-9.381078]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191766268",
+      "addr:housenumber": "2",
+      "addr:postcode": "48610-400",
+      "addr:street": "Bairro Balança",
+      "addr:suburb": "Balança de Caminhões",
+      "building": "construction",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0191P-15-14"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.26192,-9.380813]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191766283",
+      "addr:housenumber": "1",
+      "addr:postcode": "48610-400",
+      "addr:street": "Bairro Balança",
+      "addr:suburb": "Balança de Caminhões",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0191P-15-16"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.260806,-9.382222]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191766371",
+      "addr:housenumber": "73",
+      "addr:postcode": "48610-400",
+      "addr:street": "Bairro Balança",
+      "addr:suburb": "Balança de Caminhões",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0191P-15-22"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.261384,-9.380172]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191766251",
+      "addr:housenumber": "4",
+      "addr:postcode": "48604-710",
+      "addr:street": "Bairro Balança",
+      "addr:suburb": "Balança de Caminhões",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0191P-15-13"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.260788,-9.380376]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191766365",
+      "addr:housenumber": "5",
+      "addr:postcode": "48610-400",
+      "addr:street": "Bairro Balança",
+      "addr:suburb": "Balança de Caminhões",
+      "building": "construction",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0191P-15-22"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.261509,-9.379681]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191766315",
+      "addr:housenumber": "203 B",
+      "addr:postcode": "48610-400",
+      "addr:street": "Bairro Balança",
+      "addr:suburb": "Balança de Caminhões",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0191P-15-17"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.262019,-9.382023]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191765762",
+      "addr:housenumber": "4",
+      "addr:postcode": "48609-024",
+      "addr:street": "Rodovia BA-210",
+      "addr:suburb": "Balança de Caminhões",
+      "building": "construction",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0191P-11-23"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.260217,-9.380675]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191766017",
+      "addr:housenumber": "54",
+      "addr:postcode": "48604-710",
+      "addr:street": "Bairro Balança",
+      "addr:suburb": "Balança de Caminhões",
+      "building": "construction",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0191P-14-4"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.260385,-9.380791]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191766388",
+      "addr:housenumber": "10",
+      "addr:postcode": "48610-400",
+      "addr:street": "Bairro Balança",
+      "addr:suburb": "Balança de Caminhões",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0191P-15-23"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.262613,-9.380605]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191766441",
+      "addr:housenumber": "23",
+      "addr:postcode": "48610-400",
+      "addr:street": "Bairro Balança",
+      "addr:suburb": "Balança de Caminhões",
+      "building": "warehouse",
+      "description": "CNEFE 2022 Galpão",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0191P-15-26"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.253994,-9.377364]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191766247",
+      "addr:housenumber": "1386",
+      "addr:postcode": "48604-710",
+      "addr:street": "Bairro Balança",
+      "addr:suburb": "Balança de Caminhões",
+      "building": "construction",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0191P-15-13"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.26048,-9.380136]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191765761",
+      "addr:housenumber": "2",
+      "addr:postcode": "48609-024",
+      "addr:street": "Rodovia BA-210",
+      "addr:suburb": "Balança de Caminhões",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0191P-11-23"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.260494,-9.380945]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191766276",
+      "addr:housenumber": "5",
+      "addr:postcode": "48610-400",
+      "addr:street": "Bairro Balança",
+      "addr:suburb": "Balança de Caminhões",
+      "building": "construction",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0191P-15-14"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.261655,-9.380527]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191766419",
+      "addr:housenumber": "55",
+      "addr:postcode": "48610-400",
+      "addr:street": "Bairro Balança",
+      "addr:suburb": "Balança de Caminhões",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "name": "Balança BA 210",
+      "note": "Sem face no bayface do IBGE 0500-0191P-15-25"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.261882,-9.382865]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191766382",
+      "addr:housenumber": "3",
+      "addr:postcode": "48610-400",
+      "addr:street": "Bairro Balança",
+      "addr:suburb": "Balança de Caminhões",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0191P-15-23"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.262466,-9.38001]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191766311",
+      "addr:housenumber": "10",
+      "addr:postcode": "48610-400",
+      "addr:street": "Bairro Balança",
+      "addr:suburb": "Balança de Caminhões",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0191P-15-17"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.261911,-9.382132]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191766437",
+      "addr:housenumber": "20",
+      "addr:postcode": "48610-400",
+      "addr:street": "Bairro Balança",
+      "addr:suburb": "Balança de Caminhões",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0191P-15-26"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.256058,-9.379877]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191766368",
+      "addr:housenumber": "75",
+      "addr:postcode": "48610-400",
+      "addr:street": "Bairro Balança",
+      "addr:suburb": "Balança de Caminhões",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0191P-15-22"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.261185,-9.379985]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191766390",
+      "addr:housenumber": "3",
+      "addr:postcode": "48610-400",
+      "addr:street": "Bairro Balança",
+      "addr:suburb": "Balança de Caminhões",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0191P-15-24"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.26372,-9.380364]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191765760",
+      "addr:housenumber": "1",
+      "addr:postcode": "48609-024",
+      "addr:street": "Rodovia BA-210",
+      "addr:suburb": "Balança de Caminhões",
+      "building": "construction",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0191P-11-23"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.260488,-9.380951]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191766341",
+      "addr:housenumber": "4",
+      "addr:postcode": "48610-400",
+      "addr:street": "Bairro Balança",
+      "addr:suburb": "Balança de Caminhões",
+      "building": "construction",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0191P-15-20"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.26239,-9.38101]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191766370",
+      "addr:housenumber": "9",
+      "addr:postcode": "48610-400",
+      "addr:street": "Bairro Balança",
+      "addr:suburb": "Balança de Caminhões",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "name": "Carlos Móveis",
+      "note": "Sem face no bayface do IBGE 0500-0191P-15-22",
+      "shop": "furniture"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.261262,-9.380052]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191766427",
+      "addr:housenumber": "5",
+      "addr:postcode": "48610-400",
+      "addr:street": "Bairro Balança",
+      "addr:suburb": "Balança de Caminhões",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0191P-15-25"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.259976,-9.384348]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191766429",
+      "addr:housenumber": "4",
+      "addr:postcode": "48610-400",
+      "addr:street": "Bairro Balança",
+      "addr:suburb": "Balança de Caminhões",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0191P-15-25"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.260015,-9.384304]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191766348",
+      "addr:housenumber": "142",
+      "addr:postcode": "48610-400",
+      "addr:street": "Bairro Balança",
+      "addr:suburb": "Balança de Caminhões",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0191P-15-21"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.262144,-9.380362]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191766322",
+      "addr:housenumber": "11",
+      "addr:postcode": "48610-400",
+      "addr:street": "Bairro Balança",
+      "addr:suburb": "Balança de Caminhões",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0191P-15-18"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.262218,-9.381139]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191766299",
+      "addr:housenumber": "12",
+      "addr:postcode": "48610-400",
+      "addr:street": "Bairro Balança",
+      "addr:suburb": "Balança de Caminhões",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0191P-15-17"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.261634,-9.381513]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191766326",
+      "addr:housenumber": "3",
+      "addr:postcode": "48610-400",
+      "addr:street": "Bairro Balança",
+      "addr:suburb": "Balança de Caminhões",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0191P-15-18"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.262041,-9.381595]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191766448",
+      "addr:housenumber": "10",
+      "addr:postcode": "48610-400",
+      "addr:street": "Bairro Balança",
+      "addr:suburb": "Balança de Caminhões",
+      "farmyard": "poultry",
+      "fixme": "Verificar coordenadas",
+      "landuse": "farmyard",
+      "name": "Granja Santa Fé",
+      "note": "Sem face no bayface do IBGE 0500-0191P-15-26"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.250239,-9.373538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191766464",
+      "addr:housenumber": "63",
+      "addr:postcode": "48610-400",
+      "addr:street": "Bairro Balança",
+      "addr:suburb": "Balança de Caminhões",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0191P-15-26"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.249216,-9.372777]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191766271",
+      "addr:housenumber": "3",
+      "addr:postcode": "48610-400",
+      "addr:street": "Bairro Balança",
+      "addr:suburb": "Balança de Caminhões",
+      "building": "construction",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0191P-15-14"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.261832,-9.380702]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191766378",
+      "addr:housenumber": "2",
+      "addr:postcode": "48610-400",
+      "addr:street": "Bairro Balança",
+      "addr:suburb": "Balança de Caminhões",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0191P-15-22"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.261782,-9.379984]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191766339",
+      "addr:housenumber": "24",
+      "addr:postcode": "48610-400",
+      "addr:street": "Bairro Balança",
+      "addr:suburb": "Balança de Caminhões",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0191P-15-20"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.262476,-9.380935]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191765770",
+      "addr:housenumber": "12",
+      "addr:postcode": "48609-024",
+      "addr:street": "Rodovia BA-210",
+      "addr:suburb": "Balança de Caminhões",
+      "building": "construction",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0191P-11-23"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.26007,-9.38162]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191766344",
+      "addr:housenumber": "10",
+      "addr:postcode": "48610-400",
+      "addr:street": "Bairro Balança",
+      "addr:suburb": "Balança de Caminhões",
+      "building": "construction",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0191P-15-20"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.26246,-9.38128]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191766279",
+      "addr:housenumber": "6",
+      "addr:postcode": "48610-400",
+      "addr:street": "Bairro Balança",
+      "addr:suburb": "Balança de Caminhões",
+      "building": "construction",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0191P-15-14"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.261627,-9.380468]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191766392",
+      "addr:housenumber": "51",
+      "addr:postcode": "48610-400",
+      "addr:street": "Bairro Balança",
+      "addr:suburb": "Balança de Caminhões",
+      "building": "construction",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0191P-15-24"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.263167,-9.380284]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191766469",
+      "addr:housenumber": "31",
+      "addr:postcode": "48610-400",
+      "addr:street": "Bairro Balança",
+      "addr:suburb": "Balança de Caminhões",
+      "building": "construction",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0191P-15-26"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.248894,-9.372513]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191766345",
+      "addr:housenumber": "150",
+      "addr:postcode": "48610-400",
+      "addr:street": "Bairro Balança",
+      "addr:suburb": "Balança de Caminhões",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0191P-15-21"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.262365,-9.380538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191766253",
+      "addr:housenumber": "2",
+      "addr:postcode": "48604-710",
+      "addr:street": "Bairro Balança",
+      "addr:suburb": "Balança de Caminhões",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0191P-15-13"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.260899,-9.380462]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191766249",
+      "addr:housenumber": "21",
+      "addr:postcode": "48604-710",
+      "addr:street": "Bairro Balança",
+      "addr:suburb": "Balança de Caminhões",
+      "building": "construction",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0191P-15-13"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.260613,-9.380227]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191766446",
+      "addr:housenumber": "9",
+      "addr:postcode": "48610-400",
+      "addr:street": "Bairro Balança",
+      "addr:suburb": "Balança de Caminhões",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0191P-15-26"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.250592,-9.373931]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191766435",
+      "addr:housenumber": "16",
+      "addr:postcode": "48610-400",
+      "addr:street": "Bairro Balança",
+      "addr:suburb": "Balança de Caminhões",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0191P-15-26"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.256988,-9.379169]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191766316",
+      "addr:housenumber": "8",
+      "addr:postcode": "48610-400",
+      "addr:street": "Bairro Balança",
+      "addr:suburb": "Balança de Caminhões",
+      "building": "construction",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0191P-15-18"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.262443,-9.381282]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191766319",
+      "addr:housenumber": "10",
+      "addr:postcode": "48610-400",
+      "addr:street": "Bairro Balança",
+      "addr:suburb": "Balança de Caminhões",
+      "building": "construction",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0191P-15-18"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.262401,-9.381253]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191766295",
+      "addr:housenumber": "20 AC",
+      "addr:postcode": "48610-400",
+      "addr:street": "Bairro Balança",
+      "addr:suburb": "Balança de Caminhões",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0191P-15-16"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.260676,-9.382634]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191766474",
+      "addr:housenumber": "45",
+      "addr:postcode": "48610-400",
+      "addr:street": "Bairro Balança",
+      "addr:suburb": "Balança de Caminhões",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0191P-15-26"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.248492,-9.372147]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191766431",
+      "addr:housenumber": "1",
+      "addr:postcode": "48610-400",
+      "addr:street": "Bairro Balança",
+      "addr:suburb": "Balança de Caminhões",
+      "fixme": "Verificar coordenadas",
+      "landuse": "farmyard;orchard",
+      "name": "Chácara",
+      "note": "Sem face no bayface do IBGE 0500-0191P-15-26"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.260309,-9.379408]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191766324",
+      "addr:housenumber": "1",
+      "addr:postcode": "48610-400",
+      "addr:street": "Bairro Balança",
+      "addr:suburb": "Balança de Caminhões",
+      "building": "construction",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0191P-15-18"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.261895,-9.381468]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191766467",
+      "addr:housenumber": "29",
+      "addr:postcode": "48610-400",
+      "addr:street": "Bairro Balança",
+      "addr:suburb": "Balança de Caminhões",
+      "building": "construction",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0191P-15-26"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.249038,-9.372587]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191766274",
+      "addr:housenumber": "4",
+      "addr:postcode": "48610-400",
+      "addr:street": "Bairro Balança",
+      "addr:suburb": "Balança de Caminhões",
+      "building": "construction",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0191P-15-14"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.261766,-9.380637]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191766443",
+      "addr:housenumber": "3",
+      "addr:postcode": "48610-400",
+      "addr:street": "Bairro Balança",
+      "addr:suburb": "Balança de Caminhões",
+      "building": "construction",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0191P-15-26"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.251714,-9.375478]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191766450",
+      "addr:housenumber": "17",
+      "addr:postcode": "48610-400",
+      "addr:street": "Bairro Balança",
+      "addr:suburb": "Balança de Caminhões",
+      "amenity": "events_venue",
+      "building": "yes",
+      "description": "CNEFE 2022 Salão de Festas",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0191P-15-26"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.249824,-9.37341]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191766257",
+      "addr:housenumber": "200",
+      "addr:postcode": "48604-710",
+      "addr:street": "Bairro Balança",
+      "addr:suburb": "Balança de Caminhões",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0191P-15-13"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2611,-9.379979]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191766413",
+      "addr:housenumber": "88",
+      "addr:postcode": "48610-400",
+      "addr:street": "Bairro Balança",
+      "addr:suburb": "Balança de Caminhões",
+      "amenity": "love_hotel",
+      "building": "hotel",
+      "fixme": "Verificar coordenadas",
+      "name": "Motel Paradise",
+      "note": "Sem face no bayface do IBGE 0500-0191P-15-25"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.259004,-9.385775]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191766012",
+      "addr:housenumber": "1",
+      "addr:postcode": "48604-710",
+      "addr:street": "Bairro Balança",
+      "addr:suburb": "Balança de Caminhões",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0191P-14-4"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.26085,-9.380523]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191766398",
+      "addr:housenumber": "2",
+      "addr:postcode": "48610-400",
+      "addr:street": "Bairro Balança",
+      "addr:suburb": "Balança de Caminhões",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0191P-15-24"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.262886,-9.380892]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191766471",
+      "addr:housenumber": "35",
+      "addr:postcode": "48610-400",
+      "addr:street": "Bairro Balança",
+      "addr:suburb": "Balança de Caminhões",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0191P-15-26"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.248555,-9.372183]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191766477",
+      "addr:housenumber": "40",
+      "addr:postcode": "48610-400",
+      "addr:street": "Bairro Balança",
+      "addr:suburb": "Balança de Caminhões",
+      "building": "construction",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0191P-15-26"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.248366,-9.372001]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191766425",
+      "addr:housenumber": "3",
+      "addr:postcode": "48610-400",
+      "addr:street": "Bairro Balança",
+      "addr:suburb": "Balança de Caminhões",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0191P-15-25"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.259945,-9.384623]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191766358",
+      "addr:housenumber": "12",
+      "addr:postcode": "48610-400",
+      "addr:street": "Bairro Balança",
+      "addr:suburb": "Balança de Caminhões",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0191P-15-21"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.262087955835,-9.3808571616562]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191766370",
+      "addr:housenumber": "9",
+      "addr:postcode": "48610-400",
+      "addr:street": "Bairro Balança",
+      "addr:suburb": "Balança de Caminhões",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0191P-15-22"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.261254300037,-9.3800535613881]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191766375",
+      "addr:housenumber": "13",
+      "addr:postcode": "48610-400",
+      "addr:street": "Bairro Balança",
+      "addr:suburb": "Balança de Caminhões",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0191P-15-22"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.261748,-9.380324]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191766380",
+      "addr:housenumber": "4",
+      "addr:postcode": "48610-400",
+      "addr:street": "Bairro Balança",
+      "addr:suburb": "Balança de Caminhões",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0191P-15-22"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.261658,-9.379808]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191766362",
+      "addr:housenumber": "2",
+      "addr:postcode": "48610-400",
+      "addr:street": "Bairro Balança",
+      "addr:suburb": "Balança de Caminhões",
+      "building": "construction",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0191P-15-21"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.262507,-9.380823]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191766455",
+      "addr:housenumber": "21",
+      "addr:postcode": "48610-400",
+      "addr:street": "Bairro Balança",
+      "addr:suburb": "Balança de Caminhões",
+      "building": "construction",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0191P-15-26"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.249811,-9.373179]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191766304",
+      "addr:housenumber": "3",
+      "addr:postcode": "48610-400",
+      "addr:street": "Bairro Balança",
+      "addr:suburb": "Balança de Caminhões",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0191P-15-17"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.261123,-9.382252]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191765771",
+      "addr:housenumber": "3",
+      "addr:postcode": "48609-024",
+      "addr:street": "Rodovia BA-210",
+      "addr:suburb": "Balança de Caminhões",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0191P-11-23"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.260155,-9.381514]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191766410",
+      "addr:housenumber": "220 B",
+      "addr:postcode": "48610-400",
+      "addr:street": "Bairro Balança",
+      "addr:suburb": "Balança de Caminhões",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0191P-15-24"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.263389,-9.380672]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191766019",
+      "addr:housenumber": "8",
+      "addr:postcode": "48604-710",
+      "addr:street": "Bairro Balança",
+      "addr:suburb": "Balança de Caminhões",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0191P-14-4"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.260474,-9.380827]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191766360",
+      "addr:housenumber": "15",
+      "addr:postcode": "48610-400",
+      "addr:street": "Bairro Balança",
+      "addr:suburb": "Balança de Caminhões",
+      "building": "warehouse",
+      "description": "CNEFE 2022 Depósito",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0191P-15-21"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.262139,-9.380934]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191766264",
+      "addr:housenumber": "205",
+      "addr:postcode": "48604-710",
+      "addr:street": "Bairro Balança",
+      "addr:suburb": "Balança de Caminhões",
+      "building": "construction",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0191P-15-13"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.260766,-9.379711]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191766480",
+      "addr:housenumber": "44",
+      "addr:postcode": "48610-400",
+      "addr:street": "Bairro Balança",
+      "addr:suburb": "Balança de Caminhões",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0191P-15-26"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.248259,-9.371969]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191766458",
+      "addr:housenumber": "100",
+      "addr:postcode": "48610-400",
+      "addr:street": "Bairro Balança",
+      "addr:suburb": "Balança de Caminhões",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0191P-15-26"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.24948,-9.372918]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191766461",
+      "addr:housenumber": "73",
+      "addr:postcode": "48610-400",
+      "addr:street": "Bairro Balança",
+      "addr:suburb": "Balança de Caminhões",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0191P-15-26"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.249314,-9.372761]
+      }
+    }
+  ]
+}

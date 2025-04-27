@@ -1,0 +1,949 @@
+{
+  "type": "FeatureCollection",
+  "generator": "CSV-CNEFE2GeoJSON.lua 1.5.7 - fidelis.assis@gmail.com",
+  "source": "IBGE CNEFE + Faces de Logradouros - 2022",
+  "date": "2025-02-02T09:05:26-0300",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112585684",
+      "addr:housenumber": "87",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Lagoa Grande",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0123P-0-82"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.309309,-9.659887]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191400148",
+      "addr:housenumber": "77",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa Grande",
+      "addr:suburb": "Lagoa Grande",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0123P-0-81"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.312838,-9.654099]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414938;27414949",
+      "addr:housenumber": "76",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa Grande",
+      "addr:suburb": "Lagoa Grande",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0123P-0-81"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.311328,-9.6565775]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414940",
+      "addr:housenumber": "4",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa Grande",
+      "addr:suburb": "Lagoa Grande",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0123P-0-81"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.310528,-9.656847]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191399923",
+      "addr:housenumber": "18",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa Grande",
+      "addr:suburb": "Lagoa Grande",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0123P-0-80"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.312893,-9.654636]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414955",
+      "addr:housenumber": "67",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa Grande",
+      "addr:suburb": "Lagoa Grande",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0123P-0-81"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.312629,-9.6555]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112585697",
+      "addr:housenumber": "81",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Lagoa Grande",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0123P-0-82"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.309089,-9.658164]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191399884",
+      "addr:housenumber": "25",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa Grande",
+      "addr:suburb": "Lagoa Grande",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0123P-0-80"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.312866,-9.653775]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112585406",
+      "addr:housenumber": "342",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Lagoa Grande",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0123P-0-82"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.313506,-9.657176]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191400038",
+      "addr:housenumber": "337",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa Grande",
+      "addr:suburb": "Lagoa Grande",
+      "addr:unit": "Casa 2",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0123P-0-80"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.313427,-9.657044]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191400030",
+      "addr:housenumber": "57",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa Grande",
+      "addr:suburb": "Lagoa Grande",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0123P-0-80"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.313308,-9.656638]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414954",
+      "addr:housenumber": "62",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa Grande",
+      "addr:suburb": "Lagoa Grande",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "name": "Associação de Moradores",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0123P-0-81",
+      "office": "association"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.313175,-9.655221]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191400067",
+      "addr:housenumber": "51",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa Grande",
+      "addr:suburb": "Lagoa Grande",
+      "addr:unit": "Casa 2",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0123P-0-80"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.312623,-9.659965]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191400120",
+      "addr:housenumber": "66",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa Grande",
+      "addr:suburb": "Lagoa Grande",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0123P-0-80"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.305913,-9.646149]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414956",
+      "addr:housenumber": "43",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa Grande",
+      "addr:suburb": "Lagoa Grande",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0123P-0-81"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.313465,-9.656728]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191399879",
+      "addr:housenumber": "77",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa Grande",
+      "addr:suburb": "Lagoa Grande",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0123P-0-80"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.310192,-9.657899]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112585417",
+      "addr:housenumber": "72",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Lagoa Grande",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0123P-0-82"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.311624,-9.656331]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414928",
+      "addr:housenumber": "2",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa Grande",
+      "addr:suburb": "Lagoa Grande",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0123P-0-81"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.308448,-9.657676]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191400231",
+      "addr:housenumber": "12",
+      "addr:postcode": "48610-488",
+      "addr:street": "Povoado Lagoa Grande",
+      "addr:suburb": "Lagoa Grande",
+      "building": "construction",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0123P-0-96"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.302142,-9.651776]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191399964",
+      "addr:housenumber": "28",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa Grande",
+      "addr:suburb": "Lagoa Grande",
+      "addr:unit": "Casa 2",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0123P-0-80"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.313699,-9.654524]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112585466",
+      "addr:housenumber": "14",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Lagoa Grande",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0123P-0-83"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.311823,-9.655728]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191399906",
+      "addr:housenumber": "26",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa Grande",
+      "addr:suburb": "Lagoa Grande",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0123P-0-80"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.312999,-9.654012]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112585574",
+      "addr:housenumber": "38",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Lagoa Grande",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0123P-0-82"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.31332,-9.654978]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112586079",
+      "addr:housenumber": "1",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Lagoa Grande",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0123P-0-82"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.308224,-9.65736]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414952",
+      "addr:housenumber": "70",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa Grande",
+      "addr:suburb": "Lagoa Grande",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0123P-0-81"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.312541,-9.655595]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414939",
+      "addr:housenumber": "10",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa Grande",
+      "addr:suburb": "Lagoa Grande",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0123P-0-81"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.310744,-9.65674]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112585721",
+      "addr:housenumber": "56",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada da Lagoa Grande para Baixa Laga",
+      "addr:suburb": "Lagoa Grande",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0123P-0-84"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.313465,-9.658309]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112585367",
+      "addr:housenumber": "53",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Lagoa Grande",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0123P-0-82"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.313213,-9.659455]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414962",
+      "addr:housenumber": "33",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa Grande",
+      "addr:suburb": "Lagoa Grande",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0123P-0-81"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.314532,-9.655024]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112585734",
+      "addr:housenumber": "65",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada da Lagoa Grande para Povoado Barriga",
+      "addr:suburb": "Lagoa Grande",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0123P-0-85"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.309062,-9.646903]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191399955",
+      "addr:housenumber": "28",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa Grande",
+      "addr:suburb": "Lagoa Grande",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0123P-0-80"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.313738,-9.654818]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112585473",
+      "addr:housenumber": "74",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Lagoa Grande",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0123P-0-82"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.31076,-9.656812]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414943",
+      "addr:housenumber": "16",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa Grande",
+      "addr:suburb": "Lagoa Grande",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0123P-0-81"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.311791,-9.656199]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414942",
+      "addr:housenumber": "52",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa Grande",
+      "addr:suburb": "Lagoa Grande",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0123P-0-81"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.311102,-9.65637]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191400058",
+      "addr:housenumber": "51",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa Grande",
+      "addr:suburb": "Lagoa Grande",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0123P-0-80"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.312493,-9.660053]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112585595",
+      "addr:housenumber": "40",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Lagoa Grande",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0123P-0-82"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.313631,-9.655793]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191400109",
+      "addr:housenumber": "20",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa Grande",
+      "addr:suburb": "Lagoa Grande",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0123P-0-80"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.3062,-9.659321]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112585667",
+      "addr:housenumber": "39",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Lagoa Grande",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0123P-0-82"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.313505,-9.65546]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191399915",
+      "addr:housenumber": "19",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa Grande",
+      "addr:suburb": "Lagoa Grande",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0123P-0-80"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.312982,-9.654397]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414953",
+      "addr:housenumber": "65",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa Grande",
+      "addr:suburb": "Lagoa Grande",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0123P-0-80"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.313012,-9.655382]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414935",
+      "addr:housenumber": "82",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa Grande",
+      "addr:suburb": "Lagoa Grande",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0123P-0-81"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.308886,-9.658182]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191400104",
+      "addr:housenumber": "3",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa Grande",
+      "addr:suburb": "Lagoa Grande",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0123P-0-80"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.308975,-9.657989]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414945",
+      "addr:housenumber": "64",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa Grande",
+      "addr:suburb": "Lagoa Grande",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0123P-0-81"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.309516,-9.647389]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414965",
+      "addr:housenumber": "30",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa Grande",
+      "addr:suburb": "Lagoa Grande",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0123P-0-81"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.314157,-9.654624]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414950",
+      "addr:housenumber": "71",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa Grande",
+      "addr:suburb": "Lagoa Grande",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0123P-0-81"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.312268,-9.65556]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191399997",
+      "addr:housenumber": "58",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa Grande",
+      "addr:suburb": "Lagoa Grande",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0123P-0-80"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.313339,-9.656134]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191400048",
+      "addr:housenumber": "52",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa Grande",
+      "addr:suburb": "Lagoa Grande",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0123P-0-80"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.313227,-9.65948]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112585343",
+      "addr:housenumber": "398",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Lagoa Grande",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0123P-0-82"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.310195,-9.658002]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112585454",
+      "addr:housenumber": "89",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Lagoa Grande",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0123P-0-82"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.309455,-9.660098]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112585385",
+      "addr:housenumber": "13",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Lagoa Grande",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0123P-0-82"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.311818,-9.65575]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414931",
+      "addr:housenumber": "95",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa Grande",
+      "addr:suburb": "Lagoa Grande",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0123P-0-81"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.308549,-9.658457]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414936",
+      "addr:housenumber": "85",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa Grande",
+      "addr:suburb": "Lagoa Grande",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0123P-0-81"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.308898,-9.65824]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112585497",
+      "addr:housenumber": "15",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Lagoa Grande",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0123P-0-82"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.312087,-9.655594]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191399972",
+      "addr:housenumber": "27",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa Grande",
+      "addr:suburb": "Lagoa Grande",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0123P-0-80"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.313938,-9.654774]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112585398",
+      "addr:housenumber": "12",
+      "addr:postcode": "48619-899",
+      "addr:suburb": "Lagoa Grande",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0123P-0-82"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.310277,-9.657542]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191400013",
+      "addr:housenumber": "337",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa Grande",
+      "addr:suburb": "Lagoa Grande",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0123P-0-80"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.313422,-9.657034]
+      }
+    }
+  ]
+}

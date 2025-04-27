@@ -1,0 +1,2482 @@
+{
+  "type": "FeatureCollection",
+  "source": "IBGE CNEFE + Faces de Logradouros - 2022",
+  "generator": "CSV-CNEFE2GeoJSON.lua 1.5.7 - fidelis.assis@gmail.com",
+  "date": "2025-02-02T09:05:28-0300",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368279;27368282-27368284;27368303",
+      "addr:housenumber": "641",
+      "addr:postcode": "48605-055",
+      "addr:street": "Avenida Antônio Carlos Magalhães",
+      "addr:suburb": "Panorama",
+      "addr:unit": "Conjunto Casa",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2342302,-9.3903709]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216673479",
+      "addr:housenumber": "15",
+      "addr:postcode": "48605-055",
+      "addr:street": "Avenida Antônio Carlos Magalhães",
+      "addr:suburb": "Panorama",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2339403,-9.3968847]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356185",
+      "addr:housenumber": "76 Térreo",
+      "addr:postcode": "48608-345",
+      "addr:street": "Rua Paraná",
+      "addr:suburb": "Panorama",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2338081,-9.3990402]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368243",
+      "addr:housenumber": "98",
+      "addr:postcode": "48605-049",
+      "addr:street": "Rua Santa Catarina",
+      "addr:suburb": "Panorama",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2350683,-9.3956023]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356132",
+      "addr:housenumber": "72",
+      "addr:postcode": "48605-028",
+      "addr:street": "Rua Luís Félix dos Santos",
+      "addr:suburb": "Panorama",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2341159,-9.3983668]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27355952",
+      "addr:housenumber": "8",
+      "addr:postcode": "48609-496",
+      "addr:street": "Rua Maranhão",
+      "addr:suburb": "Panorama",
+      "addr:unit": "Casa",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2351065,-9.3946955]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356097",
+      "addr:housenumber": "109",
+      "addr:postcode": "48605-045",
+      "addr:street": "Rua Roraima",
+      "addr:suburb": "Panorama",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2348686,-9.3965451]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356173",
+      "addr:housenumber": "15",
+      "addr:postcode": "48605-055",
+      "addr:street": "Avenida Antônio Carlos Magalhães",
+      "addr:suburb": "Panorama",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2335674,-9.3984288]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216673464",
+      "addr:housenumber": "34",
+      "addr:postcode": "48605-041",
+      "addr:street": "Rua Nélson R do Nascimento",
+      "addr:suburb": "Panorama",
+      "addr:unit": "Loja A",
+      "building": "yes",
+      "description": "CNEFE 2022 Escritório de Informática",
+      "office": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2342034,-9.3967914]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27355956",
+      "addr:housenumber": "12",
+      "addr:postcode": "48605-067",
+      "addr:street": "Rua para",
+      "addr:suburb": "Panorama",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2345415,-9.3948866]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368240",
+      "addr:housenumber": "50",
+      "addr:postcode": "48609-496",
+      "addr:street": "Rua Maranhão",
+      "addr:suburb": "Panorama",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2350456,-9.3945576]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368296",
+      "addr:housenumber": "613",
+      "addr:postcode": "48605-055",
+      "addr:street": "Avenida Antônio Carlos Magalhães",
+      "addr:suburb": "Panorama",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2348595,-9.3917316]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27355954",
+      "addr:housenumber": "29",
+      "addr:postcode": "48609-496",
+      "addr:street": "Rua Maranhão",
+      "addr:suburb": "Panorama",
+      "addr:unit": "Casa",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2348072,-9.3946525]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368278",
+      "addr:housenumber": "41",
+      "addr:postcode": "48605-055",
+      "addr:street": "Avenida Antônio Carlos Magalhães",
+      "addr:suburb": "Panorama",
+      "building": "yes",
+      "name": "Moto Grupo Asas da Liberdade",
+      "shop": "motorcycle"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2341428,-9.3901959]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356110",
+      "addr:housenumber": "81",
+      "addr:postcode": "48605-041",
+      "addr:street": "Rua Nélson R do Nascimento",
+      "addr:suburb": "Panorama",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2345842,-9.3970658]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368251",
+      "addr:housenumber": "90",
+      "addr:postcode": "48605-049",
+      "addr:street": "Rua Santa Catarina",
+      "addr:suburb": "Panorama",
+      "addr:unit": "Casa A",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2352746,-9.394745]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356123",
+      "addr:housenumber": "1",
+      "addr:postcode": "48607-330",
+      "addr:street": "Rua Alagoas",
+      "addr:suburb": "Panorama",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2339024,-9.3973761]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191757523",
+      "addr:housenumber": "533",
+      "addr:postcode": "48605-055",
+      "addr:street": "Avenida Antônio Carlos Magalhães",
+      "addr:suburb": "Panorama",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2349513,-9.3923458]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356099",
+      "addr:housenumber": "15",
+      "addr:postcode": "48605-045",
+      "addr:street": "Rua Roraima",
+      "addr:suburb": "Panorama",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2346578,-9.3964874]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368280",
+      "addr:housenumber": "641 Conjunto Casa Frente",
+      "addr:postcode": "48605-055",
+      "addr:street": "Avenida Antônio Carlos Magalhães",
+      "addr:suburb": "Panorama",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2342439,-9.3903984]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368295",
+      "addr:housenumber": "625",
+      "addr:postcode": "48605-055",
+      "addr:street": "Avenida Antônio Carlos Magalhães",
+      "addr:suburb": "Panorama",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2347352,-9.391383]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368305",
+      "addr:housenumber": "587",
+      "addr:postcode": "48605-055",
+      "addr:street": "Avenida Antônio Carlos Magalhães",
+      "addr:suburb": "Panorama",
+      "addr:unit": "Fundos 2",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2343706,-9.3905299]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356199",
+      "addr:housenumber": "19",
+      "addr:postcode": "48605-016",
+      "addr:suburb": "Panorama",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2331899,-9.3998669]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356040",
+      "addr:housenumber": "99",
+      "addr:postcode": "48609-590",
+      "addr:street": "Rua Acre",
+      "addr:suburb": "Panorama",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0040P-5-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.235029,-9.395962]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356033",
+      "addr:housenumber": "3",
+      "addr:postcode": "48607-310",
+      "addr:street": "Rua Ceará",
+      "addr:suburb": "Panorama",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2346817,-9.3954274]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356118",
+      "addr:housenumber": "2",
+      "addr:postcode": "48607-330",
+      "addr:street": "Rua Alagoas",
+      "addr:suburb": "Panorama",
+      "addr:unit": "Casa A",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2340215,-9.3974125]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368253",
+      "addr:housenumber": "90",
+      "addr:postcode": "48605-049",
+      "addr:street": "Rua Santa Catarina",
+      "addr:suburb": "Panorama",
+      "addr:unit": "Casa C",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.235274555833,-9.3947451616562]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368290",
+      "addr:housenumber": "587",
+      "addr:postcode": "48605-055",
+      "addr:street": "Avenida Antônio Carlos Magalhães",
+      "addr:suburb": "Panorama",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2343722,-9.3906552]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356170",
+      "addr:housenumber": "53",
+      "addr:postcode": "48605-028",
+      "addr:street": "Rua Luís Félix dos Santos",
+      "addr:suburb": "Panorama",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2339218,-9.3984742]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216673281",
+      "addr:housenumber": "42",
+      "addr:postcode": "48605-067",
+      "addr:street": "Rua para",
+      "addr:suburb": "Panorama",
+      "addr:unit": "Edifício",
+      "building": "yes",
+      "government": "healthcare",
+      "name": "Vigilância Sanitária",
+      "office": "government"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2349007,-9.3949577]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368248",
+      "addr:housenumber": "82",
+      "addr:postcode": "48605-049",
+      "addr:street": "Rua Santa Catarina",
+      "addr:suburb": "Panorama",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2350823,-9.3955437]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368271",
+      "addr:housenumber": "2",
+      "addr:postcode": "48605-083",
+      "addr:street": "Rua Mato Grosso",
+      "addr:suburb": "Panorama",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2351155,-9.39339]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368242",
+      "addr:housenumber": "116",
+      "addr:postcode": "48605-049",
+      "addr:street": "Rua Santa Catarina",
+      "addr:suburb": "Panorama",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2350371,-9.395731]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368276",
+      "addr:housenumber": "501",
+      "addr:postcode": "48605-055",
+      "addr:street": "Avenida Antônio Carlos Magalhães",
+      "addr:suburb": "Panorama",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2337549,-9.3893564]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356125",
+      "addr:housenumber": "7",
+      "addr:postcode": "48609-498",
+      "addr:street": "Rua Piauí",
+      "addr:suburb": "Panorama",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2340046,-9.3978401]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216673599",
+      "addr:housenumber": "45 Térreo Oficina",
+      "addr:postcode": "48605-016",
+      "addr:street": "Rua Pernambuco",
+      "addr:suburb": "Panorama",
+      "building": "yes",
+      "name": "Auto Center Car",
+      "shop": "car_repair"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2334603,-9.3996086]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368297",
+      "addr:housenumber": "603",
+      "addr:postcode": "48605-055",
+      "addr:street": "Avenida Antônio Carlos Magalhães",
+      "addr:suburb": "Panorama",
+      "building": "yes",
+      "name": "Andiihair"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2348475,-9.3916933]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368254",
+      "addr:housenumber": "90",
+      "addr:postcode": "48605-049",
+      "addr:street": "Rua Santa Catarina",
+      "addr:suburb": "Panorama",
+      "addr:unit": "Casa B",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "name": "Igreja do Panorama"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.235266899711,-9.3947465613881]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216673277",
+      "addr:housenumber": "35",
+      "addr:postcode": "48609-496",
+      "addr:street": "Rua Maranhão",
+      "addr:suburb": "Panorama",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2348371,-9.3946596]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356043",
+      "addr:housenumber": "15",
+      "addr:postcode": "48609-590",
+      "addr:street": "Rua Acre",
+      "addr:suburb": "Panorama",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0040P-5-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.234346,-9.395786]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356177",
+      "addr:housenumber": "168",
+      "addr:postcode": "48608-345",
+      "addr:street": "Rua Paraná",
+      "addr:suburb": "Panorama",
+      "addr:unit": "Anexo",
+      "building": "yes",
+      "description": "CNEFE 2022 Loja de Roupa",
+      "shop": "clothes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2338092,-9.398881]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191757527",
+      "addr:housenumber": "453",
+      "addr:postcode": "48605-055",
+      "addr:street": "Avenida Antônio Carlos Magalhães",
+      "addr:suburb": "Panorama",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2349606,-9.3930172]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356194-27356195",
+      "addr:housenumber": "51",
+      "addr:postcode": "48605-016",
+      "addr:street": "Rua Pernambuco",
+      "addr:suburb": "Panorama",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.233603,-9.3996447]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368291",
+      "addr:housenumber": "631",
+      "addr:postcode": "48605-055",
+      "addr:street": "Avenida Antônio Carlos Magalhães",
+      "addr:suburb": "Panorama",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2344636,-9.3908381]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368267",
+      "addr:housenumber": "54",
+      "addr:postcode": "48605-079",
+      "addr:street": "Rua Amazonas",
+      "addr:suburb": "Panorama",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.235197,-9.394024]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356039",
+      "addr:housenumber": "111",
+      "addr:postcode": "48609-590",
+      "addr:street": "Rua Acre",
+      "addr:suburb": "Panorama",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0040P-5-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.235373,-9.396085]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356035",
+      "addr:housenumber": "12",
+      "addr:postcode": "48607-310",
+      "addr:street": "Rua Ceará",
+      "addr:suburb": "Panorama",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2345106,-9.3953877]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216673386",
+      "addr:housenumber": "82",
+      "addr:postcode": "48605-045",
+      "addr:street": "Rua Roraima",
+      "addr:suburb": "Panorama",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0040P-5-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.234758,-9.39643]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368292",
+      "addr:housenumber": "643",
+      "addr:postcode": "48605-055",
+      "addr:street": "Avenida Antônio Carlos Magalhães",
+      "addr:suburb": "Panorama",
+      "addr:unit": "Casa A",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2345567,-9.3910245]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356045",
+      "addr:housenumber": "50",
+      "addr:postcode": "48605-045",
+      "addr:street": "Rua Roraima",
+      "addr:suburb": "Panorama",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0040P-5-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2345,-9.396281]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191757521",
+      "addr:housenumber": "575",
+      "addr:postcode": "48605-055",
+      "addr:street": "Avenida Antônio Carlos Magalhães",
+      "addr:suburb": "Panorama",
+      "addr:unit": "Depósito Port Amarelo",
+      "building": "yes",
+      "description": "CNEFE 2022 Não Tem"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2349356,-9.3921473]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216673601",
+      "addr:housenumber": "31",
+      "addr:postcode": "48605-016",
+      "addr:street": "Rua Pernambuco",
+      "addr:suburb": "Panorama",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2332718,-9.3995648]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356131",
+      "addr:housenumber": "90",
+      "addr:postcode": "48605-028",
+      "addr:street": "Rua Luís Félix dos Santos",
+      "addr:suburb": "Panorama",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.234298,-9.3984158]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368245",
+      "addr:housenumber": "4",
+      "addr:postcode": "48605-049",
+      "addr:street": "Rua Santa Catarina",
+      "addr:suburb": "Panorama",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2351188,-9.3953768]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356047",
+      "addr:housenumber": "66",
+      "addr:postcode": "48605-045",
+      "addr:street": "Rua Roraima",
+      "addr:suburb": "Panorama",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0040P-5-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.234655,-9.396385]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216673614",
+      "addr:housenumber": "1580",
+      "addr:postcode": "48601-208",
+      "addr:street": "Avenida Apolônio Sales",
+      "addr:suburb": "Panorama",
+      "addr:unit": "Loja B",
+      "building": "yes",
+      "name": "Toc Toc Disk Mercado",
+      "shop": "supermarket"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2335933,-9.4003027]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356183-27356184",
+      "addr:housenumber": "76",
+      "addr:postcode": "48608-345",
+      "addr:street": "Rua Paraná",
+      "addr:suburb": "Panorama",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2338468,-9.3990504]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27355958",
+      "addr:housenumber": "7",
+      "addr:postcode": "48605-067",
+      "addr:street": "Rua para",
+      "addr:suburb": "Panorama",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2349682,-9.3949855]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356129;216673529",
+      "addr:housenumber": "54",
+      "addr:postcode": "48605-028",
+      "addr:street": "Rua Luís Félix dos Santos",
+      "addr:suburb": "Panorama",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0040P-12-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2317825,-9.400524]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216673609",
+      "addr:housenumber": "1578",
+      "addr:postcode": "48601-208",
+      "addr:street": "Avenida Apolônio Sales",
+      "addr:suburb": "Panorama",
+      "addr:unit": "Loja A",
+      "building": "yes",
+      "name": "Lr Auto Peças",
+      "shop": "car_parts"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2334703,-9.4002653]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368241",
+      "addr:housenumber": "34",
+      "addr:postcode": "48609-496",
+      "addr:street": "Rua Maranhão",
+      "addr:suburb": "Panorama",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2350959,-9.3945733]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356027",
+      "addr:housenumber": "6",
+      "addr:postcode": "48605-067",
+      "addr:street": "Rua para",
+      "addr:suburb": "Panorama",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2347909,-9.395088]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27355953",
+      "addr:housenumber": "35",
+      "addr:postcode": "48609-496",
+      "addr:street": "Rua Maranhão",
+      "addr:suburb": "Panorama",
+      "addr:unit": "Casa",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2348535,-9.3946633]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216673473",
+      "addr:housenumber": "49",
+      "addr:postcode": "48605-041",
+      "addr:street": "Rua Nélson R do Nascimento",
+      "addr:suburb": "Panorama",
+      "building": "yes",
+      "name": "Centro de Estimulação e Desenvolvimento Infanto Juvenil"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.234322,-9.3969845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368264",
+      "addr:housenumber": "25",
+      "addr:postcode": "48605-055",
+      "addr:street": "Avenida Antônio Carlos Magalhães",
+      "addr:suburb": "Panorama",
+      "building": "yes",
+      "name": "Transclimed"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2348856,-9.3936404]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216673496;216673498;216673500;216673502;216673505;216673508;216673511;216673514;216673517;216673521;216673523;216673525",
+      "addr:flats": "101-304",
+      "addr:housenumber": "234",
+      "addr:postcode": "48605-055",
+      "addr:street": "Avenida Antônio Carlos Magalhães",
+      "addr:suburb": "Panorama",
+      "building": "yes",
+      "building:flats": "12",
+      "building:levels": "3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2336545,-9.3981179]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356112",
+      "addr:housenumber": "33",
+      "addr:postcode": "48605-041",
+      "addr:street": "Rua Nélson R do Nascimento",
+      "addr:suburb": "Panorama",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2341729,-9.3969407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356210",
+      "addr:housenumber": "1576",
+      "addr:postcode": "48601-208",
+      "addr:street": "Avenida Apolônio Sales",
+      "addr:suburb": "Panorama",
+      "building": "yes",
+      "name": "Auto Elétrica",
+      "service:vehicle:electrical": "yes",
+      "shop": "car_repair"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2333827,-9.4002387]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356102",
+      "addr:housenumber": "17",
+      "addr:postcode": "48605-055",
+      "addr:street": "Avenida Antônio Carlos Magalhães",
+      "addr:suburb": "Panorama",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2340899,-9.3964072]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356201-27356206",
+      "addr:housenumber": "1536",
+      "addr:postcode": "48605-016",
+      "addr:suburb": "Panorama",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2331213,-9.4000773]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216673486",
+      "addr:housenumber": "2",
+      "addr:postcode": "48607-330",
+      "addr:street": "Rua Alagoas",
+      "addr:suburb": "Panorama",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2340441,-9.3974195]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356037",
+      "addr:housenumber": "11",
+      "addr:postcode": "48605-055",
+      "addr:street": "Avenida Antônio Carlos Magalhães",
+      "addr:suburb": "Panorama",
+      "amenity": "social_facility",
+      "building": "yes",
+      "healthcare": "yes",
+      "name": "Centro de Atendimento Psico Social"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.234288,-9.3956407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368288",
+      "addr:housenumber": "587",
+      "addr:postcode": "48605-055",
+      "addr:street": "Avenida Antônio Carlos Magalhães",
+      "addr:suburb": "Panorama",
+      "addr:unit": "Casa A",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2343251,-9.3905608]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368244",
+      "addr:housenumber": "98",
+      "addr:postcode": "48605-049",
+      "addr:street": "Rua Santa Catarina",
+      "addr:suburb": "Panorama",
+      "addr:unit": "Casa A",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.235087,-9.3955247]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356181",
+      "addr:housenumber": "184",
+      "addr:postcode": "48608-345",
+      "addr:street": "Rua Paraná",
+      "addr:suburb": "Panorama",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.234,-9.3989313]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356034",
+      "addr:housenumber": "2",
+      "addr:postcode": "48607-310",
+      "addr:street": "Rua Ceará",
+      "addr:suburb": "Panorama",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2345814,-9.395404]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356213",
+      "addr:housenumber": "1580",
+      "addr:postcode": "48601-208",
+      "addr:street": "Avenida Apolônio Sales",
+      "addr:suburb": "Panorama",
+      "building": "yes",
+      "name": "Erel Point"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2335393,-9.4002863]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27355957",
+      "addr:housenumber": "2",
+      "addr:postcode": "48605-067",
+      "addr:street": "Rua para",
+      "addr:suburb": "Panorama",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2347075,-9.394906]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356026",
+      "addr:housenumber": "8",
+      "addr:postcode": "48605-067",
+      "addr:street": "Rua para",
+      "addr:suburb": "Panorama",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2348993,-9.395117]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368247",
+      "addr:housenumber": "6",
+      "addr:postcode": "48605-049",
+      "addr:street": "Rua Santa Catarina",
+      "addr:suburb": "Panorama",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2352355,-9.3949539]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356127",
+      "addr:housenumber": "8",
+      "addr:postcode": "48609-498",
+      "addr:street": "Rua Piauí",
+      "addr:suburb": "Panorama",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2341231,-9.3978743]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356106",
+      "addr:housenumber": "7",
+      "addr:postcode": "48605-041",
+      "addr:street": "Rua Nélson R do Nascimento",
+      "addr:suburb": "Panorama",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2346936,-9.3969403]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27355955",
+      "addr:housenumber": "5",
+      "addr:postcode": "48605-055",
+      "addr:street": "Avenida Antônio Carlos Magalhães",
+      "addr:suburb": "Panorama",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2345944,-9.3945887]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368301",
+      "addr:housenumber": "483",
+      "addr:postcode": "48605-055",
+      "addr:street": "Avenida Antônio Carlos Magalhães",
+      "addr:suburb": "Panorama",
+      "building": "yes",
+      "name": "Não Tem Referências"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2349621,-9.3927939]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368266",
+      "addr:housenumber": "36",
+      "addr:postcode": "48605-079",
+      "addr:street": "Rua Amazonas",
+      "addr:suburb": "Panorama",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2350758,-9.3939882]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368268",
+      "addr:housenumber": "76",
+      "addr:postcode": "48605-079",
+      "addr:street": "Rua Amazonas",
+      "addr:suburb": "Panorama",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2353236,-9.3940613]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368265",
+      "addr:housenumber": "15",
+      "addr:postcode": "48605-079",
+      "addr:street": "Rua Amazonas",
+      "addr:suburb": "Panorama",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2348384,-9.3939322]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356122",
+      "addr:housenumber": "3",
+      "addr:postcode": "48607-330",
+      "addr:street": "Rua Alagoas",
+      "addr:suburb": "Panorama",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2341503,-9.397452]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216673494",
+      "addr:housenumber": "8",
+      "addr:postcode": "48609-498",
+      "addr:street": "Rua Piauí",
+      "addr:suburb": "Panorama",
+      "addr:unit": "Depósito A",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2341507,-9.3978823]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356103",
+      "addr:housenumber": "60",
+      "addr:postcode": "48605-041",
+      "addr:street": "Rua Nélson R do Nascimento",
+      "addr:suburb": "Panorama",
+      "building": "yes",
+      "name": "Estúdio Jeferson do Seu Jeito"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2343964,-9.39685]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356113",
+      "addr:housenumber": "65",
+      "addr:postcode": "48605-041",
+      "addr:street": "Rua Nélson R do Nascimento",
+      "addr:suburb": "Panorama",
+      "addr:unit": "Casa A",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2344465,-9.3970228]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356128",
+      "addr:housenumber": "6",
+      "addr:postcode": "48609-498",
+      "addr:street": "Rua Piauí",
+      "addr:suburb": "Panorama",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2337797,-9.3977649]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216673589-216673590",
+      "addr:housenumber": "15",
+      "addr:postcode": "48605-028",
+      "addr:street": "Rua Luís Félix dos Santos",
+      "addr:suburb": "Panorama",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2336682,-9.3984059]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368298",
+      "addr:housenumber": "589",
+      "addr:postcode": "48605-055",
+      "addr:street": "Avenida Antônio Carlos Magalhães",
+      "addr:suburb": "Panorama",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2348868,-9.3918596]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356209",
+      "addr:housenumber": "1556",
+      "addr:postcode": "48601-208",
+      "addr:street": "Avenida Apolônio Sales",
+      "addr:suburb": "Panorama",
+      "building": "yes",
+      "name": "Casa do Construtor",
+      "shop": "hardware"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2333056,-9.4002152]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356028;216673375",
+      "addr:housenumber": "5",
+      "addr:postcode": "48605-067",
+      "addr:street": "Rua para",
+      "addr:suburb": "Panorama",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2346047,-9.3950382]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356104",
+      "addr:housenumber": "16",
+      "addr:postcode": "48605-041",
+      "addr:street": "Rua Nélson R do Nascimento",
+      "addr:suburb": "Panorama",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.234059,-9.3967475]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356114",
+      "addr:housenumber": "65",
+      "addr:postcode": "48605-041",
+      "addr:street": "Rua Nélson R do Nascimento",
+      "addr:suburb": "Panorama",
+      "addr:unit": "Casa B",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.234448246004,-9.3970277000032]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356108",
+      "addr:housenumber": "34",
+      "addr:postcode": "48605-041",
+      "addr:street": "Rua Nélson R do Nascimento",
+      "addr:suburb": "Panorama",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.23422,-9.3967964]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368294",
+      "addr:housenumber": "647",
+      "addr:postcode": "48605-055",
+      "addr:street": "Avenida Antônio Carlos Magalhães",
+      "addr:suburb": "Panorama",
+      "building": "yes",
+      "name": "Oficina São Judas Tadeu",
+      "shop": "car_repair"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2347092,-9.3913298]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356178",
+      "addr:housenumber": "168",
+      "addr:postcode": "48608-345",
+      "addr:street": "Rua Paraná",
+      "addr:suburb": "Panorama",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2337514,-9.3988664]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356197",
+      "addr:housenumber": "45",
+      "addr:postcode": "48605-016",
+      "addr:street": "Rua Pernambuco",
+      "addr:suburb": "Panorama",
+      "building": "yes",
+      "name": "Empresa de Obra Civil"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.233409,-9.3995996]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356186",
+      "addr:housenumber": "46",
+      "addr:postcode": "48608-345",
+      "addr:street": "Rua Paraná",
+      "addr:suburb": "Panorama",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2336219,-9.3989937]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368272",
+      "addr:housenumber": "46",
+      "addr:postcode": "48605-083",
+      "addr:street": "Rua Mato Grosso",
+      "addr:suburb": "Panorama",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.235306,-9.3934305]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368293",
+      "addr:housenumber": "647",
+      "addr:postcode": "48605-055",
+      "addr:street": "Avenida Antônio Carlos Magalhães",
+      "addr:suburb": "Panorama",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2347483,-9.3914159]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356121",
+      "addr:housenumber": "66",
+      "addr:postcode": "48607-330",
+      "addr:street": "Rua Alagoas",
+      "addr:suburb": "Panorama",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2342095,-9.3974701]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368239",
+      "addr:housenumber": "16",
+      "addr:postcode": "48609-496",
+      "addr:street": "Rua Maranhão",
+      "addr:suburb": "Panorama",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2347405,-9.3944791]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356175",
+      "addr:housenumber": "128",
+      "addr:postcode": "48605-055",
+      "addr:street": "Avenida Antônio Carlos Magalhães",
+      "addr:suburb": "Panorama",
+      "amenity": "car_wash",
+      "building": "yes",
+      "description": "CNEFE 2022 Lava a jato"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2335241,-9.3985901]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356192",
+      "addr:housenumber": "53 Lado Direito",
+      "addr:postcode": "48605-016",
+      "addr:street": "Rua Pernambuco",
+      "addr:suburb": "Panorama",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2338359,-9.3997484]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368302",
+      "addr:housenumber": "441",
+      "addr:postcode": "48605-055",
+      "addr:street": "Avenida Antônio Carlos Magalhães",
+      "addr:suburb": "Panorama",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.234956,-9.3930913]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356190",
+      "addr:housenumber": "103",
+      "addr:postcode": "48605-016",
+      "addr:street": "Rua Pernambuco",
+      "addr:suburb": "Panorama",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2340284,-9.3998085]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356038",
+      "addr:housenumber": "2",
+      "addr:postcode": "48609-590",
+      "addr:street": "Rua Acre",
+      "addr:suburb": "Panorama",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2347091,-9.3957631]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191757510",
+      "addr:housenumber": "601",
+      "addr:postcode": "48605-055",
+      "addr:street": "Avenida Antônio Carlos Magalhães",
+      "addr:suburb": "Panorama",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2343938,-9.3906984]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356200",
+      "addr:housenumber": "18",
+      "addr:postcode": "48605-016",
+      "addr:suburb": "Panorama",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.233179,-9.3999004]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356107",
+      "addr:housenumber": "45",
+      "addr:postcode": "48605-041",
+      "addr:street": "Rua Nélson R do Nascimento",
+      "addr:suburb": "Panorama",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2345052,-9.396883]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356109",
+      "addr:housenumber": "12",
+      "addr:postcode": "48605-041",
+      "addr:street": "Rua Nélson R do Nascimento",
+      "addr:suburb": "Panorama",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2347705,-9.3971135]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356105",
+      "addr:housenumber": "92",
+      "addr:postcode": "48605-041",
+      "addr:street": "Rua Nélson R do Nascimento",
+      "addr:suburb": "Panorama",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2346612,-9.3969304]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368262-27368263",
+      "addr:housenumber": "25",
+      "addr:postcode": "48605-055",
+      "addr:street": "Avenida Antônio Carlos Magalhães",
+      "addr:suburb": "Panorama",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2349115,-9.3935234]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356120",
+      "addr:housenumber": "5",
+      "addr:postcode": "48607-330",
+      "addr:street": "Rua Alagoas",
+      "addr:suburb": "Panorama",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2344471,-9.3975428]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356208",
+      "addr:housenumber": "1556",
+      "addr:postcode": "48601-208",
+      "addr:street": "Avenida Apolônio Sales",
+      "addr:suburb": "Panorama",
+      "addr:unit": "Anexo",
+      "building": "yes",
+      "name": "Art Rústica"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2332029,-9.4001761]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356101",
+      "addr:housenumber": "33",
+      "addr:postcode": "48605-045",
+      "addr:street": "Rua Roraima",
+      "addr:suburb": "Panorama",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2343695,-9.3964086]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368287",
+      "addr:housenumber": "571",
+      "addr:postcode": "48605-055",
+      "addr:street": "Avenida Antônio Carlos Magalhães",
+      "addr:suburb": "Panorama",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2342995,-9.3905096]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356189",
+      "addr:housenumber": "10",
+      "addr:postcode": "48605-016",
+      "addr:street": "Rua Pernambuco",
+      "addr:suburb": "Panorama",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2340588,-9.399728]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191757452",
+      "addr:housenumber": "38",
+      "addr:postcode": "48605-083",
+      "addr:street": "Rua Mato Grosso",
+      "addr:suburb": "Panorama",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2351598,-9.393557]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356049",
+      "addr:housenumber": "100",
+      "addr:postcode": "48605-045",
+      "addr:street": "Rua Roraima",
+      "addr:suburb": "Panorama",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0040P-5-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.234892,-9.396465]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368270",
+      "addr:housenumber": "14",
+      "addr:postcode": "48605-083",
+      "addr:street": "Rua Mato Grosso",
+      "addr:suburb": "Panorama",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2349825,-9.3933403]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191757517",
+      "addr:housenumber": "595",
+      "addr:postcode": "48605-055",
+      "addr:street": "Avenida Antônio Carlos Magalhães",
+      "addr:suburb": "Panorama",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2348467,-9.3916909]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368250",
+      "addr:housenumber": "90",
+      "addr:postcode": "48605-049",
+      "addr:street": "Rua Santa Catarina",
+      "addr:suburb": "Panorama",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "pentecostal",
+      "name": "Igreja Assembleia de Deus do Panorama",
+      "religion": "christian"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2352765,-9.3947341]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356100",
+      "addr:housenumber": "59",
+      "addr:postcode": "48605-045",
+      "addr:street": "Rua Roraima",
+      "addr:suburb": "Panorama",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2344423,-9.3964285]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191757514",
+      "addr:housenumber": "647",
+      "addr:postcode": "48605-055",
+      "addr:street": "Avenida Antônio Carlos Magalhães",
+      "addr:suburb": "Panorama",
+      "addr:unit": "Casa Port Branco",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.23468,-9.3912713]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216673612",
+      "addr:housenumber": "1580",
+      "addr:postcode": "48601-208",
+      "addr:street": "Avenida Apolônio Sales",
+      "addr:suburb": "Panorama",
+      "addr:unit": "Loja A",
+      "amenity": "restaurant",
+      "building": "yes",
+      "name": "Meu Cantinho Restaurante"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.233596807622,-9.4003034951224]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216673284;216673286;216673289;216673294",
+      "addr:housenumber": "42",
+      "addr:postcode": "48605-067",
+      "addr:street": "Rua para",
+      "addr:suburb": "Panorama",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2348169,-9.3949353]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356207",
+      "addr:housenumber": "1536",
+      "addr:postcode": "48601-208",
+      "addr:street": "Avenida Apolônio Sales",
+      "addr:suburb": "Panorama",
+      "building": "yes",
+      "name": "Elétrica"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2330684,-9.40013]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216673482",
+      "addr:housenumber": "5",
+      "addr:postcode": "48605-055",
+      "addr:street": "Avenida Antônio Carlos Magalhães",
+      "addr:suburb": "Panorama",
+      "building": "yes",
+      "name": "Centro de Negócios Imobiliários"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2338906,-9.3971738]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356187",
+      "addr:housenumber": "150",
+      "addr:postcode": "48605-055",
+      "addr:street": "Avenida Antônio Carlos Magalhães",
+      "addr:suburb": "Panorama",
+      "building": "yes",
+      "name": "Estabelecimento Político"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2333689,-9.3990068]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356042",
+      "addr:housenumber": "33",
+      "addr:postcode": "48609-590",
+      "addr:street": "Rua Acre",
+      "addr:suburb": "Panorama",
+      "addr:unit": "Fundos",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0040P-5-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.234539,-9.395816]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356171",
+      "addr:housenumber": "35",
+      "addr:postcode": "48605-028",
+      "addr:street": "Rua Luís Félix dos Santos",
+      "addr:suburb": "Panorama",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2337755,-9.3984348]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356180",
+      "addr:housenumber": "166",
+      "addr:postcode": "48608-345",
+      "addr:street": "Rua Paraná",
+      "addr:suburb": "Panorama",
+      "addr:unit": "Casa",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2337363,-9.3988631]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356191",
+      "addr:housenumber": "85",
+      "addr:postcode": "48605-016",
+      "addr:street": "Rua Pernambuco",
+      "addr:suburb": "Panorama",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2338909,-9.3997784]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356116",
+      "addr:housenumber": "15",
+      "addr:postcode": "48605-055",
+      "addr:street": "Avenida Antônio Carlos Magalhães",
+      "addr:suburb": "Panorama",
+      "amenity": "restaurant",
+      "building": "yes",
+      "description": "CNEFE 2022 Restaurante"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2339398,-9.3968822]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368249",
+      "addr:housenumber": "16",
+      "addr:postcode": "48605-049",
+      "addr:street": "Rua Santa Catarina",
+      "addr:suburb": "Panorama",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2352599,-9.3948304]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191757458",
+      "addr:housenumber": "81",
+      "addr:postcode": "48605-079",
+      "addr:street": "Rua Amazonas",
+      "addr:suburb": "Panorama",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2353382,-9.3942264]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216673489",
+      "addr:housenumber": "2",
+      "addr:postcode": "48607-330",
+      "addr:street": "Rua Alagoas",
+      "addr:suburb": "Panorama",
+      "addr:unit": "Casa B",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.234026287181,-9.397405122981]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356032",
+      "addr:housenumber": "4",
+      "addr:postcode": "48607-310",
+      "addr:street": "Rua Ceará",
+      "addr:suburb": "Panorama",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.234822,-9.3954614]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356119",
+      "addr:housenumber": "100",
+      "addr:postcode": "48607-330",
+      "addr:street": "Rua Alagoas",
+      "addr:suburb": "Panorama",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2345382,-9.3975708]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356044",
+      "addr:housenumber": "2",
+      "addr:postcode": "48605-045",
+      "addr:street": "Rua Roraima",
+      "addr:suburb": "Panorama",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0040P-5-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.234403,-9.396335]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356179",
+      "addr:housenumber": "166",
+      "addr:postcode": "48608-345",
+      "addr:street": "Rua Paraná",
+      "addr:suburb": "Panorama",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2337374,-9.3988633]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356193",
+      "addr:housenumber": "53 Lado Esquerdo",
+      "addr:postcode": "48605-016",
+      "addr:street": "Rua Pernambuco",
+      "addr:suburb": "Panorama",
+      "amenity": "parking",
+      "building": "yes",
+      "name": "Estacionamento Erel Point"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.233827659505,-9.3997447955181]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368299",
+      "addr:housenumber": "545",
+      "addr:postcode": "48605-055",
+      "addr:street": "Avenida Antônio Carlos Magalhães",
+      "addr:suburb": "Panorama",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2349453,-9.3922697]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368252",
+      "addr:housenumber": "90",
+      "addr:postcode": "48605-049",
+      "addr:street": "Rua Santa Catarina",
+      "addr:suburb": "Panorama",
+      "addr:unit": "Casa D",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.235288343012,-9.3947428579953]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368275",
+      "addr:housenumber": "675",
+      "addr:postcode": "48605-055",
+      "addr:street": "Avenida Antônio Carlos Magalhães",
+      "addr:suburb": "Panorama",
+      "building": "yes",
+      "name": "Oficina Zé Aledio"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2336664,-9.3891481]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368246",
+      "addr:housenumber": "50",
+      "addr:postcode": "48605-049",
+      "addr:street": "Rua Santa Catarina",
+      "addr:suburb": "Panorama",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2351995,-9.3950885]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216673388",
+      "addr:housenumber": "102",
+      "addr:postcode": "48605-045",
+      "addr:street": "Rua Roraima",
+      "addr:suburb": "Panorama",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0040P-5-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.234931,-9.396515]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368300",
+      "addr:housenumber": "515",
+      "addr:postcode": "48605-055",
+      "addr:street": "Avenida Antônio Carlos Magalhães",
+      "addr:suburb": "Panorama",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2349588,-9.3925938]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356041",
+      "addr:housenumber": "65",
+      "addr:postcode": "48609-590",
+      "addr:street": "Rua Acre",
+      "addr:suburb": "Panorama",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0040P-5-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.23479,-9.395905]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356176",
+      "addr:housenumber": "150",
+      "addr:postcode": "48608-345",
+      "addr:street": "Rua Paraná",
+      "addr:suburb": "Panorama",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2336905,-9.3988517]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27368269",
+      "addr:housenumber": "65",
+      "addr:postcode": "48605-079",
+      "addr:street": "Rua Amazonas",
+      "addr:suburb": "Panorama",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2352869,-9.3942112]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191757474",
+      "addr:housenumber": "48",
+      "addr:postcode": "48605-083",
+      "addr:street": "Rua Mato Grosso",
+      "addr:suburb": "Panorama",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2355093,-9.3934302]
+      }
+    }
+  ]
+}

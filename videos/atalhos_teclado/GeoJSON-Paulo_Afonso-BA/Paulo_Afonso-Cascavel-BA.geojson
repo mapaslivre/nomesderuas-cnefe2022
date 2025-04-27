@@ -1,0 +1,277 @@
+{
+  "type": "FeatureCollection",
+  "source": "IBGE CNEFE + Faces de Logradouros - 2022",
+  "generator": "CSV-CNEFE2GeoJSON.lua 1.5.7 - fidelis.assis@gmail.com",
+  "date": "2025-02-02T09:05:14-0300",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411091",
+      "addr:housenumber": "62",
+      "addr:postcode": "48601-018",
+      "addr:street": "Povoado Cascavel",
+      "addr:suburb": "Cascavel",
+      "addr:unit": "Barraca",
+      "building": "construction",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-150"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.209182,-9.475744]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411093",
+      "addr:housenumber": "63",
+      "addr:postcode": "48601-018",
+      "addr:street": "Povoado Cascavel",
+      "addr:suburb": "Cascavel",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-150"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.207328,-9.473055]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411020",
+      "addr:housenumber": "14",
+      "addr:postcode": "48601-018",
+      "addr:street": "Povoado Cascavel",
+      "addr:suburb": "Cascavel",
+      "addr:unit": "Barraca",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-150"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.202589,-9.457832]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411015",
+      "addr:housenumber": "60",
+      "addr:postcode": "48601-018",
+      "addr:street": "Povoado Cascavel",
+      "addr:suburb": "Cascavel",
+      "addr:unit": "Barraca",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-150"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.208214,-9.478043]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411064",
+      "addr:housenumber": "25",
+      "addr:postcode": "48601-018",
+      "addr:street": "Povoado Cascavel",
+      "addr:suburb": "Cascavel",
+      "addr:unit": "Barraca",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-150"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.196833,-9.464731]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411095",
+      "addr:housenumber": "64",
+      "addr:postcode": "48601-018",
+      "addr:street": "Povoado Cascavel",
+      "addr:suburb": "Cascavel",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-150"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.204742,-9.468723]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411016",
+      "addr:housenumber": "59",
+      "addr:postcode": "48601-018",
+      "addr:street": "Povoado Cascavel",
+      "addr:suburb": "Cascavel",
+      "addr:unit": "Barraca",
+      "building": "construction",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-150"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.209582,-9.477424]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411014",
+      "addr:housenumber": "58",
+      "addr:postcode": "48601-018",
+      "addr:street": "Povoado Cascavel",
+      "addr:suburb": "Cascavel",
+      "addr:unit": "Barraca",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-150"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.208377,-9.480066]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411094",
+      "addr:housenumber": "63",
+      "addr:postcode": "48601-018",
+      "addr:street": "Povoado Cascavel",
+      "addr:suburb": "Cascavel",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-150"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.20733,-9.47306]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411018",
+      "addr:housenumber": "12",
+      "addr:postcode": "48601-018",
+      "addr:street": "Povoado Cascavel",
+      "addr:suburb": "Cascavel",
+      "addr:unit": "Barraca",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-150"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.202623,-9.458001]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411092",
+      "addr:housenumber": "62",
+      "addr:postcode": "48601-018",
+      "addr:street": "Povoado Cascavel",
+      "addr:suburb": "Cascavel",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-150"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.207225,-9.472397]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411090",
+      "addr:housenumber": "61",
+      "addr:postcode": "48601-018",
+      "addr:street": "Povoado Cascavel",
+      "addr:suburb": "Cascavel",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-150"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.207931,-9.477076]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411017",
+      "addr:housenumber": "34",
+      "addr:postcode": "48601-018",
+      "addr:street": "Povoado Cascavel",
+      "addr:suburb": "Cascavel",
+      "addr:unit": "Barraca",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-150"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.202736,-9.458291]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411096",
+      "addr:housenumber": "57",
+      "addr:postcode": "48601-018",
+      "addr:street": "Povoado Cascavel",
+      "addr:suburb": "Cascavel",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-150"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.203572,-9.463485]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27411019",
+      "addr:housenumber": "13",
+      "addr:postcode": "48601-018",
+      "addr:street": "Povoado Cascavel",
+      "addr:suburb": "Cascavel",
+      "addr:unit": "Barraca",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0103P-0-150"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.202594,-9.457889]
+      }
+    }
+  ]
+}

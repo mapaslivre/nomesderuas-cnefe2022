@@ -1,0 +1,5042 @@
+{
+  "type": "FeatureCollection",
+  "generator": "CSV-CNEFE2GeoJSON.lua 1.5.7 - fidelis.assis@gmail.com",
+  "source": "IBGE CNEFE + Faces de Logradouros - 2022",
+  "date": "2025-02-02T09:05:27-0300",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356546",
+      "addr:housenumber": "178",
+      "addr:postcode": "48604-544",
+      "addr:street": "Rua Divinópolis",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2399588,-9.3742574]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356418",
+      "addr:housenumber": "19",
+      "addr:postcode": "48604-544",
+      "addr:street": "Rua Divinópolis",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2450073,-9.3741423]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356668",
+      "addr:housenumber": "67",
+      "addr:postcode": "48604-560",
+      "addr:street": "Rua Cruzeiro do Sul",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2443117,-9.3727769]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356622",
+      "addr:housenumber": "24",
+      "addr:postcode": "48604-564",
+      "addr:street": "Rua Nossa Senhora Aparecida",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2396421,-9.3727367]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356616",
+      "addr:housenumber": "18",
+      "addr:postcode": "48604-564",
+      "addr:street": "Rua Nossa Senhora Aparecida",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2389206,-9.3732595]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191731289",
+      "addr:housenumber": "112 A",
+      "addr:postcode": "48604-560",
+      "addr:street": "Rua Cruzeiro do Sul",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.238949,-9.3749231]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356509",
+      "addr:housenumber": "139",
+      "addr:postcode": "48604-560",
+      "addr:street": "Rua Cruzeiro do Sul",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2429322,-9.3730673]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356524",
+      "addr:housenumber": "163",
+      "addr:postcode": "48604-544",
+      "addr:street": "Rua Divinópolis",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2424349,-9.3738559]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356594",
+      "addr:housenumber": "6",
+      "addr:postcode": "48604-564",
+      "addr:street": "Rua Nossa Senhora Aparecida",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2381149,-9.3752391]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356468",
+      "addr:housenumber": "242",
+      "addr:postcode": "48604-534",
+      "addr:street": "Rua Salinas",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.244242,-9.3742771]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191731002",
+      "addr:housenumber": "188",
+      "addr:postcode": "48604-552",
+      "addr:street": "Rua Pirapora",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2406864,-9.3761182]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356477",
+      "addr:housenumber": "233",
+      "addr:postcode": "48604-544",
+      "addr:street": "Rua Divinópolis",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2442298,-9.3737035]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356473",
+      "addr:housenumber": "238 B",
+      "addr:postcode": "48604-534",
+      "addr:street": "Rua Salinas",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2448899,-9.3745008]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356538",
+      "addr:housenumber": "128",
+      "addr:postcode": "48604-560",
+      "addr:street": "Rua Cruzeiro do Sul",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2408871,-9.3732193]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356678",
+      "addr:housenumber": "52",
+      "addr:postcode": "48604-564",
+      "addr:street": "Rua Nossa Senhora Aparecida",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2451385,-9.3722639]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356635",
+      "addr:housenumber": "78",
+      "addr:postcode": "48604-560",
+      "addr:street": "Rua Cruzeiro do Sul",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2424767,-9.3730374]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356639",
+      "addr:housenumber": "74",
+      "addr:postcode": "48604-560",
+      "addr:street": "Rua Cruzeiro do Sul",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2431226,-9.3728652]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191730970",
+      "addr:housenumber": "193",
+      "addr:postcode": "48604-552",
+      "addr:street": "Rua Pirapora",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2404434,-9.3752075]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356584",
+      "addr:housenumber": "97",
+      "addr:postcode": "48604-560",
+      "addr:street": "Rua Cruzeiro do Sul",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2389428,-9.3743493]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356415",
+      "addr:housenumber": "204",
+      "addr:postcode": "48604-548",
+      "addr:street": "Rua Diamantina",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2409074,-9.3746952]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191731240",
+      "addr:housenumber": "9",
+      "addr:postcode": "48604-560",
+      "addr:street": "Rua Cruzeiro do Sul",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2414963,-9.3732634]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356438",
+      "addr:housenumber": "257",
+      "addr:postcode": "48604-534",
+      "addr:street": "Rua Salinas",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2420778,-9.375167]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356526",
+      "addr:housenumber": "161",
+      "addr:postcode": "48604-544",
+      "addr:street": "Rua Divinópolis",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2426399,-9.3737978]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356600",
+      "addr:housenumber": "84",
+      "addr:postcode": "48604-560",
+      "addr:street": "Rua Cruzeiro do Sul",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2406368,-9.3730816]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191731199",
+      "addr:housenumber": "12",
+      "addr:postcode": "48604-570",
+      "addr:street": "Rua Itaúna",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2427408,-9.3734771]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356549",
+      "addr:housenumber": "181",
+      "addr:postcode": "48604-544",
+      "addr:street": "Rua Divinópolis",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2396814,-9.3746195]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191731380",
+      "addr:housenumber": "23 A",
+      "addr:postcode": "48604-564",
+      "addr:street": "Rua Nossa Senhora Aparecida",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2396116,-9.3727542]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356503",
+      "addr:housenumber": "145",
+      "addr:postcode": "48604-560",
+      "addr:street": "Rua Cruzeiro do Sul",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2437826,-9.3729143]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356450",
+      "addr:housenumber": "216",
+      "addr:postcode": "48604-540",
+      "addr:street": "Rua Caraíbas",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2415078,-9.3750704]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191731449",
+      "addr:housenumber": "68 B",
+      "addr:postcode": "48604-560",
+      "addr:street": "Rua Cruzeiro do Sul",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2442522,-9.3727731]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356653",
+      "addr:housenumber": "34",
+      "addr:postcode": "48604-564",
+      "addr:street": "Rua Nossa Senhora Aparecida",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2422565,-9.3724304]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191730957",
+      "addr:housenumber": "196",
+      "addr:postcode": "48604-552",
+      "addr:street": "Rua Pirapora",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2403195,-9.3747552]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356636",
+      "addr:housenumber": "77",
+      "addr:postcode": "48604-560",
+      "addr:street": "Rua Cruzeiro do Sul",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.242702,-9.3729704]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356570",
+      "addr:housenumber": "110",
+      "addr:postcode": "48604-560",
+      "addr:street": "Rua Cruzeiro do Sul",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2388989,-9.3752658]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356541",
+      "addr:housenumber": "125",
+      "addr:postcode": "48604-560",
+      "addr:street": "Rua Cruzeiro do Sul",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2403952,-9.3732996]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191731244",
+      "addr:housenumber": "134",
+      "addr:postcode": "48604-560",
+      "addr:street": "Rua Cruzeiro do Sul",
+      "addr:suburb": "Moxotó Bahia",
+      "addr:unit": "Fundos A",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2417755,-9.3733304]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356528",
+      "addr:housenumber": "136",
+      "addr:postcode": "48604-560",
+      "addr:street": "Rua Cruzeiro do Sul",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2420972,-9.3732544]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356608",
+      "addr:housenumber": "92",
+      "addr:postcode": "48604-560",
+      "addr:street": "Rua Cruzeiro do Sul",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2395648,-9.3735407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356684",
+      "addr:housenumber": "47",
+      "addr:postcode": "48604-564",
+      "addr:street": "Rua Nossa Senhora Aparecida",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2443362,-9.3721416]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356491",
+      "addr:housenumber": "159",
+      "addr:postcode": "48604-544",
+      "addr:street": "Rua Divinópolis",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2429545,-9.3737279]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356604",
+      "addr:housenumber": "88",
+      "addr:postcode": "48604-560",
+      "addr:street": "Rua Cruzeiro do Sul",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2401783,-9.3732007]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356417",
+      "addr:housenumber": "33",
+      "addr:postcode": "48604-544",
+      "addr:street": "Rua Divinópolis",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2406906,-9.3740255]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356539",
+      "addr:housenumber": "127",
+      "addr:postcode": "48604-560",
+      "addr:street": "Rua Cruzeiro do Sul",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2407327,-9.373229]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356469",
+      "addr:housenumber": "241",
+      "addr:postcode": "48604-534",
+      "addr:street": "Rua Salinas",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2444201,-9.3743484]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356581",
+      "addr:housenumber": "100",
+      "addr:postcode": "48604-560",
+      "addr:street": "Rua Cruzeiro do Sul",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2388087,-9.3747801]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356583",
+      "addr:housenumber": "98",
+      "addr:postcode": "48604-560",
+      "addr:street": "Rua Cruzeiro do Sul",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2389146,-9.3744182]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356516",
+      "addr:housenumber": "171",
+      "addr:postcode": "48604-544",
+      "addr:street": "Rua Divinópolis",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2411421,-9.3738556]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356443",
+      "addr:housenumber": "252",
+      "addr:postcode": "48604-534",
+      "addr:street": "Rua Salinas",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2425081,-9.3747993]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356470",
+      "addr:housenumber": "241 B",
+      "addr:postcode": "48604-534",
+      "addr:street": "Rua Salinas",
+      "addr:suburb": "Moxotó Bahia",
+      "addr:unit": "Lado",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2444266,-9.3743497]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356505",
+      "addr:housenumber": "143",
+      "addr:postcode": "48604-560",
+      "addr:street": "Rua Cruzeiro do Sul",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2434343,-9.3729497]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356671",
+      "addr:housenumber": "57",
+      "addr:postcode": "48604-564",
+      "addr:street": "Rua Nossa Senhora Aparecida",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2459074,-9.3729815]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356405",
+      "addr:housenumber": "210",
+      "addr:postcode": "48604-548",
+      "addr:street": "Rua Diamantina",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2412265,-9.3755007]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356540",
+      "addr:housenumber": "126",
+      "addr:postcode": "48604-560",
+      "addr:street": "Rua Cruzeiro do Sul",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2406805,-9.3732323]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356582",
+      "addr:housenumber": "99",
+      "addr:postcode": "48604-560",
+      "addr:street": "Rua Cruzeiro do Sul",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.238854,-9.3745812]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191731040",
+      "addr:housenumber": "5",
+      "addr:postcode": "48604-540",
+      "addr:street": "Rua Caraíbas",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2419224,-9.3745431]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356666",
+      "addr:housenumber": "65",
+      "addr:postcode": "48604-560",
+      "addr:street": "Rua Cruzeiro do Sul",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2447512,-9.3728162]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356484",
+      "addr:housenumber": "226",
+      "addr:postcode": "48604-544",
+      "addr:street": "Rua Divinópolis",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2430923,-9.3738457]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356439",
+      "addr:housenumber": "256",
+      "addr:postcode": "48604-534",
+      "addr:street": "Rua Salinas",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2420351,-9.3752115]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356545",
+      "addr:housenumber": "121",
+      "addr:postcode": "48604-560",
+      "addr:street": "Rua Cruzeiro do Sul",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.239807,-9.3735437]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191730949",
+      "addr:housenumber": "3",
+      "addr:postcode": "48604-552",
+      "addr:street": "Rua Pirapora",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2402652,-9.3744427]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356482",
+      "addr:housenumber": "229",
+      "addr:postcode": "48604-544",
+      "addr:street": "Rua Divinópolis",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.243532,-9.3737385]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356689",
+      "addr:housenumber": "46 B",
+      "addr:postcode": "48604-564",
+      "addr:street": "Rua Nossa Senhora Aparecida",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.244165,-9.3721317]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356563",
+      "addr:housenumber": "116",
+      "addr:postcode": "48604-560",
+      "addr:street": "Rua Cruzeiro do Sul",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2391725,-9.3742836]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356615",
+      "addr:housenumber": "17",
+      "addr:postcode": "48604-564",
+      "addr:street": "Rua Nossa Senhora Aparecida",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2388274,-9.3733521]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191731163",
+      "addr:housenumber": "30",
+      "addr:postcode": "48604-570",
+      "addr:street": "Rua Itaúna",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2428823,-9.3733891]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356489",
+      "addr:housenumber": "365 A",
+      "addr:postcode": "48604-544",
+      "addr:street": "Rua Divinópolis",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2448944,-9.3738869]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356436",
+      "addr:housenumber": "259",
+      "addr:postcode": "48604-534",
+      "addr:street": "Rua Salinas",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2418591,-9.3754273]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356409",
+      "addr:housenumber": "206",
+      "addr:postcode": "48604-548",
+      "addr:street": "Rua Diamantina",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2409976,-9.3750016]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191730998",
+      "addr:housenumber": "189",
+      "addr:postcode": "48604-552",
+      "addr:street": "Rua Pirapora",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2405943,-9.3759482]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356530",
+      "addr:housenumber": "134",
+      "addr:postcode": "48604-560",
+      "addr:street": "Rua Cruzeiro do Sul",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2418124,-9.3732782]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356677",
+      "addr:housenumber": "53",
+      "addr:postcode": "48604-564",
+      "addr:street": "Rua Nossa Senhora Aparecida",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2452678,-9.3723017]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191731342",
+      "addr:housenumber": "249",
+      "addr:postcode": "48604-525",
+      "addr:street": "Rua Gongonhas",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.238569,-9.3759281]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356465",
+      "addr:housenumber": "244",
+      "addr:postcode": "48604-534",
+      "addr:street": "Rua Salinas",
+      "addr:suburb": "Moxotó Bahia",
+      "addr:unit": "Fundos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2438818,-9.3742132]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356575",
+      "addr:housenumber": "106",
+      "addr:postcode": "48604-560",
+      "addr:street": "Rua Cruzeiro do Sul",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2387632,-9.3755149]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191731355",
+      "addr:housenumber": "95 A",
+      "addr:postcode": "48604-560",
+      "addr:street": "Rua Cruzeiro do Sul",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2392527,-9.3738832]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356675",
+      "addr:housenumber": "55",
+      "addr:postcode": "48604-564",
+      "addr:street": "Rua Nossa Senhora Aparecida",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2455405,-9.3723831]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356507",
+      "addr:housenumber": "141",
+      "addr:postcode": "48604-560",
+      "addr:street": "Rua Cruzeiro do Sul",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2431569,-9.3730122]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356527",
+      "addr:housenumber": "138",
+      "addr:postcode": "48604-560",
+      "addr:street": "Rua Cruzeiro do Sul",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.242499,-9.3731872]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356512",
+      "addr:housenumber": "175",
+      "addr:postcode": "48604-544",
+      "addr:street": "Rua Divinópolis",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.24037,-9.3739296]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356556",
+      "addr:housenumber": "24",
+      "addr:postcode": "48604-556",
+      "addr:street": "Rua Valparaíso",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2398101,-9.3739958]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356617",
+      "addr:housenumber": "19",
+      "addr:postcode": "48604-564",
+      "addr:street": "Rua Nossa Senhora Aparecida",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2389836,-9.3731991]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356445",
+      "addr:housenumber": "221",
+      "addr:postcode": "48604-540",
+      "addr:street": "Rua Caraíbas",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2423202,-9.3742281]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356683",
+      "addr:housenumber": "46",
+      "addr:postcode": "48604-564",
+      "addr:street": "Rua Nossa Senhora Aparecida",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2441304,-9.3721307]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356558",
+      "addr:housenumber": "120 Frente",
+      "addr:postcode": "48604-560",
+      "addr:street": "Rua Cruzeiro do Sul",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2395337,-9.373786]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191731296",
+      "addr:housenumber": "112 B",
+      "addr:postcode": "48604-560",
+      "addr:street": "Rua Cruzeiro do Sul",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2389478,-9.3749443]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191730938",
+      "addr:housenumber": "230",
+      "addr:postcode": "48604-552",
+      "addr:street": "Rua Pirapora",
+      "addr:suburb": "Moxotó Bahia",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "pentecostal",
+      "name": "Congregação Cristã no Brasil",
+      "religion": "christian"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2402392,-9.3742583]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356661",
+      "addr:housenumber": "60",
+      "addr:postcode": "48604-560",
+      "addr:street": "Rua Cruzeiro do Sul",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2455964,-9.3730644]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356406",
+      "addr:housenumber": "209",
+      "addr:postcode": "48604-548",
+      "addr:street": "Rua Diamantina",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2411869,-9.3754329]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356672",
+      "addr:housenumber": "44",
+      "addr:postcode": "48604-564",
+      "addr:street": "Rua Nossa Senhora Aparecida",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2438613,-9.3721195]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191731339",
+      "addr:housenumber": "251",
+      "addr:postcode": "48604-525",
+      "addr:street": "Rua Gongonhas",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.238551,-9.375934]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356574",
+      "addr:housenumber": "107",
+      "addr:postcode": "48604-560",
+      "addr:street": "Rua Cruzeiro do Sul",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2388254,-9.3758031]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191731051",
+      "addr:housenumber": "214",
+      "addr:postcode": "48604-540",
+      "addr:street": "Rua Caraíbas",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2415133,-9.3750604]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356605",
+      "addr:housenumber": "89",
+      "addr:postcode": "48604-560",
+      "addr:street": "Rua Cruzeiro do Sul",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2399286,-9.3733071]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356404",
+      "addr:housenumber": "211",
+      "addr:postcode": "48604-548",
+      "addr:street": "Rua Diamantina",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2413323,-9.375682]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356466",
+      "addr:housenumber": "243 A",
+      "addr:postcode": "48604-534",
+      "addr:street": "Rua Salinas",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2440556,-9.3742668]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356560",
+      "addr:housenumber": "119",
+      "addr:postcode": "48604-560",
+      "addr:street": "Rua Cruzeiro do Sul",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.239451,-9.3738882]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191731190",
+      "addr:housenumber": "168 A",
+      "addr:postcode": "48604-544",
+      "addr:street": "Rua Divinópolis",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2415095,-9.3738897]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356667",
+      "addr:housenumber": "66",
+      "addr:postcode": "48604-560",
+      "addr:street": "Rua Cruzeiro do Sul",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2445654,-9.3728012]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356499",
+      "addr:housenumber": "149",
+      "addr:postcode": "48604-560",
+      "addr:street": "Rua Cruzeiro do Sul",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2444556,-9.3729429]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356566",
+      "addr:housenumber": "113",
+      "addr:postcode": "48604-560",
+      "addr:street": "Rua Cruzeiro do Sul",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.238983,-9.3747563]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356494",
+      "addr:housenumber": "156",
+      "addr:postcode": "48604-544",
+      "addr:street": "Rua Divinópolis",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2436261,-9.3735654]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356663",
+      "addr:housenumber": "62",
+      "addr:postcode": "48604-560",
+      "addr:street": "Rua Cruzeiro do Sul",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2452571,-9.372924]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356609",
+      "addr:housenumber": "93",
+      "addr:postcode": "48604-560",
+      "addr:street": "Rua Cruzeiro do Sul",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.239489,-9.3736112]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356506",
+      "addr:housenumber": "142",
+      "addr:postcode": "48604-560",
+      "addr:street": "Rua Cruzeiro do Sul",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.243319,-9.3729724]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356634",
+      "addr:housenumber": "79",
+      "addr:postcode": "48604-560",
+      "addr:street": "Rua Cruzeiro do Sul",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2423568,-9.3730603]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356444",
+      "addr:housenumber": "222",
+      "addr:postcode": "48604-540",
+      "addr:street": "Rua Caraíbas",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2422488,-9.3742831]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356674",
+      "addr:housenumber": "56",
+      "addr:postcode": "48604-564",
+      "addr:street": "Rua Nossa Senhora Aparecida",
+      "addr:suburb": "Moxotó Bahia",
+      "addr:unit": "Casa",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2456802,-9.3724433]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356586",
+      "addr:housenumber": "14",
+      "addr:postcode": "48604-564",
+      "addr:street": "Rua Nossa Senhora Aparecida",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2384536,-9.3738943]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356449",
+      "addr:housenumber": "217",
+      "addr:postcode": "48604-540",
+      "addr:street": "Rua Caraíbas",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2417645,-9.3747336]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356523",
+      "addr:housenumber": "164",
+      "addr:postcode": "48604-544",
+      "addr:street": "Rua Divinópolis",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2420942,-9.3738889]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356555",
+      "addr:housenumber": "25",
+      "addr:postcode": "48604-556",
+      "addr:street": "Rua Valparaíso",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2397842,-9.3739604]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356537",
+      "addr:housenumber": "129",
+      "addr:postcode": "48604-560",
+      "addr:street": "Rua Cruzeiro do Sul",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2410832,-9.3732225]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356442",
+      "addr:housenumber": "253",
+      "addr:postcode": "48604-534",
+      "addr:street": "Rua Salinas",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2423735,-9.3748969]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356502",
+      "addr:housenumber": "146",
+      "addr:postcode": "48604-560",
+      "addr:street": "Rua Cruzeiro do Sul",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.243948,-9.3729121]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356497",
+      "addr:housenumber": "154",
+      "addr:postcode": "48604-544",
+      "addr:street": "Rua Divinópolis",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2440803,-9.3735349]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191731141",
+      "addr:housenumber": "152",
+      "addr:postcode": "48604-544",
+      "addr:street": "Rua Divinópolis",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2444059,-9.3735726]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356544",
+      "addr:housenumber": "122",
+      "addr:postcode": "48604-560",
+      "addr:street": "Rua Cruzeiro do Sul",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2399469,-9.3734668]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191731262",
+      "addr:housenumber": "186 B",
+      "addr:postcode": "48604-544",
+      "addr:street": "Rua Divinópolis",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2395621,-9.3753068]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191731442",
+      "addr:housenumber": "69 A",
+      "addr:postcode": "48604-560",
+      "addr:street": "Rua Cruzeiro do Sul",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2440584,-9.3727605]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191730961",
+      "addr:housenumber": "195",
+      "addr:postcode": "48604-552",
+      "addr:street": "Rua Pirapora",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2403746,-9.3750004]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356670",
+      "addr:housenumber": "69",
+      "addr:postcode": "48604-560",
+      "addr:street": "Rua Cruzeiro do Sul",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2439931,-9.3727508]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356620",
+      "addr:housenumber": "22",
+      "addr:postcode": "48604-564",
+      "addr:street": "Rua Nossa Senhora Aparecida",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2393839,-9.3728904]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191730949",
+      "addr:housenumber": "3",
+      "addr:postcode": "48604-552",
+      "addr:street": "Rua Pirapora",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes",
+      "name": "Mercadinho do Galego",
+      "shop": "convenience"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.240265155836,-9.3744428616562]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356543",
+      "addr:housenumber": "123",
+      "addr:postcode": "48604-560",
+      "addr:street": "Rua Cruzeiro do Sul",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2400826,-9.3734096]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356536",
+      "addr:housenumber": "130",
+      "addr:postcode": "48604-560",
+      "addr:street": "Rua Cruzeiro do Sul",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2411332,-9.3732266]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356529",
+      "addr:housenumber": "138 A",
+      "addr:postcode": "48604-560",
+      "addr:street": "Rua Cruzeiro do Sul",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2425969,-9.3731632]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356430",
+      "addr:housenumber": "241 D",
+      "addr:postcode": "48604-534",
+      "addr:street": "Rua Salinas",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2444117,-9.3743594]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356595",
+      "addr:housenumber": "5",
+      "addr:postcode": "48604-564",
+      "addr:street": "Rua Nossa Senhora Aparecida",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2380977,-9.375395]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191731336",
+      "addr:housenumber": "265",
+      "addr:postcode": "48604-525",
+      "addr:street": "Rua Gongonhas",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2384385,-9.3759711]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356407",
+      "addr:housenumber": "208",
+      "addr:postcode": "48604-548",
+      "addr:street": "Rua Diamantina",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2410567,-9.3751796]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356564",
+      "addr:housenumber": "115",
+      "addr:postcode": "48604-560",
+      "addr:street": "Rua Cruzeiro do Sul",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2390961,-9.3744393]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356550",
+      "addr:housenumber": "182",
+      "addr:postcode": "48604-544",
+      "addr:street": "Rua Divinópolis",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2396484,-9.3746989]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356496",
+      "addr:housenumber": "153",
+      "addr:postcode": "48604-544",
+      "addr:street": "Rua Divinópolis",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.244061,-9.373534]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356448",
+      "addr:housenumber": "218",
+      "addr:postcode": "48604-540",
+      "addr:street": "Rua Caraíbas",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2418424,-9.3745971]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356435",
+      "addr:housenumber": "260",
+      "addr:postcode": "48604-534",
+      "addr:street": "Rua Salinas",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2418132,-9.3754842]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356472",
+      "addr:housenumber": "239",
+      "addr:postcode": "48604-534",
+      "addr:street": "Rua Salinas",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2447992,-9.3744557]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356649",
+      "addr:housenumber": "37",
+      "addr:postcode": "48604-564",
+      "addr:street": "Rua Nossa Senhora Aparecida",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2425739,-9.3723294]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356592",
+      "addr:housenumber": "8",
+      "addr:postcode": "48604-564",
+      "addr:street": "Rua Nossa Senhora Aparecida",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2381528,-9.3747972]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356453",
+      "addr:housenumber": "213",
+      "addr:postcode": "48604-540",
+      "addr:street": "Rua Caraíbas",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2414493,-9.375177]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356457",
+      "addr:housenumber": "250",
+      "addr:postcode": "48604-534",
+      "addr:street": "Rua Salinas",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2430568,-9.3744555]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356408",
+      "addr:housenumber": "207",
+      "addr:postcode": "48604-548",
+      "addr:street": "Rua Diamantina",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2410619,-9.3751884]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356643",
+      "addr:housenumber": "70",
+      "addr:postcode": "48604-560",
+      "addr:street": "Rua Cruzeiro do Sul",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2437611,-9.3727675]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356437",
+      "addr:housenumber": "258",
+      "addr:postcode": "48604-534",
+      "addr:street": "Rua Salinas",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2419301,-9.3753406]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356618",
+      "addr:housenumber": "20",
+      "addr:postcode": "48604-564",
+      "addr:street": "Rua Nossa Senhora Aparecida",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2391571,-9.3730541]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356621",
+      "addr:housenumber": "23",
+      "addr:postcode": "48604-564",
+      "addr:street": "Rua Nossa Senhora Aparecida",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.239568,-9.3727786]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356588",
+      "addr:housenumber": "12",
+      "addr:postcode": "48604-564",
+      "addr:street": "Rua Nossa Senhora Aparecida",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2382929,-9.374266]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356602",
+      "addr:housenumber": "86",
+      "addr:postcode": "48604-560",
+      "addr:street": "Rua Cruzeiro do Sul",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.24046,-9.373118]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356614",
+      "addr:housenumber": "16",
+      "addr:postcode": "48604-564",
+      "addr:street": "Rua Nossa Senhora Aparecida",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2386864,-9.3735364]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356642",
+      "addr:housenumber": "71",
+      "addr:postcode": "48604-560",
+      "addr:street": "Rua Cruzeiro do Sul",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2436906,-9.3727734]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356423",
+      "addr:housenumber": "1",
+      "addr:postcode": "48604-536",
+      "addr:street": "Rua Ouro Preto",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2427228,-9.3744058]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356426",
+      "addr:housenumber": "2",
+      "addr:postcode": "48604-536",
+      "addr:street": "Rua Ouro Preto",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2427074,-9.3743591]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356411",
+      "addr:housenumber": "203",
+      "addr:postcode": "48604-548",
+      "addr:street": "Rua Diamantina",
+      "addr:suburb": "Moxotó Bahia",
+      "addr:unit": "Casa",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2408642,-9.3745228]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356441",
+      "addr:housenumber": "254",
+      "addr:postcode": "48604-534",
+      "addr:street": "Rua Salinas",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2424059,-9.3748728]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191730965",
+      "addr:housenumber": "194",
+      "addr:postcode": "48604-552",
+      "addr:street": "Rua Pirapora",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2404092,-9.3751052]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356606",
+      "addr:housenumber": "90",
+      "addr:postcode": "48604-560",
+      "addr:street": "Rua Cruzeiro do Sul",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2398444,-9.3733523]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356660",
+      "addr:housenumber": "59",
+      "addr:postcode": "48604-560",
+      "addr:street": "Rua Cruzeiro do Sul",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2455614,-9.3730506]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191731059",
+      "addr:housenumber": "10",
+      "addr:postcode": "48604-540",
+      "addr:street": "Rua Caraíbas",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2414442,-9.3751864]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356433",
+      "addr:housenumber": "238 C",
+      "addr:postcode": "48604-534",
+      "addr:street": "Rua Salinas",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2447367,-9.3744835]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356567",
+      "addr:housenumber": "113",
+      "addr:postcode": "48604-560",
+      "addr:street": "Rua Cruzeiro do Sul",
+      "addr:suburb": "Moxotó Bahia",
+      "addr:unit": "Casa A",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2389717,-9.3748028]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356498",
+      "addr:housenumber": "150",
+      "addr:postcode": "48604-560",
+      "addr:street": "Rua Cruzeiro do Sul",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2445738,-9.3729557]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356610",
+      "addr:housenumber": "94",
+      "addr:postcode": "48604-560",
+      "addr:street": "Rua Cruzeiro do Sul",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2393354,-9.3737786]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356518",
+      "addr:housenumber": "169",
+      "addr:postcode": "48604-544",
+      "addr:street": "Rua Divinópolis",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2413195,-9.3738721]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191731256",
+      "addr:housenumber": "23",
+      "addr:postcode": "48604-544",
+      "addr:street": "Rua Divinópolis",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2399918,-9.374295]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356519",
+      "addr:housenumber": "168",
+      "addr:postcode": "48604-544",
+      "addr:street": "Rua Divinópolis",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2415869,-9.3738969]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356458",
+      "addr:housenumber": "249",
+      "addr:postcode": "48604-534",
+      "addr:street": "Rua Salinas",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2431321,-9.3744233]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356569",
+      "addr:housenumber": "111 A",
+      "addr:postcode": "48604-560",
+      "addr:street": "Rua Cruzeiro do Sul",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.238938,-9.3751132]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356476",
+      "addr:housenumber": "234",
+      "addr:postcode": "48604-544",
+      "addr:street": "Rua Divinópolis",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.24443,-9.3737289]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356562",
+      "addr:housenumber": "117",
+      "addr:postcode": "48604-560",
+      "addr:street": "Rua Cruzeiro do Sul",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2392591,-9.3741473]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356456",
+      "addr:housenumber": "251",
+      "addr:postcode": "48604-534",
+      "addr:street": "Rua Salinas",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2428628,-9.3745827]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356652",
+      "addr:housenumber": "34",
+      "addr:postcode": "48604-564",
+      "addr:street": "Rua Nossa Senhora Aparecida",
+      "addr:suburb": "Moxotó Bahia",
+      "addr:unit": "Casa A",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2422765,-9.3724239]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356413",
+      "addr:housenumber": "200",
+      "addr:postcode": "48604-548",
+      "addr:street": "Rua Diamantina",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2407707,-9.3741064]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356625",
+      "addr:housenumber": "27",
+      "addr:postcode": "48604-564",
+      "addr:street": "Rua Nossa Senhora Aparecida",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2401456,-9.3725275]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356603",
+      "addr:housenumber": "87",
+      "addr:postcode": "48604-560",
+      "addr:street": "Rua Cruzeiro do Sul",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2403235,-9.3731474]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356641",
+      "addr:housenumber": "72",
+      "addr:postcode": "48604-560",
+      "addr:street": "Rua Cruzeiro do Sul",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.243444,-9.3728004]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356669",
+      "addr:housenumber": "68",
+      "addr:postcode": "48604-560",
+      "addr:street": "Rua Cruzeiro do Sul",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2442214,-9.3727711]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191730921",
+      "addr:housenumber": "198",
+      "addr:postcode": "48604-552",
+      "addr:street": "Rua Pirapora",
+      "addr:suburb": "Moxotó Bahia",
+      "addr:unit": "Fundos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2403199,-9.3744395]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191730975",
+      "addr:housenumber": "192",
+      "addr:postcode": "48604-552",
+      "addr:street": "Rua Pirapora",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2405717,-9.3755273]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356487",
+      "addr:housenumber": "224",
+      "addr:postcode": "48604-544",
+      "addr:street": "Rua Divinópolis",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2428023,-9.3739456]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356576",
+      "addr:housenumber": "105",
+      "addr:postcode": "48604-560",
+      "addr:street": "Rua Cruzeiro do Sul",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2387713,-9.3755629]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191731194",
+      "addr:housenumber": "1",
+      "addr:postcode": "48604-570",
+      "addr:street": "Rua Itaúna",
+      "addr:suburb": "Moxotó Bahia",
+      "amenity": "restaurant",
+      "building": "yes",
+      "name": "Andrea Restaurante Beer"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2426898,-9.3733308]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356648",
+      "addr:housenumber": "38",
+      "addr:postcode": "48604-564",
+      "addr:street": "Rua Nossa Senhora Aparecida",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2427353,-9.3722832]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356597",
+      "addr:housenumber": "3",
+      "addr:postcode": "48604-564",
+      "addr:street": "Rua Nossa Senhora Aparecida",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2381331,-9.3756908]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356637",
+      "addr:housenumber": "76",
+      "addr:postcode": "48604-560",
+      "addr:street": "Rua Cruzeiro do Sul",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2427522,-9.3729536]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356446",
+      "addr:housenumber": "220",
+      "addr:postcode": "48604-540",
+      "addr:street": "Rua Caraíbas",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2421833,-9.3743337]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191731400",
+      "addr:housenumber": "72 A",
+      "addr:postcode": "48604-560",
+      "addr:street": "Rua Cruzeiro do Sul",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2433732,-9.3728084]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356486",
+      "addr:housenumber": "223",
+      "addr:postcode": "48604-544",
+      "addr:street": "Rua Divinópolis",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.242647,-9.3739889]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356520",
+      "addr:housenumber": "167",
+      "addr:postcode": "48604-544",
+      "addr:street": "Rua Divinópolis",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2417302,-9.3739101]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356495",
+      "addr:housenumber": "155",
+      "addr:postcode": "48604-544",
+      "addr:street": "Rua Divinópolis",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.243919,-9.373534]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356613",
+      "addr:housenumber": "15",
+      "addr:postcode": "48604-564",
+      "addr:street": "Rua Nossa Senhora Aparecida",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.238604,-9.3736507]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356420",
+      "addr:housenumber": "233 C",
+      "addr:postcode": "48604-544",
+      "addr:street": "Rua Divinópolis",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2442444,-9.3737054]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356481",
+      "addr:housenumber": "231 A",
+      "addr:postcode": "48604-544",
+      "addr:street": "Rua Divinópolis",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2439278,-9.3736811]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356517",
+      "addr:housenumber": "170",
+      "addr:postcode": "48604-544",
+      "addr:street": "Rua Divinópolis",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2411146,-9.3738545]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356650",
+      "addr:housenumber": "36",
+      "addr:postcode": "48604-564",
+      "addr:street": "Rua Nossa Senhora Aparecida",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2424653,-9.3723626]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191731458",
+      "addr:housenumber": "63",
+      "addr:postcode": "48604-564",
+      "addr:street": "Rua Nossa Senhora Aparecida",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.245912,-9.3729727]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356578",
+      "addr:housenumber": "103",
+      "addr:postcode": "48604-560",
+      "addr:street": "Rua Cruzeiro do Sul",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2387955,-9.3752602]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356633",
+      "addr:housenumber": "80",
+      "addr:postcode": "48604-560",
+      "addr:street": "Rua Cruzeiro do Sul",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2421833,-9.3730857]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356553",
+      "addr:housenumber": "185",
+      "addr:postcode": "48604-544",
+      "addr:street": "Rua Divinópolis",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2395583,-9.3751942]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191731063",
+      "addr:housenumber": "196",
+      "addr:postcode": "48604-564",
+      "addr:street": "Rua Nossa Senhora Aparecida",
+      "addr:suburb": "Moxotó Bahia",
+      "addr:unit": "Fundos",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0042P-2-6"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.240449,-9.374633]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356463",
+      "addr:housenumber": "245",
+      "addr:postcode": "48604-534",
+      "addr:street": "Rua Salinas",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2437662,-9.37427]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356686",
+      "addr:housenumber": "49",
+      "addr:postcode": "48604-564",
+      "addr:street": "Rua Nossa Senhora Aparecida",
+      "addr:suburb": "Moxotó Bahia",
+      "addr:unit": "Casa",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2445456,-9.3721571]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356646",
+      "addr:housenumber": "40",
+      "addr:postcode": "48604-564",
+      "addr:street": "Rua Nossa Senhora Aparecida",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2430664,-9.3721935]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191730994",
+      "addr:housenumber": "199",
+      "addr:postcode": "48604-552",
+      "addr:street": "Rua Pirapora",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2401307,-9.374286]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356676",
+      "addr:housenumber": "54",
+      "addr:postcode": "48604-564",
+      "addr:street": "Rua Nossa Senhora Aparecida",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2453768,-9.3723335]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356631",
+      "addr:housenumber": "82",
+      "addr:postcode": "48604-560",
+      "addr:street": "Rua Cruzeiro do Sul",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2418847,-9.3731199]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356589",
+      "addr:housenumber": "11",
+      "addr:postcode": "48604-564",
+      "addr:street": "Rua Nossa Senhora Aparecida",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2382598,-9.3743542]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356619",
+      "addr:housenumber": "21",
+      "addr:postcode": "48604-564",
+      "addr:street": "Rua Nossa Senhora Aparecida",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2392465,-9.372976]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356654",
+      "addr:housenumber": "33",
+      "addr:postcode": "48604-564",
+      "addr:street": "Rua Nossa Senhora Aparecida",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2419594,-9.3724921]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356629",
+      "addr:housenumber": "83",
+      "addr:postcode": "48604-560",
+      "addr:street": "Rua Cruzeiro do Sul",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2416896,-9.3731202]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356492",
+      "addr:housenumber": "158",
+      "addr:postcode": "48604-544",
+      "addr:street": "Rua Divinópolis",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2429484,-9.3737302]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356673",
+      "addr:housenumber": "45",
+      "addr:postcode": "48604-564",
+      "addr:street": "Rua Nossa Senhora Aparecida",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2439715,-9.3721262]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356607",
+      "addr:housenumber": "91",
+      "addr:postcode": "48604-560",
+      "addr:street": "Rua Cruzeiro do Sul",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2396885,-9.3734411]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356655",
+      "addr:housenumber": "32",
+      "addr:postcode": "48604-564",
+      "addr:street": "Rua Nossa Senhora Aparecida",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2418773,-9.3725038]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191731023",
+      "addr:housenumber": "261",
+      "addr:postcode": "48604-534",
+      "addr:street": "Rua Salinas",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2416876,-9.3756506]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356624",
+      "addr:housenumber": "26",
+      "addr:postcode": "48604-564",
+      "addr:street": "Rua Nossa Senhora Aparecida",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2400227,-9.3725704]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356623",
+      "addr:housenumber": "25",
+      "addr:postcode": "48604-564",
+      "addr:street": "Rua Nossa Senhora Aparecida",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2398634,-9.372626]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191731477",
+      "addr:housenumber": "1 A",
+      "addr:postcode": "48604-564",
+      "addr:street": "Rua Nossa Senhora Aparecida",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2449241,-9.3722065]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191731259",
+      "addr:housenumber": "184 A",
+      "addr:postcode": "48604-544",
+      "addr:street": "Rua Divinópolis",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2395631,-9.3750036]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356471",
+      "addr:housenumber": "240",
+      "addr:postcode": "48604-534",
+      "addr:street": "Rua Salinas",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2445948,-9.3743898]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191731479",
+      "addr:housenumber": "50",
+      "addr:postcode": "48604-564",
+      "addr:street": "Rua Nossa Senhora Aparecida",
+      "addr:suburb": "Moxotó Bahia",
+      "addr:unit": "2",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2447786,-9.3721874]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356510",
+      "addr:housenumber": "177",
+      "addr:postcode": "48604-544",
+      "addr:street": "Rua Divinópolis",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2401445,-9.3740296]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356612",
+      "addr:housenumber": "96",
+      "addr:postcode": "48604-560",
+      "addr:street": "Rua Cruzeiro do Sul",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2391554,-9.3740063]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356485",
+      "addr:housenumber": "225",
+      "addr:postcode": "48604-544",
+      "addr:street": "Rua Divinópolis",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2429734,-9.3738861]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356593",
+      "addr:housenumber": "7",
+      "addr:postcode": "48604-564",
+      "addr:street": "Rua Nossa Senhora Aparecida",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2381207,-9.3750303]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356493",
+      "addr:housenumber": "157",
+      "addr:postcode": "48604-544",
+      "addr:street": "Rua Divinópolis",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2434751,-9.3735903]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356680;27356682;27356687-27356688;27356690",
+      "addr:housenumber": "50",
+      "addr:postcode": "48604-564",
+      "addr:street": "Rua Nossa Senhora Aparecida",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2448033,-9.3721906]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356525",
+      "addr:housenumber": "162",
+      "addr:postcode": "48604-544",
+      "addr:street": "Rua Divinópolis",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2425724,-9.3738172]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356488",
+      "addr:housenumber": "237",
+      "addr:postcode": "48604-544",
+      "addr:street": "Rua Divinópolis",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2447566,-9.3737791]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356431",
+      "addr:housenumber": "238 A",
+      "addr:postcode": "48604-534",
+      "addr:street": "Rua Salinas",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2449201,-9.3745459]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356514",
+      "addr:housenumber": "173",
+      "addr:postcode": "48604-544",
+      "addr:street": "Rua Divinópolis",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2406692,-9.3738909]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191731475",
+      "addr:housenumber": "22",
+      "addr:postcode": "48604-564",
+      "addr:street": "Rua Nossa Senhora Aparecida",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2452253,-9.3722892]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356681",
+      "addr:housenumber": "50",
+      "addr:postcode": "48604-564",
+      "addr:street": "Rua Nossa Senhora Aparecida",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2447606,-9.3721851]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356651",
+      "addr:housenumber": "35",
+      "addr:postcode": "48604-564",
+      "addr:street": "Rua Nossa Senhora Aparecida",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2423439,-9.3724018]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356645",
+      "addr:housenumber": "41",
+      "addr:postcode": "48604-564",
+      "addr:street": "Rua Nossa Senhora Aparecida",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2432881,-9.3721778]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356474",
+      "addr:housenumber": "238",
+      "addr:postcode": "48604-544",
+      "addr:street": "Rua Divinópolis",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2448971,-9.3738902]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356590",
+      "addr:housenumber": "10",
+      "addr:postcode": "48604-564",
+      "addr:street": "Rua Nossa Senhora Aparecida",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2381821,-9.3746541]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356630",
+      "addr:housenumber": "83 A",
+      "addr:postcode": "48604-560",
+      "addr:street": "Rua Cruzeiro do Sul",
+      "addr:suburb": "Moxotó Bahia",
+      "addr:unit": "Fundos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.241557,-9.3730588]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356656",
+      "addr:housenumber": "31",
+      "addr:postcode": "48604-564",
+      "addr:street": "Rua Nossa Senhora Aparecida",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.24165,-9.3725023]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356647",
+      "addr:housenumber": "39",
+      "addr:postcode": "48604-564",
+      "addr:street": "Rua Nossa Senhora Aparecida",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2428963,-9.372239]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356664",
+      "addr:housenumber": "63",
+      "addr:postcode": "48604-560",
+      "addr:street": "Rua Cruzeiro do Sul",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2450022,-9.3728619]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356596",
+      "addr:housenumber": "4",
+      "addr:postcode": "48604-564",
+      "addr:street": "Rua Nossa Senhora Aparecida",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2381034,-9.3755072]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356644",
+      "addr:housenumber": "42",
+      "addr:postcode": "48604-564",
+      "addr:street": "Rua Nossa Senhora Aparecida",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2433207,-9.3721736]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356627",
+      "addr:housenumber": "29",
+      "addr:postcode": "48604-564",
+      "addr:street": "Rua Nossa Senhora Aparecida",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2404859,-9.3724708]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356412",
+      "addr:housenumber": "201",
+      "addr:postcode": "48604-548",
+      "addr:street": "Rua Diamantina",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2408117,-9.3743121]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356591",
+      "addr:housenumber": "9",
+      "addr:postcode": "48604-564",
+      "addr:street": "Rua Nossa Senhora Aparecida",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2381769,-9.3746803]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191731136",
+      "addr:housenumber": "154 A",
+      "addr:postcode": "48604-544",
+      "addr:street": "Rua Divinópolis",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2438856,-9.3735362]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356551",
+      "addr:housenumber": "183",
+      "addr:postcode": "48604-544",
+      "addr:street": "Rua Divinópolis",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2395889,-9.374906]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356679",
+      "addr:housenumber": "51",
+      "addr:postcode": "48604-564",
+      "addr:street": "Rua Nossa Senhora Aparecida",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2449582,-9.3722156]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356628",
+      "addr:housenumber": "30",
+      "addr:postcode": "48604-564",
+      "addr:street": "Rua Nossa Senhora Aparecida",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.240611,-9.3724761]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356626",
+      "addr:housenumber": "28",
+      "addr:postcode": "48604-564",
+      "addr:street": "Rua Nossa Senhora Aparecida",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2403679,-9.3724724]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191731377",
+      "addr:housenumber": "21 A",
+      "addr:postcode": "48604-564",
+      "addr:street": "Rua Nossa Senhora Aparecida",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2393311,-9.3729233]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356559",
+      "addr:housenumber": "120 A",
+      "addr:postcode": "48604-556",
+      "addr:street": "Rua Valparaíso",
+      "addr:suburb": "Moxotó Bahia",
+      "addr:unit": "Fundos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2396742,-9.3739022]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356410",
+      "addr:housenumber": "205",
+      "addr:postcode": "48604-548",
+      "addr:street": "Rua Diamantina",
+      "addr:suburb": "Moxotó Bahia",
+      "addr:unit": "Casa 26",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2409656,-9.3749048]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356451",
+      "addr:housenumber": "215",
+      "addr:postcode": "48604-540",
+      "addr:street": "Rua Caraíbas",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2419961,-9.3744791]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356638",
+      "addr:housenumber": "75",
+      "addr:postcode": "48604-560",
+      "addr:street": "Rua Cruzeiro do Sul",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2429677,-9.3729001]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191731045",
+      "addr:housenumber": "7",
+      "addr:postcode": "48604-540",
+      "addr:street": "Rua Caraíbas",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2417363,-9.3747634]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191731048",
+      "addr:housenumber": "213 A",
+      "addr:postcode": "48604-540",
+      "addr:street": "Rua Caraíbas",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2413637,-9.375333]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356478",
+      "addr:housenumber": "232",
+      "addr:postcode": "48604-544",
+      "addr:street": "Rua Divinópolis",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2440073,-9.3736839]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191731446",
+      "addr:housenumber": "68 A",
+      "addr:postcode": "48604-560",
+      "addr:street": "Rua Cruzeiro do Sul",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2442475,-9.3727728]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356598",
+      "addr:housenumber": "2",
+      "addr:postcode": "48604-564",
+      "addr:street": "Rua Nossa Senhora Aparecida",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2381703,-9.375865]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356579",
+      "addr:housenumber": "102",
+      "addr:postcode": "48604-560",
+      "addr:street": "Rua Cruzeiro do Sul",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2387837,-9.3750109]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356659",
+      "addr:housenumber": "58 A",
+      "addr:postcode": "48604-560",
+      "addr:street": "Rua Cruzeiro do Sul",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2457421,-9.3731367]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191730990",
+      "addr:housenumber": "208",
+      "addr:postcode": "48604-548",
+      "addr:street": "Rua Diamantina",
+      "addr:suburb": "Moxotó Bahia",
+      "addr:unit": "Fundos",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "name": "Negócio",
+      "note": "Sem face no bayface do IBGE 0500-0042P-1-13"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.240917,-9.375265]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191731453",
+      "addr:housenumber": "58 B",
+      "addr:postcode": "48604-560",
+      "addr:street": "Rua Cruzeiro do Sul",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2457125,-9.3731221]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356403",
+      "addr:housenumber": "212",
+      "addr:postcode": "48604-548",
+      "addr:street": "Rua Diamantina",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2414032,-9.3758034]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356522",
+      "addr:housenumber": "165",
+      "addr:postcode": "48604-544",
+      "addr:street": "Rua Divinópolis",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2421437,-9.3738848]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356552",
+      "addr:housenumber": "184",
+      "addr:postcode": "48604-544",
+      "addr:street": "Rua Divinópolis",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2395556,-9.3751128]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191731292",
+      "addr:housenumber": "112 C",
+      "addr:postcode": "48604-560",
+      "addr:street": "Rua Cruzeiro do Sul",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2389496,-9.3749132]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356467",
+      "addr:housenumber": "243 B",
+      "addr:postcode": "48604-534",
+      "addr:street": "Rua Salinas",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2441202,-9.37427]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356513",
+      "addr:housenumber": "174",
+      "addr:postcode": "48604-544",
+      "addr:street": "Rua Divinópolis",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2406834,-9.3738745]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356580",
+      "addr:housenumber": "101",
+      "addr:postcode": "48604-560",
+      "addr:street": "Rua Cruzeiro do Sul",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.238795,-9.3748578]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356665",
+      "addr:housenumber": "64",
+      "addr:postcode": "48604-560",
+      "addr:street": "Rua Cruzeiro do Sul",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2449553,-9.3728508]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356508",
+      "addr:housenumber": "140",
+      "addr:postcode": "48604-560",
+      "addr:street": "Rua Cruzeiro do Sul",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2430178,-9.3730463]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356532",
+      "addr:housenumber": "137 A",
+      "addr:postcode": "48604-560",
+      "addr:street": "Rua Cruzeiro do Sul",
+      "addr:suburb": "Moxotó Bahia",
+      "addr:unit": "Lado",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2424241,-9.3732058]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356548",
+      "addr:housenumber": "180",
+      "addr:postcode": "48604-544",
+      "addr:street": "Rua Divinópolis",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2396946,-9.3745871]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356533",
+      "addr:housenumber": "5",
+      "addr:postcode": "48604-560",
+      "addr:street": "Rua Cruzeiro do Sul",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2421158,-9.3732523]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356632",
+      "addr:housenumber": "81",
+      "addr:postcode": "48604-560",
+      "addr:street": "Rua Cruzeiro do Sul",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2420685,-9.3731017]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356601",
+      "addr:housenumber": "85",
+      "addr:postcode": "48604-560",
+      "addr:street": "Rua Cruzeiro do Sul",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2407004,-9.3730763]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191730980",
+      "addr:housenumber": "191",
+      "addr:postcode": "48604-552",
+      "addr:street": "Rua Pirapora",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2405392,-9.37546]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356461",
+      "addr:housenumber": "247",
+      "addr:postcode": "48604-534",
+      "addr:street": "Rua Salinas",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2434311,-9.3743232]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356531",
+      "addr:housenumber": "133",
+      "addr:postcode": "48604-560",
+      "addr:street": "Rua Cruzeiro do Sul",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.241704,-9.3732731]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356459",
+      "addr:housenumber": "248",
+      "addr:postcode": "48604-534",
+      "addr:street": "Rua Salinas",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2431931,-9.3743971]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356425",
+      "addr:housenumber": "3",
+      "addr:postcode": "48604-536",
+      "addr:street": "Rua Ouro Preto",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2427639,-9.3745306]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356565",
+      "addr:housenumber": "114",
+      "addr:postcode": "48604-560",
+      "addr:street": "Rua Cruzeiro do Sul",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2390667,-9.3745003]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191731204",
+      "addr:housenumber": "161 A",
+      "addr:postcode": "48604-570",
+      "addr:street": "Rua Itaúna",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes",
+      "name": "Moda By Patrícia",
+      "shop": "clothes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2427542,-9.3735138]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191730932",
+      "addr:housenumber": "199",
+      "addr:postcode": "48604-552",
+      "addr:street": "Rua Pirapora",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2402505,-9.3743394]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356480",
+      "addr:housenumber": "231",
+      "addr:postcode": "48604-544",
+      "addr:street": "Rua Divinópolis",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2438987,-9.3736851]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356432",
+      "addr:housenumber": "241 C",
+      "addr:postcode": "48604-534",
+      "addr:street": "Rua Salinas",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2444885,-9.3743625]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356483",
+      "addr:housenumber": "227",
+      "addr:postcode": "48604-544",
+      "addr:street": "Rua Divinópolis",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2432591,-9.3737975]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356422",
+      "addr:housenumber": "225 A",
+      "addr:postcode": "48604-544",
+      "addr:street": "Rua Divinópolis",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2430798,-9.37385]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356460",
+      "addr:housenumber": "247",
+      "addr:postcode": "48604-534",
+      "addr:street": "Rua Salinas",
+      "addr:suburb": "Moxotó Bahia",
+      "addr:unit": "Casa A",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2434437,-9.3743209]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356504",
+      "addr:housenumber": "144",
+      "addr:postcode": "48604-560",
+      "addr:street": "Rua Cruzeiro do Sul",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.243637,-9.3729269]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356611",
+      "addr:housenumber": "95",
+      "addr:postcode": "48604-560",
+      "addr:street": "Rua Cruzeiro do Sul",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2392866,-9.3738404]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356490",
+      "addr:housenumber": "160",
+      "addr:postcode": "48604-544",
+      "addr:street": "Rua Divinópolis",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.243102,-9.3736757]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191731158",
+      "addr:housenumber": "139 A",
+      "addr:postcode": "48604-560",
+      "addr:street": "Rua Cruzeiro do Sul",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2428059,-9.3730998]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356521",
+      "addr:housenumber": "166",
+      "addr:postcode": "48604-544",
+      "addr:street": "Rua Divinópolis",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2419126,-9.3739073]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356500",
+      "addr:housenumber": "148",
+      "addr:postcode": "48604-560",
+      "addr:street": "Rua Cruzeiro do Sul",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.244288,-9.3729258]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356571",
+      "addr:housenumber": "109",
+      "addr:postcode": "48604-560",
+      "addr:street": "Rua Cruzeiro do Sul",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2389233,-9.3754106]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191731396",
+      "addr:housenumber": "77 A",
+      "addr:postcode": "48604-560",
+      "addr:street": "Rua Cruzeiro do Sul",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2425861,-9.3730083]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356475",
+      "addr:housenumber": "235",
+      "addr:postcode": "48604-544",
+      "addr:street": "Rua Divinópolis",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2443942,-9.3737247]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356440",
+      "addr:housenumber": "255",
+      "addr:postcode": "48604-534",
+      "addr:street": "Rua Salinas",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2422774,-9.3749836]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191730926",
+      "addr:housenumber": "197",
+      "addr:postcode": "48604-552",
+      "addr:street": "Rua Pirapora",
+      "addr:suburb": "Moxotó Bahia",
+      "addr:unit": "Fundos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2403459,-9.3746013]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356479",
+      "addr:housenumber": "231",
+      "addr:postcode": "48604-544",
+      "addr:street": "Rua Divinópolis",
+      "addr:suburb": "Moxotó Bahia",
+      "addr:unit": "Casa B",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2438402,-9.3736931]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356534",
+      "addr:housenumber": "132",
+      "addr:postcode": "48604-560",
+      "addr:street": "Rua Cruzeiro do Sul",
+      "addr:suburb": "Moxotó Bahia",
+      "amenity": "community_centre",
+      "building": "civic",
+      "name": "Casa da Comunidade"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2414206,-9.373256]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356511",
+      "addr:housenumber": "176",
+      "addr:postcode": "48604-544",
+      "addr:street": "Rua Divinópolis",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2402799,-9.3739676]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356535",
+      "addr:housenumber": "10",
+      "addr:postcode": "48604-560",
+      "addr:street": "Rua Cruzeiro do Sul",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.241513,-9.3732642]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191730985",
+      "addr:housenumber": "190",
+      "addr:postcode": "48604-552",
+      "addr:street": "Rua Pirapora",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2407021,-9.3757959]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356416",
+      "addr:housenumber": "202",
+      "addr:postcode": "48604-548",
+      "addr:street": "Rua Diamantina",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2408395,-9.3744242]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356462",
+      "addr:housenumber": "246",
+      "addr:postcode": "48604-534",
+      "addr:street": "Rua Salinas",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2435348,-9.3743025]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356421",
+      "addr:housenumber": "233 B",
+      "addr:postcode": "48604-544",
+      "addr:street": "Rua Divinópolis",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2441648,-9.3736952]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356599",
+      "addr:housenumber": "1",
+      "addr:postcode": "48604-564",
+      "addr:street": "Rua Nossa Senhora Aparecida",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2382023,-9.3759776]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356587",
+      "addr:housenumber": "13",
+      "addr:postcode": "48604-564",
+      "addr:street": "Rua Nossa Senhora Aparecida",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2384153,-9.3739747]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356427",
+      "addr:housenumber": "2",
+      "addr:postcode": "48604-534",
+      "addr:street": "Rua Salinas",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2430761,-9.3744472]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191731358",
+      "addr:housenumber": "84 A",
+      "addr:postcode": "48604-560",
+      "addr:street": "Rua Cruzeiro do Sul",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2407834,-9.3730695]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356561",
+      "addr:housenumber": "118",
+      "addr:postcode": "48604-560",
+      "addr:street": "Rua Cruzeiro do Sul",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2393361,-9.3740416]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356542",
+      "addr:housenumber": "124",
+      "addr:postcode": "48604-560",
+      "addr:street": "Rua Cruzeiro do Sul",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2402159,-9.3733558]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356515",
+      "addr:housenumber": "172",
+      "addr:postcode": "48604-544",
+      "addr:street": "Rua Divinópolis",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2409503,-9.3738562]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356414",
+      "addr:housenumber": "213",
+      "addr:postcode": "48604-548",
+      "addr:street": "Rua Diamantina",
+      "addr:suburb": "Moxotó Bahia",
+      "addr:unit": "Casa",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2414006,-9.375799]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356568",
+      "addr:housenumber": "112",
+      "addr:postcode": "48604-560",
+      "addr:street": "Rua Cruzeiro do Sul",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.238946,-9.3749736]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356640",
+      "addr:housenumber": "73",
+      "addr:postcode": "48604-560",
+      "addr:street": "Rua Cruzeiro do Sul",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2432726,-9.3728314]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191731204",
+      "addr:housenumber": "161 A",
+      "addr:postcode": "48604-570",
+      "addr:street": "Rua Itaúna",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.242746500182,-9.3735153613881]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356447",
+      "addr:housenumber": "219",
+      "addr:postcode": "48604-540",
+      "addr:street": "Rua Caraíbas",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2420071,-9.3744695]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356554",
+      "addr:housenumber": "186",
+      "addr:postcode": "48604-544",
+      "addr:street": "Rua Divinópolis",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2395603,-9.3752548]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191731404",
+      "addr:housenumber": "83 B",
+      "addr:postcode": "48604-560",
+      "addr:street": "Rua Cruzeiro do Sul",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2415273,-9.3731111]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356577",
+      "addr:housenumber": "104",
+      "addr:postcode": "48604-560",
+      "addr:street": "Rua Cruzeiro do Sul",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2387409,-9.375319]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356547",
+      "addr:housenumber": "179",
+      "addr:postcode": "48604-544",
+      "addr:street": "Rua Divinópolis",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2398756,-9.3743363]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356572",
+      "addr:housenumber": "108",
+      "addr:postcode": "48604-560",
+      "addr:street": "Rua Cruzeiro do Sul",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes",
+      "healthcare": "yes",
+      "name": "Posto PSF"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2389364,-9.3755427]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356501",
+      "addr:housenumber": "147",
+      "addr:postcode": "48604-560",
+      "addr:street": "Rua Cruzeiro do Sul",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2441026,-9.3729155]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191730953",
+      "addr:housenumber": "297",
+      "addr:postcode": "48604-552",
+      "addr:street": "Rua Pirapora",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2402955,-9.374629]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191731455",
+      "addr:housenumber": "17",
+      "addr:postcode": "48604-560",
+      "addr:street": "Rua Cruzeiro do Sul",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2457484,-9.3731402]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191731286",
+      "addr:housenumber": "111 B",
+      "addr:postcode": "48604-560",
+      "addr:street": "Rua Cruzeiro do Sul",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2389431,-9.3750255]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356464",
+      "addr:housenumber": "244",
+      "addr:postcode": "48604-534",
+      "addr:street": "Rua Salinas",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2438832,-9.3742671]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356662",
+      "addr:housenumber": "61",
+      "addr:postcode": "48604-560",
+      "addr:street": "Rua Cruzeiro do Sul",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.245383,-9.3729765]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27356429",
+      "addr:housenumber": "61",
+      "addr:postcode": "48604-534",
+      "addr:street": "Rua Salinas",
+      "addr:suburb": "Moxotó Bahia",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2434796,-9.3743136]
+      }
+    }
+  ]
+}

@@ -1,0 +1,279 @@
+{
+  "type": "FeatureCollection",
+  "source": "IBGE CNEFE + Faces de Logradouros - 2022",
+  "generator": "CSV-CNEFE2GeoJSON.lua 1.5.7 - fidelis.assis@gmail.com",
+  "date": "2025-02-02T09:05:13-0300",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414485",
+      "addr:housenumber": "1",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Caiçara I",
+      "addr:suburb": "Caiçara 1",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0119P-0-67"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.282866,-9.443096]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414520",
+      "addr:housenumber": "60 B",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Caiçara I",
+      "addr:suburb": "Caiçara 1",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0119P-0-67"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.283439,-9.44243]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414521",
+      "addr:housenumber": "130",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Caiçara I",
+      "addr:suburb": "Caiçara 1",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0119P-0-67"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.283633,-9.44242]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414484",
+      "addr:housenumber": "2",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Caiçara I",
+      "addr:suburb": "Caiçara 1",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0119P-0-67"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.282559,-9.443142]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414522",
+      "addr:housenumber": "73",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Caiçara I",
+      "addr:suburb": "Caiçara 1",
+      "addr:unit": "Fundos Sítio",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0119P-0-67"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.284674,-9.441213]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414486",
+      "addr:housenumber": "137",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Caiçara I",
+      "addr:suburb": "Caiçara 1",
+      "addr:unit": "Fundos Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0119P-0-67"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.282427,-9.443177]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414489",
+      "addr:housenumber": "90",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Caiçara I",
+      "addr:suburb": "Caiçara 1",
+      "addr:unit": "Fundos Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0119P-0-67"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.282704,-9.441328]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414487",
+      "addr:housenumber": "126",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Caiçara I",
+      "addr:suburb": "Caiçara 1",
+      "amenity": "pub",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "name": "Bar do Nego",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0119P-0-67"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.283139,-9.441309]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414523",
+      "addr:housenumber": "74",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Caiçara I",
+      "addr:suburb": "Caiçara 1",
+      "addr:unit": "Fundos Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0119P-0-67"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.283986,-9.441097]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414488",
+      "addr:housenumber": "127 B",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Caiçara I",
+      "addr:suburb": "Caiçara 1",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0119P-0-67"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.283081,-9.441364]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414519",
+      "addr:housenumber": "3",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Caiçara I",
+      "addr:suburb": "Caiçara 1",
+      "addr:unit": "Fundos Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0119P-0-67"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.283398,-9.442885]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414491",
+      "addr:housenumber": "122",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Caiçara I",
+      "addr:suburb": "Caiçara 1",
+      "addr:unit": "Fundos Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0119P-0-67"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.282512,-9.440963]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414483",
+      "addr:housenumber": "3",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Caiçara I",
+      "addr:suburb": "Caiçara 1",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0119P-0-67"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.282921,-9.442976]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414490",
+      "addr:housenumber": "123",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Caiçara I",
+      "addr:suburb": "Caiçara 1",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0119P-0-67"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.282096,-9.441063]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414482",
+      "addr:housenumber": "133",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Caiçara I",
+      "addr:suburb": "Caiçara 1",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0119P-0-67"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.282791,-9.443126]
+      }
+    }
+  ]
+}

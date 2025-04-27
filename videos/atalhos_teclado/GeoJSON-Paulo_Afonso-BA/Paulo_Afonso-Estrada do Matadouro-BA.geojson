@@ -1,0 +1,269 @@
+{
+  "type": "FeatureCollection",
+  "generator": "CSV-CNEFE2GeoJSON.lua 1.5.7 - fidelis.assis@gmail.com",
+  "source": "IBGE CNEFE + Faces de Logradouros - 2022",
+  "date": "2025-02-02T09:05:24-0300",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422063",
+      "addr:housenumber": "25 B",
+      "addr:postcode": "48610-400",
+      "addr:street": "Caminho Motel A Usina de Reciclagem",
+      "addr:suburb": "Estrada do Matadouro",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0191P-16-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.254055,-9.37923]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191743094",
+      "addr:housenumber": "1",
+      "addr:postcode": "48610-488",
+      "addr:street": "Estrada do Matadouro",
+      "addr:suburb": "Estrada do Matadouro",
+      "fixme": "Confirmar nome;Verificar coordenadas",
+      "landuse": "farmyard;orchard",
+      "name": "Chácara sem Denominação",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0192P-15-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.257021,-9.37581]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422056",
+      "addr:housenumber": "20",
+      "addr:postcode": "48610-400",
+      "addr:street": "Caminho Motel A Usina de Reciclagem",
+      "addr:suburb": "Estrada do Matadouro",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0191P-16-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.25345,-9.377818]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422100",
+      "addr:housenumber": "214",
+      "addr:postcode": "48604-710",
+      "addr:street": "Estrada do Matadouro",
+      "addr:suburb": "Estrada do Matadouro",
+      "fixme": "Verificar coordenadas",
+      "industrial": "slaughterhouse",
+      "landuse": "industrial",
+      "name": "Abatedouro Municipal",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0192P-14-4"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.25101,-9.371497]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422070",
+      "addr:housenumber": "60 C",
+      "addr:postcode": "48609-024",
+      "addr:street": "Caminho Motel A Usina de Reciclagem",
+      "addr:suburb": "Estrada do Matadouro",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0191P-11-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.254318,-9.379871]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191743034",
+      "addr:housenumber": "1",
+      "addr:postcode": "48610-488",
+      "addr:street": "Estrada do Matadouro",
+      "addr:suburb": "Estrada do Matadouro",
+      "fixme": "Verificar coordenadas",
+      "landuse": "farmyard;orchard",
+      "name": "Chácara Santo Antônio",
+      "note": "Sem face no bayface do IBGE 0500-0192P-13-18"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.254916,-9.376466]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422060",
+      "addr:housenumber": "31",
+      "addr:postcode": "48610-400",
+      "addr:street": "Caminho Motel A Usina de Reciclagem",
+      "addr:suburb": "Estrada do Matadouro",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0191P-16-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.253918,-9.378956]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422068",
+      "addr:housenumber": "30",
+      "addr:postcode": "48609-024",
+      "addr:street": "Caminho Motel A Usina de Reciclagem",
+      "addr:suburb": "Estrada do Matadouro",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0191P-11-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.254104,-9.379313]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422061",
+      "addr:housenumber": "30 C",
+      "addr:postcode": "48610-400",
+      "addr:street": "Caminho Motel A Usina de Reciclagem",
+      "addr:suburb": "Estrada do Matadouro",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0191P-16-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.254006,-9.379111]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191742693",
+      "addr:housenumber": "1",
+      "addr:postcode": "48610-488",
+      "addr:street": "Estrada do Matadouro",
+      "addr:suburb": "Estrada do Matadouro",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0192P-12-10"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.257223,-9.378775]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422059",
+      "addr:housenumber": "48",
+      "addr:postcode": "48610-400",
+      "addr:street": "Caminho Motel A Usina de Reciclagem",
+      "addr:suburb": "Estrada do Matadouro",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0191P-16-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.253893,-9.378856]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422069",
+      "addr:housenumber": "80 A",
+      "addr:postcode": "48609-024",
+      "addr:street": "Caminho Motel A Usina de Reciclagem",
+      "addr:suburb": "Estrada do Matadouro",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem face no bayface do IBGE 0500-0191P-11-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.254309,-9.380008]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422098",
+      "addr:housenumber": "200",
+      "addr:postcode": "48604-710",
+      "addr:street": "Estrada do Matadouro",
+      "addr:suburb": "Estrada do Matadouro",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "name": "Brascouros",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0192P-14-4"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.250027,-9.369365]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27422062",
+      "addr:housenumber": "33",
+      "addr:postcode": "48610-400",
+      "addr:street": "Caminho Motel A Usina de Reciclagem",
+      "addr:suburb": "Estrada do Matadouro",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0191P-16-3"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.254038,-9.379182]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191743092",
+      "addr:housenumber": "2",
+      "addr:postcode": "48610-488",
+      "addr:street": "Estrada do Matadouro",
+      "addr:suburb": "Estrada do Matadouro",
+      "fixme": "Confirmar nome;Verificar coordenadas",
+      "landuse": "farmyard;orchard",
+      "name": "Chácara sem Denominação",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0192P-14-5"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.255878,-9.376126]
+      }
+    }
+  ]
+}

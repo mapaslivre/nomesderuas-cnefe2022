@@ -1,0 +1,3223 @@
+{
+  "type": "FeatureCollection",
+  "generator": "CSV-CNEFE2GeoJSON.lua 1.5.7 - fidelis.assis@gmail.com",
+  "source": "IBGE CNEFE + Faces de Logradouros - 2022",
+  "date": "2025-02-02T09:05:29-0300",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305044",
+      "addr:housenumber": "84",
+      "addr:postcode": "48608-480",
+      "addr:street": "Rua Flamboyants",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2137558,-9.4012742]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305106",
+      "addr:housenumber": "135",
+      "addr:postcode": "48608-400",
+      "addr:street": "Rua Ilhéus",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2120797,-9.4027805]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305165",
+      "addr:housenumber": "116",
+      "addr:postcode": "48608-470",
+      "addr:street": "Rua das Mangueiras",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2107852,-9.4031361]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216632049",
+      "addr:housenumber": "239",
+      "addr:postcode": "48608-470",
+      "addr:street": "Rua das Mangueiras",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "addr:unit": "Casa B",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2099735,-9.4037242]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305151",
+      "addr:housenumber": "692",
+      "addr:postcode": "48608-240",
+      "addr:street": "Rua do Gangorra",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2114017,-9.4014658]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305042",
+      "addr:housenumber": "40",
+      "addr:postcode": "48608-480",
+      "addr:street": "Rua Flamboyants",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "addr:unit": "Casa B",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2136593,-9.4010768]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305068",
+      "addr:housenumber": "145",
+      "addr:postcode": "48608-480",
+      "addr:street": "Rua Flamboyants",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2137936,-9.4018916]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305133",
+      "addr:housenumber": "95 A",
+      "addr:postcode": "48608-450",
+      "addr:street": "Rua Teresina",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "addr:unit": "Térreo",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2115941,-9.4034204]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305194",
+      "addr:housenumber": "169 Frente",
+      "addr:postcode": "48608-560",
+      "addr:street": "Rua dos Prazeres",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2110229,-9.4041041]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305175",
+      "addr:housenumber": "296",
+      "addr:postcode": "48608-470",
+      "addr:street": "Rua das Mangueiras",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2095729,-9.4037627]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305089",
+      "addr:housenumber": "337 A",
+      "addr:postcode": "48608-171",
+      "addr:street": "Avenida Bahia",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2137666,-9.402288]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305157",
+      "addr:housenumber": "782",
+      "addr:postcode": "48608-240",
+      "addr:street": "Rua do Gangorra",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2106989,-9.4017904]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305161",
+      "addr:housenumber": "64",
+      "addr:postcode": "48608-470",
+      "addr:street": "Rua das Mangueiras",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2106179,-9.4026381]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305213",
+      "addr:housenumber": "1020",
+      "addr:postcode": "48608-240",
+      "addr:street": "Rua do Gangorra",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes",
+      "name": "Residência Estudantil do Vale São Francisco"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2095535,-9.4033779]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216632042",
+      "addr:housenumber": "133",
+      "addr:postcode": "48608-470",
+      "addr:street": "Rua das Mangueiras",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2106113,-9.4032966]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305150",
+      "addr:housenumber": "676",
+      "addr:postcode": "48608-240",
+      "addr:street": "Rua do Gangorra",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2115583,-9.4013946]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305048",
+      "addr:housenumber": "158",
+      "addr:postcode": "48608-480",
+      "addr:street": "Rua Flamboyants",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2140328,-9.4018407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305063",
+      "addr:housenumber": "81 AB",
+      "addr:postcode": "48608-550",
+      "addr:street": "Rua Esplanada",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2129989,-9.4021083]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305110",
+      "addr:housenumber": "71 Térreo",
+      "addr:postcode": "48608-400",
+      "addr:street": "Rua Ilhéus",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2122323,-9.4034588]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305176",
+      "addr:housenumber": "316",
+      "addr:postcode": "48608-470",
+      "addr:street": "Rua das Mangueiras",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.209503,-9.4036829]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305090",
+      "addr:housenumber": "337",
+      "addr:postcode": "48608-171",
+      "addr:street": "Avenida Bahia",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2136682,-9.4023594]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305217",
+      "addr:housenumber": "191",
+      "addr:postcode": "48608-470",
+      "addr:street": "Rua das Mangueiras",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2104368,-9.4035989]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216632030",
+      "addr:housenumber": "41",
+      "addr:postcode": "48608-560",
+      "addr:street": "Rua dos Prazeres",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2106055,-9.4041879]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305074",
+      "addr:housenumber": "104",
+      "addr:postcode": "48608-550",
+      "addr:street": "Rua Esplanada",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2130337,-9.4022652]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305223",
+      "addr:housenumber": "45",
+      "addr:postcode": "48608-470",
+      "addr:street": "Rua das Mangueiras",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2102894,-9.402475]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305206",
+      "addr:housenumber": "238",
+      "addr:postcode": "48608-500",
+      "addr:street": "Rua Petrolina",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2114637,-9.4021999]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216632027",
+      "addr:housenumber": "169 Casa Lado B",
+      "addr:postcode": "48608-560",
+      "addr:street": "Rua dos Prazeres",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.210965,-9.4041166]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305116",
+      "addr:housenumber": "70 Térreo",
+      "addr:postcode": "48608-440",
+      "addr:street": "Rua Juazeiro",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2125387,-9.4029596]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305131",
+      "addr:housenumber": "133",
+      "addr:postcode": "48608-450",
+      "addr:street": "Rua Teresina",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2115858,-9.4030467]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305115",
+      "addr:housenumber": "58",
+      "addr:postcode": "48608-440",
+      "addr:street": "Rua Juazeiro",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2126153,-9.4032328]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305065",
+      "addr:housenumber": "33",
+      "addr:postcode": "48608-550",
+      "addr:street": "Rua Esplanada",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2133446,-9.4019904]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305037",
+      "addr:housenumber": "418",
+      "addr:postcode": "48608-240",
+      "addr:street": "Rua do Gangorra",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2136195,-9.4004386]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305126",
+      "addr:housenumber": "190",
+      "addr:postcode": "48608-440",
+      "addr:street": "Rua Juazeiro",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2121325,-9.4020584]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305202",
+      "addr:housenumber": "164",
+      "addr:postcode": "48608-450",
+      "addr:street": "Rua Teresina",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2113329,-9.4027005]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305162",
+      "addr:housenumber": "64 C",
+      "addr:postcode": "48608-470",
+      "addr:street": "Rua das Mangueiras",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2106569,-9.4027123]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305136",
+      "addr:housenumber": "33",
+      "addr:postcode": "48608-560",
+      "addr:street": "Rua dos Prazeres",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2121783,-9.4039283]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305056",
+      "addr:housenumber": "8",
+      "addr:postcode": "48608-500",
+      "addr:street": "Rua Petrolina",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2134274,-9.4013789]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305199",
+      "addr:housenumber": "104",
+      "addr:postcode": "48608-450",
+      "addr:street": "Rua Teresina",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2114522,-9.4032754]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305174",
+      "addr:housenumber": "276",
+      "addr:postcode": "48608-470",
+      "addr:street": "Rua das Mangueiras",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2098293,-9.4039178]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305105",
+      "addr:housenumber": "155",
+      "addr:postcode": "48608-400",
+      "addr:street": "Rua Ilhéus",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2120503,-9.4026835]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305097",
+      "addr:housenumber": "161",
+      "addr:postcode": "48608-550",
+      "addr:street": "Rua Esplanada",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2126228,-9.4023667]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305031",
+      "addr:housenumber": "95 A",
+      "addr:postcode": "48608-530",
+      "addr:street": "Rua das Margaridas",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2141808,-9.4012559]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305140",
+      "addr:housenumber": "78",
+      "addr:postcode": "48608-400",
+      "addr:street": "Rua Ilhéus",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2121226,-9.4034651]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305045",
+      "addr:housenumber": "104",
+      "addr:postcode": "48608-480",
+      "addr:street": "Rua Flamboyants",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2138296,-9.4014251]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305032",
+      "addr:housenumber": "95",
+      "addr:postcode": "48608-530",
+      "addr:street": "Rua das Margaridas",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2141502,-9.4011993]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305020",
+      "addr:housenumber": "130",
+      "addr:postcode": "48608-530",
+      "addr:street": "Rua das Margaridas",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2144577,-9.4014218]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305087",
+      "addr:housenumber": "353",
+      "addr:postcode": "48608-171",
+      "addr:street": "Avenida Bahia",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2134758,-9.4024979]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305183",
+      "addr:housenumber": "337",
+      "addr:postcode": "48608-560",
+      "addr:street": "Rua dos Prazeres",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2095936,-9.404402]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305076",
+      "addr:housenumber": "142",
+      "addr:postcode": "48608-550",
+      "addr:street": "Rua Esplanada",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2126832,-9.4025135]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305046",
+      "addr:housenumber": "126",
+      "addr:postcode": "48608-480",
+      "addr:street": "Rua Flamboyants",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2139197,-9.4016095]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216631988",
+      "addr:housenumber": "15",
+      "addr:postcode": "48608-550",
+      "addr:street": "Rua Esplanada",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2126784,-9.4019849]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305203",
+      "addr:housenumber": "170",
+      "addr:postcode": "48608-450",
+      "addr:street": "Rua Teresina",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2112512,-9.4024932]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305184",
+      "addr:housenumber": "317",
+      "addr:postcode": "48608-560",
+      "addr:street": "Rua dos Prazeres",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2098285,-9.4044124]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305087",
+      "addr:housenumber": "353",
+      "addr:postcode": "48608-171",
+      "addr:street": "Avenida Bahia",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes",
+      "name": "Tattoo Osman Jr",
+      "shop": "tattoo"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.213475755832,-9.4024980616562]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216632044",
+      "addr:housenumber": "59",
+      "addr:postcode": "48608-470",
+      "addr:street": "Rua das Mangueiras",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "addr:unit": "Fundos A",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2103348,-9.4026779]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305212",
+      "addr:housenumber": "990",
+      "addr:postcode": "48608-240",
+      "addr:street": "Rua do Gangorra",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.209574,-9.4030712]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216632012",
+      "addr:housenumber": "61 Térreo",
+      "addr:postcode": "48608-400",
+      "addr:street": "Rua Ilhéus",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2123672,-9.4036005]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305055",
+      "addr:housenumber": "100",
+      "addr:postcode": "48608-480",
+      "addr:street": "Rua Flamboyants",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2136205,-9.401553]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305180",
+      "addr:housenumber": "389",
+      "addr:postcode": "48608-560",
+      "addr:street": "Rua dos Prazeres",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2092429,-9.4040958]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305047",
+      "addr:housenumber": "142",
+      "addr:postcode": "48608-480",
+      "addr:street": "Rua Flamboyants",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2139746,-9.4017216]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305026",
+      "addr:housenumber": "159",
+      "addr:postcode": "48608-530",
+      "addr:street": "Rua das Margaridas",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2144025,-9.4016753]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305145",
+      "addr:housenumber": "158",
+      "addr:postcode": "48608-400",
+      "addr:street": "Rua Ilhéus",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2118836,-9.4026707]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305064",
+      "addr:housenumber": "77",
+      "addr:postcode": "48608-550",
+      "addr:street": "Rua Esplanada",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "amenity": "school",
+      "building": "yes",
+      "name": "Nacional Pesquisa e Educação"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2131467,-9.4020577]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305019",
+      "addr:housenumber": "124",
+      "addr:postcode": "48608-530",
+      "addr:street": "Rua das Margaridas",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2144415,-9.4013962]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305113",
+      "addr:housenumber": "42",
+      "addr:postcode": "48608-440",
+      "addr:street": "Rua Juazeiro",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2126211,-9.4033093]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305188",
+      "addr:housenumber": "223",
+      "addr:postcode": "48608-560",
+      "addr:street": "Rua dos Prazeres",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2104598,-9.4042336]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305028",
+      "addr:housenumber": "137",
+      "addr:postcode": "48608-530",
+      "addr:street": "Rua das Margaridas",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.214304,-9.4014864]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305036",
+      "addr:housenumber": "39",
+      "addr:postcode": "48608-530",
+      "addr:street": "Rua das Margaridas",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2139453,-9.4008031]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305173",
+      "addr:housenumber": "256",
+      "addr:postcode": "48608-470",
+      "addr:street": "Rua das Mangueiras",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2099862,-9.4039477]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305029",
+      "addr:housenumber": "121",
+      "addr:postcode": "48608-530",
+      "addr:street": "Rua das Margaridas",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2142554,-9.4013937]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216632025",
+      "addr:housenumber": "18",
+      "addr:postcode": "48608-470",
+      "addr:street": "Rua das Mangueiras",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2104551,-9.4023046]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305109;27305111",
+      "addr:housenumber": "71",
+      "addr:postcode": "48608-400",
+      "addr:street": "Rua Ilhéus",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2123731,-9.4034443]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305023",
+      "addr:housenumber": "100",
+      "addr:postcode": "48608-530",
+      "addr:street": "Rua das Margaridas",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2142963,-9.4011427]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305220;216632051-216632054;216632056;216632058;216632060;216632062",
+      "addr:housenumber": "89",
+      "addr:postcode": "48608-470",
+      "addr:street": "Rua das Mangueiras",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2105093,-9.4028901]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216631936",
+      "addr:housenumber": "77",
+      "addr:postcode": "48608-500",
+      "addr:street": "Rua Petrolina",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2128898,-9.4016513]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305226",
+      "addr:housenumber": "15",
+      "addr:postcode": "48608-470",
+      "addr:street": "Rua das Mangueiras",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.210223,-9.402343]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305024",
+      "addr:housenumber": "160",
+      "addr:postcode": "48608-530",
+      "addr:street": "Rua das Margaridas",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2145394,-9.401576]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305016",
+      "addr:housenumber": "38",
+      "addr:postcode": "48608-530",
+      "addr:street": "Rua das Margaridas",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2140547,-9.4006655]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305021",
+      "addr:housenumber": "154",
+      "addr:postcode": "48608-530",
+      "addr:street": "Rua das Margaridas",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2145251,-9.4015246]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305034",
+      "addr:housenumber": "77",
+      "addr:postcode": "48608-530",
+      "addr:street": "Rua das Margaridas",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2140197,-9.4009574]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305035",
+      "addr:housenumber": "57",
+      "addr:postcode": "48608-530",
+      "addr:street": "Rua das Margaridas",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2139656,-9.4008449]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305208",
+      "addr:housenumber": "876",
+      "addr:postcode": "48608-240",
+      "addr:street": "Rua do Gangorra",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2098891,-9.4022938]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305015",
+      "addr:housenumber": "20",
+      "addr:postcode": "48608-530",
+      "addr:street": "Rua das Margaridas",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2139618,-9.4004686]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305014",
+      "addr:housenumber": "14",
+      "addr:postcode": "48608-530",
+      "addr:street": "Rua das Margaridas",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2139347,-9.4004112]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305210",
+      "addr:housenumber": "868 A",
+      "addr:postcode": "48608-240",
+      "addr:street": "Rua do Gangorra",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2098083,-9.4023558]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305091;27305093",
+      "addr:housenumber": "323",
+      "addr:postcode": "48608-171",
+      "addr:street": "Avenida Bahia",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2137593,-9.4022917]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305072",
+      "addr:housenumber": "74",
+      "addr:postcode": "48608-550",
+      "addr:street": "Rua Esplanada",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2132581,-9.4021827]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305219",
+      "addr:housenumber": "123",
+      "addr:postcode": "48608-470",
+      "addr:street": "Rua das Mangueiras",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2106154,-9.4032382]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305221",
+      "addr:housenumber": "75",
+      "addr:postcode": "48608-470",
+      "addr:street": "Rua das Mangueiras",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2104804,-9.4028358]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305168",
+      "addr:housenumber": "156",
+      "addr:postcode": "48608-470",
+      "addr:street": "Rua das Mangueiras",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2107593,-9.4035368]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305086",
+      "addr:housenumber": "353",
+      "addr:postcode": "48608-171",
+      "addr:street": "Avenida Bahia",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes",
+      "description": "CNEFE 2022 Loja de Roupas",
+      "shop": "clothes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2135046,-9.4024787]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305066",
+      "addr:housenumber": "23",
+      "addr:postcode": "48608-550",
+      "addr:street": "Rua Esplanada",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2135224,-9.4018508]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305120",
+      "addr:housenumber": "104",
+      "addr:postcode": "48608-440",
+      "addr:street": "Rua Juazeiro",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2124459,-9.4027514]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305073",
+      "addr:housenumber": "88",
+      "addr:postcode": "48608-550",
+      "addr:street": "Rua Esplanada",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2131593,-9.4022165]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305160",
+      "addr:housenumber": "50",
+      "addr:postcode": "48608-470",
+      "addr:street": "Rua das Mangueiras",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2105802,-9.4025643]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305122;216632005",
+      "addr:housenumber": "150",
+      "addr:postcode": "48608-440",
+      "addr:street": "Rua Juazeiro",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2122603,-9.402357]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305209",
+      "addr:housenumber": "868",
+      "addr:postcode": "48608-240",
+      "addr:street": "Rua do Gangorra",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2097799,-9.4023766]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305040",
+      "addr:housenumber": "452",
+      "addr:postcode": "48608-240",
+      "addr:street": "Rua do Gangorra",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2133327,-9.4005213]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305190",
+      "addr:housenumber": "201",
+      "addr:postcode": "48608-560",
+      "addr:street": "Rua dos Prazeres",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2107741,-9.4041464]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305149",
+      "addr:housenumber": "666",
+      "addr:postcode": "48608-240",
+      "addr:street": "Rua do Gangorra",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2115904,-9.4013703]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305112",
+      "addr:housenumber": "30",
+      "addr:postcode": "48608-440",
+      "addr:street": "Rua Juazeiro",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2126816,-9.4034417]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305102-27305104",
+      "addr:housenumber": "175",
+      "addr:postcode": "48608-400",
+      "addr:street": "Rua Ilhéus",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2119983,-9.4025491]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305099",
+      "addr:housenumber": "127",
+      "addr:postcode": "48608-550",
+      "addr:street": "Rua Esplanada",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2127925,-9.4022465]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216631928",
+      "addr:housenumber": "7",
+      "addr:postcode": "48608-480",
+      "addr:street": "Rua Flamboyants",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.213652,-9.4016175]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305070",
+      "addr:housenumber": "44",
+      "addr:postcode": "48608-550",
+      "addr:street": "Rua Esplanada",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2134609,-9.4020848]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216631951",
+      "addr:housenumber": "81",
+      "addr:postcode": "48608-550",
+      "addr:street": "Rua Esplanada",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "addr:unit": "Casa A",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2131019,-9.402073]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305067",
+      "addr:housenumber": "7",
+      "addr:postcode": "48608-550",
+      "addr:street": "Rua Esplanada",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2135843,-9.4017953]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305017",
+      "addr:housenumber": "56",
+      "addr:postcode": "48608-530",
+      "addr:street": "Rua das Margaridas",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2141105,-9.4007839]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305084",
+      "addr:housenumber": "389",
+      "addr:postcode": "48608-171",
+      "addr:street": "Avenida Bahia",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2132491,-9.4026527]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305214",
+      "addr:housenumber": "279",
+      "addr:postcode": "48608-470",
+      "addr:street": "Rua das Mangueiras",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.209801,-9.4036595]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216632011",
+      "addr:housenumber": "61",
+      "addr:postcode": "48608-400",
+      "addr:street": "Rua Ilhéus",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.212366,-9.4036003]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305098",
+      "addr:housenumber": "141",
+      "addr:postcode": "48608-550",
+      "addr:street": "Rua Esplanada",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2126745,-9.4023301]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305100",
+      "addr:housenumber": "211",
+      "addr:postcode": "48608-400",
+      "addr:street": "Rua Ilhéus",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2118517,-9.4022454]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305077",
+      "addr:housenumber": "162",
+      "addr:postcode": "48608-550",
+      "addr:street": "Rua Esplanada",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "addr:unit": "Dependência 162 A",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2126452,-9.4025404]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305119",
+      "addr:housenumber": "82",
+      "addr:postcode": "48608-440",
+      "addr:street": "Rua Juazeiro",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "amenity": "school",
+      "building": "yes",
+      "name": "Escola Turma da Mônica"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2125122,-9.4028994]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305197",
+      "addr:housenumber": "60",
+      "addr:postcode": "48608-450",
+      "addr:street": "Rua Teresina",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2113716,-9.403637]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216631939",
+      "addr:housenumber": "80 B",
+      "addr:postcode": "48608-500",
+      "addr:street": "Rua Petrolina",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2127532,-9.4017351]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305124",
+      "addr:housenumber": "150 A",
+      "addr:postcode": "48608-440",
+      "addr:street": "Rua Juazeiro",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2122462,-9.4023277]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305138",
+      "addr:housenumber": "13",
+      "addr:postcode": "48608-440",
+      "addr:street": "Rua Juazeiro",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "addr:unit": "Casa B",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2124523,-9.403801]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216632024",
+      "addr:housenumber": "94",
+      "addr:postcode": "48608-470",
+      "addr:street": "Rua das Mangueiras",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "addr:unit": "Fundos A",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2108528,-9.4029912]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305218",
+      "addr:housenumber": "151",
+      "addr:postcode": "48608-470",
+      "addr:street": "Rua das Mangueiras",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2105582,-9.4034548]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305121",
+      "addr:housenumber": "128",
+      "addr:postcode": "48608-440",
+      "addr:street": "Rua Juazeiro",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes",
+      "name": "Recanto Suspiro de Mãe"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2123568,-9.4025585]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305152",
+      "addr:housenumber": "712",
+      "addr:postcode": "48608-240",
+      "addr:street": "Rua do Gangorra",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.21127,-9.4015256]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305141",
+      "addr:housenumber": "98",
+      "addr:postcode": "48608-400",
+      "addr:street": "Rua Ilhéus",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2120195,-9.4032203]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305117",
+      "addr:housenumber": "70",
+      "addr:postcode": "48608-440",
+      "addr:street": "Rua Juazeiro",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2125756,-9.403052]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305179",
+      "addr:housenumber": "401",
+      "addr:postcode": "48608-560",
+      "addr:street": "Rua dos Prazeres",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2092604,-9.4041124]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305193",
+      "addr:housenumber": "169",
+      "addr:postcode": "48608-560",
+      "addr:street": "Rua dos Prazeres",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "addr:unit": "Fundos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2109763,-9.4040595]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305137",
+      "addr:housenumber": "13 A",
+      "addr:postcode": "48608-440",
+      "addr:street": "Rua Juazeiro",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2124521,-9.4038705]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305045",
+      "addr:housenumber": "104",
+      "addr:postcode": "48608-480",
+      "addr:street": "Rua Flamboyants",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes",
+      "name": "Nova União Flávio Rodrigues"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.213821899562,-9.4014266613881]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305191",
+      "addr:housenumber": "189",
+      "addr:postcode": "48608-560",
+      "addr:street": "Rua dos Prazeres",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2108633,-9.4041325]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305134",
+      "addr:housenumber": "95 B",
+      "addr:postcode": "48608-450",
+      "addr:street": "Rua Teresina",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.211595846036,-9.4034253000032]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305123",
+      "addr:housenumber": "150 A",
+      "addr:postcode": "48608-440",
+      "addr:street": "Rua Juazeiro",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "addr:unit": "Térreo",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2122687,-9.4023747]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305156",
+      "addr:housenumber": "764",
+      "addr:postcode": "48608-240",
+      "addr:street": "Rua do Gangorra",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2107433,-9.4017697]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305027",
+      "addr:housenumber": "145",
+      "addr:postcode": "48608-530",
+      "addr:street": "Rua das Margaridas",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2143437,-9.4015625]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305192",
+      "addr:housenumber": "169 Lado",
+      "addr:postcode": "48608-560",
+      "addr:street": "Rua dos Prazeres",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2109625,-9.404117]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216632040",
+      "addr:housenumber": "238",
+      "addr:postcode": "48608-500",
+      "addr:street": "Rua Petrolina",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "addr:unit": "Edifício A",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2114198,-9.4022304]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305216;216632047",
+      "addr:housenumber": "239",
+      "addr:postcode": "48608-470",
+      "addr:street": "Rua das Mangueiras",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.210156,-9.4037235]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305196",
+      "addr:housenumber": "40",
+      "addr:postcode": "48608-450",
+      "addr:street": "Rua Teresina",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2113094,-9.4037992]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305052",
+      "addr:housenumber": "167",
+      "addr:postcode": "48608-171",
+      "addr:street": "Avenida Bahia",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2143369,-9.4018349]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305083",
+      "addr:housenumber": "411",
+      "addr:postcode": "48608-171",
+      "addr:street": "Avenida Bahia",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2131138,-9.4027779]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305050",
+      "addr:housenumber": "172 A",
+      "addr:postcode": "48608-171",
+      "addr:street": "Avenida Bahia",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2141314,-9.4020091]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216631944",
+      "addr:housenumber": "38",
+      "addr:postcode": "48608-500",
+      "addr:street": "Rua Petrolina",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "addr:unit": "Depósito",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.213248,-9.4015198]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305167",
+      "addr:housenumber": "136",
+      "addr:postcode": "48608-470",
+      "addr:street": "Rua das Mangueiras",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2108283,-9.4032549]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305085",
+      "addr:housenumber": "369",
+      "addr:postcode": "48608-171",
+      "addr:street": "Avenida Bahia",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.213423,-9.4025336]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305182",
+      "addr:housenumber": "357",
+      "addr:postcode": "48608-560",
+      "addr:street": "Rua dos Prazeres",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2094368,-9.4043057]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305144",
+      "addr:housenumber": "138",
+      "addr:postcode": "48608-400",
+      "addr:street": "Rua Ilhéus",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2119378,-9.4028537]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305207",
+      "addr:housenumber": "270",
+      "addr:postcode": "48608-500",
+      "addr:street": "Rua Petrolina",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2116579,-9.4021101]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305198",
+      "addr:housenumber": "82",
+      "addr:postcode": "48608-450",
+      "addr:street": "Rua Teresina",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2114325,-9.4034515]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305081",
+      "addr:housenumber": "433",
+      "addr:postcode": "48608-171",
+      "addr:street": "Avenida Bahia",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2131054,-9.4027865]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305186",
+      "addr:housenumber": "281",
+      "addr:postcode": "48608-560",
+      "addr:street": "Rua dos Prazeres",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2100268,-9.4043654]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305128",
+      "addr:housenumber": "169",
+      "addr:postcode": "48608-450",
+      "addr:street": "Rua Teresina",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.211475,-9.4026376]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305049;27305051",
+      "addr:housenumber": "172",
+      "addr:postcode": "48608-171",
+      "addr:street": "Avenida Bahia",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2141127,-9.4020392]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216631983",
+      "addr:housenumber": "319",
+      "addr:postcode": "48608-171",
+      "addr:street": "Avenida Bahia",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.213856,-9.4022114]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305127",
+      "addr:housenumber": "189",
+      "addr:postcode": "48608-450",
+      "addr:street": "Rua Teresina",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2114326,-9.4025323]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305101",
+      "addr:housenumber": "195",
+      "addr:postcode": "48608-400",
+      "addr:street": "Rua Ilhéus",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2119136,-9.4023737]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305094",
+      "addr:housenumber": "309",
+      "addr:postcode": "48608-171",
+      "addr:street": "Avenida Bahia",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2139062,-9.4021814]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305125",
+      "addr:housenumber": "170",
+      "addr:postcode": "48608-440",
+      "addr:street": "Rua Juazeiro",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2122003,-9.402232]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305058",
+      "addr:housenumber": "38",
+      "addr:postcode": "48608-500",
+      "addr:street": "Rua Petrolina",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2132099,-9.4014298]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305071",
+      "addr:housenumber": "58",
+      "addr:postcode": "48608-550",
+      "addr:street": "Rua Esplanada",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2134627,-9.4020671]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305030",
+      "addr:housenumber": "113",
+      "addr:postcode": "48608-530",
+      "addr:street": "Rua das Margaridas",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2141955,-9.4012831]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305222",
+      "addr:housenumber": "59",
+      "addr:postcode": "48608-470",
+      "addr:street": "Rua das Mangueiras",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2104502,-9.4027789]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216632050",
+      "addr:housenumber": "89 Térreo 303",
+      "addr:postcode": "48608-470",
+      "addr:street": "Rua das Mangueiras",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2105127,-9.4028966]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305139",
+      "addr:housenumber": "60",
+      "addr:postcode": "48608-400",
+      "addr:street": "Rua Ilhéus",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2124115,-9.4036091]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305043",
+      "addr:housenumber": "62",
+      "addr:postcode": "48608-480",
+      "addr:street": "Rua Flamboyants",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2136661,-9.4010908]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305146",
+      "addr:housenumber": "184",
+      "addr:postcode": "48608-400",
+      "addr:street": "Rua Ilhéus",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2118016,-9.4024991]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305132",
+      "addr:housenumber": "95",
+      "addr:postcode": "48608-450",
+      "addr:street": "Rua Teresina",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2116052,-9.4033418]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305018",
+      "addr:housenumber": "74",
+      "addr:postcode": "48608-530",
+      "addr:street": "Rua das Margaridas",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2141414,-9.4008503]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305059",
+      "addr:housenumber": "52",
+      "addr:postcode": "48608-500",
+      "addr:street": "Rua Petrolina",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2131479,-9.4016123]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216631941",
+      "addr:housenumber": "77 Térreo A",
+      "addr:postcode": "48608-500",
+      "addr:street": "Rua Petrolina",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2130616,-9.4016491]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305108",
+      "addr:housenumber": "95",
+      "addr:postcode": "48608-400",
+      "addr:street": "Rua Ilhéus",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.212186,-9.4032459]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305187",
+      "addr:housenumber": "263",
+      "addr:postcode": "48608-560",
+      "addr:street": "Rua dos Prazeres",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2101698,-9.4043192]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305147",
+      "addr:housenumber": "210",
+      "addr:postcode": "48608-400",
+      "addr:street": "Rua Ilhéus",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2117485,-9.4023893]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305225",
+      "addr:housenumber": "29 Térreo",
+      "addr:postcode": "48608-470",
+      "addr:street": "Rua das Mangueiras",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2103332,-9.4025577]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305211",
+      "addr:housenumber": "950",
+      "addr:postcode": "48608-240",
+      "addr:street": "Rua do Gangorra",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "disused:building": "yes",
+      "disused:shop": "yes",
+      "old_name": "Loja Vaga"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2095769,-9.4029483]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305062",
+      "addr:housenumber": "80 A",
+      "addr:postcode": "48608-500",
+      "addr:street": "Rua Petrolina",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2126872,-9.4017385]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305172",
+      "addr:housenumber": "236",
+      "addr:postcode": "48608-470",
+      "addr:street": "Rua das Mangueiras",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2100855,-9.4039525]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305061",
+      "addr:housenumber": "80",
+      "addr:postcode": "48608-500",
+      "addr:street": "Rua Petrolina",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2128134,-9.4016985]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305153",
+      "addr:housenumber": "728",
+      "addr:postcode": "48608-240",
+      "addr:street": "Rua do Gangorra",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2111572,-9.4015772]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305181",
+      "addr:housenumber": "377",
+      "addr:postcode": "48608-560",
+      "addr:street": "Rua dos Prazeres",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2094285,-9.4042931]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305143",
+      "addr:housenumber": "118",
+      "addr:postcode": "48608-400",
+      "addr:street": "Rua Ilhéus",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2119529,-9.4029237]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305130",
+      "addr:housenumber": "113",
+      "addr:postcode": "48608-450",
+      "addr:street": "Rua Teresina",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2115984,-9.4031724]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305159",
+      "addr:housenumber": "32",
+      "addr:postcode": "48608-470",
+      "addr:street": "Rua das Mangueiras",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.210533,-9.4024664]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305169",
+      "addr:housenumber": "176",
+      "addr:postcode": "48608-470",
+      "addr:street": "Rua das Mangueiras",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2106179,-9.4037381]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305171",
+      "addr:housenumber": "216",
+      "addr:postcode": "48608-470",
+      "addr:street": "Rua das Mangueiras",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2103849,-9.4038967]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305057",
+      "addr:housenumber": "20",
+      "addr:postcode": "48608-500",
+      "addr:street": "Rua Petrolina",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2132925,-9.4014457]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305223",
+      "addr:housenumber": "45",
+      "addr:postcode": "48608-470",
+      "addr:street": "Rua das Mangueiras",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes",
+      "name": "Distribuidora Marques"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.210292907644,-9.4024757951224]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305170",
+      "addr:housenumber": "196",
+      "addr:postcode": "48608-470",
+      "addr:street": "Rua das Mangueiras",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2105058,-9.4038101]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305200",
+      "addr:housenumber": "126",
+      "addr:postcode": "48608-450",
+      "addr:street": "Rua Teresina",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2114316,-9.403071]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305185",
+      "addr:housenumber": "299",
+      "addr:postcode": "48608-560",
+      "addr:street": "Rua dos Prazeres",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2098824,-9.40441]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216632013",
+      "addr:housenumber": "784",
+      "addr:postcode": "48608-240",
+      "addr:street": "Rua do Gangorra",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "beauty": "spa",
+      "building": "yes",
+      "name": "Masso SPA",
+      "shop": "beauty"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.210286,-9.4019634]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305126",
+      "addr:housenumber": "190",
+      "addr:postcode": "48608-440",
+      "addr:street": "Rua Juazeiro",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes",
+      "name": "Banca de Ensino"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.212137287245,-9.402051022981]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305215",
+      "addr:housenumber": "239 A",
+      "addr:postcode": "48608-470",
+      "addr:street": "Rua das Mangueiras",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2099545,-9.403722]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305178",
+      "addr:housenumber": "413",
+      "addr:postcode": "48608-560",
+      "addr:street": "Rua dos Prazeres",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2091221,-9.4039231]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305107",
+      "addr:housenumber": "115",
+      "addr:postcode": "48608-400",
+      "addr:street": "Rua Ilhéus",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2121518,-9.4031042]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305038",
+      "addr:housenumber": "444 A",
+      "addr:postcode": "48608-240",
+      "addr:street": "Rua do Gangorra",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2133532,-9.4005216]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305224",
+      "addr:housenumber": "29",
+      "addr:postcode": "48608-470",
+      "addr:street": "Rua das Mangueiras",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.210324959438,-9.4025540955181]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305195",
+      "addr:housenumber": "16",
+      "addr:postcode": "48608-450",
+      "addr:street": "Rua Teresina",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.211221,-9.4039982]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305148",
+      "addr:housenumber": "210 B",
+      "addr:postcode": "48608-400",
+      "addr:street": "Rua Ilhéus",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2116665,-9.4021992]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305060",
+      "addr:housenumber": "66",
+      "addr:postcode": "48608-500",
+      "addr:street": "Rua Petrolina",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2130731,-9.4016657]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305055",
+      "addr:housenumber": "100",
+      "addr:postcode": "48608-480",
+      "addr:street": "Rua Flamboyants",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes",
+      "healthcare": "physiotherapist",
+      "name": "Clínica de Fisioterapia e Estética C3",
+      "office": "therapist",
+      "shop": "beauty"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.213634243282,-9.4015508579953]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305200",
+      "addr:housenumber": "126",
+      "addr:postcode": "48608-450",
+      "addr:street": "Rua Teresina",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes",
+      "name": "Consertos Sob Medida"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.211427066591,-9.4030860276867]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305154",
+      "addr:housenumber": "746",
+      "addr:postcode": "48608-240",
+      "addr:street": "Rua do Gangorra",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2110099,-9.4016457]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305163",
+      "addr:housenumber": "80",
+      "addr:postcode": "48608-470",
+      "addr:street": "Rua das Mangueiras",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2106934,-9.4027815]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305075",
+      "addr:housenumber": "120",
+      "addr:postcode": "48608-550",
+      "addr:street": "Rua Esplanada",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.212889,-9.4023677]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305164",
+      "addr:housenumber": "94",
+      "addr:postcode": "48608-470",
+      "addr:street": "Rua das Mangueiras",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2108001,-9.4030062]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305205",
+      "addr:housenumber": "182",
+      "addr:postcode": "48608-450",
+      "addr:street": "Rua Teresina",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2112872,-9.4023556]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305129",
+      "addr:housenumber": "151",
+      "addr:postcode": "48608-450",
+      "addr:street": "Rua Teresina",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2115302,-9.4028137]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305204",
+      "addr:housenumber": "178",
+      "addr:postcode": "48608-450",
+      "addr:street": "Rua Teresina",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2113042,-9.4023421]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305069",
+      "addr:housenumber": "40",
+      "addr:postcode": "48608-550",
+      "addr:street": "Rua Esplanada",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2136076,-9.4019822]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305158",
+      "addr:housenumber": "2",
+      "addr:postcode": "48608-470",
+      "addr:street": "Rua das Mangueiras",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2103772,-9.402143]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "216632015",
+      "addr:housenumber": "784",
+      "addr:postcode": "48608-240",
+      "addr:street": "Rua do Gangorra",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.210321,-9.4019633]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27305201",
+      "addr:housenumber": "144",
+      "addr:postcode": "48608-450",
+      "addr:street": "Rua Teresina",
+      "addr:suburb": "Paulo Afonso Chesf",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.2113833,-9.4028665]
+      }
+    }
+  ]
+}

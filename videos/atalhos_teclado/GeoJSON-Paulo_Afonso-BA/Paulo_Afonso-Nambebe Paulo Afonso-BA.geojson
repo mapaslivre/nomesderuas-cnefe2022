@@ -1,0 +1,237 @@
+{
+  "type": "FeatureCollection",
+  "source": "IBGE CNEFE + Faces de Logradouros - 2022",
+  "generator": "CSV-CNEFE2GeoJSON.lua 1.5.7 - fidelis.assis@gmail.com",
+  "date": "2025-02-02T09:05:27-0300",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413069",
+      "addr:housenumber": "190",
+      "addr:postcode": "48601-248",
+      "addr:street": "Povoado Nambebe",
+      "addr:suburb": "Nambebe Paulo Afonso",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0111P-0-83"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.366954,-9.459166]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413063",
+      "addr:housenumber": "104",
+      "addr:postcode": "48601-248",
+      "addr:street": "Povoado Nambebe",
+      "addr:suburb": "Nambebe Paulo Afonso",
+      "addr:unit": "Fundos",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0111P-0-83"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.366973,-9.473939]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112587212",
+      "addr:housenumber": "44",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Estrada Serrote Paulo Afonso",
+      "addr:suburb": "Nambebe Paulo Afonso",
+      "addr:unit": "Fundos",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0111P-0-90"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.370906,-9.474043]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413067",
+      "addr:housenumber": "1",
+      "addr:postcode": "48601-248",
+      "addr:street": "Povoado Nambebe",
+      "addr:suburb": "Nambebe Paulo Afonso",
+      "addr:unit": "Fundos",
+      "fixme": "Verificar coordenadas",
+      "landuse": "cemetery",
+      "name": "Cemitério",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0111P-0-83"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.367164,-9.472311]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413071",
+      "addr:housenumber": "40 B",
+      "addr:postcode": "48601-248",
+      "addr:street": "Povoado Nambebe",
+      "addr:suburb": "Nambebe Paulo Afonso",
+      "description": "CNEFE 2022 Plantação",
+      "fixme": "Verificar coordenadas",
+      "landuse": "farmland",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0111P-0-83"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.366904,-9.459268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191883752",
+      "addr:housenumber": "189",
+      "addr:postcode": "48601-248",
+      "addr:street": "Povoado Nambebe",
+      "addr:suburb": "Nambebe Paulo Afonso",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0111P-0-83"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.366887,-9.459082]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191883962",
+      "addr:housenumber": "35",
+      "addr:postcode": "48601-014",
+      "addr:street": "Povoado Macambira",
+      "addr:suburb": "Nambebe Paulo Afonso",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0111P-0-96"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.371691,-9.508248]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413070",
+      "addr:housenumber": "191",
+      "addr:postcode": "48601-248",
+      "addr:street": "Povoado Nambebe",
+      "addr:suburb": "Nambebe Paulo Afonso",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0111P-0-83"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.366895,-9.459229]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112587206",
+      "addr:housenumber": "41",
+      "addr:postcode": "48601-248",
+      "addr:street": "Estrada Estrada Serrote Paulo Afonso",
+      "addr:suburb": "Nambebe Paulo Afonso",
+      "addr:unit": "Fundos",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0111P-0-86"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.370815,-9.471213]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112587308",
+      "addr:housenumber": "555",
+      "addr:postcode": "48601-248",
+      "addr:street": "Estrada Estrada Serrote Paulo Afonso",
+      "addr:suburb": "Nambebe Paulo Afonso",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0111P-0-86"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.366818,-9.472116]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413047",
+      "addr:housenumber": "103",
+      "addr:postcode": "48601-248",
+      "addr:street": "Povoado Nambebe",
+      "addr:suburb": "Nambebe Paulo Afonso",
+      "addr:unit": "Fundos",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0111P-0-83"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.366288,-9.474571]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112587259",
+      "addr:housenumber": "48",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Estrada Serrote Paulo Afonso",
+      "addr:suburb": "Nambebe Paulo Afonso",
+      "addr:unit": "Fundos",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0111P-0-90"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.37347,-9.47907]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112587313",
+      "addr:housenumber": "3434",
+      "addr:postcode": "48601-248",
+      "addr:street": "Estrada Estrada Serrote Paulo Afonso",
+      "addr:suburb": "Nambebe Paulo Afonso",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0111P-0-86"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.36683,-9.472314]
+      }
+    }
+  ]
+}

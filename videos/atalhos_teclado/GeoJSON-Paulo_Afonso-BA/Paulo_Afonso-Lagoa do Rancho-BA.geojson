@@ -1,0 +1,1982 @@
+{
+  "type": "FeatureCollection",
+  "source": "IBGE CNEFE + Faces de Logradouros - 2022",
+  "generator": "CSV-CNEFE2GeoJSON.lua 1.5.7 - fidelis.assis@gmail.com",
+  "date": "2025-02-02T09:05:26-0300",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412853",
+      "addr:housenumber": "97",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa do Rancho",
+      "addr:suburb": "Lagoa do Rancho",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4093323,-9.5510362]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412807",
+      "addr:housenumber": "133",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa do Rancho",
+      "addr:suburb": "Lagoa do Rancho",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 46m 0500-0183P-1-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.407414,-9.54643]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412889",
+      "addr:housenumber": "10",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa do Rancho",
+      "addr:suburb": "Lagoa do Rancho",
+      "addr:unit": "Casa Amarela",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4058139,-9.5492244]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412855",
+      "addr:housenumber": "306 A",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa do Rancho",
+      "addr:suburb": "Lagoa do Rancho",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4092523,-9.5506574]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412892",
+      "addr:housenumber": "13",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa do Rancho",
+      "addr:suburb": "Lagoa do Rancho",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 44m 0500-0183P-4-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.405462,-9.549079]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191884032",
+      "addr:housenumber": "555",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa do Rancho",
+      "addr:suburb": "Lagoa do Rancho",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0111P-0-106"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.42593,-9.540014]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412894",
+      "addr:housenumber": "151",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa do Rancho",
+      "addr:suburb": "Lagoa do Rancho",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4058222,-9.5490544]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412828",
+      "addr:housenumber": "144",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa do Rancho",
+      "addr:suburb": "Lagoa do Rancho",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4089338,-9.5479563]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412875",
+      "addr:housenumber": "3",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa do Rancho",
+      "addr:suburb": "Lagoa do Rancho",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4058501,-9.5497318]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412865",
+      "addr:housenumber": "64",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa do Rancho",
+      "addr:suburb": "Lagoa do Rancho",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4093368,-9.5514786]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192030180",
+      "addr:housenumber": "28",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa do Rancho",
+      "addr:suburb": "Lagoa do Rancho",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0183P-5-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4052118,-9.5484839]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412840",
+      "addr:housenumber": "102",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa do Rancho",
+      "addr:suburb": "Lagoa do Rancho",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4101273,-9.5477831]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412810",
+      "addr:housenumber": "128",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa do Rancho",
+      "addr:suburb": "Lagoa do Rancho",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 71m 0500-0183P-1-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.407453,-9.546019]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412843",
+      "addr:housenumber": "95 B",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa do Rancho",
+      "addr:suburb": "Lagoa do Rancho",
+      "addr:unit": "Casa",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4092473,-9.548163]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412802",
+      "addr:housenumber": "123",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa do Rancho",
+      "addr:suburb": "Lagoa do Rancho",
+      "addr:unit": "Casa",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4069519,-9.546337]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412842",
+      "addr:housenumber": "108",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa do Rancho",
+      "addr:suburb": "Lagoa do Rancho",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4090154,-9.5481454]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412812",
+      "addr:housenumber": "126",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa do Rancho",
+      "addr:suburb": "Lagoa do Rancho",
+      "addr:unit": "Casa",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4070713,-9.546559]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412848",
+      "addr:housenumber": "112",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa do Rancho",
+      "addr:suburb": "Lagoa do Rancho",
+      "building": "public",
+      "government": "healthcare",
+      "healthcare": "yes",
+      "name": "Secretaria Municipal de Saúde",
+      "office": "government"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4087375,-9.5480308]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412872",
+      "addr:housenumber": "14",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa do Rancho",
+      "addr:suburb": "Lagoa do Rancho",
+      "addr:unit": "Fundos",
+      "building": "yes",
+      "man_made": "water_well",
+      "name": "Poço"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4075941,-9.54744]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192030178",
+      "addr:housenumber": "36",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa do Rancho",
+      "addr:suburb": "Lagoa do Rancho",
+      "building": "garage",
+      "description": "CNEFE 2022 Garagem",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0183P-5-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4050641,-9.5485187]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412823",
+      "addr:housenumber": "137",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa do Rancho",
+      "addr:suburb": "Lagoa do Rancho",
+      "addr:unit": "Casa Branca",
+      "building": "yes",
+      "man_made": "works",
+      "name": "Casa de Farinha",
+      "product": "cassava_flour"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4079522,-9.5474292]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412831",
+      "addr:housenumber": "113",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa do Rancho",
+      "addr:suburb": "Lagoa do Rancho",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4107247,-9.5475518]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412893",
+      "addr:housenumber": "15",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa do Rancho",
+      "addr:suburb": "Lagoa do Rancho",
+      "addr:unit": "Fundos",
+      "building": "warehouse",
+      "description": "CNEFE 2022 Depósito",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 73m 0500-0183P-4-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.405178,-9.549272]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412898",
+      "addr:housenumber": "18",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa do Rancho",
+      "addr:suburb": "Lagoa do Rancho",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4052503,-9.5485676]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192030233",
+      "addr:housenumber": "54",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa do Rancho",
+      "addr:suburb": "Lagoa do Rancho",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0183P-5-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4065442,-9.5457835]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412885",
+      "addr:housenumber": "6",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa do Rancho",
+      "addr:suburb": "Lagoa do Rancho",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4057959,-9.549303]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192030219",
+      "addr:housenumber": "391",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa do Rancho",
+      "addr:suburb": "Lagoa do Rancho",
+      "building": "warehouse",
+      "description": "CNEFE 2022 Depósito",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 128m 0500-0183P-5-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.405879,-9.547012]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412835",
+      "addr:housenumber": "29 B",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa do Rancho",
+      "addr:suburb": "Lagoa do Rancho",
+      "addr:unit": "Casa",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.410264,-9.5477196]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192030240",
+      "addr:housenumber": "385 B",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa do Rancho",
+      "addr:suburb": "Lagoa do Rancho",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0183P-5-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4064597,-9.5455954]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192030187",
+      "addr:housenumber": "32",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa do Rancho",
+      "addr:suburb": "Lagoa do Rancho",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0183P-5-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4057771,-9.5483507]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412874",
+      "addr:housenumber": "2",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa do Rancho",
+      "addr:suburb": "Lagoa do Rancho",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4059798,-9.5500436]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412801",
+      "addr:housenumber": "119",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa do Rancho",
+      "addr:suburb": "Lagoa do Rancho",
+      "addr:unit": "Casa",
+      "crop": "corn",
+      "description": "CNEFE 2022 Plantação de Milho",
+      "landuse": "farmland"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4067381,-9.5459392]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112587735",
+      "addr:housenumber": "3",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Paulo Afonso Várzea",
+      "addr:suburb": "Lagoa do Rancho",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0111P-0-107"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.425346,-9.539217]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412801",
+      "addr:housenumber": "119",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa do Rancho",
+      "addr:suburb": "Lagoa do Rancho",
+      "addr:unit": "Casa",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.406738055814,-9.5459393616562]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412846",
+      "addr:housenumber": "110",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa do Rancho",
+      "addr:suburb": "Lagoa do Rancho",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 49m 0500-0183P-2-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.408816,-9.54849]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412822",
+      "addr:housenumber": "138",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa do Rancho",
+      "addr:suburb": "Lagoa do Rancho",
+      "addr:unit": "Box Verde",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4080146,-9.5475005]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191884034",
+      "addr:housenumber": "22",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa do Rancho",
+      "addr:suburb": "Lagoa do Rancho",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0111P-0-106"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.428012,-9.524157]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192030158",
+      "addr:housenumber": "22",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa do Rancho",
+      "addr:suburb": "Lagoa do Rancho",
+      "building": "industrial",
+      "fixme": "Confirmar nome",
+      "man_made": "works",
+      "name": "Fábrica de Doce"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4057611,-9.548449]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412854",
+      "addr:housenumber": "140 B",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa do Rancho",
+      "addr:suburb": "Lagoa do Rancho",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4092675,-9.5507378]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412836",
+      "addr:housenumber": "118",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa do Rancho",
+      "addr:suburb": "Lagoa do Rancho",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 49m 0500-0183P-2-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.410555,-9.548016]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412821",
+      "addr:housenumber": "139",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa do Rancho",
+      "addr:suburb": "Lagoa do Rancho",
+      "addr:unit": "Casa Verde",
+      "amenity": "school",
+      "building": "yes",
+      "name": "Escola municipal Silvestre Torres"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4081078,-9.5476069]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412847",
+      "addr:housenumber": "109",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa do Rancho",
+      "addr:suburb": "Lagoa do Rancho",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 41m 0500-0183P-2-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.408907,-9.54844]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412841",
+      "addr:housenumber": "101",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa do Rancho",
+      "addr:suburb": "Lagoa do Rancho",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 43m 0500-0183P-2-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.41034,-9.548057]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412882",
+      "addr:housenumber": "79",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa do Rancho",
+      "addr:suburb": "Lagoa do Rancho",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4059498,-9.5492765]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191884041",
+      "addr:housenumber": "888",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa do Rancho",
+      "addr:suburb": "Lagoa do Rancho",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0111P-0-106"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.428112,-9.515852]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412838",
+      "addr:housenumber": "115",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa do Rancho",
+      "addr:suburb": "Lagoa do Rancho",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4103339,-9.5476871]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412845",
+      "addr:housenumber": "105",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa do Rancho",
+      "addr:suburb": "Lagoa do Rancho",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4098304,-9.5479202]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412864",
+      "addr:housenumber": "66",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa do Rancho",
+      "addr:suburb": "Lagoa do Rancho",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4093011,-9.5513333]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192030230",
+      "addr:housenumber": "53",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa do Rancho",
+      "addr:suburb": "Lagoa do Rancho",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "name": "Marcelo Motos",
+      "note": "Sem dados para mover para dentro da quadra 0500-0183P-5-1",
+      "shop": "motorcycle"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4066794,-9.5460368]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191884060",
+      "addr:housenumber": "255",
+      "addr:postcode": "48619-899",
+      "addr:street": "Fazenda Pocinho",
+      "addr:suburb": "Lagoa do Rancho",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0111P-0-110"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.42869,-9.515237]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412844",
+      "addr:housenumber": "106 Lado Esquerdo",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa do Rancho",
+      "addr:suburb": "Lagoa do Rancho",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4097422,-9.5479573]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412883",
+      "addr:housenumber": "4",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa do Rancho",
+      "addr:suburb": "Lagoa do Rancho",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4058466,-9.5497032]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412901",
+      "addr:housenumber": "43",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa do Rancho",
+      "addr:suburb": "Lagoa do Rancho",
+      "building": "yes",
+      "description": "CNEFE 2022 Sem Denominação",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0183P-5-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4073741,-9.5473593]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112587638",
+      "addr:housenumber": "55",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Estrada Serrote Paulo Afonso",
+      "addr:suburb": "Lagoa do Rancho",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0111P-0-113"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.42537,-9.547179]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191884034",
+      "addr:housenumber": "22",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa do Rancho",
+      "addr:suburb": "Lagoa do Rancho",
+      "description": "CNEFE 2022 Plantação",
+      "fixme": "Verificar coordenadas",
+      "landuse": "farmland",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0111P-0-106"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.428004296812,-9.5241585613881]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412829",
+      "addr:housenumber": "143",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa do Rancho",
+      "addr:suburb": "Lagoa do Rancho",
+      "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "pentecostal",
+      "name": "Assembleia de Deus",
+      "religion": "christian"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4089222,-9.5479533]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412900;27412905",
+      "addr:housenumber": "46",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa do Rancho",
+      "addr:suburb": "Lagoa do Rancho",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0183P-5-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4071568,-9.5469224]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412811",
+      "addr:housenumber": "130",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa do Rancho",
+      "addr:suburb": "Lagoa do Rancho",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 79m 0500-0183P-1-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.407527,-9.546012]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412887",
+      "addr:housenumber": "8",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa do Rancho",
+      "addr:suburb": "Lagoa do Rancho",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4057917,-9.54927]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192030209",
+      "addr:housenumber": "580391",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa do Rancho",
+      "addr:suburb": "Lagoa do Rancho",
+      "addr:unit": "Cisterna",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 57m 0500-0183P-5-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.406221,-9.547687]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412867",
+      "addr:housenumber": "5",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa do Rancho",
+      "addr:suburb": "Lagoa do Rancho",
+      "addr:unit": "Fundos",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Fora da área de projeção da face 0500-0183P-3-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.409351,-9.553248]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412891",
+      "addr:housenumber": "12",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa do Rancho",
+      "addr:suburb": "Lagoa do Rancho",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 66m 0500-0183P-4-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.405237,-9.549241]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412805",
+      "addr:housenumber": "122",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa do Rancho",
+      "addr:suburb": "Lagoa do Rancho",
+      "addr:unit": "Casa",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4069168,-9.5462716]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412884",
+      "addr:housenumber": "5",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa do Rancho",
+      "addr:suburb": "Lagoa do Rancho",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4058279,-9.5495555]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412876",
+      "addr:housenumber": "85",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa do Rancho",
+      "addr:suburb": "Lagoa do Rancho",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4060878,-9.5499571]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412903;192030244",
+      "addr:housenumber": "57",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa do Rancho",
+      "addr:suburb": "Lagoa do Rancho",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0183P-5-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4066887,-9.5460541]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191884038",
+      "addr:housenumber": "228",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa do Rancho",
+      "addr:suburb": "Lagoa do Rancho",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0111P-0-106"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.425457,-9.517169]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412881",
+      "addr:housenumber": "75",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa do Rancho",
+      "addr:suburb": "Lagoa do Rancho",
+      "addr:unit": "Garagem",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4063816,-9.5482579]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412839",
+      "addr:housenumber": "103",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa do Rancho",
+      "addr:suburb": "Lagoa do Rancho",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4100538,-9.5478173]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412886",
+      "addr:housenumber": "240 A",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa do Rancho",
+      "addr:suburb": "Lagoa do Rancho",
+      "addr:unit": "Depósito",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4058046,-9.5493713]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192030216",
+      "addr:housenumber": "39",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa do Rancho",
+      "addr:suburb": "Lagoa do Rancho",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 126m 0500-0183P-5-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.405941,-9.547076]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412862",
+      "addr:housenumber": "68",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa do Rancho",
+      "addr:suburb": "Lagoa do Rancho",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4092007,-9.5511057]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412849",
+      "addr:housenumber": "911",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa do Rancho",
+      "addr:suburb": "Lagoa do Rancho",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4095094,-9.551535]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192030150",
+      "addr:housenumber": "20",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa do Rancho",
+      "addr:suburb": "Lagoa do Rancho",
+      "building": "yes",
+      "name": "Associação",
+      "office": "association"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4059896,-9.5483959]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412803",
+      "addr:housenumber": "1",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa do Rancho",
+      "addr:suburb": "Lagoa do Rancho",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "name": "Fazenda",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0111P-0-106",
+      "place": "farm"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.42867,-9.55736]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412852",
+      "addr:housenumber": "143 B",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa do Rancho",
+      "addr:suburb": "Lagoa do Rancho",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.409429,-9.5512338]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192030174",
+      "addr:housenumber": "27",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa do Rancho",
+      "addr:suburb": "Lagoa do Rancho",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0183P-5-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4051117,-9.5485075]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412827",
+      "addr:housenumber": "145",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa do Rancho",
+      "addr:suburb": "Lagoa do Rancho",
+      "addr:unit": "Depósito",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4090348,-9.5479824]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192030201",
+      "addr:housenumber": "34",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa do Rancho",
+      "addr:suburb": "Lagoa do Rancho",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0183P-5-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4062898,-9.5482143]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192030182",
+      "addr:housenumber": "29",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa do Rancho",
+      "addr:suburb": "Lagoa do Rancho",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0183P-5-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4053605,-9.5484489]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412851",
+      "addr:housenumber": "91",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa do Rancho",
+      "addr:suburb": "Lagoa do Rancho",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4094636,-9.5513486]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412866",
+      "addr:housenumber": "63",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa do Rancho",
+      "addr:suburb": "Lagoa do Rancho",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4093292,-9.5514475]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112587727",
+      "addr:housenumber": "1",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Paulo Afonso Várzea",
+      "addr:suburb": "Lagoa do Rancho",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0111P-0-107"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.424989,-9.539344]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "112587681",
+      "addr:housenumber": "222",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Estrada Serrote Paulo Afonso",
+      "addr:suburb": "Lagoa do Rancho",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0111P-0-113"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.409267,-9.542411]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192030154",
+      "addr:housenumber": "21",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa do Rancho",
+      "addr:suburb": "Lagoa do Rancho",
+      "building": "industrial",
+      "fixme": "Confirmar nome",
+      "man_made": "works",
+      "name": "Fábrica de Doce"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4058863,-9.5484199]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192030236",
+      "addr:housenumber": "55",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa do Rancho",
+      "addr:suburb": "Lagoa do Rancho",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0183P-5-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4065029,-9.5456909]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412871",
+      "addr:housenumber": "76",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa do Rancho",
+      "addr:suburb": "Lagoa do Rancho",
+      "building": "yes",
+      "leisure": "pitch",
+      "name": "Quadra Esportiva",
+      "sport": "multi"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4078841,-9.5475951]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412870",
+      "addr:housenumber": "75",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa do Rancho",
+      "addr:suburb": "Lagoa do Rancho",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4085791,-9.5483658]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412810",
+      "addr:housenumber": "128",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa do Rancho",
+      "addr:suburb": "Lagoa do Rancho",
+      "addr:unit": "Casa",
+      "crop": "corn",
+      "description": "CNEFE 2022 Plantação de Milho",
+      "fixme": "Verificar coordenadas",
+      "landuse": "farmland",
+      "note": "Muito afastado da face: 71m 0500-0183P-1-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.407454746761,-9.5460239000032]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412880",
+      "addr:housenumber": "99",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa do Rancho",
+      "addr:suburb": "Lagoa do Rancho",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4059763,-9.5494986]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192030230",
+      "addr:housenumber": "53",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa do Rancho",
+      "addr:suburb": "Lagoa do Rancho",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0183P-5-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.406682909111,-9.5460375951224]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412863",
+      "addr:housenumber": "67",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa do Rancho",
+      "addr:suburb": "Lagoa do Rancho",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4092521,-9.5512144]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412816",
+      "addr:housenumber": "150",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa do Rancho",
+      "addr:suburb": "Lagoa do Rancho",
+      "addr:unit": "Casa",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4074911,-9.547198]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412806",
+      "addr:housenumber": "125",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa do Rancho",
+      "addr:suburb": "Lagoa do Rancho",
+      "addr:unit": "Casa",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4070396,-9.5465]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192030222",
+      "addr:housenumber": "51",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa do Rancho",
+      "addr:suburb": "Lagoa do Rancho",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0183P-5-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.406834,-9.5463236]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412890",
+      "addr:housenumber": "15",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa do Rancho",
+      "addr:suburb": "Lagoa do Rancho",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4058105,-9.5491022]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412833",
+      "addr:housenumber": "116",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa do Rancho",
+      "addr:suburb": "Lagoa do Rancho",
+      "crop": "corn",
+      "description": "CNEFE 2022 Plantação de Milho",
+      "landuse": "farmland"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4104176,-9.5476508]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412826;27412832",
+      "addr:housenumber": "146",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa do Rancho",
+      "addr:suburb": "Lagoa do Rancho",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4094062,-9.5479271]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412895",
+      "addr:housenumber": "14",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa do Rancho",
+      "addr:suburb": "Lagoa do Rancho",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 50m 0500-0183P-4-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.405433,-9.54896]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412896",
+      "addr:housenumber": "1",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa do Rancho",
+      "addr:suburb": "Lagoa do Rancho",
+      "addr:unit": "Fundos",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4059325,-9.5501194]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192030226",
+      "addr:housenumber": "52",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa do Rancho",
+      "addr:suburb": "Lagoa do Rancho",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0183P-5-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4067957,-9.5462526]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192030080",
+      "addr:housenumber": "98",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa do Rancho",
+      "addr:suburb": "Lagoa do Rancho",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 41m 0500-0183P-2-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.410459,-9.547972]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192030213",
+      "addr:housenumber": "38",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa do Rancho",
+      "addr:suburb": "Lagoa do Rancho",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Muito afastado da face: 96m 0500-0183P-5-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.406034,-9.547385]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412850",
+      "addr:housenumber": "94",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa do Rancho",
+      "addr:suburb": "Lagoa do Rancho",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4092321,-9.5505503]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192030197",
+      "addr:housenumber": "33",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa do Rancho",
+      "addr:suburb": "Lagoa do Rancho",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0183P-5-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4059464,-9.5483108]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412820",
+      "addr:housenumber": "140",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa do Rancho",
+      "addr:suburb": "Lagoa do Rancho",
+      "addr:unit": "Casa Verde",
+      "building": "yes",
+      "description": "CNEFE 2022 Sem Denominação"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4082518,-9.547726]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "192030184",
+      "addr:housenumber": "31",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa do Rancho",
+      "addr:suburb": "Lagoa do Rancho",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0183P-5-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4056796,-9.5483737]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191884064",
+      "addr:housenumber": "558",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada do Lado Serra da Arara",
+      "addr:suburb": "Lagoa do Rancho",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0111P-0-111"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.433843,-9.513761]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "191884064",
+      "addr:housenumber": "558",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada do Lado Serra da Arara",
+      "addr:suburb": "Lagoa do Rancho",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "name": "Fazenda Nova",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0111P-0-111",
+      "place": "farm"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4338477888,-9.513753622981]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412877",
+      "addr:housenumber": "34",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa do Rancho",
+      "addr:suburb": "Lagoa do Rancho",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4060068,-9.549738]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412897",
+      "addr:housenumber": "153",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa do Rancho",
+      "addr:suburb": "Lagoa do Rancho",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4053572,-9.5485428]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412834",
+      "addr:housenumber": "114",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa do Rancho",
+      "addr:suburb": "Lagoa do Rancho",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4106085,-9.5475893]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412906",
+      "addr:housenumber": "45",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa do Rancho",
+      "addr:suburb": "Lagoa do Rancho",
+      "addr:unit": "Casa",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0183P-5-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4072118,-9.5470245]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412868",
+      "addr:housenumber": "62",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa do Rancho",
+      "addr:suburb": "Lagoa do Rancho",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4094099,-9.5518119]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412902",
+      "addr:housenumber": "40",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa do Rancho",
+      "addr:suburb": "Lagoa do Rancho",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem dados para mover para dentro da quadra 0500-0183P-5-1"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4073084,-9.5476783]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412856",
+      "addr:housenumber": "93",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa do Rancho",
+      "addr:suburb": "Lagoa do Rancho",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4092234,-9.5505041]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412899",
+      "addr:housenumber": "152",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa do Rancho",
+      "addr:suburb": "Lagoa do Rancho",
+      "building": "construction"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4052918,-9.548558]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412858",
+      "addr:housenumber": "88",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa do Rancho",
+      "addr:suburb": "Lagoa do Rancho",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4095558,-9.5517253]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412879",
+      "addr:housenumber": "82",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa do Rancho",
+      "addr:suburb": "Lagoa do Rancho",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4059868,-9.5495867]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27412833;27412837",
+      "addr:housenumber": "116",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado Lagoa do Rancho",
+      "addr:suburb": "Lagoa do Rancho",
+      "building": "yes"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.4104678,-9.5476346]
+      }
+    }
+  ]
+}

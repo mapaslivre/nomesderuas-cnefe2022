@@ -1,0 +1,248 @@
+{
+  "type": "FeatureCollection",
+  "source": "IBGE CNEFE + Faces de Logradouros - 2022",
+  "generator": "CSV-CNEFE2GeoJSON.lua 1.5.7 - fidelis.assis@gmail.com",
+  "date": "2025-02-02T09:05:34-0300",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413977",
+      "addr:housenumber": "5",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado São Domingos",
+      "addr:suburb": "São Domingos",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0117P-0-70"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.299135,-9.573525]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413995",
+      "addr:housenumber": "12",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado São Domingos",
+      "addr:suburb": "São Domingos",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0117P-0-70"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.297717,-9.57812]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413939",
+      "addr:housenumber": "4",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada São Domingos",
+      "addr:suburb": "São Domingos",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0117P-0-66"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.30285,-9.572398]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413994;27413997",
+      "addr:housenumber": "14",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado São Domingos",
+      "addr:suburb": "São Domingos",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0117P-0-70"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.299551,-9.5773575]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413989",
+      "addr:housenumber": "8",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado São Domingos",
+      "addr:suburb": "São Domingos",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0117P-0-70"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.300368,-9.57704]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27414001",
+      "addr:housenumber": "7",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada Riacho e São Domingos",
+      "addr:suburb": "São Domingos",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0117P-0-69"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.299978,-9.57213]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413983",
+      "addr:housenumber": "19",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado São Domingos",
+      "addr:suburb": "São Domingos",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0117P-0-70"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.299652,-9.574563]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413988",
+      "addr:housenumber": "16",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado São Domingos",
+      "addr:suburb": "São Domingos",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0117P-0-70"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.300688,-9.575982]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413990",
+      "addr:housenumber": "10",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado São Domingos",
+      "addr:suburb": "São Domingos",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0117P-0-70"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.299898,-9.577268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413992",
+      "addr:housenumber": "15",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado São Domingos",
+      "addr:suburb": "São Domingos",
+      "amenity": "animal_breeding",
+      "building": "yes",
+      "description": "CNEFE 2022 Criação de Animais",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0117P-0-70"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.299442,-9.577293]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413992",
+      "addr:housenumber": "15",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado São Domingos",
+      "addr:suburb": "São Domingos",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0117P-0-70"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.29944195581,-9.5772931616562]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413932",
+      "addr:housenumber": "1",
+      "addr:postcode": "48619-899",
+      "addr:street": "Fazenda Jatobá",
+      "addr:suburb": "São Domingos",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0117P-0-68"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.303795,-9.549377]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413943",
+      "addr:housenumber": "8",
+      "addr:postcode": "48619-899",
+      "addr:street": "Estrada São Domingos",
+      "addr:suburb": "São Domingos",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0117P-0-66"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.304535,-9.573225]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "IBGE:COD_UNICO_ENDERECO": "27413981",
+      "addr:housenumber": "29",
+      "addr:postcode": "48619-899",
+      "addr:street": "Povoado São Domingos",
+      "addr:suburb": "São Domingos",
+      "building": "yes",
+      "fixme": "Verificar coordenadas",
+      "note": "Sem setor ou quadra no bayface do IBGE 0500-0117P-0-70"
+      },
+      "geometry": {
+         "type": "Point",
+         "coordinates": [-38.298862,-9.57418]
+      }
+    }
+  ]
+}
