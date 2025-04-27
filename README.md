@@ -1,19 +1,10 @@
-# JOSM Video Tour
+# Repositorio dos Arquivos de Face de Nomes de Ruas do Brasil 
 
-Este repositório contém um conjunto de vídeos curtos e objetivos para auxiliar no aprendizado e domínio do JOSM (Java OpenStreetMap Editor). Os vídeos foram organizados em duas categorias principais:
+Este repositório contém um conjunto de dados do Censo-2022 disponibilizado pelo IBGE para uso no Openstreetmap com licença livre e permitida para o mapeamento.  curtos e objetivos para auxiliar no aprendizado e domínio do JOSM (Java OpenStreetMap Editor). 
 
-- **Atalhos de Teclado** (`videos/atalhos_teclado`): vídeos demonstrando o uso de atalhos importantes do teclado para acelerar tarefas no JOSM.
-- **Outras Dicas** (`videos/outras_dicas`): vídeos com truques e funcionalidades adicionais para melhorar a produtividade e o entendimento da ferramenta.
-
-Disponível online em https://santamariense.github.io/dicas_rapidas_josm/
+Site disponivel online em https://mapaslivre.github.io/nomesderuas-cnefe2022/
 
 ## Licença
 
-Os vídeos e o código deste projeto estão disponíveis sob a licença [Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.pt_BR), salvo indicação em contrário.
+os dados são compativeis com a licença do Openstreetmap e pode ser usados esses dados para o mapeamento de nomes de Ruas no OSM.
 
----
-
-# nomesderuas-cnefe2022
-# nomesderuas-cnefe2022
-# nomesderuas-cnefe2022
-# nomesderuas-cnefe2022
